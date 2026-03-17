@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147060
-description: 取消计划的定期批量营销活动运行 — Marketo文档 — 产品文档
+description: 了解如何取消计划的定期批处理营销活动运行。 停止定期计划，使其不再运行。
 title: 取消已计划的定期批处理营销活动运行
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 14%
+source-wordcount: '125'
+ht-degree: 13%
 
 ---
 

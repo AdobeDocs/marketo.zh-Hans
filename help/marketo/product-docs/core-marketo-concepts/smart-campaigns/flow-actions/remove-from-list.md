@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146954
-description: 从列表中删除 — Marketo文档 — 产品文档
+description: 了解如何使用流程步骤从列表中删除人员。 使用它可使列表与行为或状态保持同步。
 title: 从列表中移除
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 12%
+source-wordcount: '63'
+ht-degree: 9%
 
 ---
 

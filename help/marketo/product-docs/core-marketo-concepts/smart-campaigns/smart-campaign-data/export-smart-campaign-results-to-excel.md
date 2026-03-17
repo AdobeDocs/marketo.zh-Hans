@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147070
-description: 将Smart Campaign结果导出到 [!DNL Excel] - Marketo文档 — 产品文档
+description: 了解如何将Smart Campaign结果导出到Excel。 下载营销活动成员数据，以便进行报告或分析。
 title: 将智能营销活动结果导出到 [!DNL Excel]
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---

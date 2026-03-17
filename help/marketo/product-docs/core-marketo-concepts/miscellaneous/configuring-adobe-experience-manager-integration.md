@@ -1,15 +1,15 @@
 ---
 unique-page-id: 30081815
-description: 配置Adobe Experience Manager集成 — Marketo文档 — 产品文档
+description: 了解如何配置Adobe Experience Manager与Marketo的集成。 设置AEM，以便您可以访问资源并将其导入到Design Studio中。
 title: 配置 Adobe Experience Manager 集成
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 7%
+source-wordcount: '202'
+ht-degree: 10%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 7%
 
    ![](assets/2a.png)
 
-1. 在浏览器中，搜索“[!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy]”(在Windows上按ctrl+f，在Mac上按cmd+f)。
+1. 在浏览器中，搜索“[!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy]”（在Windows上按ctrl+f，在Mac上按cmd+f）。
 
    ![](assets/three.png)
 
@@ -59,7 +59,7 @@ ht-degree: 7%
 
    ![](assets/seven.png)
 
-1. 单击&#x200B;**[!UICONTROL OK]**&#x200B;确认。
+1. 单击 **[!UICONTROL OK]** 确认。
 
    ![](assets/eight.png)
 

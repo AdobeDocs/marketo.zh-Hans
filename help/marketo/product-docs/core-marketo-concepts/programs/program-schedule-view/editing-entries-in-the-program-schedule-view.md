@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147136
-description: 在“项目计划”视图中编辑条目 — Marketo文档 — 产品文档
+description: 了解如何在项目计划视图中编辑条目。 更改计划项目的日期、名称和详细信息。
 title: 在项目计划视图中编辑条目
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 10%
+source-wordcount: '151'
+ht-degree: 9%
 
 ---
 

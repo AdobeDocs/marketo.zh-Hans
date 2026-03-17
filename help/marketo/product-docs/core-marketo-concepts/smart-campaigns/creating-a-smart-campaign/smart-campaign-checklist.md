@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147051
-description: 智能营销活动核对清单 — Marketo文档 — 产品文档
+description: 获取有关Smart Campaign清单的帮助。 在激活之前，使用此列表验证您的营销活动是否设置正确。
 title: 智能营销活动检查表
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---

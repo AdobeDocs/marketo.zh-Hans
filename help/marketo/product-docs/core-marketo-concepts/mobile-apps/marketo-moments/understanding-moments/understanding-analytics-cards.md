@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781988
-description: 了解Analytics信息卡 — Marketo文档 — 产品文档
+description: 了解Marketo时间中的Analytics卡片。 在移动设备应用程序中查看关键量度和性能见解。
 title: 了解分析卡片
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 3%
+source-wordcount: '270'
+ht-degree: 2%
 
 ---
 

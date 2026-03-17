@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504058
-description: 克隆演示文稿 — Marketo文档 — 产品文档
+description: 了解如何克隆营销日历演示文稿以供重复使用。 创建要在不同位置使用的精确副本。
 title: 克隆演示
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 11%
+source-wordcount: '63'
+ht-degree: 9%
 
 ---
 

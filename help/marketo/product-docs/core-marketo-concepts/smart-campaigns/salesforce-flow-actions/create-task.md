@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147017
-description: 创建任务 — Marketo文档 — 产品文档
+description: 了解如何在流程步骤中创建Salesforce任务。 在人员进入流程时为潜在客户责任人创建任务。
 title: 创建任务
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '126'
 ht-degree: 3%
 
 ---

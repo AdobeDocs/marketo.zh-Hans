@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953173
-description: 在智能列表中使用列表的成员 — Marketo文档 — 产品文档
+description: 了解如何在智能列表筛选器中使用列表的成员。 包含或排除其他列表中的人员。
 title: 在智能列表中使用列表成员
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 12%
 
 ---
 

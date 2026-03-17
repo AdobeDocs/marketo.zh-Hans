@@ -1,11 +1,11 @@
 ---
-description: CT-YYYY-MM-Content，位于Marketo登录页面 — Marketo文档 — 产品文档
+description: Marketo登录页项目模板上的内容。 将其用于Marketo登陆页面上托管的内容。
 title: CT-YYYY-MM-Marketo 登陆页面内容
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '481'
 ht-degree: 9%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 此示例设计为一个内容程序，它利用Marketo Engage登录页面和Marketo Engage表单，以及Marketo Engage默认程序。 表单用于访问内容/选件。 选件的链接可显示在感谢页面上、以感谢电子邮件发送或同时显示两者。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -94,7 +94,7 @@ ht-degree: 9%
    <td>文件夹</td>
    <td> </td>
    <td>Assets — 包含所有创意资产
-<br/>(电子邮件、登陆页面和Forms的子文件夹)  </td>
+<br/>（电子邮件、登陆页面和Forms的子文件夹）  </td>
   </tr>
   <tr>
    <td>文件夹</td>

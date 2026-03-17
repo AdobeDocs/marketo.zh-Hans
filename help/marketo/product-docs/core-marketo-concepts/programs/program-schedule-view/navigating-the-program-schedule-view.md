@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147100
-description: 导航项目计划视图 — Marketo文档 — 产品文档
+description: 了解如何在“项目计划视图”中导航。 浏览时间并查看项目群中的计划条目。
 title: 浏览项目计划视图
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '186'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ## 查找计划视图 {#find-the-schedule-view}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

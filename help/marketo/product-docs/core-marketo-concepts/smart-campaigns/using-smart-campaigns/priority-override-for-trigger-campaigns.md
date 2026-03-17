@@ -1,11 +1,11 @@
 ---
-description: 触发器活动的优先级覆盖 — Marketo文档 — 产品文档
+description: 了解触发器活动的优先级覆盖。 控制当同一人员有多个触发器触发时运行的营销活动。
 title: 触发型活动的优先级覆盖
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---

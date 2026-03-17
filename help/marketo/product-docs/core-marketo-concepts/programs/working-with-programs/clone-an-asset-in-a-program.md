@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147152
-description: 在程序中克隆资产 — Marketo文档 — 产品文档
-title: 克隆项目中的资产
+description: 了解如何在程序中克隆资源。 创建电子邮件、登陆页面或其他本地资产的副本。
+title: 克隆项目中的资源
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '124'
 ht-degree: 13%
 
 ---
 
-# 克隆项目中的资产 {#clone-an-asset-in-a-program}
+# 克隆项目中的资源 {#clone-an-asset-in-a-program}
 
 正在克隆程序&#x200B;_所有_。 有时，您只想克隆一个资产。 操作方法如下：
 
@@ -21,7 +21,7 @@ ht-degree: 13%
 
 ## 克隆本地资产 {#clone-a-local-asset}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951703
-description: 请求营销活动 — Marketo文档 — 产品文档
+description: 了解如何使用请求营销活动流程步骤。 有人完成此步骤时，触发另一个要运行的营销活动。
 title: 请求营销活动
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '114'
 ht-degree: 4%
 
 ---

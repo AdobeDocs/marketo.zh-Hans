@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557275
-description: 使用内置/系统智能列表 — Marketo文档 — 产品文档
+description: 了解如何使用内置和系统智能列表。 使用预建列表，如营销活动中的“所有人员”或“所有已取消订阅”。
 title: 使用内置/系统智能列表
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 7%
 
 ---

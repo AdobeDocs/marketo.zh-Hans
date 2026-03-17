@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147025
-description: 在Smart Campaign中使用Webhook - Marketo文档 — 产品文档
+description: 了解如何在Smart Campaign中使用webhook。 调用外部URL并从流程步骤传递人员数据。
 title: 在智能营销活动中使用 Webhook
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 15%
+source-wordcount: '113'
+ht-degree: 14%
 
 ---
 
 # 在智能营销活动中使用 Webhook {#use-a-webhook-in-a-smart-campaign}
 
-要使用[webhook](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}，请将其作为流量操作添加到[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}。
+要使用[webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}，请将其作为流量操作添加到[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}。
 
 >[!AVAILABILITY]
 >

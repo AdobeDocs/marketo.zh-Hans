@@ -1,16 +1,16 @@
 ---
-description: 本地资产过期 — Marketo文档 — 产品文档
-title: 本地资产过期
+description: 了解项目中的本地资产过期情况。 设置项目中的本地资产何时过期并被删除。
+title: 本地资源过期
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 4%
+source-wordcount: '250'
+ht-degree: 6%
 
 ---
 
-# 本地资产过期 {#local-asset-expiration}
+# 本地资源过期 {#local-asset-expiration}
 
 设置过期日期/时间以取消发布登陆页面、取消激活触发器活动或停止循环的批量活动。
 
@@ -48,7 +48,7 @@ ht-degree: 4%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 设置时间。 您必须计划一个至少为将来15分钟的时间（不要忘记输入上午/下午）。 完成后单击&#x200B;**[!UICONTROL Confirm]**。
+1. 设置时间。 您必须计划一个至少为将来15分钟的时间（不要忘记输入上午/下午）。 完成后，单击 **[!UICONTROL Confirm]**。
 
    ![](assets/local-asset-expiration-7.png)
 

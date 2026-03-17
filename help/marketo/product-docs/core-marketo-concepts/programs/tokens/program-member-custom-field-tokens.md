@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147114
-description: 项目群成员自定义字段令牌 — Marketo文档 — 产品文档
+description: 了解项目群成员自定义字段令牌。 使用令牌将成员数据插入电子邮件和登陆页面。
 title: 项目成员自定义字段令牌
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '422'
 ht-degree: 5%
 
 ---

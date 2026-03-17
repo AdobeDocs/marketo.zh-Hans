@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147235
-description: 按标记过滤项目报表 — Marketo文档 — 产品文档
+description: 了解如何按标记筛选项目报告。 查看具有特定标记的程序的性能。
 title: 按标签筛选项目报告
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 16%
+source-wordcount: '86'
+ht-degree: 15%
 
 ---
 

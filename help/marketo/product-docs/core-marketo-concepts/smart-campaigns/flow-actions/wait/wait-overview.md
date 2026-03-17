@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146950
-description: 等待 — Marketo文档 — 产品文档
+description: 了解智能营销活动中的等待流步骤。 在继续之前，请暂停流量一段时间或直到特定日期。
 title: 等待
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 15%
+source-wordcount: '205'
+ht-degree: 14%
 
 ---
 
-# 等待概览 {#wait-overview}
+# 等待概述 {#wait-overview}
 
 使用方便的&#x200B;**等待步骤**&#x200B;在Smart Campaign流中暂停人员。
 

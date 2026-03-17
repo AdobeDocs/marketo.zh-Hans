@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147249
-description: 使用全局叠加 — Marketo文档 — 产品文档
+description: 了解如何在项目计划视图中使用全局叠加。 跨程序应用叠加以实现一致的查看。
 title: 使用全局覆盖层
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '157'
 ht-degree: 5%
 
 ---

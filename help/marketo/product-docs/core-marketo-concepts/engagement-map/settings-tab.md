@@ -1,10 +1,10 @@
 ---
-description: 设置选项卡 — Marketo文档 — 产品文档
+description: 了解Smart Campaign资格规则、运行和循环的设置选项卡。 设置人员通过您的营销活动流程的频率。
 title: 设置选项卡
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---

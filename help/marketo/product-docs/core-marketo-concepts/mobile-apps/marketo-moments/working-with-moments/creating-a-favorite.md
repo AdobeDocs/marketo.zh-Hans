@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783555
-description: 创建收藏夹 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Moments中创建收藏夹。 在移动应用程序中固定重要项目以进行快速访问。
 title: 创建收藏夹
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 8%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 

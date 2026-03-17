@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472404
-description: 找到人员的活动日志 — Marketo文档 — 产品文档
+description: 了解如何查找人员的活动日志。 查看潜在客户的电子邮件、Web和其他活动历史记录。
 title: 定位人员的活动日志
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 15%
+source-wordcount: '131'
+ht-degree: 14%
 
 ---
 

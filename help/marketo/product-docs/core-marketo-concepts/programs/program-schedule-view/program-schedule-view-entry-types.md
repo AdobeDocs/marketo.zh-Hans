@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147243
-description: 项目计划查看条目类型 — Marketo文档 — 产品文档
+description: 了解项目计划视图条目类型。 了解电子邮件程序、智能营销活动和其他条目类型。
 title: 项目计划视图条目类型
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '159'
 ht-degree: 10%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 10%
  </thead>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1">基本条目<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td>
+   <td colspan="1" rowspan="1">基本条目<span> <img alt="--" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td>
    <td colspan="1" rowspan="1">默认条目类型。 用作占位符或注释。 </td>
   </tr>
   <tr>

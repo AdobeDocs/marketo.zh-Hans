@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147129
-description: 创建项目性能报表 — Marketo文档 — 产品文档
-title: 创建项目绩效报告
+description: 了解如何创建计划绩效报表。 生成报告以查看项目投资回报率、成功和成员指标。
+title: 创建项目性能报告
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 14%
 
 ---
 
-# 创建项目绩效报告 {#create-a-program-performance-report}
+# 创建项目性能报告 {#create-a-program-performance-report}
 
 通过此报表查看有关您的程序的良好统计信息。
 
 1. [在程序中创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"}并选择&#x200B;**[!UICONTROL Program Performance]** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}。
-1. 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
-1. 你在那儿！ 浏览您的报表，查看您程序的运行情况。
+1. 单击 **[!UICONTROL Report]** 选项卡。
+1. 完成了！浏览您的报表，查看您程序的运行情况。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 

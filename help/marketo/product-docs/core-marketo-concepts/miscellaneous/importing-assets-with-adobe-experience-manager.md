@@ -1,16 +1,16 @@
 ---
 unique-page-id: 37355768
-description: 使用Adobe Experience Manager导入Assets - Marketo文档 — 产品文档
-title: 使用 Adobe Experience Manager 导入资产
+description: 了解如何将AEM资源导入Marketo Design Studio。 使用资源选择器可从Adobe Experience Manager访问和导入资源。
+title: 使用 Adobe Experience Manager 导入资源
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 5%
+source-wordcount: '237'
+ht-degree: 6%
 
 ---
 
-# 使用 Adobe Experience Manager 导入资产 {#importing-assets-with-adobe-experience-manager}
+# 使用 Adobe Experience Manager 导入资源 {#importing-assets-with-adobe-experience-manager}
 
 资产选择器允许Marketo客户访问、选择AEM资产，并将其导入Marketo的Design Studio。 **需要管理员权限**。
 
@@ -42,7 +42,7 @@ ht-degree: 5%
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. 选择您的文件夹。 然后，通过单击缩略图选择所需的图像（最多可选择10张）。 完成后单击&#x200B;**[!UICONTROL Select]**。
+1. 选择您的文件夹。 然后，通过单击缩略图选择所需的图像（最多可选择10张）。 完成后，单击 **[!UICONTROL Select]**。
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 

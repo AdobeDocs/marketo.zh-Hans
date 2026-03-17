@@ -1,11 +1,11 @@
 ---
-description: CT-YYYY-MM-Content非Marketo登录页面 — Marketo文档 — 产品文档
+description: 内容非Marketo登陆页面项目模板。 将其用于外部登陆页面上的内容。
 title: CT-YYYY-MM-非 Marketo 登陆页面内容
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '401'
 ht-degree: 9%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 这是一个带有Marketo Engage表单的内容程序示例，该表单用于在非Marketo Engage登陆页面上使用Marketo Engage默认程序下载内容。 此程序适用于嵌入到您网站上的Marketo Engage表单。 优惠/内容的链接可以通过感谢电子邮件发送。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

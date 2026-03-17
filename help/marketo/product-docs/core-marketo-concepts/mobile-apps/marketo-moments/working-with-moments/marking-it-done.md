@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783557
-description: 完成标记 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Moments应用程序中标记完成时刻。 完成后，从列表中清除项目。
 title: 标记为已完成
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 5%
 
 ---
 

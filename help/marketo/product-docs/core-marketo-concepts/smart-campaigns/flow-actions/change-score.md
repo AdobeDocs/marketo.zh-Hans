@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146962
-description: 更改分数 — Marketo文档 — 产品文档
+description: 了解如何在流程步骤中更改商机得分。 在营销活动中的人员得分中添加或减去点数。
 title: 更改评分
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 

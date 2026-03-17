@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953348
-description: 直接在营销日历中创建条目 — Marketo文档 — 产品文档
+description: 了解如何使用程序焦点直接在营销日历中创建条目。 添加基本条目、电子邮件项目或智能营销活动。
 title: 在营销日程表中直接创建条目
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 15%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 

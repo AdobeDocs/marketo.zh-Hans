@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147053
-description: 中止智能营销活动 — Marketo文档 — 产品文档
+description: 了解如何中止智能营销活动。 停止正在运行的批处理营销活动，并防止更多人进入。
 title: 中止智能营销活动
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 6%
+source-wordcount: '147'
+ht-degree: 8%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 6%
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Abort]**&#x200B;确认。
+1. 单击 **[!UICONTROL Abort]** 确认。
 
    ![](assets/abort-a-smart-campaign-3.png)
 

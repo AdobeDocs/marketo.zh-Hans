@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147102
-description: 在“项目计划”视图中创建条目 — Marketo文档 — 产品文档
+description: 了解如何在项目计划视图中创建条目。 将电子邮件程序、智能营销活动或基本条目添加到计划。
 title: 在项目计划视图中创建条目
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '177'
 ht-degree: 10%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 ## 创建基本条目 {#create-a-basic-entry}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146989
-description: 营销活动操作 — 克隆智能营销活动 — Marketo文档 — 产品文档
+description: 了解如何克隆智能营销活动。 创建营销策划的副本，以使用新名称重用其结构。
 title: 活动操作 — 克隆智能活动
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

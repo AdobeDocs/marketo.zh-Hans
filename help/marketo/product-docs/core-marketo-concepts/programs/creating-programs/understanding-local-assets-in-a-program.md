@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147093
-description: 了解项目中的本地Assets - Marketo文档 — 产品文档
-title: 了解项目中的本地资产
+description: 了解项目中的本地资源。 了解电子邮件、登陆页面和其他资产如何在项目中生存。
+title: 了解项目中的本地资源
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 17%
+source-wordcount: '104'
+ht-degree: 16%
 
 ---
 
-# 了解项目中的本地资产 {#understanding-local-assets-in-a-program}
+# 了解项目中的本地资源 {#understanding-local-assets-in-a-program}
 
 本地资产是组成项目的内容。 Assets是可自定义的，使您能够构建自动营销计划。 下面查看了在程序中可以创建的大多数本地资源：
 

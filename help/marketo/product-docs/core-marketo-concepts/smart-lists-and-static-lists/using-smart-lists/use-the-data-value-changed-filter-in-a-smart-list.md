@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557324
-description: 在智能列表中使用数据值更改过滤器 — Marketo文档 — 产品文档
+description: 了解如何在智能列表中使用数据值更改过滤器。 在字段值发生更改时查找人员。
 title: 在智能列表中使用数据值更改过滤器
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 18%
+source-wordcount: '145'
+ht-degree: 17%
 
 ---
 

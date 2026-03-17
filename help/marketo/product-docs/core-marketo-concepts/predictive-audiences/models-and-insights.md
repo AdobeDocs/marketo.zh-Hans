@@ -1,12 +1,12 @@
 ---
-description: 模型和见解 — Marketo文档 — 产品文档
+description: 了解预测受众模型和影响因素。 使用AI见解调整定位并提高营销活动性能。
 title: 模型与洞察
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 2%
+source-wordcount: '223'
+ht-degree: 3%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: 操作可投放性管理 — Marketo文档 — 产品文档
+description: 可投放性管理操作程序模板。 使用它来维护电子邮件可投放性。
 title: OP-供应能力管理
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '253'
 ht-degree: 10%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 10%
 >
 >需要自定义字符串字段“营销暂停原因”才能导入。 [了解详情](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -93,7 +93,7 @@ ht-degree: 10%
   <tr>
    <td>文件夹</td>
    <td> </td>
-   <td>审查</td>
+   <td>审阅</td>
   </tr>
  </tbody>
 </table>

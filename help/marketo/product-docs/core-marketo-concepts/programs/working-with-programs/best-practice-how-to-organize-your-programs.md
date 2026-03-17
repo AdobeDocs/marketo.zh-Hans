@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6848705
-description: 最佳实践 — 如何整理程序 — Marketo文档 — 产品文档
+description: 获取有关组织项目的最佳实践的帮助。 构建营销活动文件夹和程序，以清楚明了、规模可观。
 title: 最佳实践 — 如何组织程序
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '854'
 ht-degree: 3%
 
 ---
 
-# 最佳实践：如何组织您的项目 {#best-practice-how-to-organize-your-programs}
+# 最佳做法：如何组织您的项目 {#best-practice-how-to-organize-your-programs}
 
 可通过多种方式在营销活动中组织树以及单个项目的内容。 但是，某些方法更好，并且将有助于营销部门的人员。
 
@@ -95,7 +95,7 @@ ht-degree: 3%
 
 ![](assets/capture.png)
 
-## 互动项目 {#engagement-programs}
+## 参与项目 {#engagement-programs}
 
 了解[所有参与计划](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}。 组织参与计划的最佳方法是使用文件夹。 为每个流创建一个文件夹，然后将电子邮件或程序放入该文件夹。 当内容过期并且您想要删除它时，请在每个流中包含一个存档文件夹。
 
@@ -121,4 +121,4 @@ Marketo中最酷的功能之一是克隆程序。 这意味着您可以设置项
 
 ## 摘要 {#summary}
 
-如你所见，Marketo权力很大。 我们在此介绍了基础知识，但请考虑由[Marketo Engage专家](https://business.adobe.com/cn/products/marketo/services-support.html){target="_blank"}提供的其他服务以进行微调并为获得成功做好准备。
+如你所见，Marketo权力很大。 我们在此介绍了基础知识，但请考虑由[Marketo Engage专家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}提供的其他服务以进行微调并为获得成功做好准备。

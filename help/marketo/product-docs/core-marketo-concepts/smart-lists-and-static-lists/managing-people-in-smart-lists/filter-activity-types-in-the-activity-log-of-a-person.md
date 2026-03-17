@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952402
-description: 在人员的活动日志中过滤活动类型 — Marketo文档 — 产品文档
+description: 了解如何在人员的活动日志中筛选活动类型。 查看历史记录时专注于特定活动。
 title: 在人员活动日志中过滤活动类型
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 21%
+source-wordcount: '118'
+ht-degree: 23%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 21%
 >
 >了解有关[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}的详细信息。
 
-1. 转到“人员详细信息”页面。 单击&#x200B;**[!UICONTROL Activity Log]**&#x200B;选项卡。
+1. 转到“人员详细信息”页面。 单击 **[!UICONTROL Activity Log]** 选项卡。
 
    ![](assets/one.png)
 
@@ -53,6 +53,6 @@ ht-degree: 21%
 
    ![](assets/seven-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Saved Filters]**。 下面列出了已保存的过滤器。
+1. 单击 **[!UICONTROL Saved Filters]**。 下面列出了已保存的过滤器。
 
    ![](assets/eight.png)

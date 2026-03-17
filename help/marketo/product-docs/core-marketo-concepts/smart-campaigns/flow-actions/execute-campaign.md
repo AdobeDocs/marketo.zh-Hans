@@ -1,12 +1,12 @@
 ---
-description: 执行Campaign - Marketo文档 — 产品文档
+description: 了解如何使用执行活动流程步骤。 当有人完成此步骤时，运行另一个Smart Campaign。
 title: 执行营销活动
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 0%
+source-wordcount: '704'
+ht-degree: 1%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **API交互**
 
-在API[中使用计划或请求营销活动](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)时，两者都允许您传递“我的令牌”的值，这会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
+在API[中使用计划或请求营销活动](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)时，两者都允许您传递“我的令牌”的值，这会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
 
 ## 注意事项 {#things-to-note}
 

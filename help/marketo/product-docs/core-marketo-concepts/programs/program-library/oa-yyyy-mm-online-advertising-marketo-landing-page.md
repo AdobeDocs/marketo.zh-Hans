@@ -1,12 +1,12 @@
 ---
-description: OA-YYYY-MM-Online Advertising Marketo登录页面 — Marketo文档 — 产品文档
+description: 在线Advertising Marketo登录页项目模板。 将其用于Marketo页面的付费营销活动。
 title: OA-YYYY-MM-在线广告 Marketo 登陆页面
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 8%
+source-wordcount: '491'
+ht-degree: 9%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 这是一个在线广告跟踪程序的示例，跟踪程序包括具有注册表单的Marketo登录页面和使用Marketo默认程序。 选件的链接可显示在感谢页面上、以感谢电子邮件发送或同时显示两者。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

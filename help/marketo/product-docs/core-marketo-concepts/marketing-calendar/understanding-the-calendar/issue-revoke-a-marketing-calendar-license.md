@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147255
-description: 问题/撤销营销日历许可证 — Marketo文档 — 产品文档
+description: 了解如何为用户颁发或撤销Marketing Calendar许可证。 授予或移除日历访问权限。
 title: 发放/撤销营销日程表许可证
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 16%
+source-wordcount: '100'
+ht-degree: 18%
 
 ---
 

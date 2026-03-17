@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146970
-description: 安排批量智能营销活动以稍后运行 — Marketo文档 — 产品文档
+description: 了解如何安排批量运行Smart Campaign。 设置营销活动运行一次的日期和时间。
 title: 计划批处理智能营销活动延后运行
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 13%
+source-wordcount: '134'
+ht-degree: 12%
 
 ---
 

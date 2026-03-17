@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147027
-description: 将人员同步到SFDC - Marketo文档 — 产品文档
+description: 了解如何使用流程步骤将人员同步到Salesforce。 在潜在客户或联系人数据进入流程时，将其推送到SFDC。
 title: 将人员同步到 SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '141'
+ht-degree: 5%
 
 ---
 

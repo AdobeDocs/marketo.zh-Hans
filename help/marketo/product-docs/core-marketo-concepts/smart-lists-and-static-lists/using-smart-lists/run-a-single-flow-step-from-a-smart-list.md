@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557322
-description: 从智能列表运行单流程步骤 — Marketo文档 — 产品文档
+description: 了解如何从智能列表运行单个流步骤。 为列表中选定的人员执行一个流操作。
 title: 从智能列表运行单个流程步骤
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 9%
+source-wordcount: '228'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 >
 >[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 9%
    >
    >静态列表和智能列表均具有此功能。
 
-1. 单击&#x200B;**[!UICONTROL Select All]**。 您还可以使用&#x200B;**Ctrl/Cmd**&#x200B;并单击以手动选择一些记录。
+1. 单击 **[!UICONTROL Select All]**。 您还可以使用&#x200B;**Ctrl/Cmd**&#x200B;并单击以手动选择一些记录。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-3.png)
 

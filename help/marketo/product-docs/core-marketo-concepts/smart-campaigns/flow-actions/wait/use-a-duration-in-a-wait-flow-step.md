@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146978
-description: 在等待流步骤中使用持续时间 — Marketo文档 — 产品文档
+description: 了解如何在等待流步骤中使用持续时间。 在下次操作之前暂停流量一定的天数。
 title: 在等待流程步骤中使用时长
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '214'
 ht-degree: 9%
 
 ---

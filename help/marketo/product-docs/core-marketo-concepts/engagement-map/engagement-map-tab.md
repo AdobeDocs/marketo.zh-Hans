@@ -1,10 +1,10 @@
 ---
-description: 参与度映射选项卡 — Marketo文档 — 产品文档
+description: 了解“参与度图”选项卡及其触发器、过滤器和流量卡。 单击卡片可查看详细信息并编辑营销活动元素。
 title: 互动地图选项卡
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '950'
 ht-degree: 0%
 
 ---

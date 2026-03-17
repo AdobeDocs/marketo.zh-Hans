@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099360
-description: 准备活动 — Marketo文档 — 产品文档
+description: 了解如何使用活动签入为活动做好准备。 在与会者到达之前，设置应用程序并同步您的活动程序。
 title: 为活动做准备
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '393'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,7 @@ Marketo具有事件签入应用程序的特殊用户角色。 [为](/help/market
 
    ![](assets/four.png)
 
-1. 从列表中选择活动的人员。 使用&#x200B;**[!UICONTROL Ctrl]**(或Mac上的&#x200B;**[!UICONTROL Command]**)单击多个用户，或使用&#x200B;**[!UICONTROL Select All]**&#x200B;标记所有用户。
+1. 从列表中选择活动的人员。 使用&#x200B;**[!UICONTROL Ctrl]**（或Mac上的&#x200B;**[!UICONTROL Command]**）单击多个用户，或使用&#x200B;**[!UICONTROL Select All]**&#x200B;标记所有用户。
 
    ![](assets/five.png)
 

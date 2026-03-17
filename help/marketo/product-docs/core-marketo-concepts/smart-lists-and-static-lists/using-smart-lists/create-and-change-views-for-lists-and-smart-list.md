@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557337
-description: 创建和更改列表和智能列表的视图 — Marketo文档 — 产品文档
+description: 了解如何创建和更改列表和智能列表的视图。 自定义“人员”选项卡中显示的列。
 title: 为列表或智能列表创建和更改视图
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '218'
 ht-degree: 9%
 
 ---

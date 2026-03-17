@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557154
-description: 创建智能列表 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中创建智能列表。 在数据库或程序中添加智能列表并定义筛选器。
 title: 创建智能列表
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '87'
 ht-degree: 12%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 智能列表允许您使用简单过滤器查找特定人员组。 以下是如何创建一个。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-a-smart-list-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: 将多个值添加到智能列表筛选器 — Marketo文档 — 产品文档
+description: 了解如何将多个值添加到智能列表筛选器。 在一个筛选器中匹配多个值中的任意值以提高灵活性。
 title: 为智能列表过滤器添加多个值
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 12%
+source-wordcount: '135'
+ht-degree: 13%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 假设您希望找到加利福尼亚的所有人，但您可能同时将“加利福尼亚”和“CA”存储在数据库中。 要包含所有适用的人员，您可以使用两个[!UICONTROL State]过滤器，但使用其中一个更容易。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 

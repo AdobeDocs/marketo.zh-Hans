@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147322
-description: 了解匿名活动和人员 — Marketo文档 — 产品文档
+description: 了解Marketo中的匿名活动和人员。 了解转化前如何跟踪匿名访客。
 title: 了解匿名活动与人员
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 3%
 
 ---
 
 # 了解匿名活动与人员 {#understanding-anonymous-activity-and-people}
 
-首次访问Marketo登陆页面(或网站上具有[Munchkin跟踪代码](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}的页面)时，Marketo会创建一个&#x200B;*匿名活动*&#x200B;并使用浏览器Cookie对其进行跟踪。 标识后，它就会成为人员，并且与其浏览器Cookie关联的历史记录将合并到中。
+首次访问Marketo登陆页面（或网站上具有[Munchkin跟踪代码](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}的页面）时，Marketo会创建一个&#x200B;*匿名活动*&#x200B;并使用浏览器Cookie对其进行跟踪。 标识后，它就会成为人员，并且与其浏览器Cookie关联的历史记录将合并到中。
 
 >[!IMPORTANT]
 >

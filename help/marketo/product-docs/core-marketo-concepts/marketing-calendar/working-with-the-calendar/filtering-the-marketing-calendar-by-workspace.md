@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147306
-description: 按Workspace筛选营销日历 — Marketo文档 — 产品文档
+description: 了解如何按工作区筛选营销日历。 从过滤器面板中仅查看特定工作区中构建的对象。
 title: 按工作区筛选营销日程表
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 17%
+source-wordcount: '78'
+ht-degree: 15%
 
 ---
 

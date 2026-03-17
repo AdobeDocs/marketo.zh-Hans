@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557333
-description: 重新排序流程步骤中的添加选择 — Marketo文档 — 产品文档
+description: 了解如何在流程步骤中重新排序添加选项选项。 更改营销活动中的选择分支的顺序。
 title: 重新排序流程步骤中的添加选项
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

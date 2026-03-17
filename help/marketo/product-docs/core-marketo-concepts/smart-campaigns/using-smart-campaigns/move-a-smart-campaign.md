@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094949
-description: 移动Smart Campaign - Marketo文档 — 产品文档
+description: 了解如何移动智能营销活动。 将营销活动重新定位到营销活动中的其他文件夹。
 title: 移动智能营销活动
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >由于规则不会更改，因此如果营销活动的智能列表或流程步骤引用原始项目，则必须手动更新该信息以反映其新项目，因为它将&#x200B;_不会_&#x200B;自动更新。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/move-a-smart-campaign-1.png)
 

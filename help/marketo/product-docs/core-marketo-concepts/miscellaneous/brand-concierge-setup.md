@@ -1,12 +1,12 @@
 ---
-description: 创建礼宾 — Marketo文档 — 产品文档
+description: 了解如何创建Brand Concierge和添加知识源。 使用产品目录或网站链接设置您的第一个礼宾。
 title: 创建礼宾
 hide: true
 hidefromtoc: true
 index: false
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1077'
+source-wordcount: '1092'
 ht-degree: 1%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 1%
    屏幕快照
 
 1. 在&#x200B;_定义门房技能_&#x200B;选项卡中，选择&#x200B;_产品咨询B2B_&#x200B;或&#x200B;_产品咨询B2C_。
-单击&#x200B;**开始**。
+单击**开始**。
 
    屏幕快照
 
@@ -248,7 +248,7 @@ ht-degree: 1%
 他们说的是积极的吗？
 
 10:00
-任何负面情绪当访客有任何类型的投诉时，你将能够理解这些甚至访客的语气，就像我说的，不是中性的，欣赏的，热情的，等等。
+任何负面情绪当访客有任何类型的投诉时，你将能够理解这些投诉，甚至访客的语气，就像我说的，不是中性的，欣赏的，热情的，等等。
 
 10:14
 现在，我已经告诉你关于礼宾的一切。

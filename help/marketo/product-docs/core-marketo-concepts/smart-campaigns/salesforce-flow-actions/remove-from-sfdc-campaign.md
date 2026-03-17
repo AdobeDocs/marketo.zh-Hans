@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147036
-description: 从SFDC Campaign中删除 — Marketo文档 — 产品文档
+description: 了解如何通过流程步骤从Salesforce营销活动中删除人员。 从流中的SFDC营销活动中删除成员。
 title: 从 SFDC 营销活动中移除
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '118'
+ht-degree: 8%
 
 ---
 

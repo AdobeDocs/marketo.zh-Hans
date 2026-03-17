@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146974
-description: 在Smart Campaign中编辑资格规则 — Marketo文档 — 产品文档
+description: 了解如何在Smart Campaign中编辑资格规则。 更改人们可以在营销活动中游走的次数。
 title: 编辑智能营销活动中的资格规则
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '214'
 ht-degree: 6%
 
 ---

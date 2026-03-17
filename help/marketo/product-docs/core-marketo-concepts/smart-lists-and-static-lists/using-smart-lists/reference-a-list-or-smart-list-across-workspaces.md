@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720377
-description: 跨工作区引用列表或智能列表 — Marketo文档 — 产品文档
+description: 了解如何跨工作区引用列表或智能列表。 在一个工作区中使用另一个工作区中的列表作为引用。
 title: 跨工作区引用列表或智能列表
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '176'
+ht-degree: 12%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 10%
    >
    >如果Assets嵌套在文件夹中，则只能在工作区之间共享。
 
-1. 命名您的文件夹并单击&#x200B;**[!UICONTROL Create]**。
+1. 为文件夹命名，然后点击 **[!UICONTROL Create]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953120
-description: 了解智能营销活动 — Marketo 文档 — 产品文档
+description: 了解Marketo中用于自动化的智能营销活动。 使用触发器和流程步骤来自动化潜在客户培养和操作。
 title: 了解智能活动
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '249'
-ht-degree: 100%
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+workflow-type: tm+mt
+source-wordcount: '261'
+ht-degree: 92%
 
 ---
 

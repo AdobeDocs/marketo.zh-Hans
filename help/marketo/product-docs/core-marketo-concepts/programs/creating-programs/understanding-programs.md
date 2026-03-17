@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147089
-description: 了解项目 — Marketo 文档 — 产品文档
+description: 了解Marketo中用于组织营销活动和资源的项目。 使用项目对电子邮件、登陆页面和智能营销活动进行分组。
 title: 了解项目
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '149'
-ht-degree: 100%
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+workflow-type: tm+mt
+source-wordcount: '163'
+ht-degree: 87%
 
 ---
 

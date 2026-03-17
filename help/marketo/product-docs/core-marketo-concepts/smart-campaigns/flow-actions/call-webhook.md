@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147023
-description: 调用Webhook - Marketo文档 — 产品文档
+description: 了解如何从Smart Campaign流程步骤调用webhook。 当有人进入流量时，将数据发送到外部系统。
 title: 调用 Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '91'
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ Webhook允许您与第三方服务进行交互。 通过在智能营销活动流
 
 >[!NOTE]
 >
->了解[Webhooks](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以为您做许多有趣的事情。
+>了解[Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以为您做许多有趣的事情。
 
 1. 从下拉列表中选择Webhook。
 

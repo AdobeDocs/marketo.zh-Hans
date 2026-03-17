@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147007
-description: 更改项目状态 — Marketo文档 — 产品文档
+description: 了解如何在流程步骤中更改项目状态。 当成员进入流程时，将成员状态设置为“成功”或其它状态。
 title: 更改项目状态
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '140'
 ht-degree: 4%
 
 ---

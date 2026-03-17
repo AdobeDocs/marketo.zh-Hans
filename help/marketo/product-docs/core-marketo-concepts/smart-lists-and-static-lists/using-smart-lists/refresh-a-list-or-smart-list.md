@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557318
-description: 刷新列表或智能列表 — Marketo文档 — 产品文档
+description: 了解如何刷新列表或智能列表。 更新列表中的人员以反映当前筛选器结果或成员资格。
 title: 刷新列表或智能列表
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 9%
+source-wordcount: '144'
+ht-degree: 8%
 
 ---
 

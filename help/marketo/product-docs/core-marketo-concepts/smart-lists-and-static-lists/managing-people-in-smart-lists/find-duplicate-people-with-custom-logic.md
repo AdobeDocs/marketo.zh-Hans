@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952636
-description: 使用自定义逻辑查找重复的人员 — Marketo文档 — 产品文档
+description: 了解如何使用自定义逻辑查找重复的人员。 构建智能列表以按您的条件识别重复项。
 title: 使用自定义逻辑查找重复人员
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 19%
+source-wordcount: '133'
+ht-degree: 18%
 
 ---
 

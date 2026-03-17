@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147118
-description: 在项目中使用期间成本 — Marketo文档 — 产品文档
+description: 了解如何在程序中使用期间成本。 为ROI报告添加成本并将其分配给计划期间。
 title: 在项目中使用周期成本
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 8%
+source-wordcount: '203'
+ht-degree: 9%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 8%
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
+1. 单击 **[!UICONTROL Delete]** 确认。
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 

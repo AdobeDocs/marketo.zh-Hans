@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11387513
-description: 创建静态列表 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中创建静态列表。 向数据库中添加列表并手动或导入人员。
 title: 创建静态列表
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '109'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 静态列表是数据库中已经存在的一组人员。 以下是如何创建一个。
 
-1. 转到&#x200B;**[!UICONTROL Database]**。
+1. 前往 **[!UICONTROL Database]**。
 
    ![](assets/db.png)
 

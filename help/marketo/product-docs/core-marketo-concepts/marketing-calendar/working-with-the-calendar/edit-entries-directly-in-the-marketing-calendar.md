@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953352
-description: 直接在营销日历中编辑条目 — Marketo文档 — 产品文档
+description: 了解如何直接在营销日历中编辑条目。 使用项目集中重新计划、重命名或更改条目详细信息。
 title: 在营销日程表中直接编辑条目
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 9%
 
 ---

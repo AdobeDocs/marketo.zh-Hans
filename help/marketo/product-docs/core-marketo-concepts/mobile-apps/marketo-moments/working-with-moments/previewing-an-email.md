@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783563
-description: 预览电子邮件 — Marketo文档 — 产品文档
+description: 了解如何在Marketo时间中预览电子邮件。 查看您的电子邮件在从移动应用程序发送前的外观。
 title: 预览电子邮件
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 6%
+source-wordcount: '138'
+ht-degree: 5%
 
 ---
 

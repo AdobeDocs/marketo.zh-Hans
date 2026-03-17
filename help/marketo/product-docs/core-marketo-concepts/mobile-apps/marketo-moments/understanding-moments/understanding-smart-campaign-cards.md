@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093348
-description: 了解智能营销活动信息卡 — Marketo文档 — 产品文档
+description: 了解Marketo时间中的Smart Campaign信息卡。 从移动设备应用程序中查看促销活动状态和运行流步骤。
 title: 了解智能营销活动信息卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '549'
-ht-degree: 2%
+source-wordcount: '560'
+ht-degree: 1%
 
 ---
 

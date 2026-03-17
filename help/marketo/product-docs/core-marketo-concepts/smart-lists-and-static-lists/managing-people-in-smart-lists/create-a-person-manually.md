@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147316
-description: 手动创建人员 — Marketo文档 — 产品文档
+description: 了解如何在数据库中手动创建人员。 使用电子邮件和字段值添加新潜在客户或联系人。
 title: 手动创建人员
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 13%
+source-wordcount: '72'
+ht-degree: 11%
 
 ---
 

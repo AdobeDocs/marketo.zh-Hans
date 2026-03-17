@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514027
-description: 将人员同步到Microsoft - Marketo文档 — 产品文档
+description: 了解如何使用流程步骤将人员同步到Microsoft Dynamics。 在潜在客户数据进入流程时，将其推送到Dynamics。
 title: 将人员同步到 Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 14%
+source-wordcount: '83'
+ht-degree: 12%
 
 ---
 

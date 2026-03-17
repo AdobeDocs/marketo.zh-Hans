@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557312
-description: 智能列表筛选器运算符术语表 — Marketo文档 — 产品文档
+description: 获取有关智能列表筛选器运算符的帮助。 了解用于构建过滤器的等于、包含和其他运算符。
 title: 智能列表过滤器运算符术语表
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '610'
 ht-degree: 15%
 
 ---
@@ -118,7 +118,7 @@ ht-degree: 15%
 
 >[!CAUTION]
 >
->当您使用日期字段过滤器(例如，出生日期、SFDC创建日期)创建智能列表并使用约束&#x200B;**[!UICONTROL before]**、**[!UICONTROL on or before]**&#x200B;或&#x200B;**[!UICONTROL in past before]**&#x200B;时，智能列表还将包含该日期字段中无值的用户。
+>当您使用日期字段过滤器（例如，出生日期、SFDC创建日期）创建智能列表并使用约束&#x200B;**[!UICONTROL before]**、**[!UICONTROL on or before]**&#x200B;或&#x200B;**[!UICONTROL in past before]**&#x200B;时，智能列表还将包含该日期字段中无值的用户。
 
 请使用下图了解日期运算符之间的差异。
 

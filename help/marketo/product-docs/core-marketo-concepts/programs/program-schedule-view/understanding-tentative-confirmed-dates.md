@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147140
-description: 了解暂定/确认日期 — Marketo文档 — 产品文档
+description: 在计划日程表视图中了解暂定日期和确认日期。 了解条目何时锁定以及何时运行。
 title: 了解暂定/已确认日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '218'
 ht-degree: 4%
 
 ---

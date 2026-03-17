@@ -1,11 +1,11 @@
 ---
-description: 操作评分人口统计 — Marketo文档 — 产品文档
+description: 评分人口统计操作项目模板。 将其用于基于人口统计的潜在客户评分。
 title: OP-评分-人口统计
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 25%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 25%
 
 这是一个高级（标记化）操作程序的示例，该程序利用Marketo Engage默认程序进行人口统计评分。 在项目的“我的令牌”选项卡下查看和编辑评分值。 需要名为“人口统计分数”的自定义分数字段。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

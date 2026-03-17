@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512524
-description: 智能列表最佳实践 — Marketo文档 — 产品文档
-title: 智能列表最佳实践
+description: 获取有关智能列表最佳实践的帮助。 使用这些提示构建更快、更准确的列表。
+title: 智能列表最佳做法
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---
 
-# 智能列表最佳实践 {#best-practices-for-smart-lists}
+# 智能列表最佳做法 {#best-practices-for-smart-lists}
 
 智能列表是营销领域功能最强大的查询工具。 他们以神奇的速度轻松找到您要找的人。
 

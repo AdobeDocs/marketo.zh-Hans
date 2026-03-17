@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949413
-description: 向智能列表过滤器添加限制 — Marketo文档 — 产品文档
+description: 了解如何向智能列表筛选器添加限制。 使用其他条件优化过滤器，以获得更精确的列表。
 title: 为智能列表过滤器添加约束条件
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 9%
+source-wordcount: '170'
+ht-degree: 10%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 9%
 >* [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [在智能列表中使用“数据值已更改”筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-1.png)
 

@@ -1,20 +1,20 @@
 ---
-description: EM-YYYY-MM-DD-Single Email Send - Marketo文档 — 产品文档
-title: EM-YYYY-MM-DD-单次邮件发送
+description: 单个电子邮件发送程序模板。 使用它可发送具有明确命名惯例的一次性电子邮件营销活动。
+title: EM-YYYY-MM-DD-单次电子邮件发送
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 9%
+source-wordcount: '290'
+ht-degree: 10%
 
 ---
 
-# EM-YYYY-MM-DD-单次邮件发送 {#em-yyyy-mm-dd-single-email-send}
+# EM-YYYY-MM-DD-单次电子邮件发送 {#em-yyyy-mm-dd-single-email-send}
 
 此示例利用Marketo Engage电子邮件程序发送一封电子邮件。 电子邮件可以包含或不包含A/B测试。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

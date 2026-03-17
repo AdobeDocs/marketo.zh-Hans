@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557130
-description: 了解智能列表 — Marketo文档 — 产品文档
+description: 了解用于在Marketo中查找拥有筛选器的人员组的智能列表。 在营销活动、项目和报表中创建并使用智能列表。
 title: 了解智能列表
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 2%
 
 ---

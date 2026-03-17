@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147029
-description: 在SFDC Campaign中更改状态 — Marketo文档 — 产品文档
+description: 了解如何在Salesforce营销活动中通过流程步骤更改状态。 更新链接的SFDC营销活动中的成员状态。
 title: 更改 SFDC 营销活动中的状态
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 11%
+source-wordcount: '102'
+ht-degree: 9%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147112
-description: 了解标记 — Marketo文档 — 产品文档
+description: 了解用于组织和筛选程序的标记。 使用标记可对程序进行分类并筛选报表。
 title: 了解标签
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 4%
 
 ---

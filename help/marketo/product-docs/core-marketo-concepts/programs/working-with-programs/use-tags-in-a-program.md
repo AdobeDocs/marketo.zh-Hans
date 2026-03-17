@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147150
-description: 在项目中使用标记 — Marketo文档 — 产品文档
+description: 了解如何在程序中使用标记。 添加标记以组织项目并在日历和报告中启用筛选。
 title: 在项目中使用标签
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 10%
+source-wordcount: '168'
+ht-degree: 16%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 10%
 
 ## 编辑标记 {#edit-a-tag}
 
-1. 转到&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。 右键单击标记。 选择 **[!UICONTROL Edit]**。
+1. 转到 **[!UICONTROL Setup]** 选项卡。 右键单击标记。 选择 **[!UICONTROL Edit]**。
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -61,11 +61,11 @@ ht-degree: 10%
 
 ## 删除标记  {#delete-a-tag}
 
-1. 转到&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。 右键单击标记并选择&#x200B;**[!UICONTROL Delete]**。
+1. 转到 **[!UICONTROL Setup]** 选项卡。 右键单击标记并选择&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
+1. 单击 **[!UICONTROL Delete]** 确认。
 
    ![](assets/use-tags-in-a-program-11.png)
 

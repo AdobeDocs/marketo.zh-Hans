@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146976
-description: 在等待流步骤中使用特定日期 — Marketo文档 — 产品文档
+description: 了解如何在等待流步骤中使用特定日期。 暂停流量，直到达到固定的日期和时间。
 title: 在等待流程步骤中使用特定日期
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 18%
+source-wordcount: '108'
+ht-degree: 16%
 
 ---
 

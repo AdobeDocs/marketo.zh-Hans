@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147142
-description: 在项目计划视图中创建批量Smart Campaign - Marketo文档 — 产品文档
+description: 了解如何从项目计划视图创建批量Smart Campaign。 添加和配置批量活动条目。
 title: 在项目计划视图中创建批处理智能营销活动
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 13%
+source-wordcount: '157'
+ht-degree: 12%
 
 ---
 

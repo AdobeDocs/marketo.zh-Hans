@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953362
-description: 直接在营销日历 — Marketo文档 — 产品文档中确认条目
+description: 了解如何在营销日历中确认暂时的智能营销活动和电子邮件项目条目。 运行验证并确认，以便执行营销活动。
 title: 在营销日程表中直接确认条目
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '94'
+ht-degree: 17%
 
 ---
 

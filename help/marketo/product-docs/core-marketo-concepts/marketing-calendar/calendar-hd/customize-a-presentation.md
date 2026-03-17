@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7503973
-description: 自定义演示文稿 — Marketo文档 — 产品文档
+description: 了解如何使用视图和目标自定义营销日历演示文稿。 设置轮换频率并显示对团队最重要的内容。
 title: 自定义演示
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---

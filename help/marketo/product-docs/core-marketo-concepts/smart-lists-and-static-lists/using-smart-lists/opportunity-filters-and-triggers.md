@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8159286
-description: Opportunity Filters and Triggers - Marketo文档 — 产品文档
+description: 了解Marketo中的机会过滤器和触发器。 对CRM机会数据进行分段和触发。
 title: 机会过滤器与触发器
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '480'
 ht-degree: 1%
 
 ---

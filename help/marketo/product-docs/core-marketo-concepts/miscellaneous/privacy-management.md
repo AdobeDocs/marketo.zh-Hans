@@ -1,10 +1,10 @@
 ---
-description: 隐私管理 — Marketo文档 — 产品文档
+description: 了解Marketo Engage中适用于GDPR、CCPA等的隐私管理工具。 处理访问和删除请求以遵守法规。
 title: 隐私管理
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage提供一套工具来帮助您遵守隐私法规。
 >
 >**— 或 —**
 >
->* Marketo Engage用户使用Adobe Identity Management System中已存在的其他Experience Cloud产品(例如RT-CDP、B2B和B2P版本、Audience Manager)。
+>* Marketo Engage用户使用Adobe Identity Management System中已存在的其他Experience Cloud产品（例如RT-CDP、B2B和B2P版本、Audience Manager）。
 
 ## 隐私管理法规 {#regulations-on-privacy-management}
 

@@ -1,12 +1,12 @@
 ---
-description: 项目群成员自定义字段同步 — Marketo文档 — 产品文档
+description: 了解与Salesforce同步的程序成员自定义字段。 使自定义成员数据与CRM保持同步。
 title: 项目成员自定义字段同步
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 9%
+source-wordcount: '340'
+ht-degree: 10%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 9%
 
 1. 对于其他字段映射，请清除搜索框并重复步骤3至5。
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/program-member-custom-field-sync-6.png)
 

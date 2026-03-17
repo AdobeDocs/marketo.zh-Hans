@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147126
-description: 使用项目主页选项卡 — Marketo文档 — 产品文档
+description: 了解如何使用项目主页选项卡。 在一个位置查看项目概述、性能和关键详细信息。
 title: 使用项目主页选项卡
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 8%
+source-wordcount: '153'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 ## 摘要视图 {#summary-view}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -71,4 +71,4 @@ ht-degree: 8%
 
    >[!MORELIKETHIS]
    >
-   >[了解计划成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[了解项目成员资格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

@@ -1,14 +1,14 @@
 ---
 unique-page-id: 1147040
-description: 将点数提供给反向链接 — Marketo文档 — 产品文档
+description: 了解如何在流程步骤中向反向链接提供点数。 将成功归因于反向链接人员或营销活动。
 title: 将推荐信用归于推荐人
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '141'
 ht-degree: 7%
 
 ---

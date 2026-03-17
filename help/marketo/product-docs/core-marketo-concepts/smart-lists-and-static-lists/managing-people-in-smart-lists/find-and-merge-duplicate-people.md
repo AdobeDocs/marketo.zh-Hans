@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557339
-description: 查找并合并重复人员 — Marketo文档 — 产品文档
+description: 了解如何查找和合并重复的人员。 将重复记录合并到一个中并清理数据库。
 title: 查找并合并重复人员
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '419'
 ht-degree: 3%
 
 ---

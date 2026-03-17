@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504128
-description: 创建智能列表目标 — Marketo文档 — 产品文档
+description: 了解如何在营销日历中创建智能列表目标。 使用每2小时在演示文稿中自动更新的目标跟踪进度。
 title: 创建智能列表目标
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 8%
+source-wordcount: '149'
+ht-degree: 10%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 8%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. 选择&#x200B;**[!UICONTROL Goals]**&#x200B;选项卡。
+1. 选择 **[!UICONTROL Goals]** 选项卡。
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 

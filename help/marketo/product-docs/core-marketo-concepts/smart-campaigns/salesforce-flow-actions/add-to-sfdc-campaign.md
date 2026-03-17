@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147034
-description: 添加到SFDC Campaign - Marketo文档 — 产品文档
+description: 了解如何使用流程步骤将人员添加到Salesforce营销活动。 将Marketo销售线索同步到SFDC促销活动。
 title: 添加到 SFDC 营销活动
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 5%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 

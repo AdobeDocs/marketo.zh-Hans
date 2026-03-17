@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146933
-description: 立即运行批量智能营销活动 | “计划”选项卡 — Marketo文档 — 产品文档
+description: 了解如何立即从“计划”选项卡运行批量Smart Campaign。 立即执行营销活动，而不是进行计划。
 title: 立即运行批处理智能营销活动 | 计划选项卡
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 16%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147001
-description: 使用标准智能列表规则逻辑 — Marketo文档 — 产品文档
+description: 了解如何在Smart Campaign中使用标准智能列表规则逻辑。 将过滤器与AND逻辑结合使用以进行鉴别。
 title: 使用标准智能列表规则逻辑
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 

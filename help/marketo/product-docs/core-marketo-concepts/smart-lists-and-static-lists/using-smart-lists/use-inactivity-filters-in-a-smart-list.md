@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511477
-description: 在智能列表中使用非活动筛选器 — Marketo文档 — 产品文档
+description: 了解如何在智能列表中使用非活动筛选器。 查找在规定时间段内未完成某项操作的人员。
 title: 在智能列表中使用不活跃过滤器
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 您是否知道可以在智能列表中查找那些&#x200B;_没有_&#x200B;执行任何操作的人员？ 查看这些非活动筛选器。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/use-inactivity-filters-in-a-smart-list-1.png)
 

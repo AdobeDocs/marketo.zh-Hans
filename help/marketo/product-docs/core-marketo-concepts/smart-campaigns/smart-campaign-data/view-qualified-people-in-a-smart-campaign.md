@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146966
-description: 在Smart Campaign中查看符合条件的人员 — Marketo文档 — 产品文档
+description: 了解如何在Smart Campaign中查看符合条件的用户。 查看哪些人符合智能列表或触发器条件。
 title: 查看智能营销活动中的符合条件人员
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '171'
 ht-degree: 8%
 
 ---

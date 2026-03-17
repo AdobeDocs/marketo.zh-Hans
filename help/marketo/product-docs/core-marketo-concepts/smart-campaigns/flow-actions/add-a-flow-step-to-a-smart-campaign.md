@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146944
-description: 向Smart Campaign添加流程步骤 — Marketo文档 — 产品文档
+description: 了解如何向Smart Campaign添加流程步骤。 插入操作，如发送电子邮件、更改数据值或添加到列表。
 title: 向智能营销活动添加流程步骤
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 流程步骤告知Marketo Engage您希望对符合条件的一组人员发生的情况。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 

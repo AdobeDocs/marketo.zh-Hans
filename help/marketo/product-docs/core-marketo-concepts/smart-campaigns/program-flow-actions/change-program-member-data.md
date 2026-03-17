@@ -1,12 +1,12 @@
 ---
-description: 更改项目成员数据 — Marketo文档 — 产品文档
+description: 了解如何在流程步骤中更改项目成员数据。 更新项目中人员的成员状态或自定义字段。
 title: 更改项目成员数据
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 5%
 
 ---
 

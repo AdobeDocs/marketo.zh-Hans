@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147247
-description: 隐藏和取消隐藏自定义条目类型 — Marketo文档 — 产品文档
+description: 了解如何在项目计划视图中隐藏和取消隐藏自定义条目类型。 控制显示的条目类型。
 title: 隐藏和取消隐藏自定义条目类型
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 11%
+source-wordcount: '112'
+ht-degree: 10%
 
 ---
 

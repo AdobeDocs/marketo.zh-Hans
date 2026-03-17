@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147239
-description: 将项目状态列添加到项目报告 — Marketo文档 — 产品文档
+description: 了解如何将项目群状态列添加到项目群报表。 在报表列中包括成员状态。
 title: 向项目报告添加项目状态列
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 13%
+source-wordcount: '133'
+ht-degree: 12%
 
 ---
 

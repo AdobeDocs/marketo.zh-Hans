@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557273
-description: 查找过滤器并将其添加到智能列表 — Marketo文档 — 产品文档
+description: 了解如何查找筛选器并将其添加到智能列表。 浏览筛选器树并添加筛选器以构建列表逻辑。
 title: 查找并向智能列表添加过滤器
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '139'
 ht-degree: 18%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 18%
 >
 >浏览右侧的树 — 过滤器功能非常强大，并且可能具有多种功能。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 

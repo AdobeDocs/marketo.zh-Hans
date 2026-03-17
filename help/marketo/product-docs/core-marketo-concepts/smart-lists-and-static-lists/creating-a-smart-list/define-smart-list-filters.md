@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557316
-description: 定义智能列表过滤器 — Marketo文档 — 产品文档
+description: 了解如何定义智能列表筛选器。 设置过滤器约束和值以确定列表中显示的对象。
 title: 定义智能列表过滤器
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '189'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
 
 继续我们的示例，让我们定义这些过滤器以查找得分超过50分的加利福尼亚州所有人员。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/define-smart-list-filters-1.png)
 
@@ -44,6 +44,6 @@ ht-degree: 5%
 
 >[!TIP]
 >
->如果您认为数据库中可能有一些记录包含不完整的电子邮件地址(例如，只有“@adobe.com”)，请在使用“包含”运算符时使用两个电子邮件地址过滤器。 一个带有“contains @adobe.com”的过滤器，和一个带有“contains adobe.com”的单独过滤器（省略@符号）。
+>如果您认为数据库中可能有一些记录包含不完整的电子邮件地址（例如，只有“@adobe.com”），请在使用“包含”运算符时使用两个电子邮件地址过滤器。 一个带有“contains @adobe.com”的过滤器，和一个带有“contains adobe.com”的单独过滤器（省略@符号）。
 
 现在，您已了解如何创建智能列表并添加/定义筛选器。

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781911
-description: 了解电子邮件程序信息卡 — Marketo文档 — 产品文档
+description: 了解Marketo时间中的电子邮件程序卡片。 查看电子邮件程序状态并从移动设备应用程序执行操作。
 title: 了解电子邮件项目卡片
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '353'
 ht-degree: 4%
 
 ---

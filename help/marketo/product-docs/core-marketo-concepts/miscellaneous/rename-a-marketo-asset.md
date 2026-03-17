@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2952484
-description: 重命名Marketo资产 — Marketo文档 — 产品文档
-title: 重命名 Marketo 资产
+description: 了解如何在Marketo Engage中重命名文件夹、程序和本地资源。
+title: 重命名 Marketo 资源
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 11%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 
-# 重命名 Marketo 资产 {#rename-a-marketo-asset}
+# 重命名 Marketo 资源 {#rename-a-marketo-asset}
 
 文件夹、程序和本地资源都可以轻松重命名。
 

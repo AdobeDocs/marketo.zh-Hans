@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557331
-description: 查找收入阶段的所有人员 — Marketo文档 — 产品文档
+description: 了解如何在收入阶段查找所有人员。 使用收入阶段过滤器构建列表或区段。
 title: 查找处于某收入阶段的所有人员
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '147'
+ht-degree: 9%
 
 ---
 

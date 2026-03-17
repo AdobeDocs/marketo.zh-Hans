@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147257
-description: 导航营销日历 — Marketo文档 — 产品文档
+description: 了解如何导航营销日历，包括3周和月份的模式。 切换视图并使用议程查看计划资产。
 title: 浏览营销日程表
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '182'
 ht-degree: 6%
 
 ---

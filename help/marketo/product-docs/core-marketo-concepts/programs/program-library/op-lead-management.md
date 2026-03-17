@@ -1,11 +1,11 @@
 ---
-description: 操作线索管理 — Marketo文档 — 产品文档
+description: 潜在客户管理运营计划模板。 使用它来管理潜在客户生命周期和评分。
 title: OP-潜在客户管理
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '272'
 ht-degree: 7%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 7%
 >
 >在Marketo Engage中，数据库中的记录称为人员/人员。 此示例中的商机管理是引用CRM中的记录。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html)页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)页面。
 
 ## 渠道摘要 {#channel-summary}
 

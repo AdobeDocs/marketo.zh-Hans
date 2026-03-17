@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7503971
-description: 创建演示文稿 — Marketo文档 — 产品文档
+description: 了解如何创建营销日历演示文稿，以便在HDTV上投影视图。 为您的团队设置特定于工作区的演示文稿。
 title: 创建演示
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 8%
+source-wordcount: '94'
+ht-degree: 7%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952292
-description: 了解通知 — Marketo文档 — 产品文档
+description: 了解有关Campaign失败和CRM同步的Marketo Engage通知。 订阅即可通过电子邮件接收警报，并随时了解最新信息。
 title: 了解通知
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 2%
+source-wordcount: '233'
+ht-degree: 3%
 
 ---
 
@@ -32,13 +32,13 @@ ht-degree: 2%
 
    ![](assets/understanding-notifications-3.png)
 
-1. 选择&#x200B;_通知类型_&#x200B;和&#x200B;_Workspace_。 输入要向其发送通知的电子邮件地址（您可以添加多个地址，以逗号分隔）。 完成后单击&#x200B;**[!UICONTROL Subscribe]**。
+1. 选择&#x200B;_通知类型_&#x200B;和&#x200B;_Workspace_。 输入要向其发送通知的电子邮件地址（您可以添加多个地址，以逗号分隔）。 完成后，单击 **[!UICONTROL Subscribe]**。
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->_[!UICONTROL Send to]_&#x200B;框仅供您输入电子邮件地址；它不会显示现有订阅者的列表。
+>_[!UICONTROL Send to]_框仅供您输入电子邮件地址；它不会显示现有订阅者的列表。
 
 在某些情况下，通知会提供“查看完整列表”链接以下载逗号分隔值(CSV)文件，例如Microsoft Dynamics同步错误文件。 Marketo Engage会将这些CSV文件保留30天。 如果您在30天后尝试下载文件，则会出现404错误。
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783561
-description: 发送示例 — Marketo文档 — 产品文档
+description: 了解如何从Marketo时刻发送示例电子邮件。 通过从应用程序向您自己发送示例来测试电子邮件。
 title: 发送样本
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '140'
+ht-degree: 5%
 
 ---
 

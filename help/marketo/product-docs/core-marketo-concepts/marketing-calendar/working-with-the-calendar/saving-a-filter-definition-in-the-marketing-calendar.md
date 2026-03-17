@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147296
-description: 在营销日历中保存过滤器定义 — Marketo文档 — 产品文档
+description: 了解如何在营销日历中保存过滤器定义。 保存筛选器以在不同筛选器定义之间快速切换。
 title: 在营销日程表中保存过滤器定义
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 20%
+source-wordcount: '92'
+ht-degree: 18%
 
 ---
 

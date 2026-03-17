@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147304
-description: 在营销日历中共享过滤器定义 — Marketo文档 — 产品文档
+description: 了解如何在营销日历中与其他用户共享过滤器定义。 复制筛选URL以与您的团队共享。
 title: 在营销日程表中共享过滤器定义
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 14%
+source-wordcount: '118'
+ht-degree: 13%
 
 ---
 

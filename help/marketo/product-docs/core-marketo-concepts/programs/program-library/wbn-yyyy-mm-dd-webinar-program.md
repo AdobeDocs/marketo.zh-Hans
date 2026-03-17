@@ -1,11 +1,11 @@
 ---
-description: WBN-YYYY-MM-DD — 网络研讨会计划 — Marketo文档 — 产品文档
+description: 网络研讨会计划模板。 将其用于具有标准命名约定的网络研讨会。
 title: WBN-YYYY-MM-DD-网络研讨会项目
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '597'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 这是一个网络研讨会计划示例，其中具有注册管理、三封邀请电子邮件、提醒参加以及利用Marketo Engage活动计划的后续电子邮件。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -160,7 +160,7 @@ ht-degree: 15%
    <td>文件夹</td>
    <td> </td>
    <td>Assets — 容纳所有创意资源
-<br/>(电子邮件、登陆页和Forms的子文件夹)</td>
+<br/>（电子邮件、登陆页和Forms的子文件夹）</td>
   </tr>
   <tr>
    <td>文件夹</td>

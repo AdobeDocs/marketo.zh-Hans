@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146942
-description: 为Smart Campaign定义智能列表 | 触发器 — Marketo文档 — 产品文档
+description: 了解如何为触发器Smart Campaign定义智能列表。 设置过滤器以授予人员触发器的资格。
 title: 为智能营销活动定义智能列表 | 触发器
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '260'
 ht-degree: 5%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 5%
    >
    >对于多个触发器，如果激活了&#x200B;_ANY_&#x200B;其中一个触发器，则人员会通过流程。
 
-若要同时对一组人员运行营销活动，请了解如何[为智能营销活动定义智能列表 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}。
+若要同时对一组人员运行该营销活动，请了解如何[为智能营销活动|批处理](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}定义智能列表。
 
 >[!MORELIKETHIS]
 >

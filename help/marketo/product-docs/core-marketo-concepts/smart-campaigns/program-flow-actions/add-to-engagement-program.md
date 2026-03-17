@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147011
-description: 添加到参与计划 — Marketo文档 — 产品文档
+description: 了解如何使用流程步骤将人员添加到参与计划。 在成员进入流时将其添加到流。
 title: 添加到参与项目
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 11%
+source-wordcount: '82'
+ht-degree: 9%
 
 ---
 

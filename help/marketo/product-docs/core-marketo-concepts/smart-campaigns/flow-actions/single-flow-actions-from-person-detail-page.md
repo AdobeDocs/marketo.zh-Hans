@@ -1,14 +1,14 @@
 ---
-description: 人员详细信息页面中的单流程操作 — Marketo文档 — 产品文档
+description: 了解如何从人员详细信息页面运行单个流程操作。 根据需要为人员执行一个流程步骤。
 title: 从人员详情页执行单个流程操作
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '127'
+ht-degree: 11%
 
 ---
 

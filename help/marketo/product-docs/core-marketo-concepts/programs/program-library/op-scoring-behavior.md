@@ -1,11 +1,11 @@
 ---
-description: 操作评分行为 — Marketo文档 — 产品文档
+description: 评分行为操作程序模板。 使用它来定义商机评分的工作方式。
 title: OP-评分-行为
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '355'
 ht-degree: 22%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 22%
 
 此示例是一个使用Marketo Engage默认程序的行为评分高级（标记化）操作程序。 在项目的“我的令牌”选项卡下查看和编辑评分值。 需要名为“行为得分”的自定义得分字段。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

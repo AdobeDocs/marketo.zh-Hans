@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147251
-description: 在项目计划视图中创建自定义叠加 — Marketo文档 — 产品文档
+description: 了解如何在项目计划视图中创建自定义叠加图。 添加叠加行以显示计划中的其他数据。
 title: 在项目计划视图中创建自定义覆盖层
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 21%
+source-wordcount: '79'
+ht-degree: 18%
 
 ---
 

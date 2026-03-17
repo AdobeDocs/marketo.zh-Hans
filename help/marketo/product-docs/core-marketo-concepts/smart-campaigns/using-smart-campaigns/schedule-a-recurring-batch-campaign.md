@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146972
-description: 计划循环批次活动 — Marketo文档 — 产品文档
+description: 了解如何计划循环的批处理活动。 将营销活动设置为按计划每日、每周或每月运行。
 title: 计划定期批处理营销活动
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 10%
 
 ---
 

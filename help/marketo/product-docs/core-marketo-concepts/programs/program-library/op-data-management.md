@@ -1,12 +1,12 @@
 ---
-description: 操作数据管理 — Marketo文档 — 产品文档
+description: 数据管理操作程序模板。 使用它可保持数据库干净和更新。
 title: OP-数据管理
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 15%
+source-wordcount: '327'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 这是一个使用默认程序的简单操作数据管理最佳实践工作流的示例，可帮助您管理Marketo Engage数据库中记录的数据一致性。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -57,7 +57,7 @@ ht-degree: 15%
   <tr>
    <td>智能活动</td>
    <td> </td>
-   <td>列入阻止列表将设置为True</td>
+   <td>将设置为True</td>
   </tr>
   <tr>
    <td>智能活动</td>

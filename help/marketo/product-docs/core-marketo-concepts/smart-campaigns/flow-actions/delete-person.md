@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147082
-description: 删除人员 — Marketo文档 — 产品文档
+description: 了解如何使用流程步骤从数据库中删除人员。 从Marketo中删除符合标准的人员。
 title: 删除人员
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '127'
 ht-degree: 3%
 
 ---

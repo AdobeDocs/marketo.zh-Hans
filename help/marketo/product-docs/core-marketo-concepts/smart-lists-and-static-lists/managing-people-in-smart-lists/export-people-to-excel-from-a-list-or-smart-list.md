@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557329
-description: 将人员从列表或智能列表导出到Excel - Marketo文档 — 产品文档
+description: 了解如何从列表或智能列表中将人员导出到Excel。 下载列表中的人员以进行报告。
 title: 将列表或智能列表中的人员导出到 Excel
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 14%
+source-wordcount: '174'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 如果您需要Marketo之外的列表或智能列表结果，可以轻松导出到Excel。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

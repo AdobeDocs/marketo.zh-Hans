@@ -1,11 +1,11 @@
 ---
-description: 在 [!DNL Dynamics] Campaign - Marketo文档 — 产品文档中添加或删除人员
+description: 了解如何通过流程步骤在Microsoft Dynamics营销活动中添加或删除人员。 将Marketo与Dynamics营销活动同步。
 title: 添加或删除 [!DNL Dynamics] 营销活动中的人员
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---

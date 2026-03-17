@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146956
-description: 有趣的时刻 — Marketo文档 — 产品文档
+description: 了解如何在流程步骤中创建有趣的时刻。 记录用于查看CRM中销售可见性的关键操作。
 title: 重要时刻
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '108'
+ht-degree: 3%
 
 ---
 

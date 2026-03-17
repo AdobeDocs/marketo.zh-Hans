@@ -1,10 +1,10 @@
 ---
-description: 参与度图概述 — Marketo文档 — 产品文档
+description: 了解用于可视化您的Smart Campaigns的参与图。 使用它可以在Marketo中直观地查看触发器、过滤器和流程步骤。
 title: 互动地图概述
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '757'
 ht-degree: 1%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782021
-description: 个性化Marketo时刻 — Marketo文档 — 产品文档
+description: 了解如何个性化Marketo时刻。 自定义哪些卡片和分析会显示在您的移动设备应用程序视图中。
 title: 个性化 Marketo Moments
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '135'
+ht-degree: 5%
 
 ---
 

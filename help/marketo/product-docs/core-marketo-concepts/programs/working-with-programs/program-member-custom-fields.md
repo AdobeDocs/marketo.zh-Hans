@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355569
-description: 项目群成员自定义字段 — Marketo文档 — 产品文档
+description: 了解项目群成员自定义字段。 为项目中的每个人存储和使用自定义数据。
 title: 项目成员自定义字段
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '412'
 ht-degree: 4%
 
 ---

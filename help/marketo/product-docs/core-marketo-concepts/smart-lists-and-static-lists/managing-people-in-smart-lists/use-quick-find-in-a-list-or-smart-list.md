@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557326
-description: 在列表或智能列表中使用快速查找 — Marketo文档 — 产品文档
+description: 了解如何在列表或智能列表中使用快速查找。 在列表中按姓名或电子邮件搜索特定人员。
 title: 在列表或智能列表中使用快速查找
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '145'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 使用快速查找从列表或智能列表的结果中查找人员。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

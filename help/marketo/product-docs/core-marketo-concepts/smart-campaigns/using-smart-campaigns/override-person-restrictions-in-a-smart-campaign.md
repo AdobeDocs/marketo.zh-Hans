@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147066
-description: 覆盖Smart Campaign中的人员限制 — Marketo文档 — 产品文档
+description: 了解如何在Smart Campaign中覆盖人员限制。 允许人员即使达到通信限制也能运行。
 title: 在智能营销活动中覆盖人员限制
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 10%
+source-wordcount: '141'
+ht-degree: 9%
 
 ---
 

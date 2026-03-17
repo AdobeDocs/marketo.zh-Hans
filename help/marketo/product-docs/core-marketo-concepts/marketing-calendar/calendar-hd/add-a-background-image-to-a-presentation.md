@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504437
-description: 将背景图像添加到演示 — Marketo文档 — 产品文档
+description: 了解如何将背景图像添加到营销日历演示。 通过从库中选择图像来自定义您的演示文稿。
 title: 为演示添加背景图像
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 15%
+source-wordcount: '103'
+ht-degree: 13%
 
 ---
 

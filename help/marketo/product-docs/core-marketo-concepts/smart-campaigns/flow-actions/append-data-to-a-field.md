@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147042
-description: 将数据附加到字段 — Marketo文档 — 产品文档
+description: 了解如何在流程步骤中将数据附加到字段。 将文本添加到现有字段值而不覆盖。
 title: 向字段追加数据
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '116'
+ht-degree: 12%
 
 ---
 

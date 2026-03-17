@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146935
-description: 激活触发器智能营销活动 | “计划”选项卡 — Marketo文档 — 产品文档
+description: 了解如何从“计划”选项卡激活触发器智能营销活动。 打开营销活动，以便开始侦听触发器。
 title: 激活触发型智能营销活动 | 计划选项卡
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 14%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783559
-description: 分享瞬间 — Marketo文档 — 产品文档
+description: 了解如何从Marketo时刻应用程序中共享时刻。 将关键见解或操作发送给同事。
 title: 共享 Moment
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '154'
 ht-degree: 5%
 
 ---

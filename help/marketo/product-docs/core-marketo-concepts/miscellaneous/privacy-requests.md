@@ -1,11 +1,11 @@
 ---
-description: 隐私请求 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中管理访问和删除的隐私请求。 通过Privacy Service UI或API提交请求并处理消费者数据。
 title: 隐私请求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 245e8b2b25a7c51e8e46ace31e189a6132a9ada7
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 16%
+source-wordcount: '353'
+ht-degree: 15%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 16%
 >
 >**— 或 —**
 >
->* Marketo Engage用户使用Adobe Identity Management System中已存在的其他Experience Cloud产品(例如RT-CDP、B2B和B2P版本、Audience Manager)。
+>* Marketo Engage用户使用Adobe Identity Management System中已存在的其他Experience Cloud产品（例如RT-CDP、B2B和B2P版本、Audience Manager）。
 
 您可以通过两种方式提交单个请求以从Marketo Engage访问和删除消费者数据：
 
-* 通过Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 请参阅[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hans#){target="_blank"}的文档。
+* 通过Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 请参阅[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html#){target="_blank"}的文档。
 * 通过Privacy Service API。 请参阅[此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}的文档和[此处](https://developer.adobe.com/experience-platform-apis/){target="_blank"}的 API 信息。
 
 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hans){target="_blank"}支持两种类型的请求：数据访问和数据删除。
@@ -41,7 +41,7 @@ ht-degree: 16%
    a. IMS组织ID<br/>
 b.要执行操作的人员的电子邮件地址
 
-   IMS 组织 ID 是一个由 24 个字符组成的字母数字字符串，其后附加有 @AdobeOrg。如果您的营销团队或内部Adobe系统管理员不知道您组织的IMS组织ID，请通过`gdprsupport@adobe.com`联系Adobe客户关怀部门。 您需要 IMS 组织 ID 才能将请求提交到 Privacy API。
+   IMS 组织 ID 是一个由 24 个字符组成的字母数字字符串，其后附加有 @AdobeOrg。 如果您的营销团队或内部Adobe系统管理员不知道您组织的IMS组织ID，请通过`gdprsupport@adobe.com`联系Adobe客户关怀部门。 您需要 IMS 组织 ID 才能将请求提交到 Privacy API。
 
 1. 在Privacy Service中，您可以将访问和删除请求提交到Marketo Engage，并检查现有请求的状态。
 
@@ -62,7 +62,7 @@ b.要执行操作的人员的电子邮件地址
 
 &quot;include&quot;：
 
-* **marketo**(适用于该请求的Adobe产品)
+* **marketo**（适用于该请求的Adobe产品）
 
 “监管”：
 

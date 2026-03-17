@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949891
-description: 了解静态列表 — Marketo文档 — 产品文档
+description: 了解适用于固定人员集的Marketo中的静态列表。 在手动管理成员资格时使用静态列表。
 title: 了解静态列表
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 5%
+source-wordcount: '227'
+ht-degree: 4%
 
 ---
 

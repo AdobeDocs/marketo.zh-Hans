@@ -1,11 +1,11 @@
 ---
 unique-page-id: 11386358
-description: Marketo沙盒 — Marketo文档 — 产品文档
+description: 了解用于生产前测试的Marketo Engage沙盒。 使用沙盒实例在不影响生产的情况下进行测试。
 title: Marketo 沙盒
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 预测过滤器 — Marketo文档 — 产品文档
+description: 了解用于通过AI定位受众的预测过滤器。 在智能列表和营销活动中使用过滤器来联系合适的人员。
 title: 预测型过滤器
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---

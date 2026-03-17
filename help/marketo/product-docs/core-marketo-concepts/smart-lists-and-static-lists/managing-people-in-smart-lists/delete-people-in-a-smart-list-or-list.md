@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146897
-description: 删除智能列表或列表中的人员 — Marketo文档 — 产品文档
+description: 了解如何从智能列表或静态列表中删除人员。 从列表或数据库中删除人员。
 title: 从智能列表或列表中删除人员
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 6%
+source-wordcount: '279'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 6%
    >
    >删除人员时，您不仅要从列表中将其删除，还会将其从数据库中完全删除。
 
-1. 单击&#x200B;**[!UICONTROL Select All]**。 您也可以使用Ctrl/Cmd并单击手选一些记录。
+1. 单击 **[!UICONTROL Select All]**。 您也可以使用Ctrl/Cmd并单击手选一些记录。
 
    ![](assets/three-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720779
-description: 了解文件夹 — Marketo文档 — 产品文档
+description: 了解计划内部用于组织智能营销活动和资产的文件夹。 创建、重命名和删除文件夹。
 title: 了解文件夹
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 4%
+source-wordcount: '262'
+ht-degree: 8%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 4%
 
 你可以改变主意了。
 
-1. 右键单击该文件夹并选择&#x200B;**[!UICONTROL Rename Folder]**。
+1. 右键点击该文件夹，并选择 **[!UICONTROL Rename Folder]**。
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -48,7 +48,7 @@ ht-degree: 4%
 >
 >在删除文件夹之前，请确保该文件夹为空。
 
-1. 右键单击该文件夹并选择&#x200B;**[!UICONTROL Delete Folder]**。
+1. 右键点击该文件夹，并选择 **[!UICONTROL Delete Folder]**。
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 

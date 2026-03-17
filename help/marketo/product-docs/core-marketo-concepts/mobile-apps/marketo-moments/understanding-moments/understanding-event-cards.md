@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781974
-description: 了解事件信息卡 — Marketo文档 — 产品文档
+description: 了解Marketo时间中的活动信息卡。 查看事件程序详细信息，并从移动设备应用程序执行操作。
 title: 了解活动卡片
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 5%
+source-wordcount: '161'
+ht-degree: 4%
 
 ---
 
