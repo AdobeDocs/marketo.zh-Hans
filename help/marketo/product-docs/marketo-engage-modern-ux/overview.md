@@ -1,12 +1,12 @@
 ---
-description: Marketo Engage 现代化用户体验概述 - Marketo 文档 - 产品文档
+description: 了解Marketo Engage Modern UX及其具有增强的可用性和新外观的更新界面。
 title: Marketo Engage 现代化用户体验概述
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '452'
+ht-degree: 95%
 
 ---
 

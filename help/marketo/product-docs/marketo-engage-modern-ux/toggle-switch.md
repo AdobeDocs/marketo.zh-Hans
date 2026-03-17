@@ -1,12 +1,14 @@
 ---
-description: 切换开关 – Marketo 文档 – 产品文档
+description: 了解如何使用切换开关在Marketo Classic和Modern UX之间切换。 在“管理员”中为角色设置访问权限，并为单个或所有功能启用该权限。
 title: 切换开关
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+hide: true
+hidefromtoc: true
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '266'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '290'
+ht-degree: 89%
 
 ---
 

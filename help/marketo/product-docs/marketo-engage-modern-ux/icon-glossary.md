@@ -1,14 +1,14 @@
 ---
-description: 图标术语表 — Marketo文档 — 产品文档
+description: 了解Marketo Engage Modern UX中的图标以及它们如何从Classic映射。 使用此术语表可识别资产类型、营销策划状态和项目类型。
 title: 图标术语表
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 92%
+source-wordcount: '261'
+ht-degree: 85%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 92%
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td>
    <td><img src="assets/engagement-program.png"></td>
-   <td>互动项目</td>
+   <td>参与项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-event-program.png"></td>
@@ -83,7 +83,7 @@ ht-degree: 92%
   <tr>
    <td><img src="assets/classic-filter.png"></td>
    <td><img src="assets/filter.png"></td>
-   <td>过滤器</td>
+   <td>筛选条件</td>
   </tr>
   <tr>
    <td><strong>不适用</strong></td>
@@ -349,7 +349,7 @@ ht-degree: 92%
  </tbody>
 </table>
 
-## 互动项目 {#engagement-programs}
+## 参与项目 {#engagement-programs}
 
 <table>
  <tbody>
