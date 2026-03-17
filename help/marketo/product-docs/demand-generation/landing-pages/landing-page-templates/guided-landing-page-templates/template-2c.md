@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516475
-description: 模板2C - Marketo文档 — 产品文档
+description: 了解模板2C引导式登陆页面模板。 下载并将其用于您的Marketo登陆页面。
 title: 模板 2C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 6%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
 # 模板 2C {#template-2c}
 
-右键单击以[下载模板2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=zh-Hans)
+右键单击以[下载模板2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -29,4 +29,4 @@ ht-degree: 6%
 
 **右键单击以下内容以下载此模板：**
 
-[模板2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=zh-Hans)
+[模板2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)

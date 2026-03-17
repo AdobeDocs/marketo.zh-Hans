@@ -1,18 +1,18 @@
 ---
-description: 对话流概述 — Marketo文档 — 产品文档
+description: 了解对话流以及它们与对话框的区别。 设计由访客操作触发的流程，并在表单或弹出窗口中使用。
 title: 会话流概述
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 3%
 
 ---
 
 # 会话流概述 {#conversational-flow-overview}
 
-设计对话流，并根据特定操作(例如，单击call-to-action按钮、页面加载时、页面逗留时间等)将其触发给任何访客。
+设计对话流，并根据特定操作（例如，单击call-to-action按钮、页面加载时、页面逗留时间等）将其触发给任何访客。
 
 ![](assets/conversational-flow-overview-1.png)
 
@@ -74,15 +74,15 @@ ht-degree: 3%
 >
 >选择其他语言只会更改系统文本的语言。 您负责翻译内容。
 
-### 对话SDK {#conversations-sdk}
+### Conversations SDK {#conversations-sdk}
 
-在“设置”选项卡的下半部分，自定义“对话”触发器(也称为“对话”SDK)。 您可以决定是在访客单击任意链接时还是在页面加载时在您的网站上触发对话。
+在“设置”选项卡的下半部分，自定义“对话”触发器（也称为“对话”SDK）。 您可以决定是在访客单击任意链接时还是在页面加载时在您的网站上触发对话。
 
 ![](assets/conversational-flow-overview-7.png)
 
 >[!TIP]
 >
->查看[对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=zh-Hans){target="_blank"}正在执行中！
+>查看[对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在执行中！
 
 >[!MORELIKETHIS]
 >

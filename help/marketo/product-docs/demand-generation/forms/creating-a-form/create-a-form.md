@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359398
-description: 创建表单 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中创建表单。 添加字段、设置表单，并在登陆页面或您的网站上使用它来捕获潜在客户。
 title: 创建表单
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '117'
 ht-degree: 7%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 7%
 >
 >了解Marketo Engage为[保护表单安全](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)所做的工作。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-a-form-1.png)
 

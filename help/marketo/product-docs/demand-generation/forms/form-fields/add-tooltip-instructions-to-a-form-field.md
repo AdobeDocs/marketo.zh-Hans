@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359673
-description: 将工具提示说明添加到表单字段 — Marketo文档 — 产品文档
+description: 了解如何向Marketo中的表单字段添加工具提示说明。 当访客将鼠标悬停在字段上时显示额外帮助。
 title: 向表单字段添加工具提示说明
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 14%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 14%
 >
 >表单&#x200B;**说明**&#x200B;是当访客将鼠标悬停在该字段上时弹出的小工具提示。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-6.png)
 

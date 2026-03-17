@@ -1,11 +1,11 @@
 ---
-description: 问题生成 — Marketo文档 — 产品文档
+description: 了解如何使用源URL和主题为Dynamic Chat生成问题。 创建人工智能辅助响应并在辅助响应中跟踪任务状态。
 title: 问题生成
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '309'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 3%
 
    >[!IMPORTANT]
    >
-   >要确保Marketo Engage列入允许列表能够从提供的URL中擦除内容，您必须先多个IP地址。 [有关详细信息，请参阅下文](#ip-addresses-to-allowlist)。
+   >要确保Marketo Engage能够从提供的URL中擦除内容，您必须先多个IP地址。 [有关详细信息，请参阅下文](#ip-addresses-to-allowlist)。
 
    >[!NOTE]
    >

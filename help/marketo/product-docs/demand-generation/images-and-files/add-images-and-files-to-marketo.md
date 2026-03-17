@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359858
-description: 将图像和文件添加到Marketo - Marketo文档 — 产品文档
+description: 了解如何将图像和文件添加到Marketo。 将资产上传到Design Studio，以便在电子邮件、登陆页面和表单中使用。
 title: 向 Marketo 添加图像和文件
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 16%
+source-wordcount: '115'
+ht-degree: 14%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 16%
 
    >[!NOTE]
    >
-   >虽然Marketo接受上载所有文件类型，但只有主要的图像类型(JPG、PNG、GIF等)可以在我们的电子邮件编辑器中工作。
+   >虽然Marketo接受上载所有文件类型，但只有主要的图像类型（JPG、PNG、GIF等）可以在我们的电子邮件编辑器中工作。
 
    >[!MORELIKETHIS]
    >

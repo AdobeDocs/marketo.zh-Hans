@@ -1,12 +1,12 @@
 ---
-description: 代理收件箱 — Marketo文档 — 产品文档
+description: 了解实时聊天代理进行现场对话的代理收件箱。 查看活动和过去的聊天、访客信息，并设置可用性状态。
 title: 代理收件箱
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '317'
 ht-degree: 1%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515266
-description: 创建引导式登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中创建引导式登陆页面。 选择模板并使用引导式编辑器构建页面。
 title: 创建引导式登录页面
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 13%
+source-wordcount: '184'
+ht-degree: 15%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 13%
 
 引导式登陆页面可创建为项目的本地资产，也可创建为[!UICONTROL Design Studio]中以全局使用。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/one-1.png)
 
@@ -51,7 +51,7 @@ ht-degree: 13%
 
 ## 在Design Studio中创建登陆页面 {#create-a-landing-page-in-design-studio}
 
-1. 转到&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/six.png)
 

@@ -1,12 +1,12 @@
 ---
-description: 了解交互式网络研讨会中的各种参与工具。
+description: 了解交互式网络研讨会中的参与工具。 使用投票、问答和其他功能促进与会者在网络研讨会期间的互动。
 title: 交互式网络研讨会中的参与工具
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---
@@ -91,7 +91,7 @@ Web链接面板用于共享Web URL。 这可用于与参与者共享指向社交
 
 屏幕快照
 
-参与仪表板
+互动仪表板
 
 参与仪表板由主持人和演示者用来监控会话期间的参与者注意力和交互级别。 “参与仪表板”只能在“主机和演示者”区域内部访问。 要了解有关参与仪表板的更多信息，请观看此视频。
 

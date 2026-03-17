@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720856
-description: 为自由表单登陆页面添加移动视图 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中为自由格式登陆页面添加移动视图。 为移动设备优化页面布局。
 title: 为您的自由格式登录页面添加移动端视图
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 16%
+source-wordcount: '134'
+ht-degree: 19%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 16%
 >
 >移动设备视图适用于宽度为480px（或更小）的屏幕。 换言之，就是智能手机。 以下是关于设备分辨率[的更多](https://www.mydevice.io/)信息。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -31,7 +31,7 @@ ht-degree: 16%
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. 单击&#x200B;**[!UICONTROL Mobile]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Mobile]** 选项卡。
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359823
-description: 将登陆页面发布到Facebook - Marketo文档 — 产品文档
+description: 了解如何将Marketo登陆页面发布到Facebook。 将登陆页面内容作为Facebook帖子共享给受众。
 title: 将登陆页面发布到 Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 1%
 
 ---

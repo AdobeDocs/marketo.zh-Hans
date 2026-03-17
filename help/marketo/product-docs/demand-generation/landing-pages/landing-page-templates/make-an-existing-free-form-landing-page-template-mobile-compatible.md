@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472348
-description: 使现有的自由表单登陆页面模板与移动设备兼容 — Marketo文档 — 产品文档
+description: 了解如何使现有的自由表单登陆页面模板与移动设备兼容。 从模板或登陆页面编辑器升级。
 title: 使现有自由格式登录页面模板兼容移动端
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 5%
+source-wordcount: '235'
+ht-degree: 6%
 
 ---
 
@@ -69,7 +69,7 @@ ht-degree: 5%
 
 在编辑登陆页并单击移动设备选项卡时，您有时会注意到模板尚未升级。 不要害怕！ 你可以在这里升级它。
 
-1. 单击&#x200B;**[!UICONTROL Mobile]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Mobile]** 选项卡。
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 

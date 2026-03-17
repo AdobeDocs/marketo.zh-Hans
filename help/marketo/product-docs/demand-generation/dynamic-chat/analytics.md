@@ -1,11 +1,11 @@
 ---
-description: Analytics - Marketo文档 — 产品文档
+description: 了解Dynamic Chat Analytics功能板的参与度和性能。 查看对话框量度、会议预订和实时聊天表现并导出结果。
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '276'
 ht-degree: 3%
 
 ---

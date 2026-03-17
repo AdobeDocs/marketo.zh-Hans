@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11383953
-description: 设置Facebook离线转化 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中设置Facebook离线转化。 将转化数据从Marketo发送到Facebook以进行广告优化。
 title: 设置 Facebook 离线转化
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 3%
+source-wordcount: '292'
+ht-degree: 4%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 3%
 
 ## Revenue Cycle Modeler配置 {#revenue-cycle-modeler-configuration}
 
-1. 转到&#x200B;**[!UICONTROL Analytics]**。
+1. 前往 **[!UICONTROL Analytics]**。
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 

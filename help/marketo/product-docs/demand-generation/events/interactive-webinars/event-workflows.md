@@ -1,12 +1,12 @@
 ---
-description: 事件工作流 — Marketo文档 — 产品文档
+description: 了解Marketo中的交互式网络研讨会的事件工作流。 了解如何设计和运行从创建到交付的网络研讨会活动。
 title: 事件工作流
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 9c6a441bc2ae10953d68f84db798da057c56f2d7
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '456'
-ht-degree: 0%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 交互式网络研讨会不会自动录制。 网络研讨会开始后，单击网络研讨会名称旁边的下拉菜单并选择&#x200B;**录制会话**。
+>* 交互式网络研讨会不会自动录制。 网络研讨会开始后，点击研讨会名称旁的下拉菜单，并选择&#x200B;**录制会话**。
 >* 如果录制了会话，则主机需要手动结束录制或选择“为所有人结束会话”停止录制。 否则，录制将在最后一个与会者离开房间后的10分钟内自动停止。
 >* 录制以MP4格式下载。
 >* 在共享录制时，拥有链接的任何人都可以查看，因此请确保与预期受众共享。

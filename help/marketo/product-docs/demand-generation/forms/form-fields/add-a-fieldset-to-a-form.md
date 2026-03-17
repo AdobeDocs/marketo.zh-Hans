@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359594
-description: 将字段集添加到表单 — Marketo文档 — 产品文档
+description: 了解如何将字段集添加到Marketo表单。 将相关字段与标题分组以改善布局。
 title: 向表单添加字段集
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 12%
+source-wordcount: '105'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 字段集很酷。 他们把一栈田地组合在一起。 你也可以同时控制整个街区！
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

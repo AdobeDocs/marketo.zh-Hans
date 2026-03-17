@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359618
-description: 将富文本添加到表单 — Marketo文档 — 产品文档
+description: 了解如何将富文本添加到Marketo表单。 在表单字段上方或下方插入标题、链接或说明。
 title: 向表单添加富文本
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '102'
 ht-degree: 17%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 17%
 
 在表单中使用富文本可在字段之间添加说明或其他信息。 看吧。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12976776
-description: 在Smart Campaign中使用LinkedIn潜在客户群表单过滤器和触发器 — Marketo文档 — 产品文档
+description: 了解如何在Marketo智能营销活动中使用LinkedIn潜在客户群表单过滤器和触发器。 在潜在客户提交LinkedIn表单时自动执行操作。
 title: 在智能活动中使用 LinkedIn 潜在客户收集表单过滤器和触发器
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 18%
+source-wordcount: '135'
+ht-degree: 17%
 
 ---
 

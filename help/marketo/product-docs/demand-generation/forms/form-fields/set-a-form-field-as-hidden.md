@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359661
-description: 将表单字段设置为隐藏 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将表单字段设置为隐藏。 存储数据而不向访客显示字段。
 title: 将表单字段设置为隐藏
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '81'
 ht-degree: 22%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 22%
 
 隐藏的表单字段可以无提示地捕获数据，而无需访客输入。 其工作方式如下。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11370892
-description: 测试Facebook潜在客户广告以了解桌面与Marketo的集成 — Marketo文档 — 产品文档
+description: 了解如何测试Facebook Lead Ads桌面版与Marketo的集成。 验证来自桌面同步的商机广告提交是否正确。
 title: 测试 Facebook 潜在客户广告与 Marketo 的桌面端集成
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '207'
 ht-degree: 4%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 用户和许可证管理 — Marketo文档 — 产品文档
+description: 了解交互式网络研讨会的用户和许可证管理。 分配访问权限并管理能够创建或提供网络研讨会的人员。
 title: 用户与许可证管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '728'
 ht-degree: 2%
 
 ---

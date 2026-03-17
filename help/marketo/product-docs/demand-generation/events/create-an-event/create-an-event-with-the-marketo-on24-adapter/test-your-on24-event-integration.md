@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096677
-description: 测试ON24事件集成 — Marketo文档 — 产品文档
+description: 了解如何测试ON24事件与Marketo的集成。 验证同步、注册流程和状态更新是否正常工作。
 title: 测试您的 ON24 事件集成
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '193'
 ht-degree: 5%
 
 ---

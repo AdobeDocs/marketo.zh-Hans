@@ -1,12 +1,12 @@
 ---
-description: Marketo Engage Forms的对话流设置 — Marketo文档 — 产品文档
+description: 了解如何使Marketo表单与Dynamic Chat对话流对话。 使用表单或列表数据确定满足预订和自定义目标的潜在客户。
 title: Marketo Engage Forms的对话流设置
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 0%
+source-wordcount: '281'
+ht-degree: 1%
 
 ---
 
@@ -66,6 +66,6 @@ ht-degree: 0%
 
    ![](assets/conversational-flow-settings-9.png)
 
-1. 完成后单击&#x200B;**[!UICONTROL Finish]**。
+1. 完成后，单击 **[!UICONTROL Finish]**。
 
    ![](assets/conversational-flow-settings-10.png)

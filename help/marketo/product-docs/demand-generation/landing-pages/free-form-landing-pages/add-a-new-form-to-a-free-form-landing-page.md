@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359705
-description: 将新表单添加到自由表单登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将新表单添加到自由表单登陆页面。 插入Marketo表单以捕获页面上的潜在客户。
 title: 向自由格式登录页面添加新表单
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '143'
 ht-degree: 14%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 14%
 >* [创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [创建自由格式登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

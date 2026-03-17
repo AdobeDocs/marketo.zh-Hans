@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359614
-description: 在表单的单选字段或选定字段中定义值 — Marketo文档 — 产品文档
+description: 了解如何在Marketo表单的无线电或下拉字段中定义值。 设置访客可以选择的选项。
 title: 定义表单中单选或选定字段的值
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '179'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 一旦您[将字段类型](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)设置为单选按钮或选择类型，您将需要定义用户可选择的值。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

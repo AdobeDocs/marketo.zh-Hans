@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437810
-description: 模板14D - Marketo文档 — 产品文档
+description: 了解模板14D引导式登陆页面模板。 下载并将其用于您的Marketo登陆页面。
 title: 模板 14D
 exl-id: e8ef7eb9-c3a5-4c19-9022-d93bb4d07e89
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 6%
 
 ---
 
 # 模板 14D {#template-14d}
 
-右键单击以[下载模板14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html?lang=zh-Hans)
+右键单击以[下载模板14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
 
 ![](assets/image2015-8-13-10-3a36-3a45.png)
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
 **右键单击以下内容以下载此模板：**
 
-[模板14D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html?lang=zh-Hans)
+[模板14D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)

@@ -1,11 +1,11 @@
 ---
-description: 交互式网络研讨会入门 — Marketo文档 — 产品文档
+description: Marketo中的交互式网络研讨会入门。 了解创建和举办您的第一个交互式网络研讨会的先决条件、关键概念和步骤。
 title: 开始使用交互式网络研讨会
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---
@@ -40,4 +40,4 @@ ht-degree: 3%
 
  
 
-尽情体验交互式网络研讨会(由Adobe Connect提供支持)！
+尽情体验交互式网络研讨会（由Adobe Connect提供支持）！

@@ -1,12 +1,12 @@
 ---
-description: 在Marketo Forms中启用验证码 — Marketo文档 — 产品文档
+description: 了解如何在Marketo表单上启用验证码。 使用reCAPTCHA或其他CAPTCHA选项减少垃圾邮件提交。
 title: 在 Marketo 表单中启用验证码
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 13%
+source-wordcount: '97'
+ht-degree: 12%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->标准化文本(包括Google隐私政策和服务条款的链接)将添加到启用验证码的表单中。
+>标准化文本（包括Google隐私政策和服务条款的链接）将添加到启用验证码的表单中。
 
 >[!MORELIKETHIS]
 >

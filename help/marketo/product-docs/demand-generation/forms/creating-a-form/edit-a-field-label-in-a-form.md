@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359566
-description: 编辑表单中的字段标签 — Marketo文档 — 产品文档
+description: 了解如何在Marketo表单中编辑字段标签。 更改表单字段旁边显示的标签文本。
 title: 编辑表单中的字段标签
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '121'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 您可以将表单上的标签更改为任何内容 — 您甚至可以使用图像或完全擦除图像！ 下面是操作方法。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/edit-a-field-label-in-a-form-1.png)
 

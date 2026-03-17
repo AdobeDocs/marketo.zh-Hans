@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359667
-description: 将输入掩码应用于表单中的字段 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将输入掩码应用于表单字段。 将电话、日期或其他字段格式化为访客类型。
 title: 对表单字段应用输入遮罩
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 11%
+source-wordcount: '176'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 您可以使用输入掩码限制访客的输入。 例如，您可能希望访客仅以特定格式输入电话号码。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-4.png)
 

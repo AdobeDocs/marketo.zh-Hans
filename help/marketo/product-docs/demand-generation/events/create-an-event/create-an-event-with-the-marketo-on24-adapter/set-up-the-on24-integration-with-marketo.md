@@ -1,11 +1,11 @@
 ---
-description: 设置ON24与Marketo的集成 — Marketo文档 — 产品文档
+description: 了解如何设置ON24与Marketo的集成。 连接您的ON24帐户，以便同步网络研讨会和注册数据。
 title: 设置 ON24 与 Marketo 的集成
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '216'
 ht-degree: 8%
 
 ---

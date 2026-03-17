@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359876
-description: 替换上传的图像或文件 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中替换上传的图像或文件。 更新资产，同时为现有链接保留相同的URL。
 title: 替换已上传的图像或文件
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 17%
+source-wordcount: '113'
+ht-degree: 15%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 未回答的问题 — Marketo文档 — 产品文档
+description: 了解如何查看和响应未回答或没有帮助的聊天机器人问题。 从此列表将新的已批准响应添加到您的响应库。
 title: 未解答的问题
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '118'
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 3%
 
    ![](assets/unanswered-questions-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Unanswered questions]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Unanswered questions]** 选项卡。
 
    ![](assets/unanswered-questions-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 3%
 
    ![](assets/unanswered-questions-3.png)
 
-1. 输入您的响应。 分配主题并添加用户可与访客共享的可选URL。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入您的响应。 分配主题并添加用户可与访客共享的可选URL。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/unanswered-questions-4.png)
 

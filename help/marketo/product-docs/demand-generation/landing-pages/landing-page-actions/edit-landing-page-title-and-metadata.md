@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359726
-description: 编辑登陆页面标题和元数据 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中编辑登陆页面标题和元数据。 更新SEO和显示的页面标题和元描述。
 title: 编辑登录页面标题和元数据
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 11%
+source-wordcount: '128'
+ht-degree: 10%
 
 ---
 

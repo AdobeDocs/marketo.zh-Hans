@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11376700
-description: 在Facebook中将潜在客户添加到自定义受众 — Marketo文档 — 产品文档
+description: 了解如何从Marketo在Facebook中将潜在客户添加到自定义受众。 将列表成员推送到Facebook以进行广告定位。
 title: 将潜在客户添加到 Facebook 自定义受众
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 9%
+source-wordcount: '153'
+ht-degree: 8%
 
 ---
 

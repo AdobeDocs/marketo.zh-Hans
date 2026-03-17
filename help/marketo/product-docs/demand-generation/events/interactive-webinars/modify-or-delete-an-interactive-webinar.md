@@ -1,11 +1,11 @@
 ---
-description: 修改或删除交互式网络研讨会 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中修改或删除交互式网络研讨会。 更新设置或移除不再需要的网络研讨会。
 title: 修改或删除交互式网络研讨会
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '324'
 ht-degree: 4%
 
 ---

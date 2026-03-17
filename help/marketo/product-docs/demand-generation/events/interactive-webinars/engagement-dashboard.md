@@ -1,11 +1,11 @@
 ---
-description: 参与仪表板 — Marketo文档 — 产品文档
+description: 了解交互式网络研讨会参与仪表板。 在网络研讨会期间和之后查看与会者参与指标和见解。
 title: 互动仪表板
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1700'
+source-wordcount: '1712'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 查看仪表板 {#view-the-dashboard}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/engagement-dashboard-1.png)
 
@@ -301,7 +301,7 @@ ht-degree: 0%
     <li>与会者至少在问答面板中问了一个问题。</li></td>
   </tr>
   <tr>
-    <td>媒介</td>
+    <td>中</td>
     <td>符合以下所有条件的参与者：
     <li>未确定参与者的参与程度过高。</li>
     <li>出席时间至少占总活动时间的60%。</li>

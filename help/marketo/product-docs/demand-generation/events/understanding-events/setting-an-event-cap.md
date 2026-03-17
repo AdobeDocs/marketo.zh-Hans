@@ -1,14 +1,14 @@
 ---
-description: 设置事件上限 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中设置事件上限。 限制您的活动计划的注册者或出席者数量。
 title: 设置事件上限
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 4%
+source-wordcount: '194'
+ht-degree: 5%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 4%
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. 单击&#x200B;**[!UICONTROL Registration Full Page]**&#x200B;下拉列表并选择将作为注册完整页面的登陆页面。 完成后单击&#x200B;**[!UICONTROL Set and Enable]**。
+1. 单击&#x200B;**[!UICONTROL Registration Full Page]**&#x200B;下拉列表并选择将作为注册完整页面的登陆页面。 完成后，单击 **[!UICONTROL Set and Enable]**。
 
    ![](assets/setting-an-event-cap-5.png)
 

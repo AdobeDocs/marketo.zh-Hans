@@ -1,12 +1,12 @@
 ---
-description: 了解如何在交互式网络研讨会中创建和实施模板。
+description: 了解如何在交互式网络研讨会中创建和实施模板。 使用模板标准化网络研讨会设计并加快创建速度。
 title: 交互式网络研讨会模板
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 6%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 ## 授予权限 {#grant-permissions}
 
-Marketo Engage管理员必须先添加对所需角色的访问权限，贵组织中的任何用户才能访问您的交互式网络研讨会模板。
+在您组织中的任何用户能够访问您的交互式网络研讨会模板之前，Marketo Engage管理员必须首先添加对所需角色的访问权限。
 
-1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL 管理员]**。
+1. 在 Marketo Engage 中，单击 **[!UICONTROL Admin]**。
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
-1. 单击&#x200B;**[!UICONTROL 用户和角色]**，然后单击&#x200B;**[!UICONTROL 角色]**&#x200B;选项卡。
+1. 单击&#x200B;**[!UICONTROL Users & Roles]**，然后单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
@@ -34,21 +34,21 @@ Marketo Engage管理员必须先添加对所需角色的访问权限，贵组织
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
-1. 选中&#x200B;**[!UICONTROL 访问交互式网络研讨会模板]**&#x200B;复选框。
+1. 选中&#x200B;**[!UICONTROL Access Interactive Webinars Templates]**&#x200B;复选框。
 
    ![](assets/templates-for-interactive-webinars-5.png)
 
 ## 创建模板 {#create-a-template}
 
-1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL 设计工作室]**。
+1. 在 Marketo Engage 中，单击 **[!UICONTROL Design Studio]**。
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. 单击&#x200B;**[!UICONTROL 交互式网络研讨会]**。
+1. 单击 **[!UICONTROL Interactive Webinars]**。
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
-1. 单击&#x200B;**[!UICONTROL 管理模板]**。
+1. 单击 **[!UICONTROL Manage Templates]**。
 
    ![](assets/templates-for-interactive-webinars-8.png)
 
@@ -90,15 +90,15 @@ Marketo Engage管理员必须先添加对所需角色的访问权限，贵组织
 
 执行以下步骤以编辑现有模板。
 
-1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL 设计工作室]**。
+1. 在 Marketo Engage 中，单击 **[!UICONTROL Design Studio]**。
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
-1. 单击&#x200B;**[!UICONTROL 交互式网络研讨会]**。
+1. 单击 **[!UICONTROL Interactive Webinars]**。
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
-1. 单击&#x200B;**[!UICONTROL 管理模板]**。
+1. 单击 **[!UICONTROL Manage Templates]**。
 
    ![](assets/templates-for-interactive-webinars-18.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783906
-description: 模板4C - Marketo文档 — 产品文档
+description: 了解模板4C引导式登陆页面模板。 下载并将其用于您的Marketo登陆页面。
 title: 模板 4C
 exl-id: 95e8b4db-6bd8-4937-bf1b-3e680969aab4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 7%
+source-wordcount: '63'
+ht-degree: 6%
 
 ---
 
 # 模板 4C {#template-4c}
 
-右键单击以[下载模板4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=zh-Hans)
+右键单击以[下载模板4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 
@@ -28,4 +28,4 @@ ht-degree: 7%
 
 **右键单击以下内容以下载此模板：**
 
-[模板4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=zh-Hans)
+[模板4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)

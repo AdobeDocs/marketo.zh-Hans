@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359740
-description: 将Marketo登陆页面重定向到其他页面 — Marketo文档 — 产品文档
+description: 了解如何将Marketo登陆页面重定向到其他页面。 将登陆页面的访客发送到其他URL。
 title: 将 Marketo 登录页面重定向到其他页面
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 12%
+source-wordcount: '148'
+ht-degree: 13%
 
 ---
 

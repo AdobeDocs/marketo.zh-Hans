@@ -1,11 +1,11 @@
 ---
-description: 聊天机器人行为 — Marketo文档 — 产品文档
+description: 了解跨对话框、优先级和访客的Dynamic Chat聊天机器人行为。 使用本参考可了解聊天机器人在不同场景中的行为方式。
 title: 聊天机器人行为
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1680'
+source-wordcount: '1697'
 ht-degree: 3%
 
 ---

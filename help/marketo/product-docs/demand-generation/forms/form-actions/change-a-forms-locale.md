@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359657
-description: 更改表单的区域设置 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中更改表单区域设置。 设置用于标签和验证的表单语言和区域格式。
 title: 更改表单的区域设置
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 处理国际表单时，您需要以正确的格式显示日期/时间。 Marketo将自动为您执行此操作，您只需设置表单的区域设置，我们就会处理剩余部分。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-7.png)
 

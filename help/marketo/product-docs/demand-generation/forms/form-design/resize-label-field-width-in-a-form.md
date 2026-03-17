@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359604
-description: 在表单中调整标签/字段宽度大小 — Marketo文档 — 产品文档
+description: 了解如何在Marketo表单中调整标签和字段宽度大小。 调整标签和输入区域的宽度。
 title: 调整表单中的标签/字段宽度
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 17%
+source-wordcount: '102'
+ht-degree: 15%
 
 ---
 

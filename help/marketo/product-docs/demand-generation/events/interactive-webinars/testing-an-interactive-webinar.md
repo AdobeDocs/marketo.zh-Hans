@@ -1,11 +1,11 @@
 ---
-description: 测试交互式网络研讨会 — Marketo文档 — 产品文档
+description: 了解如何在上线之前测试交互式网络研讨会。 验证注册、内容和参与工具是否按预期工作。
 title: 测试交互式网络研讨会
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '381'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 任何交互式网络研讨会都可以用作测试网络研讨会。 测试可以通过添加不超过10位主持人和演示者（参与者）来执行。
 
-创建测试网络研讨会的工作流程与创建任何其他网络研讨会[的交互式网络研讨会事件程序相同。 &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)建议将选定的交货日期设在遥远的将来。
+创建测试网络研讨会的工作流程与创建任何其他网络研讨会[的交互式网络研讨会事件程序相同。 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)建议将选定的交货日期设在遥远的将来。
 
 >[!CAUTION]
 >

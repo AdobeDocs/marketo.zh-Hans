@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097969
-description: 创建自由表单登陆页面模板 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中创建自由表单登陆页面模板。 在Design Studio中构建可重复使用的模板以用于未来的登陆页面。
 title: 创建自由格式登录页面模板
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 6%
+source-wordcount: '189'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 与引导式登陆页面相比，自由格式登陆页面所需的技术知识更少。 要为将来的登陆页面创建模板，请执行以下步骤。
 
-1. 转到&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/one.png)
 

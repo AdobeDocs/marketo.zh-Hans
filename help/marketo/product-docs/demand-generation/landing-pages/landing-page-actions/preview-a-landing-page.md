@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359716
-description: 预览登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中预览登陆页面。 在使页面处于实时状态之前，查看页面的外观和行为。
 title: 预览登录页面
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 10%
+source-wordcount: '141'
+ht-degree: 9%
 
 ---
 

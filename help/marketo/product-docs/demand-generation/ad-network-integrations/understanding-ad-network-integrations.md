@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382858
-description: 了解广告网络集成 — Marketo文档 — 产品文档
+description: 了解广告网络集成如何将Marketo受众数据连接到付费媒体。 运行目标营销活动、从广告中摄取潜在客户以及上传离线转化。
 title: 了解广告网络集成
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---

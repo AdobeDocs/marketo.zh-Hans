@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359677
-description: 在Lightbox中使用表单 — Marketo文档 — 产品文档
+description: 了解如何在Marketo的Lightbox中使用表单。 在登陆页面或网站上的弹出覆盖中显示您的表单。
 title: 在 Lightbox 中使用表单
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 15%
+source-wordcount: '107'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Lightbox是一种技术，可在您想要显示内容时在其前面打开表单。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-8.png)
 

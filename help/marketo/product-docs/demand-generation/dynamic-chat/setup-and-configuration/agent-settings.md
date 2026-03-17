@@ -1,11 +1,11 @@
 ---
-description: 代理设置 — Marketo文档 — 产品文档
+description: 了解如何在Dynamic Chat中配置代理日历和会议或实时聊天可用性。 连接Outlook或Gmail以进行约会计划。
 title: 代理设置
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '621'
 ht-degree: 1%
 
 ---

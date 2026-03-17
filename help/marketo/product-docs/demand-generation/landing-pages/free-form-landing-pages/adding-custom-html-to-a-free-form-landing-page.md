@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359730
-description: 将自定义HTML添加到自由表单登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将自定义HTML添加到自由格式登陆页面。 为自定义内容或跟踪插入HTML块。
 title: 向自由格式登录页面添加自定义 HTML
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '158'
 ht-degree: 10%
 
 ---
@@ -39,4 +39,4 @@ ht-degree: 10%
 
 >[!CAUTION]
 >
->如果您的自定义HTML是非渲染的(例如不可见的JavaScript函数或CSS)，请将元素放置在令人印象深刻的位置，如左上角。 仅当在其区域中单击时，元素轮廓才可见。
+>如果您的自定义HTML是非渲染的（例如不可见的JavaScript函数或CSS），请将元素放置在令人印象深刻的位置，如左上角。 仅当在其区域中单击时，元素轮廓才可见。

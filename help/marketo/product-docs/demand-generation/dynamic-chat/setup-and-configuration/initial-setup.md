@@ -1,11 +1,11 @@
 ---
-description: 初始设置 — Marketo文档 — 产品文档
+description: 了解如何为Marketo实例设置Dynamic Chat。 访问Admin Console、添加用户，并将Dynamic Chat连接到Marketo。
 title: 初始设置
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '120'
 ht-degree: 3%
 
 ---
@@ -24,12 +24,12 @@ ht-degree: 3%
 
    ![](assets/initial-setup-1.png)
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/initial-setup-2.png)
 
 ## 添加用户 {#add-users}
 
-1. 登录到Admin Console后，下一步要做的就是添加用户。 我们在此记录了该流程[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}。
+1. 登录到Admin Console后，下一步要做的就是添加用户。 我们在此记录了该流程[](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}。
 
 接下来，是时候[将Dynamic Chat连接到Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}。

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720275
-description: 在Facebook中创建自定义受众 — Marketo文档 — 产品文档
+description: 了解如何在Facebook中从Marketo创建自定义受众。 将Marketo列表发送到Facebook以进行有针对性的广告促销活动。
 title: 在 Facebook 中创建自定义受众
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '229'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->详细了解[&#x200B; [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自定义受众。
+>详细了解[ [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自定义受众。
 
 1. 查找并选择智能或静态列表，其中包含要从中创建受众的潜在客户。
 

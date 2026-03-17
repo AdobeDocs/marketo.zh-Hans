@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953038
-description: 克隆登陆页面测试组 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中克隆登陆页面测试组。 复制测试组以运行类似的测试或变体。
 title: 克隆登录页面测试组
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 

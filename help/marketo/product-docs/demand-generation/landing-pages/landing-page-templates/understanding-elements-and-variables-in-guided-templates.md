@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515069
-description: 了解引导式模板中的元素和变量 — Marketo文档 — 产品文档
+description: 了解Marketo引导式登陆页面模板中的元素和变量。 定义可编辑的内容以及内容的放置方式。
 title: 了解引导式模板中的元素和变量
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 10%
+source-wordcount: '198'
+ht-degree: 9%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 10%
   </tr>
   <tr>
    <td>颜色</td>
-   <td><p>颜色的可编辑十六进制代码</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>示例：背景颜色、字体颜色、边框颜色</p></td>
+   <td><p>颜色的可编辑十六进制代码</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>示例：背景颜色、字体颜色、边框颜色</p></td>
   </tr>
   <tr>
    <td>布尔值</td>

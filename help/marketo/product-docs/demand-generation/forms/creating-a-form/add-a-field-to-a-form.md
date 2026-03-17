@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359543
-description: 将字段添加到表单 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将字段添加到表单。 添加表单字段并将它们映射到人员或公司属性。
 title: 向表单添加字段
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '136'
 ht-degree: 12%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 在您[创建表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}并[选择主题](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}后，您可能需要添加其他字段以供他人填写。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-a-field-to-a-form-1.png)
 

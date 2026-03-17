@@ -1,10 +1,10 @@
 ---
-description: '[!DNL Dynamic Chat]活动 — Marketo文档 — 产品文档'
+description: 了解Dynamic Chat过滤器和智能列表触发器。 在Marketo中，使用触发的事件、参与事件和目标实现事件进行细分和自动化。
 title: '[!DNL Dynamic Chat]活动'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---

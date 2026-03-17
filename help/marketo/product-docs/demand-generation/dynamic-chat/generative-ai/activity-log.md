@@ -1,12 +1,12 @@
 ---
-description: 活动日志 — Marketo文档 — 产品文档
+description: 了解Dynamic Chat中的Generative AI活动日志。 在一个位置查看所有任务、所有者、类型并编辑历史记录。
 title: 活动日志
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 11%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 8%
 
    ![](assets/activity-log-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Activity log]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Activity log]** 选项卡。
 
    ![](assets/activity-log-2.png)
 

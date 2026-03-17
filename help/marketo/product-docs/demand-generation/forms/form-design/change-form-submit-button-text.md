@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359649
-description: 更改表单提交按钮文本 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中更改表单提交按钮文本。 自定义访客单击以提交的按钮上的标签。
 title: 更改表单提交按钮文本
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '86'
 ht-degree: 18%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 您可以快速轻松地将“表单”按钮从“提交”更改为任何其他词。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-4.png)
 

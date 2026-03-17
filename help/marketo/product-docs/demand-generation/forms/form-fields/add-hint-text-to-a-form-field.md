@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359671
-description: 将提示文本添加到表单字段 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将提示文本添加到表单字段。 显示占位符或帮助程序文本以引导访客。
 title: 向表单字段添加提示文本
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 14%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 14%
 >
 >表单&#x200B;**说明**&#x200B;是当访客将鼠标悬停在该字段上时显示的小工具提示。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-5.png)
 

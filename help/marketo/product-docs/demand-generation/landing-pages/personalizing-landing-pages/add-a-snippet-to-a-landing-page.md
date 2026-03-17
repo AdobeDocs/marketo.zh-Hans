@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359537
-description: 将代码片段添加到登陆页面 — Marketo文档 — 产品文档
+description: 了解如何向Marketo登陆页面添加代码片段。 使用代码片段跨页面重用内容块。
 title: 向登录页面添加代码段
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '110'
+ht-degree: 12%
 
 ---
 

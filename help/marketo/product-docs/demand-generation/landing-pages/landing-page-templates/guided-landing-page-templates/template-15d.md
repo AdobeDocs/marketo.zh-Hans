@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437825
-description: 模板15D - Marketo文档 — 产品文档
+description: 了解模板15D引导式登陆页面模板。 下载并将其用于您的Marketo登陆页面。
 title: 模板 15D
 exl-id: 424e4bb8-e223-42b3-a26d-ec9ea167e862
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 8%
+source-wordcount: '60'
+ht-degree: 6%
 
 ---
 
 # 模板 15D {#template-15d}
 
-右键单击以[下载模板15D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html?lang=zh-Hans)
+右键单击以[下载模板15D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)
 
 ![](assets/image2015-8-13-13-3a56-3a26.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **右键单击以下内容以下载此模板：**
 
-[模板15D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html?lang=zh-Hans)
+[模板15D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)

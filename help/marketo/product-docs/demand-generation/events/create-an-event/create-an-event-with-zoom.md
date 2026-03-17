@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17728023
-description: 使用 [!DNL Zoom] 创建事件 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中缩放以创建活动。 设置Zoom集成，并将会议或网络研讨会与您的活动程序同步。
 title: 创建具有 [!DNL Zoom]的事件
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 首先在[!DNL Zoom]中创建网络研讨会。 创建您的[!DNL Zoom]中的某些设置已被Marketo使用，而某些设置仅被[!DNL Zoom]使用。
 
-在您创建Marketo活动并为其关联[!DNL Zoom]网络研讨会后，系统将能够共享注册和出席信息。 有关创建网络研讨会的帮助，请参阅[网络研讨会快速入门 [!DNL Zoom] &#x200B;](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar)。
+在您创建Marketo活动并为其关联[!DNL Zoom]网络研讨会后，系统将能够共享注册和出席信息。 有关创建网络研讨会的帮助，请参阅[网络研讨会快速入门 [!DNL Zoom] ](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar)。
 
 为您的网络研讨会输入以下信息，这些信息将通过适配器拉入Marketo。 如果您对此信息进行了任何更改，则必须单击“事件操作”下的“从网络研讨会提供商刷新”链接，以便Marketo能够看到这些更改。
 

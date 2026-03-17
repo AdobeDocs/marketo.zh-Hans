@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437783
-description: 模板13A - Marketo文档 — 产品文档
+description: 了解模板13A引导式登陆页面模板。 下载并将其用于您的Marketo登陆页面。
 title: 模板 13A
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 8%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
 # 模板 13A {#template-13a}
 
-右键单击以[下载模板13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=zh-Hans)
+右键单击以[下载模板13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **右键单击以下内容以下载此模板：**
 
-[模板13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=zh-Hans)
+[模板13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)

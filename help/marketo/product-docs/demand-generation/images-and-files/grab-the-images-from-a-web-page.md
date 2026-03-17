@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359866
-description: 从网页中获取图像 — Marketo文档 — 产品文档
+description: 了解如何从网页中获取图像以放入Marketo。 将图像从URL导入到Design Studio中。
 title: 从网页抓取图像
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 若要从网页添加图像，请复制包含所需图像的网页的网址(URL)，然后执行以下简单步骤。
 
-1. 转到&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio-2.png)
 

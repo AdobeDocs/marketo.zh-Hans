@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359815
-description: 导出包含个性化URL的列表 — Marketo文档 — 产品文档
+description: 了解如何从Marketo导出包含个性化URL的列表。 获取具有唯一登陆页面URL的收件人列表。
 title: 导出包含个性化 URL 的列表
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '172'
+ht-degree: 6%
 
 ---
 

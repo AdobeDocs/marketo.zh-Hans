@@ -1,11 +1,11 @@
 ---
-description: Marketo销售人员Insight中的交互式网络研讨会 — Marketo文档 — 产品文档
+description: 了解如何将交互式网络研讨会与Marketo Sales Insight结合使用。 将网络研讨会参与与销售联系起来以更好地了解商机环境。
 title: Marketo 销售洞察中的交互式网络研讨会
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '231'
 ht-degree: 5%
 
 ---
@@ -16,9 +16,9 @@ Marketo销售部Insight中的交互式网络研讨会让您的网络研讨会活
 
 >[!PREREQUISITES]
 >
->仅已购买[Marketo Sales Insight](https://business.adobe.com/cn/products/marketo/sales-intelligence-engagement.html)加载项的人员支持此功能。
+>仅已购买[Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html)加载项的人员支持此功能。
 
-在Marketo Engage中注册活动后(在Adobe Connect中完成网络研讨会后)，通过MSI插件将它们实时同步到Salesforce。
+在Marketo Engage中注册活动后（在Adobe Connect中完成网络研讨会后），通过MSI插件将它们实时同步到Salesforce。
 
 Marketo Engage中已提供的每个活动都会同步。 这些活动包括：
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359798
-description: 添加其他登陆页面CNAME - Marketo文档 — 产品文档
+description: 了解如何在Marketo中添加其他登陆页面CNAME。 为登陆页面使用多个自定义域。
 title: 添加额外的登录页面 CNAME
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '230'
+ht-degree: 6%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 4%
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. 单击&#x200B;**我的帐户**。
+1. 点击&#x200B;**我的帐户**。
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 4%
 
 ## 向IT发送请求 {#send-request-to-it}
 
-1. 要求您的IT部门设置以下CNAME： (将单词[CNAME]替换为您选择的CNAME，将[Munchkin ID]替换为您上一步中的文本)。
+1. 要求您的IT部门设置以下CNAME： （将单词[CNAME]替换为您选择的CNAME，将[Munchkin ID]替换为您上一步中的文本）。
 
    [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 

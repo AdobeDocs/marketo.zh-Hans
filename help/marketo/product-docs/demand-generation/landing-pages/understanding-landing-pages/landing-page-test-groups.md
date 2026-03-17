@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949904
-description: 登陆页面测试组 — Marketo文档 — 产品文档
+description: 了解Marketo中的登陆页面测试组。 运行A/B或多变量测试以比较登陆页面的性能。
 title: 登陆页面测试组
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '184'
 ht-degree: 5%
 
 ---

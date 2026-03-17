@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515107
-description: 将表单添加到引导式登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将表单添加到引导式登陆页面。 插入一个表单元素，然后选择您的Marketo表单。
 title: 向引导式登录页面添加表单
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 13%
+source-wordcount: '171'
+ht-degree: 12%
 
 ---
 

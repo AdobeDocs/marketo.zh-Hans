@@ -1,12 +1,12 @@
 ---
-description: 响应库 — Marketo文档 — 产品文档
+description: 了解如何在Dynamic Chat中管理创作AI的响应库。 添加、编辑和批准聊天营销活动的问题和响应。
 title: 回复库
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 2%
+source-wordcount: '363'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 2%
 
    ![](assets/response-library-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Response library]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Response library]** 选项卡。
 
    ![](assets/response-library-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 2%
 
    ![](assets/response-library-3.png)
 
-1. 输入您的问题和回答。 分配主题并添加用户可与访客共享的可选URL。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入您的问题和回答。 分配主题并添加用户可与访客共享的可选URL。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/response-library-4.png)
 
@@ -89,7 +89,7 @@ ht-degree: 2%
 
    ![](assets/response-library-9.png)
 
-1. 输入适用的任务名称。 拖放文件，或浏览到设备上并选择该文件。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入适用的任务名称。 拖放文件，或浏览到设备上并选择该文件。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/response-library-10.png)
 

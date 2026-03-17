@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359644
-description: 显示已知人员的自定义HTML表单 — Marketo文档 — 产品文档
+description: 了解如何在Marketo表单中为已知人员显示自定义HTML。 为已识别的访客显示不同的内容或消息。
 title: 为已知用户显示自定义 HTML 表单
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 7%
+source-wordcount: '244'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 如果访客以前提供过其全名和电子邮件地址，并且您不希望他们获得整个表单，请了解如何向他们显示一些自定义HTML（例如，只需下载按钮）。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-5.png)
 

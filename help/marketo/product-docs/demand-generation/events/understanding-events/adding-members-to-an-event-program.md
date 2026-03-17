@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355758
-description: 将成员添加到事件程序 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将成员添加到事件程序。 将人员添加到您的计划以进行注册或出勤跟踪。
 title: 向事件项目中添加成员
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 9%
+source-wordcount: '176'
+ht-degree: 8%
 
 ---
 

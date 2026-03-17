@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515207
-description: 了解自由表单与引导式登陆页面 — Marketo文档 — 产品文档
+description: 了解Marketo中的自由表单与引导式登陆页面。 根据您的设计和工作流需求选择正确的类型。
 title: 了解自由格式与引导式登陆页面的区别
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '181'
 ht-degree: 6%
 
 ---

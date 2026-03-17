@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983101
-description: 将自定义字段映射到Marketo - Marketo文档 — 产品文档
+description: 了解如何将Facebook潜在客户广告自定义字段映射到Marketo。 确保潜在客户广告数据映射到Marketo中的正确人员字段。
 title: 将自定义字段映射到 Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 5%
+source-wordcount: '248'
+ht-degree: 6%
 
 ---
 

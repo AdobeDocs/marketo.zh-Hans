@@ -1,11 +1,11 @@
 ---
-description: 创作AI概述 — Marketo文档 — 产品文档
+description: 了解Dynamic Chat中的Generative AI以提高代理工作效率和访客意图。 使用响应卡、对话摘要和辅助响应。
 title: Dynamic Chat中的创新型人工智能
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '463'
 ht-degree: 2%
 
 ---

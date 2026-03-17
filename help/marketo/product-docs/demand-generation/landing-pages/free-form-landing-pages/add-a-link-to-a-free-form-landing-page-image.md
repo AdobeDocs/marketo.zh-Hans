@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359736
-description: 添加指向自由表单登陆页面图像的链接 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中的自由格式登陆页面上添加指向图像的链接。 使图像可单击以显示URL。
 title: 向自由格式登录页面图像添加链接
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 22%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 

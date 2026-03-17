@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359724
-description: 同时批准多个登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中一次批准多个登陆页面。 批量批准页面以使它们快速上线。
 title: 一次批准多个登录页面
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '90'
 ht-degree: 16%
 
 ---
 
 # 一次批准多个登录页面 {#approve-multiple-landing-pages-at-once}
 
-1. 转到&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 

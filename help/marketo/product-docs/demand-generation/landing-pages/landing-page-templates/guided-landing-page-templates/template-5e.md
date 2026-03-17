@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783926
-description: 模板5E - Marketo文档 — 产品文档
+description: 了解模板5E引导式登陆页面模板。 下载并将其用于您的Marketo登陆页面。
 title: 模板 5E
 exl-id: ca90093d-a420-4777-8ed4-970f29ffc575
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 7%
+source-wordcount: '67'
+ht-degree: 5%
 
 ---
 
 # 模板 5E {#template-5e}
 
-右键单击以[下载模板5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=zh-Hans)
+右键单击以[下载模板5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -29,4 +29,4 @@ ht-degree: 7%
 
 **右键单击以下内容以下载此模板：**
 
-[模板5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=zh-Hans)
+[模板5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)

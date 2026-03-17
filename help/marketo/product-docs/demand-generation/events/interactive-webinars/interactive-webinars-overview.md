@@ -1,12 +1,12 @@
 ---
-description: 交互式网络研讨会概述 — Marketo 文档 — 产品文档
+description: 了解Marketo中的交互式网络研讨会，用于实时和按需参与。 使用内置的参与工具创建、设计和提供网络研讨会。
 title: 交互式网络研讨会概述
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '517'
-ht-degree: 100%
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+workflow-type: tm+mt
+source-wordcount: '530'
+ht-degree: 96%
 
 ---
 

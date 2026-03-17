@@ -1,11 +1,11 @@
 ---
-description: 实时聊天概述 — Marketo文档 — 产品文档
+description: 了解访客与销售代理之间用于实时对话的实时聊天。 添加实时聊天代理、使用实时聊天卡并设置路由选项。
 title: 实时聊天概述
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '860'
 ht-degree: 1%
 
 ---

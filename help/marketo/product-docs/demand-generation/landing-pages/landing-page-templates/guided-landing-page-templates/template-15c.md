@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437822
-description: 模板15C - Marketo文档 — 产品文档
+description: 了解模板15C引导式登陆页面模板。 下载并将其用于您的Marketo登陆页面。
 title: 模板 15C
 exl-id: 63850bd7-1e63-4fcb-b420-d4528c17a914
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 8%
+source-wordcount: '57'
+ht-degree: 7%
 
 ---
 
 # 模板 15C {#template-15c}
 
-右键单击以[下载模板15C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html?lang=zh-Hans)
+右键单击以[下载模板15C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
 
 ![](assets/image2015-8-13-13-3a40-3a23.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **右键单击以下内容以下载此模板：**
 
-[模板15C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html?lang=zh-Hans)
+[模板15C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)

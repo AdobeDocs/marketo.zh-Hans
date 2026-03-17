@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359569
-description: 将表单字段设为必填 — Marketo文档 — 产品文档
+description: 了解如何使Marketo中的表单字段为必填。 要求访客在提交表单前完成字段。
 title: 将表单字段设为必填
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '108'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 [向表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}添加字段时，您可能希望填写这些字段的人员需要填写其中的一些字段。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/make-a-form-field-required-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359606
-description: 删除表单中的字段 — Marketo文档 — 产品文档
+description: 了解如何从Marketo表单中删除字段。 从表单中删除您不再需要的字段。
 title: 删除表单中的字段
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '78'
 ht-degree: 23%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 23%
 
 如果表单上存在您不再需要的字段，则可以轻松删除该字段。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

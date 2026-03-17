@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096679
-description: ON24事件集成示例 — Marketo文档 — 产品文档
+description: 从ON24事件与Marketo集成的示例中学习。 查看从网络研讨会创建到注册同步的示例流程。
 title: ON24 事件集成示例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '372'
 ht-degree: 2%
 
 ---

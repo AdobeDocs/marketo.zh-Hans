@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359722
-description: 将视频添加到自由格式登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将视频添加到自由格式登陆页面。 在登陆页面上嵌入视频内容。
 title: 向自由格式登录页面添加视频
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 7%
 
 ---

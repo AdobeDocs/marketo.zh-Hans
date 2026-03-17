@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949966
-description: 在表单中添加国家/地区选择列表 — Marketo文档 — 产品文档
+description: 了解如何将国家/地区选择列表添加到您的Marketo表单。 为访客提供一个下拉列表以选择他们的国家/地区。
 title: 向您的表单添加国家/地区选择列表
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 10%
+source-wordcount: '179'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 按照这些说明将国家/地区字段转换为包含所有国家/地区列表的下拉列表。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-9.png)
 

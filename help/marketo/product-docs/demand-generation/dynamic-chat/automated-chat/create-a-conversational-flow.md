@@ -1,12 +1,12 @@
 ---
-description: 创建对话流 — Marketo文档 — 产品文档
+description: 了解如何在Dynamic Chat中创建新对话流程。 选择模板、设置名称和语言，然后为流创建流。
 title: 创建会话流
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 10%
+source-wordcount: '99'
+ht-degree: 9%
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10098238
-description: LinkedIn社交表单填写常见问题解答 — Marketo文档 — 产品文档
+description: 获取有关LinkedIn社交表单填写Marketo表单的帮助。 查找有关LinkedIn表单填写集成的常见问题解答。
 title: LinkedIn 社交表单自动填充常见问题
 hide: true
 hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '529'
 ht-degree: 1%
 
 ---

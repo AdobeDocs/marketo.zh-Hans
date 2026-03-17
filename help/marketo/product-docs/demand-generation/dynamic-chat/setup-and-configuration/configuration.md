@@ -1,11 +1,11 @@
 ---
-description: 配置 — Marketo文档 — 产品文档
+description: 了解如何自定义Dynamic Chat对话框窗口的外观。 设置颜色、字体、位置、头像和通知声音。
 title: 配置
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 2%
 
 您将在此处定义显示对话框的聊天机器人的外观，包括：颜色、字体、机器人小部件的放置以及聊天机器人的名称/头像。
 
-每个类别的颜色由[十六进制颜色值](https://color.adobe.com/create/color-wheel){target="_blank"}确定(例如，白色= #ffffff，红色= #bf1932，等等)。
+每个类别的颜色由[十六进制颜色值](https://color.adobe.com/create/color-wheel){target="_blank"}确定（例如，白色= #ffffff，红色= #bf1932，等等）。
 
 ![](assets/configuration-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 2%
 
 ### 机器人设置 {#agent-settings}
 
-在“机器人设置”中，您可以向聊天盒添加标签(例如：“Adobe助手”)，该标签将显示在聊天盒顶部。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。 要上传您自己的头像图像，请单击&#x200B;**+**&#x200B;按钮。
+在“机器人设置”中，您可以向聊天盒添加标签（例如：“Adobe助手”），该标签将显示在聊天盒顶部。 您还可以确定响应延迟（以秒为单位），并更改您的聊天头像。 要上传您自己的头像图像，请单击&#x200B;**+**&#x200B;按钮。
 
 ![](assets/configuration-5.png)
 

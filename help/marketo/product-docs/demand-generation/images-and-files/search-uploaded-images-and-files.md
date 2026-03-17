@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359862
-description: 搜索上传的图像和文件 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中搜索上传的图像和文件。 在Design Studio中按名称或筛选器快速查找资源。
 title: 搜索已上传的图像和文件
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '94'
+ht-degree: 10%
 
 ---
 

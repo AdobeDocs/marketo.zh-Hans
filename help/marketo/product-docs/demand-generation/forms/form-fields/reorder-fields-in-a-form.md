@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359592
-description: 在表单中对字段重新排序 — Marketo文档 — 产品文档
+description: 了解如何在Marketo表单中对字段重新排序。 拖放以更改表单字段的顺序。
 title: 重新排序表单中的字段
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '80'
 ht-degree: 20%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 在Marketo表单上重新排序字段很容易。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

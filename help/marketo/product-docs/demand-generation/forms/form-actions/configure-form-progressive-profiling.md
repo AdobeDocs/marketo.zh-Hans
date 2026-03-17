@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359646
-description: 配置表单渐进式分析 — Marketo文档 — 产品文档
+description: 了解如何在Marketo表单上配置渐进式分析。 随时间显示不同的字段以收集更多数据，而无需较长表单。
 title: 配置表单渐进式侧写
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 3%
+source-wordcount: '321'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 >
 >要使此功能正常工作，请确保对可见字段启用表单预填充，对隐藏字段启用[禁用](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md)。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 3%
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. 好，现在让我们配置它。 转到&#x200B;**[!UICONTROL Field Details]**。
+1. 好，现在让我们配置它。 前往 **[!UICONTROL Field Details]**。
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 

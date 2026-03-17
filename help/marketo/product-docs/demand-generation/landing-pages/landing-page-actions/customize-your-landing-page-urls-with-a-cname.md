@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359746
-description: 使用CNAME自定义登陆页面URL - Marketo文档 — 产品文档
+description: 了解如何在Marketo中使用CNAME自定义登陆页面URL。 使用您自己的域作为登陆页面链接。
 title: 使用 CNAME 自定义登录页面 URL
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 7%
+source-wordcount: '236'
+ht-degree: 9%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 7%
 * info.YourCompany.com/NameOfPage.html
 * pages.YourCompany.com/NameOfPage.html
 
-一个字(加上YourCompany.com)称为CNAME。 你以后需要这个，所以记下来吧。
+一个字（加上YourCompany.com）称为CNAME。 你以后需要这个，所以记下来吧。
 
 ## 查找您的Munchkin ID {#find-your-munchkin-id}
 
@@ -37,7 +37,7 @@ ht-degree: 7%
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. 单击&#x200B;**我的帐户**。
+1. 点击&#x200B;**我的帐户**。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
@@ -51,7 +51,7 @@ ht-degree: 7%
 
 ## 向IT发送请求 {#send-request-to-it}
 
-请让您的IT员工设置以下CNAME： (将单词[CNAME]和[Munchkin ID]替换为上一步中的文本。)
+请让您的IT员工设置以下CNAME： （将单词[CNAME]和[Munchkin ID]替换为上一步中的文本。）
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12976798
-description: 设置LinkedIn潜在客户Gen Forms - Marketo文档 — 产品文档
+description: 了解如何使用Marketo设置LinkedIn潜在客户Gen Forms。 连接LinkedIn并通过LaunchPoint将潜在客户广告提交同步到Marketo。
 title: 设置 LinkedIn 潜在客户收集表单
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '489'
 ht-degree: 4%
 
 ---

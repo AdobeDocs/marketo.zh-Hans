@@ -1,12 +1,12 @@
 ---
-description: 将列表发送到广告网络 — Marketo文档 — 产品文档
+description: 了解如何将静态列表发送到LinkedIn、Facebook或Google。 使用“列表操作”和“发送到广告网络”来选择受众和同步选项。
 title: 将列表发送到广告网络
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 8%
+source-wordcount: '215'
+ht-degree: 7%
 
 ---
 

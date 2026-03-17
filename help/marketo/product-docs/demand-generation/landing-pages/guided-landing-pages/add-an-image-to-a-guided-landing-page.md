@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515027
-description: 将图像添加到引导式登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将图像添加到引导式登陆页面。 在模板中插入并配置图像元素。
 title: 向引导式登录页面添加图像
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 14%
+source-wordcount: '127'
+ht-degree: 13%
 
 ---
 

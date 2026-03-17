@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359532
-description: 在登陆页面中使用动态内容 — Marketo文档 — 产品文档
+description: 了解如何在Marketo登陆页面中使用动态内容。 向不同的区段或访客显示不同的内容。
 title: 在登录页面中使用动态内容
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 8%
+source-wordcount: '186'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 8%
 
 ## 添加分段 {#add-segmentation}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

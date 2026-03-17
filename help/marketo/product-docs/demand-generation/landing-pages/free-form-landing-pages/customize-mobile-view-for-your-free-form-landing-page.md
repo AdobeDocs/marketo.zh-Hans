@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472283
-description: 自定义自由表单登陆页面的移动视图 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中自定义自由格式登陆页面的移动视图。 调整移动访客的布局和内容。
 title: 为您的自由格式登录页面自定义移动端视图
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 5%
+source-wordcount: '363'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 5%
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. 单击&#x200B;**[!UICONTROL Mobile]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Mobile]** 选项卡。
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -107,7 +107,7 @@ ht-degree: 5%
    >
    >预览不是交互式的。 每部智能手机的显示方式都略有不同。 我们建议您在几个设备上预览登陆页面，以确切了解登陆页面的行为。
 
-玩得开心！
+尽情体验吧！
 
 >[!MORELIKETHIS]
 >

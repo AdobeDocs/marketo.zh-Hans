@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096675
-description: 创建子营销活动和本地Assets - Marketo文档 — 产品文档
-title: 创建子营销活动和本地资产
+description: 了解如何在Marketo中为ON24事件创建子营销活动和本地资源。 组织不同地区或语言的程序。
+title: 创建子营销活动和本地资源
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '661'
 ht-degree: 3%
 
 ---
 
-# 创建子营销活动和本地资产 {#create-child-campaigns-and-local-assets}
+# 创建子营销活动和本地资源 {#create-child-campaigns-and-local-assets}
 
 使用Design Studio创建子营销活动和本地资源。
 

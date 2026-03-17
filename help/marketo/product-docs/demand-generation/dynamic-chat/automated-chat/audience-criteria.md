@@ -1,11 +1,11 @@
 ---
-description: 受众标准 — Marketo文档 — 产品文档
+description: 了解用于定位可看到Dynamic Chat对话框的受众标准。 使用事件、人员和公司属性以及优先级定义受众。
 title: 受众标准
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '595'
 ht-degree: 1%
 
 ---
@@ -129,7 +129,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->* 使用星号就像一个全面的通配符。 因此，`https://*.website.com`将对话框置于网站的每个页面上，包括子域（例如： `support.website.com`）。 `https://website.com/folder/*`会将对话框放置到后续文件夹中的每个HTML页面上(例如：在此示例中，假设文件夹为“sports”，如：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>* 使用星号就像一个全面的通配符。 因此，`https://*.website.com`将对话框置于网站的每个页面上，包括子域（例如： `support.website.com`）。 `https://website.com/folder/*`会将对话框放置到后续文件夹中的每个HTML页面上（例如：在此示例中，假设文件夹为“sports”，如：website.com/sports/baseball.html、website.com/sports/football.html等）。
 >
 >* 目前不支持URL参数。
 

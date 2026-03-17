@@ -1,11 +1,11 @@
 ---
-description: Dynamic Chat常见问题解答 — Marketo文档 — 产品文档
+description: 获取有关Dynamic Chat访问、安装、数据保留和语言支持的帮助。 查找有关Marketo Engage Dynamic Chat的常见问题解答。
 title: Dynamic Chat常见问题解答
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Dynamic Chat通过Marketo Engage Salesforce集成与Salesforce集成。
 
 **是否可以使用Dynamic Chat直接从电子邮件预订会议？**
 
-是！[了解如何操作](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}。
+可以！[了解如何操作](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}。
 
 **“已参与”或“已获得人员”等术语的含义是什么？**
 

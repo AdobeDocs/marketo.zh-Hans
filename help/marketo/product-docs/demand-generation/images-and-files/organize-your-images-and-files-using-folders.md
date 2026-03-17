@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359880
-description: 使用文件夹组织图像和文件 — Marketo文档 — 产品文档
+description: 了解如何使用Marketo中的文件夹整理图像和文件。 在Design Studio中创建文件夹以保持资产井然有序。
 title: 使用文件夹组织您的图像和文件
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '98'
+ht-degree: 24%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 21%
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. 命名您的文件夹并单击&#x200B;**[!UICONTROL Create]**。
+1. 为文件夹命名，然后点击 **[!UICONTROL Create]**。
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 

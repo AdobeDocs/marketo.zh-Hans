@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359400
-description: 选择表单主题 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中选择表单主题。 选择主题以控制表单的外观。
 title: 选择表单主题
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '139'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 我们为你的表格做了很多好主题。 你最喜欢哪个？
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/select-a-form-theme-1.png)
 
@@ -28,7 +28,7 @@ ht-degree: 7%
    >
    >如果您的表单未获得批准，请单击&#x200B;**编辑草稿**。
 
-1. 转到&#x200B;**[!UICONTROL Form Settings]**。
+1. 前往 **[!UICONTROL Form Settings]**。
 
    ![](assets/select-a-form-theme-3.png)
 

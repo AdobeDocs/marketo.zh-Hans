@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096712
-description: 在ON24中创建网络研讨会活动 — Marketo文档 — 产品文档
+description: 了解如何在ON24中创建与Marketo一起使用的网络研讨会活动。 在与Marketo同步之前，在ON24中设置事件。
 title: 在 ON24 中创建网络研讨会事件
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 7%
+source-wordcount: '183'
+ht-degree: 6%
 
 ---
 

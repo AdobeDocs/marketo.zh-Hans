@@ -1,12 +1,12 @@
 ---
-description: 使用对话式流量登录页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo登陆页面中嵌入对话流程。 允许访客通过Dynamic Chat安排会议，而无需填写表单。
 title: 使用对话式流量登陆页面
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---

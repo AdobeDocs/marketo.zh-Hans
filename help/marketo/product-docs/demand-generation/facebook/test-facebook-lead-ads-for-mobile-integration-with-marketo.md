@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098759
-description: 测试Facebook潜在客户广告以了解Marketo与Mobile的集成 — Marketo文档 — 产品文档
+description: 了解如何测试Facebook Lead Ads与Marketo的移动集成。 验证来自移动同步的潜在客户广告提交是否正确。
 title: 测试 Facebook 潜在客户广告与 Marketo 的移动端集成
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 5%
+source-wordcount: '205'
+ht-degree: 4%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437556
-description: 模板11A - Marketo文档 — 产品文档
+description: 了解模板11A引导式登陆页面模板。 下载并将其用于您的Marketo登陆页面。
 title: 模板 11A
 exl-id: 5c8956d3-35e5-448a-bb5d-c18c9a82664e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 6%
 
 ---
 
 # 模板 11A {#template-11a}
 
-右键单击以[下载模板11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=zh-Hans)
+右键单击以[下载模板11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
 **右键单击以下内容以下载此模板：**
 
-[模板11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=zh-Hans)
+[模板11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)

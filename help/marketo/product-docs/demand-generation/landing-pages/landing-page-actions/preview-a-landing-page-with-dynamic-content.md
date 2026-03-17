@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359734
-description: 预览包含动态内容的登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中预览包含动态内容的登陆页面。 了解不同区段的内容会如何变化。
 title: 预览包含动态内容的登录页面
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 14%
 
 ---
 

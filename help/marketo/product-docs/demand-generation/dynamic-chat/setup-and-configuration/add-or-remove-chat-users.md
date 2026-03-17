@@ -1,12 +1,12 @@
 ---
-description: 添加或删除聊天用户 — Marketo文档 — 产品文档
+description: 了解如何在Adobe Admin Console中添加或删除Dynamic Chat用户。 分配产品配置文件和管理团队的访问权限。
 title: 添加或移除聊天用户
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 8%
+source-wordcount: '247'
+ht-degree: 12%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 8%
    >
    >如果您有多个Marketo订阅，请在下一步之前选择所需的订阅。
 
-1. 单击&#x200B;**[!UICONTROL Users]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Users]** 选项卡。
 
    ![](assets/add-or-remove-chat-users-3.png)
 
@@ -64,7 +64,7 @@ ht-degree: 8%
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. 单击&#x200B;**[!UICONTROL Roles]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Roles]** 选项卡。
 
    ![](assets/add-or-remove-chat-users-9.png)
 
@@ -90,7 +90,7 @@ ht-degree: 8%
    >
    >如果您有多个Marketo订阅，请在下一步之前选择所需的订阅。
 
-1. 单击&#x200B;**[!UICONTROL Users]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Users]** 选项卡。
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -102,7 +102,7 @@ ht-degree: 8%
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. 单击&#x200B;**[!UICONTROL Remove User]**&#x200B;确认。
+1. 单击 **[!UICONTROL Remove User]** 确认。
 
    ![](assets/add-or-remove-chat-users-17.png)
 

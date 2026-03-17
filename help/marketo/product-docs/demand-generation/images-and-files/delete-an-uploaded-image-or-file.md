@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359873
-description: 删除上传的图像或文件 — Marketo文档 — 产品文档
+description: 了解如何从Marketo中删除上传的图像或文件。 从Design Studio中删除您不再需要的资产。
 title: 删除已上传的图像或文件
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 17%
+source-wordcount: '107'
+ht-degree: 15%
 
 ---
 

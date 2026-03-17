@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359728
-description: 使用自由格式登陆页设计指南 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中使用自由格式登陆页设计指南。 对齐元素并保持布局与参考线一致。
 title: 使用参考线进行自由格式登录页面设计
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 13%
+source-wordcount: '111'
+ht-degree: 12%
 
 ---
 

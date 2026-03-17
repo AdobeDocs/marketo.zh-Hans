@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949777
-description: 事件合作伙伴 — Marketo文档 — 产品文档
+description: 了解Marketo中的活动合作伙伴。 了解受支持的网络研讨会和活动平台以及它们如何与Marketo集成。
 title: 事件合作伙伴
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 5%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 

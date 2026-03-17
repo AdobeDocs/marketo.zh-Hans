@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359578
-description: 批准表单 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中批准表单。 批准您的表单，以便将其用于登陆页面并开始捕获潜在客户。
 title: 批准表单
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '120'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 
 下面是如何批准已准备就绪的现有表单。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/approve-a-form-1.png)
 

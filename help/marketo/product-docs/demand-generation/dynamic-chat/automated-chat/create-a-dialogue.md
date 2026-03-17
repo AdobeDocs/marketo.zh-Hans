@@ -1,12 +1,12 @@
 ---
-description: 创建对话框 — Marketo文档 — 产品文档
+description: 了解如何在Dynamic Chat中创建新对话框。 选择一个模板，设置名称和优先级，然后为您的对话创建流。
 title: 创建对话
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 9%
+source-wordcount: '92'
+ht-degree: 7%
 
 ---
 

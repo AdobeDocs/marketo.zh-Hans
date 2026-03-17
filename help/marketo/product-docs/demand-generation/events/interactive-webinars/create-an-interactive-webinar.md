@@ -1,11 +1,11 @@
 ---
-description: 创建交互式网络研讨会 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中创建交互式网络研讨会。 按照以下步骤设置网络研讨会，并为实时或按需交付配置设置。
 title: 创建交互式网络研讨会
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---

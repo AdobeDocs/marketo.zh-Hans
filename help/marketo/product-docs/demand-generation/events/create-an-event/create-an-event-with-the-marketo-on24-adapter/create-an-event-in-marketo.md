@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096725
-description: 在Marketo中创建事件 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中为ON24集成创建事件。 设置项目并将其链接到您的ON24网络研讨会。
 title: 在 Marketo 中创建事件
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '149'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359742
-description: 筛选登陆页面性能报表 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中筛选登陆页面性能报表。 按日期、页面或其他标准缩小结果范围。
 title: 筛选登录页面性能报告
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 9%
+source-wordcount: '134'
+ht-degree: 8%
 
 ---
 

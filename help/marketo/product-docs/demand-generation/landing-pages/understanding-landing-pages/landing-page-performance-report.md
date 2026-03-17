@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359713
-description: 登陆页面性能报表 — Marketo文档 — 产品文档
+description: 了解Marketo中的登陆页面性能报表。 查看登陆页面的访问次数、转化次数和其他量度。
 title: 登陆页面性能报告
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '213'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->如果您看到智能列表和登陆页面性能报表之间的数字不一致，可能是因为智能列表仅过滤有关人员的数据，而登陆页面性能报表包括社交(Facebook、Google广告等)和匿名活动以及人员数据。
+>如果您看到智能列表和登陆页面性能报表之间的数字不一致，可能是因为智能列表仅过滤有关人员的数据，而登陆页面性能报表包括社交（Facebook、Google广告等）和匿名活动以及人员数据。
 
 1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择[!UICONTROL Landing Page Performance] [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)并单击[!UICONTROL Report]选项卡。

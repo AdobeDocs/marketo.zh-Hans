@@ -1,11 +1,11 @@
 ---
-description: 权限 — Marketo文档 — 产品文档
+description: 了解Admin Console中的Dynamic Chat权限和产品配置文件。 编辑现有配置文件或创建具有特定权限的自定义配置文件。
 title: 权限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '728'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096656
-description: 使用Marketo ON24适配器创建事件 — Marketo文档 — 产品文档
+description: 了解如何使用Marketo ON24适配器创建活动。 将ON24网络研讨会连接到Marketo并同步注册和出席情况。
 title: 使用 Marketo ON24 适配器创建事件
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '293'
 ht-degree: 6%
 
 ---

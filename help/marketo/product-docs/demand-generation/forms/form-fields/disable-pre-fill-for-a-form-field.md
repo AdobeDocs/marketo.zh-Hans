@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359675
-description: 禁用表单字段预填充 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中禁用表单字段的预填充。 停止已知访客数据自动填写字段。
 title: 禁用表单字段的预填充
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 8%
 
 ## 如何禁用预填充 {#how-to-disable-pre-fill}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-7.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096658
-description: 了解Marketo On24适配器事件 — Marketo文档 — 产品文档
+description: 了解Marketo ON24适配器以及它如何将ON24网络研讨会连接到Marketo。 了解事件类型和同步行为。
 title: 了解 Marketo On24 适配器事件
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 7%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 

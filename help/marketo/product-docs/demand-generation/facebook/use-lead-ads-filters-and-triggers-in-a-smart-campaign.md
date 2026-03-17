@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095239
-description: 在Smart Campaign中使用潜在客户广告过滤器和触发器 — Marketo文档 — 产品文档
+description: 了解如何在Marketo智能营销活动中使用Facebook潜在客户广告过滤器和触发器。 在潜在客户从Facebook提交时自动执行操作。
 title: 在智能营销活动中使用潜在客户广告过滤器和触发器
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 26%
+source-wordcount: '84'
+ht-degree: 23%
 
 ---
 

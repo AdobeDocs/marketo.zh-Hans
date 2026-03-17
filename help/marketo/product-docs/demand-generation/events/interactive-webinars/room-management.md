@@ -1,11 +1,11 @@
 ---
-description: 房间管理 — Marketo文档 — 产品文档
+description: 了解交互式网络研讨会的会议室管理。 创建和管理网络研讨会聊天室，并控制访问和设置。
 title: 会议室管理
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359710
-description: 批准、取消批准或删除登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中批准、取消批准或删除登陆页面。 控制哪些页面处于实时状态并删除您不再需要的页面。
 title: 批准、取消批准或删除登陆页面
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 10%
 
 ---
@@ -71,6 +71,6 @@ ht-degree: 10%
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-8.png)
 
-1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
+1. 单击 **[!UICONTROL Delete]** 确认。
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-9.png)

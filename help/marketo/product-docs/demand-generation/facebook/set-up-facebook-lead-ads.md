@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379622
-description: 设置Facebook潜在客户广告 — Marketo文档 — 产品文档
+description: 了解如何使用Marketo设置Facebook潜在客户广告。 连接您的Facebook帐户并将潜在客户广告提交同步到Marketo。
 title: 设置 Facebook 潜在客户广告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '336'
 ht-degree: 4%
 
 ---

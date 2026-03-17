@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359826
-description: 重定向URL路径 — Marketo文档 — 产品文档
+description: 了解如何重定向Marketo登陆页面的URL路径。 向新URL或登陆页面发送旧路径。
 title: 重定向 URL 路径
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '134'
+ht-degree: 10%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 9%
 
    您也可以[使用Marketo登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)作为目标。
 
-恭喜！您已成功重定向URL路径。
+恭喜！ 您已成功重定向URL路径。
 
 >[!MORELIKETHIS]
 >

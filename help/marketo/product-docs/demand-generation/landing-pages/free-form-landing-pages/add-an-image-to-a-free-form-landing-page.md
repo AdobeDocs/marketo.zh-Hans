@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359703
-description: 将图像添加到自由表单登陆页面 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中将图像添加到自由格式登陆页面。 从Design Studio插入和定位图像。
 title: 向自由格式登录页面添加图像
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 27%
+source-wordcount: '78'
+ht-degree: 24%
 
 ---
 

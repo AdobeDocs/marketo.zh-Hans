@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359575
-description: 预览表单 — Marketo文档 — 产品文档
+description: 了解发布之前如何在Marketo中预览表单。 检查桌面和移动设备上的布局和行为。
 title: 预览表单
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 9%
+source-wordcount: '75'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 在发布之前，您可以在此简单快速的表单预览器中查看表单。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/preview-a-form-1.png)
 
