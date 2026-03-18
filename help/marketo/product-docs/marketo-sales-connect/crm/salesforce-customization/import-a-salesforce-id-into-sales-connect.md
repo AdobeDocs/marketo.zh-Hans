@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352469
-description: 将Salesforce ID导入Sales Connect - Marketo文档 — 产品文档
+description: 了解如何将Salesforce ID导入Sales Connect。 将Salesforce记录映射到Sales Connect联系人以进行同步。
 title: 将 Salesforce ID 导入 Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '149'
 ht-degree: 9%
 
 ---

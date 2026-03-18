@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352508
-description: 创建自定义动态字段 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect模板中创建自定义动态字段。 添加将联系人或用户数据提取到电子邮件中的合并字段。
 title: 创建自定义动态字段
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 4%
+source-wordcount: '237'
+ht-degree: 3%
 
 ---
 

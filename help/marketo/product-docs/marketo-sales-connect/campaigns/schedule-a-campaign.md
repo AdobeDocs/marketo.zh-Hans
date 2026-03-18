@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352612
-description: 计划活动 — Marketo文档 — 产品文档
+description: 了解如何安排Sales Connect营销活动。 设置每个电子邮件步骤的发送时间，或在添加人员时使用与第一个电子邮件相同的时间。
 title: 计划营销活动
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '184'
 ht-degree: 3%
 
 ---

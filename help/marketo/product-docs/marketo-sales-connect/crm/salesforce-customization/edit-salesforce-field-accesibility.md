@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352472
-description: 编辑Salesforce字段辅助功能 — Marketo文档 — 产品文档
+description: 了解如何编辑Sales Connect的Salesforce字段辅助功能。 控制Sales Connect可在Salesforce中读取或写入哪些字段。
 title: 编辑 Salesforce 字段可访问性
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 7%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 

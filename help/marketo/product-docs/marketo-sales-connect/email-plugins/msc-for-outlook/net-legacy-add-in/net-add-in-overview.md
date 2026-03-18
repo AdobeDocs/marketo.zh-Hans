@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352457
-description: .NET插件概述 — Marketo文档 — 产品文档
+description: 了解适用于Outlook的Sales Connect .NET加载项。 了解旧版加载项以及它如何与Outlook桌面配合使用。
 title: .NET 加载项概述
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 6%
 
 ---

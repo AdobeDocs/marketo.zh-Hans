@@ -1,12 +1,12 @@
 ---
 unique-page-id: 27656223
-description: 为Professional Edition客户安装 [!DNL Salesforce] 自定义 — Marketo文档 — 产品文档
+description: 了解如何安装Professional Edition的Sales Connect Salesforce自定义设置。 设置使用Salesforce PE时的自定义设置。
 title: 安装Professional Edition客户的 [!DNL Salesforce] 自定义
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,6 @@ ht-degree: 0%
 
 ## 指南 {#guides}
 
-《Salesforce Classic安装指南》[&#128279;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+《Salesforce Classic安装指南》[](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
 Salesforce Lightning的[安装指南](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15368208
-description: 如何在Salesforce沙盒中安装自定义项 — Marketo文档 — 产品文档
+description: 了解如何在Salesforce沙盒中安装Sales Connect自定义项。 将按钮和字段部署到沙盒以进行测试。
 title: 如何在 Salesforce 沙盒中安装自定义设置
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 25%
+source-wordcount: '75'
+ht-degree: 26%
 
 ---
 

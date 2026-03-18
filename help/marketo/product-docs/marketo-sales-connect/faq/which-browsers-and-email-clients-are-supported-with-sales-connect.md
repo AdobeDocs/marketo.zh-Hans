@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352422
-description: Sales Connect支持哪些浏览器和电子邮件客户端？ - Marketo 文档 - 产品文档
+description: 了解Sales Connect支持哪些浏览器和电子邮件客户端。 在安装Gmail或Outlook插件之前，请检查兼容性。
 title: Sales Connect 支持哪些浏览器和电子邮件客户端？
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 28%
+source-wordcount: '105'
+ht-degree: 26%
 
 ---
 

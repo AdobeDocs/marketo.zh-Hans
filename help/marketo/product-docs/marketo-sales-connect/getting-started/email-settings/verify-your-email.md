@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746491
-description: 验证您的电子邮件 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中验证电子邮件。 完成电子邮件验证，以便能够发送跟踪的销售电子邮件。
 title: 验证您的电子邮件
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 9%
+source-wordcount: '84'
+ht-degree: 8%
 
 ---
 

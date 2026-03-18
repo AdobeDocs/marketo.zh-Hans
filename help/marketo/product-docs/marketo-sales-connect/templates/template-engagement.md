@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352504
-description: 模板参与度 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的模板参与。 在Analytics中查看哪些模板可获得最多的查看、点击和回复。
 title: 模板互动情况
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '187'
 ht-degree: 2%
 
 ---

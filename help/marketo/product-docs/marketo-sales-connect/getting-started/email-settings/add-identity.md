@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352412
-description: 添加标识 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中添加电子邮件标识。 设置发送身份并验证跟踪电子邮件的电子邮件地址。
 title: 添加身份标识
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '179'
 ht-degree: 3%
 
 ---

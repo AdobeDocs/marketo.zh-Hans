@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745611
-description: 添加到营销活动 — Marketo文档 — 产品文档
+description: 了解如何从Sales Connect将个人或组添加到Marketo营销活动。 在工作区选择中使用“人员”选项卡和“营销活动”选项。
 title: 添加到营销活动
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 4%
+source-wordcount: '297'
+ht-degree: 6%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 4%
 
    ![](assets/four-3.png)
 
-1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果您选择这样做，请单击&#x200B;**[!UICONTROL Individuals]**&#x200B;并键入它们。 完成后单击&#x200B;**[!UICONTROL Next]**。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果您选择这样做，请单击&#x200B;**[!UICONTROL Individuals]**&#x200B;并键入它们。 完成后，单击 **[!UICONTROL Next]**。
 
    ![](assets/five-2.png)
 
@@ -77,7 +77,7 @@ ht-degree: 4%
 
    ![](assets/twelve.png)
 
-1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果您选择这样做，请单击&#x200B;**[!UICONTROL Individuals]**&#x200B;并键入它们。 完成后单击&#x200B;**[!UICONTROL Next]**。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果您选择这样做，请单击&#x200B;**[!UICONTROL Individuals]**&#x200B;并键入它们。 完成后，单击 **[!UICONTROL Next]**。
 
    ![](assets/thirteen.png)
 

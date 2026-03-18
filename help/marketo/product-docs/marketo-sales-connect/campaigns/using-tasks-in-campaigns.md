@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352619
-description: 在营销活动中使用任务 — Marketo文档 — 产品文档
+description: 了解任务在Sales Connect营销活动中的工作方式。 使用电子邮件、呼叫、InMail和自定义任务，并在命令中心或Salesforce中管理它们。
 title: 在营销活动中使用任务
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 4%
+source-wordcount: '207'
+ht-degree: 3%
 
 ---
 

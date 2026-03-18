@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746655
-description: 自定义版本 — Marketo文档 — 产品文档
+description: 了解Salesforce的Sales Connect自定义版本。 了解版本历史记录以及如何更新或回退自定义项。
 title: 自定义版本
 exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '76'
+ht-degree: 5%
 
 ---
 

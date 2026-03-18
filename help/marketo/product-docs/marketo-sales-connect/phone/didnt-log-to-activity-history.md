@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352489
-description: 未登录到活动历史记录 — Marketo文档 — 产品文档
+description: 当Sales Connect活动未记录到Salesforce活动历史记录时获取帮助。 排查活动历史记录中缺少的调用或电子邮件问题。
 title: 未记录到活动历史记录
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 

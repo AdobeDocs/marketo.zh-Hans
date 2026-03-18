@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352602
-description: 我的动态字段未填写 — Marketo文档 — 产品文档
+description: 当动态字段未在Sales Connect中填写时获取帮助。 对合并字段显示空白或不正确数据的原因进行故障诊断。
 title: 我的动态字段未填充
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '288'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356587
-description: 将附件或可跟踪内容添加到电子邮件 — Marketo文档 — 产品文档
+description: 了解如何向Sales Connect电子邮件添加附件或可跟踪内容。 在撰写窗口中附加文件或添加跟踪链接。
 title: 向电子邮件添加附件或可跟踪内容
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '290'
 ht-degree: 6%
 
 ---

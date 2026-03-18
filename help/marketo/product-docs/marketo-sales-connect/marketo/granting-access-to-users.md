@@ -1,11 +1,11 @@
 ---
-description: 授予用户访问权限 — Marketo文档 — 产品文档
+description: 了解如何从Marketo向用户授予Sales Connect访问权限。 使用Marketo管理员为您的团队配置Sales Connect。
 title: 授予用户访问权限
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '199'
 ht-degree: 4%
 
 ---

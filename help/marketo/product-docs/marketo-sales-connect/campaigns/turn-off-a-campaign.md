@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352609
-description: 关闭营销活动 — Marketo文档 — 产品文档
+description: 了解如何在收件人回复时关闭Sales Connect营销活动。 结束针对一个人员的营销活动，或从已发送文件夹中批量删除多个人员。
 title: 关闭营销活动
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 7%
+source-wordcount: '160'
+ht-degree: 6%
 
 ---
 

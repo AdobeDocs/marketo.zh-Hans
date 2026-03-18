@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352638
-description: 创建新类别 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中创建新模板类别。 按团队的类别组织模板。
 title: 创建新类别
 exl-id: 0bb6b244-dfc9-442d-bf85-1535bbe00f8a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 16%
+source-wordcount: '59'
+ht-degree: 13%
 
 ---
 

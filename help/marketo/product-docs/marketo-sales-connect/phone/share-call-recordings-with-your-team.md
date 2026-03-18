@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352437
-description: 与您的团队共享通话录制 — Marketo文档 — 产品文档
+description: 了解如何与您的团队共享Sales Connect通话录制。 访问并共享录制的培训或跟进电话。
 title: 与团队共享通话录音
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 6%
 
 ---
 

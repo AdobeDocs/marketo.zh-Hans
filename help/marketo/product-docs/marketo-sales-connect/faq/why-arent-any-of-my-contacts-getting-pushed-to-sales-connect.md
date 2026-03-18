@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352486
-description: 为什么我的任何联系人都没有推送到Sales Connect？ - Marketo 文档 - 产品文档
+description: 当没有联系人从Salesforce推送到Sales Connect时，获取帮助。 连接和同步设置疑难解答。
 title: 为什么我的任何联系人都没有被推送到 Sales Connect？
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 19%
+source-wordcount: '81'
+ht-degree: 13%
 
 ---
 

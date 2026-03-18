@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352455
-description: 安装适用于Outlook的Sales Connect电子邮件插件 — Marketo文档 — 产品文档
+description: 了解如何安装适用于Outlook的Sales Connect电子邮件插件。 添加插件以发送跟踪的电子邮件并使用Outlook中的模板。
 title: 安装适用于Outlook的Sales Connect电子邮件插件
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 6%
+source-wordcount: '194'
+ht-degree: 7%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 6%
 >
 >i.转到“帮助”按钮（位于“Outlook”右侧的顶部导航区域中）
 >
->二、 在下拉菜单中选择&#x200B;**[!UICONTROL Check for Updates]**
+>ii. 在下拉菜单中选择&#x200B;**[!UICONTROL Check for Updates]**
 >
->三、 请更新到最新版本的Outlook，完成后，请返回这些步骤
+>iii. 请更新到最新版本的Outlook，完成后，请返回这些步骤
 
 ![](assets/install-the-sales-connect-email-plugin-for-outlook-1.png)
 

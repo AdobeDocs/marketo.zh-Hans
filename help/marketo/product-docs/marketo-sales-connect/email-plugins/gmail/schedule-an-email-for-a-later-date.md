@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352441
-description: 安排稍后发送电子邮件 — Marketo文档 — 产品文档
+description: 了解如何通过Gmail插件安排在以后发送电子邮件。 设置发送时间，以便在需要时发出跟踪电子邮件。
 title: 安排电子邮件稍后发送
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '145'
+ht-degree: 9%
 
 ---
 

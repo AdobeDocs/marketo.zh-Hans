@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352546
-description: 阻止将次要Gmail地址与Sales Connect集成 — Marketo文档 — 产品文档
+description: 了解如何防止辅助Gmail地址与Sales Connect集成。 仅将您的主电子邮件用于插件。
 title: 防止辅助 Gmail 地址与 Sales Connect 集成
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '317'
 ht-degree: 2%
 
 ---

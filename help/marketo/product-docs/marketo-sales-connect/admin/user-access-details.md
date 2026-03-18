@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352623
-description: 用户访问详细信息 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的管理员和非管理员用户权限。 了解每个角色可以访问哪些模板、营销活动和人员。
 title: 用户访问详情
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---

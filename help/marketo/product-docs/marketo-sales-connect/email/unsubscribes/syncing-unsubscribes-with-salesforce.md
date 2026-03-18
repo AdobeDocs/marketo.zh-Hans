@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746188
-description: 与Salesforce同步取消订阅 — Marketo文档 — 产品文档
+description: 了解如何将Sales Connect取消订阅与Salesforce同步。 保持选择退出状态同步，这样您就不会通过电子邮件发送已取消订阅的联系人。
 title: 将取消订阅与 Salesforce 同步
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '401'
 ht-degree: 2%
 
 ---

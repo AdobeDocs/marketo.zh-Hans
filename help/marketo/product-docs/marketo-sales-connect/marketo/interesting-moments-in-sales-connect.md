@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30082174
-description: Sales Connect中的有趣时刻 — Marketo文档 — 产品文档
+description: 了解Sales Connect和Marketo中的有趣时刻。 了解销售活动如何创建流向Live Feed的时刻。
 title: Sales Connect 中的关键时刻
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '279'
 ht-degree: 1%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >Marketo还将添加发生的日期以及添加有趣时刻的方式(即潜在客户操作>流程步骤、SOAP API)。
+   >Marketo还将添加发生的日期以及添加有趣时刻的方式（即潜在客户操作>流程步骤、SOAP API）。
 
 ## 在Marketo中，一个有趣的时刻是什么样的？  {#what-does-an-interesting-moment-look-like-in-marketo}
 

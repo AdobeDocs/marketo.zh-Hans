@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356565
-description: 发送跟踪电子邮件 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中发送跟踪电子邮件。 从撰写窗口发送，并跟踪打开、点击和回复。
 title: 发送可跟踪电子邮件
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 4%
+source-wordcount: '202'
+ht-degree: 3%
 
 ---
 

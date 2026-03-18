@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352630
-description: 删除模板 — Marketo文档 — 产品文档
+description: 了解如何删除Sales Connect中的模板。 从帐户或类别中删除不再需要的模板。
 title: 删除模板
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 11%
+source-wordcount: '67'
+ht-degree: 13%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 11%
 
 1. 单击右上方的下拉菜单，然后单击&#x200B;**[!UICONTROL Delete]**。
 
-1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
+1. 单击 **[!UICONTROL Delete]** 确认。

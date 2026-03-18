@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45416566
-description: 双方同意设置 — Marketo文档 — 产品文档
+description: 了解Sales Connect呼叫记录的双方同意设置。 遵守需要获得同意才能进行记录的州法律。
 title: 双方同意设置
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '148'
+ht-degree: 6%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
    ![](assets/five.png)
 
-1. 上传完成后，在文件管理器中选择dota（三个点），然后单击&#x200B;**[!UICONTROL Select as Consent Notice]**。 完成后单击&#x200B;**[!UICONTROL OK]**。
+1. 上传完成后，在文件管理器中选择dota（三个点），然后单击&#x200B;**[!UICONTROL Select as Consent Notice]**。 完成后，单击 **[!UICONTROL OK]**。
 
    ![](assets/six.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727591
-description: Outlook用户的电子邮件连接 — Marketo文档 — 产品文档
+description: 了解Sales Connect中Outlook用户的电子邮件连接。 连接Outlook以发送跟踪的电子邮件并记录到Salesforce。
 title: 为 Outlook 用户设置电子邮件连接
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 5%
+source-wordcount: '279'
+ht-degree: 8%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 5%
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**[!UICONTROL Email Connection]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Email Connection]** 选项卡。
 
    ![](assets/three.png)
 
-1. 点击 **[!UICONTROL Get Started]**。
+1. 单击 **[!UICONTROL Get Started]**。
 
    ![](assets/four.png)
 
@@ -80,7 +80,7 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >[!DNL Outlook Online (Office365)]强制自身的发送限制。 [在此了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
+   >[!DNL Outlook Online (Office365)]强制自身的发送限制。 [在此处了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
 
 ## 正在连接到[!DNL Exchange On-Premise] {#connecting-to-exchange-on-premise}
 
@@ -94,11 +94,11 @@ ht-degree: 5%
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**[!UICONTROL Email Connection]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Email Connection]** 选项卡。
 
    ![](assets/three.png)
 
-1. 点击 **[!UICONTROL Get Started]**。
+1. 单击 **[!UICONTROL Get Started]**。
 
    ![](assets/four.png)
 

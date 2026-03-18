@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317340
-description: Marketo取消订阅检查 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的Marketo取消订阅检查。 了解Sales Connect在发送时如何遵守Marketo取消订阅状态。
 title: Marketo 取消订阅检查
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 5%
+source-wordcount: '190'
+ht-degree: 6%
 
 ---
 

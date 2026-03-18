@@ -1,11 +1,11 @@
 ---
-description: 与Salesforce同步提醒任务 — Marketo文档 — 产品文档
+description: 了解Sales Connect提醒任务如何与Salesforce同步。 了解同步行为以及任务在Salesforce中的显示位置。
 title: 提醒任务与 Salesforce 同步
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762794
-description: 在 [!DNL Salesforce] Classic - Marketo文档 — 产品文档中使用批量操作
+description: 了解如何在Salesforce Classic中将批量操作与Sales Connect结合使用。 一次将多个潜在客户或联系人推送到Sales Connect。
 title: 在 [!DNL Salesforce] Classic中使用批量操作
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---

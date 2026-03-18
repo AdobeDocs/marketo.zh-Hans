@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352530
-description: 命令中心概述 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的Command Center。 在一个位置管理您的电子邮件任务、发送邮件和跟进。
 title: 指挥中心概述
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '568'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 1%
    <td title="背景颜色：蓝色">用户为了禁用电子邮件跟踪而存档的电子邮件。</td>
   </tr>
   <tr>
-   <td title="背景颜色：灰色"><strong title="">待定</strong></td>
+   <td title="背景颜色：灰色"><strong title="">待处理</strong></td>
    <td title="背景颜色：灰色">[!UICONTROL Scheduled]</td>
    <td title="背景颜色：灰色">当前计划发出的电子邮件。 发送电子邮件后，该电子邮件将移至已投放文件夹。</td>
   </tr>

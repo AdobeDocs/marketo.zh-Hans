@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317338
-description: 阻止的域 — Marketo文档 — 产品文档
+description: 了解如何阻止Sales Connect中的域，以防止向竞争对手发送电子邮件或垃圾邮件陷阱。
 title: 已阻止的域名
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '97'
+ht-degree: 7%
 
 ---
 

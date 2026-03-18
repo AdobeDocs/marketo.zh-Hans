@@ -1,12 +1,12 @@
 ---
-description: 致电原因 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的致电原因。 设置并记录为何您称为结果，以正确同步到Salesforce。
 title: 通话原因
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 4%
+source-wordcount: '160'
+ht-degree: 3%
 
 ---
 

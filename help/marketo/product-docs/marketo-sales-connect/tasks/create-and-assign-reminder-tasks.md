@@ -1,12 +1,12 @@
 ---
-description: 创建和分配提醒任务 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中创建和分配提醒任务。 为您自己或团队成员设置跟进任务。
 title: 创建并分配提醒任务
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 10%
 
 ---
 
@@ -46,6 +46,6 @@ ht-degree: 8%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 添加您希望在完成任务时可以使用的任务的任何详细信息，例如通话笔记、InMail消息模板甚至有关人员的笔记。 完成后单击&#x200B;**[!UICONTROL Create]**。
+1. 添加您希望在完成任务时可以使用的任务的任何详细信息，例如通话笔记、InMail消息模板甚至有关人员的笔记。 完成后，单击 **[!UICONTROL Create]**。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

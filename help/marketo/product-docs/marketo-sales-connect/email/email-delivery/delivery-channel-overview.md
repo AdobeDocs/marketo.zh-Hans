@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352407
-description: 投放渠道概述 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的投放渠道。 了解电子邮件的发送方式以及连接和自定义渠道之间的区别。
 title: 发送渠道概述
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '564'
 ht-degree: 1%
 
 ---

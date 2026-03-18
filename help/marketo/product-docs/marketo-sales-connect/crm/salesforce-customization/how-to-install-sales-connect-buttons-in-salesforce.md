@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352473
-description: 如何在Salesforce中安装Sales Connect按钮 — Marketo文档 — 产品文档
+description: 了解如何在Salesforce中安装Sales Connect按钮。 将“推送到Sales Connect”按钮和其他按钮添加到Salesforce布局。
 title: 如何在 Salesforce 中安装 Sales Connect 按钮
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 20%
+source-wordcount: '112'
+ht-degree: 18%
 
 ---
 

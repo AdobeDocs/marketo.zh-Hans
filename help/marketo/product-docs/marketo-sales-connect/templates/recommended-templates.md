@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352510
-description: 推荐模板 — Marketo文档 — 产品文档
+description: 了解Sales Connect中推荐的模板。 查看哪些模板获得了最佳参与并将它们用于外联。
 title: 推荐模板
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '320'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 现在，选择您的条件。 当满足您的动态字段条件时，将推荐该模板。 从4个不同的条件中进行选择。
 
-**[!UICONTROL Equals]**：值必须为完全匹配(例如Marketo等于Marketo)
+**[!UICONTROL Equals]**：值必须为完全匹配（例如Marketo等于Marketo）
 
 **[!UICONTROL Does not Equal]**：值必须为完全匹配之外的任何值（例如，营销国家/地区不等于营销）
 

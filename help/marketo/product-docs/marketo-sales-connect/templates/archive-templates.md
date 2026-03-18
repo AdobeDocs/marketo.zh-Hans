@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352640
-description: 存档模板 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中存档模板。 存档旧模板，以便它们保持可用，但不要使活动列表混乱。
 title: 存档模板
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 5%
+source-wordcount: '93'
+ht-degree: 4%
 
 ---
 

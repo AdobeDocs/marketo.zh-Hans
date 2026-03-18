@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352621
-description: 了解发送选项 — Marketo文档 — 产品文档
+description: 了解Sales Connect中促销活动电子邮件步骤的发送选项。 选择发送时间，创建任务以自己发送，或将电子邮件线程化到上一个任务。
 title: 了解发送选项
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 1%
+source-wordcount: '616'
+ht-degree: 0%
 
 ---
 

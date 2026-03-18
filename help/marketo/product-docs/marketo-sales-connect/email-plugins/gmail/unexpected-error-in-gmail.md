@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352545
-description: Gmail中出现意外错误 — Marketo文档 — 产品文档
+description: 当您在Sales Connect Gmail插件中看到意外错误时，获取帮助。 连接和插件错误疑难解答。
 title: Gmail 中的意外错误
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 11%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 

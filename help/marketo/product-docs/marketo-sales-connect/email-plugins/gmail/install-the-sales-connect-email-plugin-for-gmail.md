@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352450
-description: 安装适用于Gmail的Sales Connect电子邮件插件 — Marketo文档 — 产品文档
+description: 了解如何安装适用于Gmail的Sales Connect电子邮件插件。 添加插件以发送跟踪的电子邮件并使用Gmail中的模板。
 title: 为 Gmail 安装 Sales Connect 电子邮件插件
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '94'
+ht-degree: 20%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 19%
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Plugins]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Plugins]** 选项卡。
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-3.png)
 

@@ -1,12 +1,12 @@
 ---
-description: 访问新的Sales Connect实例 — Marketo文档 — 产品文档
+description: 了解如何访问新的Sales Connect实例。 获取供Marketo管理员授予对Sales Connect的访问权限的配置步骤。
 title: 访问您的新 Sales Connect 实例
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 11%
+source-wordcount: '125'
+ht-degree: 10%
 
 ---
 

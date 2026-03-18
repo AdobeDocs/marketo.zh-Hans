@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45416564
-description: 启用呼叫记录 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中启用呼叫记录。 打开销售电话的录制并遵守双方同意。
 title: 启用通话录音
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 6%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 

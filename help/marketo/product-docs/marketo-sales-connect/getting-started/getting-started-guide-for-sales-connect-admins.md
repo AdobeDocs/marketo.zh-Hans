@@ -1,11 +1,11 @@
 ---
-description: ' [!DNL Sales Connect] 管理员入门指南 — Marketo文档 — 产品文档'
+description: 了解如何设置新的Sales Connect实例。 按照以下步骤访问帐户、邀请用户、连接Salesforce和Marketo。
 title: ' [!DNL Sales Connect] 管理员入门指南'
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---

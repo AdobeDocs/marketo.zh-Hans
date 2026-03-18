@@ -1,12 +1,12 @@
 ---
-description: 设置Marketo连接 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中设置Marketo连接。 将Sales Connect连接到Marketo ，以了解促销活动和有趣的时刻。
 title: 设置您的 Marketo 连接
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 6%
+source-wordcount: '168'
+ht-degree: 5%
 
 ---
 

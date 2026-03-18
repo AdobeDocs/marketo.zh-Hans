@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357302
-description: 电子邮件列和电子邮件页面布局 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的电子邮件列和电子邮件页面布局。 自定义哪些列显示在命令中心和电子邮件视图中。
 title: 电子邮件列和电子邮件页面布局
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '468'
 ht-degree: 3%
 
 ---

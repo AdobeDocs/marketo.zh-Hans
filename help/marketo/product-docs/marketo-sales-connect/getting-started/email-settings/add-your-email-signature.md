@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352410
-description: 添加电子邮件签名 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中添加电子邮件签名。 为从Web应用程序或插件发送的销售电子邮件设置默认签名。
 title: 添加您的电子邮件签名
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 8%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 

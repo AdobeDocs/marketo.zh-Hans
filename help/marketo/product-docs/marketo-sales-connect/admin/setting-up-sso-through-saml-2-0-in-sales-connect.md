@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352405
-description: 在 [!DNL Sales Connect] 中通过SAML 2.0设置SSO- Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中通过SAML 2.0设置SSO。 获取您的SSO提供商和唯一域的要求和设置步骤。
 title: 通过 [!DNL Sales Connect]中的SAML 2.0设置SSO
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---

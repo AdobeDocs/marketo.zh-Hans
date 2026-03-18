@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352613
-description: 将人员添加到您的活动 — Marketo文档 — 产品文档
+description: 了解如何从Web应用程序、“人员”页面或Gmail和Outlook将人员添加到Sales Connect促销活动。 预览、编辑和计划第一个电子邮件步骤。
 title: 将人员添加到您的营销活动
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '200'
 ht-degree: 5%
 
 ---

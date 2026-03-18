@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357306
-description: 使用快速操作加快您的工作流 — Marketo文档 — 产品文档
+description: 了解如何使用Sales Connect中的快速操作来加快您的工作流程。 只需单击一下即可从命令中心完成常见任务。
 title: 使用快速操作加快工作流程
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '326'
 ht-degree: 6%
 
 ---

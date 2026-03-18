@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746177
-description: 重新订阅和取消订阅 — Marketo文档 — 产品文档
+description: 了解如何重新订阅已在Sales Connect中取消订阅的联系人。 在适当时恢复他们接收销售电子邮件的能力。
 title: 重新订阅已取消订阅的用户
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 1%
+source-wordcount: '199'
+ht-degree: 3%
 
 ---
 

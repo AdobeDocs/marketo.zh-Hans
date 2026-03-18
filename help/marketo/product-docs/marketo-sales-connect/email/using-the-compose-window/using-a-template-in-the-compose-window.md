@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356593
-description: 在撰写窗口中使用模板 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect撰写窗口中使用模板。 在发送跟踪电子邮件之前插入模板并进行个性化。
 title: 在撰写窗口中使用模板
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 6%
+source-wordcount: '234'
+ht-degree: 5%
 
 ---
 

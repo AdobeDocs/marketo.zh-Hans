@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352490
-description: 未登录到Salesforce - Marketo文档 — 产品文档
+description: 当Sales Connect活动未登录到Salesforce时获取帮助。 解决电子邮件、呼叫或任务未同步的原因。
 title: 未记录到 Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '88'
+ht-degree: 4%
 
 ---
 

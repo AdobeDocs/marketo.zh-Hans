@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356329
-description: 高级搜索概述 — Marketo文档 — 产品文档
+description: 了解Sales Connect Command Center中的高级搜索。 按收件人、日期、促销活动或其他过滤器查找电子邮件和任务。
 title: 高级搜索概述
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '389'
 ht-degree: 4%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 4%
 | **[!UICONTROL By Group]** | 按特定收件人组过滤电子邮件。 |
 | **[!UICONTROL By Person]** | 按特定收件人筛选。 |
 
-**时间**
+**When**
 
 按创建日期、交付日期、失败日期或计划日期进行选择。 可用选项会根据您选择的电子邮件状态([!UICONTROL Sent]、[!UICONTROL Undelivered]、[!UICONTROL Pending])而发生更改。
 

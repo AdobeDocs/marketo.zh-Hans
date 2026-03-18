@@ -1,23 +1,23 @@
 ---
 unique-page-id: 37356584
-description: 通过群电子邮件发送电子邮件 — Marketo文档 — 产品文档
-title: 通过群组电子邮件发送邮件
+description: 了解如何在Sales Connect中通过群电子邮件发送电子邮件。 向组发送一封电子邮件，并跟踪每个收件人的参与情况。
+title: 通过群组电子邮件发送电子邮件
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 
-# 通过群组电子邮件发送邮件 {#sending-emails-via-group-email}
+# 通过群组电子邮件发送电子邮件 {#sending-emails-via-group-email}
 
 以下是如何使用群电子邮件选项发送/编辑电子邮件。
 
 ## 发送群电子邮件 {#sending-a-group-email}
 
-1. 单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL People]** 选项卡。
 
    ![](assets/one-3.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745655
-description: 使营销活动对Sales Connect用户可见 — Marketo文档 — 产品文档
+description: 了解如何使Sales Connect用户能够看到Marketo促销活动。 共享营销活动，以便销售商可以从Sales Connect添加潜在客户。
 title: 使营销活动对 Sales Connect 用户可见
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 10%
+source-wordcount: '107'
+ht-degree: 14%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 10%
 
    ![](assets/make-a-marketing-campaign-visible-msc-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Smart List]** 选项卡。
 
    ![](assets/make-a-marketing-campaign-visible-msc-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 10%
 
    ![](assets/make-a-marketing-campaign-visible-msc-4.png)
 
-1. 单击&#x200B;**[!UICONTROL Flow]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Flow]** 选项卡。
 
    ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 

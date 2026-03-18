@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355755
-description: 内容锁定 — Marketo文档 — 产品文档
+description: 了解如何启用内容锁定，以限制非管理员用户编辑模板和营销活动。
 title: 内容锁定
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 4%
+source-wordcount: '104'
+ht-degree: 6%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 4%
 
    ![](assets/two-4.png)
 
-1. 向下滚动到[!UICONTROL Content Lockdown]。 打开任一滑块将&#x200B;_禁用_&#x200B;您的团队成员创建/编辑模板和/或营销活动的能力。
+1. 向下滚动至 [!UICONTROL Content Lockdown]。打开任一滑块将&#x200B;_禁用_&#x200B;您的团队成员创建/编辑模板和/或营销活动的能力。
 
    ![](assets/three-4.png)

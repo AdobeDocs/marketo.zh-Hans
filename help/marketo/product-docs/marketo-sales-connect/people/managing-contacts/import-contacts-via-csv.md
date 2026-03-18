@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352468
-description: 通过CSV导入联系人 — Marketo文档 — 产品文档
+description: 了解如何通过CSV将联系人导入Sales Connect。 上传CSV文件以一次添加多个联系人或组。
 title: 通过 CSV 导入联系人
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '124'
+ht-degree: 10%
 
 ---
 
@@ -37,6 +37,6 @@ ht-degree: 9%
 
    ![](assets/four.png)
 
-1. 将CSV中的列映射到[!DNL Sales Connect]中各自的字段。 完成后单击&#x200B;**[!UICONTROL Next]**。
+1. 将CSV中的列映射到[!DNL Sales Connect]中各自的字段。 完成后，单击 **[!UICONTROL Next]**。
 
    ![](assets/five.png)

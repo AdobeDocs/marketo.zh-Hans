@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352442
-description: 附加一段内容 — Marketo文档 — 产品文档
+description: 了解如何从Gmail插件附加一段内容。 将可跟踪的内容或文件从Gmail添加到Sales Connect电子邮件中。
 title: 附加内容
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 15%
+source-wordcount: '79'
+ht-degree: 12%
 
 ---
 

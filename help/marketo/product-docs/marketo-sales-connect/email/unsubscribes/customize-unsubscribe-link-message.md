@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746186
-description: 自定义取消订阅链接消息 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中自定义取消订阅链接消息。 更改取消订阅链接的文本收件人，请参见。
 title: 自定义取消订阅链接信息
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '196'
 ht-degree: 4%
 
 ---

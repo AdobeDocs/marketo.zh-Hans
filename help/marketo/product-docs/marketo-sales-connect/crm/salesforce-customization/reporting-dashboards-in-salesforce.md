@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352464
-description: Salesforce中的报表功能板 — Marketo文档 — 产品文档
+description: 了解如何使用Sales Connect数据的Salesforce中的报表功能板。 在Salesforce报表和功能板中查看呼叫和电子邮件活动。
 title: Salesforce 中的报告仪表板
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '195'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 1. 选择&#x200B;**[!UICONTROL Tasks and Events]**&#x200B;记录类型。
 1. 根据所需的时间范围和层次结构定义报表参数。
-1. 添加筛选器以移除记录到[!DNL Salesforce]的内部电子邮件(例如公司/帐户不等于Marketo)。
+1. 添加筛选器以移除记录到[!DNL Salesforce]的内部电子邮件（例如公司/帐户不等于Marketo）。
 1. 选择&#x200B;**[!UICONTROL Summary]**&#x200B;报表格式。
 1. 将“主题”、“已分配”和“Marketo Sales Clicked/Marketo Sales Viewed”字段添加到报表中。
 1. 在“字段”窗格中双击&#x200B;**[!UICONTROL Add Formula]**。

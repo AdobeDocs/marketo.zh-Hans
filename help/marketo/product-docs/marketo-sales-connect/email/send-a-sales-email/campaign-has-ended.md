@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352587
-description: 营销活动已结束 — Marketo文档 — 产品文档
+description: 在Sales Connect中看到Campaign已结束时获取帮助。 了解无法发送的原因以及活动完成后要执行的操作。
 title: 活动已结束
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 8%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

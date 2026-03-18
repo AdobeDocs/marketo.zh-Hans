@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352485
-description: 是否可以恢复我删除的联系人或组？ - Marketo 文档 - 产品文档
+description: 获取有关是否可以在Sales Connect中恢复已删除的联系人或组的帮助。 了解删除后的恢复选项。
 title: 我可以恢复已删除的联系人或群组吗？
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '87'
+ht-degree: 20%
 
 ---
 

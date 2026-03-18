@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352549
-description: Gmail未提取Sales Connect签名 — Marketo文档 — 产品文档
+description: 当Gmail未提取Sales Connect签名时获取帮助。 修复该插件，以便您的默认签名显示在Gmail中。
 title: Gmail 未导入 Sales Connect 签名
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 28%
+source-wordcount: '60'
+ht-degree: 23%
 
 ---
 

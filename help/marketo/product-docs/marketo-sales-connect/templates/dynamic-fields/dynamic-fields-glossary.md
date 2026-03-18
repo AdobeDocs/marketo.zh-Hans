@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352509
-description: 动态字段术语表 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的动态字段。 使用此术语表查找用于模板和个性化的可用合并字段。
 title: 动态字段术语表
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746470
-description: 设置自定义投放渠道 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中设置自定义投放渠道。 使用您自己的SMTP或发送用于销售电子邮件的基础架构。
 title: 设置自定义发送渠道
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---

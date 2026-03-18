@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356575
-description: 批量发送选项 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的批量发送选项。 选择如何向多个收件人发送电子邮件并控制时间或个性化。
 title: 批量发送选项
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 2%
+source-wordcount: '272'
+ht-degree: 4%
 
 ---
 

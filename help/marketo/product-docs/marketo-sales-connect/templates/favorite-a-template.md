@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352633
-description: 收藏模板 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中收藏模板。 将模板固定到列表顶部以便在合成时快速访问。
 title: 收藏模板
 exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '84'
+ht-degree: 7%
 
 ---
 

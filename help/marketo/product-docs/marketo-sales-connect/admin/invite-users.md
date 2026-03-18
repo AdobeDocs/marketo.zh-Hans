@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352402
-description: 邀请用户 — Marketo文档 — 产品文档
+description: 了解如何邀请用户访问您的Sales Connect帐户。 通过“设置”和“用户管理”添加团队成员以进行快速入门。
 title: 邀请用户
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 11%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 

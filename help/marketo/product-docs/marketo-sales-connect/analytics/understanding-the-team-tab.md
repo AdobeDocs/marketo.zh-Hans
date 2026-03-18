@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: 了解[!UICONTROL Team]选项卡 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的“团队”选项卡和团队范围的指标。 查看随模板、参与高峰时间、已完成的交易和代表排行榜一起发送的电子邮件。
 title: 了解[!UICONTROL Team]选项卡
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352406
-description: 创建子团队 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中创建子团队并向其中添加人员。 组织模板、营销活动和组。
 title: 创建子团队
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 13%
 
 ---
 
@@ -53,6 +53,6 @@ ht-degree: 11%
 
    ![](assets/eight.png)
 
-1. 完成后单击&#x200B;**[!UICONTROL Add To Teams]**。
+1. 完成后，单击 **[!UICONTROL Add To Teams]**。
 
    ![](assets/nine.png)

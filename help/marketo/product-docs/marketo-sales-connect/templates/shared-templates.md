@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352503
-description: 共享模板 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的共享模板。 与您的团队或特定团队共享模板，并控制谁可以编辑。
 title: 共享模板
 exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '99'
 ht-degree: 4%
 
 ---

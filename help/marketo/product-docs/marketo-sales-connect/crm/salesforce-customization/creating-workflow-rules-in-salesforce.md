@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745823
-description: 在Salesforce中创建工作流规则 — Marketo文档 — 产品文档
+description: 了解如何在Salesforce中为Sales Connect活动创建工作流规则。 在Sales Connect记录电子邮件或调用时自动执行操作。
 title: 在 Salesforce 中创建工作流规则
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 4%
+source-wordcount: '405'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->这仅会影响同时使用&#x200B;**1&rbrace; MSI和MSE以及希望在MSI中使用最佳匹配功能的客户。**&#x200B;如果您不需要/使用“最佳匹配”，则可以忽略。
+>这仅会影响同时使用&#x200B;**1} MSI和MSE以及希望在MSI中使用最佳匹配功能的客户。**&#x200B;如果您不需要/使用“最佳匹配”，则可以忽略。
 
 ## 快速入门 {#getting-started}
 

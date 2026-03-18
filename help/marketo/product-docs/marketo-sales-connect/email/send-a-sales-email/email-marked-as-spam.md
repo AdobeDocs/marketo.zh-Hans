@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352525
-description: 电子邮件标记为垃圾邮件 — Marketo文档 — 产品文档
-title: 电子邮件被标记为垃圾邮件
+description: 当您的Sales Connect电子邮件被标记为垃圾邮件时，获取帮助。 了解如何减少垃圾邮件投诉并提高可投放性。
+title: 电子邮件被标记为垃圾电子邮件
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '231'
 ht-degree: 3%
 
 ---
 
-# 电子邮件被标记为垃圾邮件 {#email-marked-as-spam}
+# 电子邮件被标记为垃圾电子邮件 {#email-marked-as-spam}
 
 作为一家公司，我们努力确保我们的可投放性保持高水平。 但是，某些用户行为和设置可能会触发将已发送的电子邮件路由到垃圾邮件文件夹。
 

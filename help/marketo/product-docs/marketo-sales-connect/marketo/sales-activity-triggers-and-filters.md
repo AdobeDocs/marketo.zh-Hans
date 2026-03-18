@@ -1,11 +1,11 @@
 ---
-description: 销售活动触发器和过滤器 — Marketo文档 — 产品文档
+description: 了解Marketo中的销售活动触发器和过滤器。 使用Sales Connect活动触发智能营销活动和过滤器。
 title: 销售活动触发器和过滤器
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 8%
 
 ---

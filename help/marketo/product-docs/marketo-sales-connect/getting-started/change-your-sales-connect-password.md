@@ -1,12 +1,12 @@
 ---
-description: 更改Sales Connect密码 — Marketo文档 — 产品文档
+description: 了解如何更改Sales Connect密码。 从“设置”中更新密码以确保帐户的安全。
 title: 更改您的 Sales Connect 密码
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 8%
+source-wordcount: '163'
+ht-degree: 11%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 8%
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. 输入当前密码。 然后，输入新密码，然后重新键入以确保它们匹配。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入当前密码。 然后，输入新密码，然后重新键入以确保它们匹配。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -55,6 +55,6 @@ ht-degree: 8%
    >
    >也请务必检查您的垃圾邮件文件夹，因为此电子邮件有时可能最终会到达该位置。
 
-1. 输入并确认新密码。 完成后单击&#x200B;**[!UICONTROL Set Password]**。
+1. 输入并确认新密码。 完成后，单击 **[!UICONTROL Set Password]**。
 
    ![](assets/change-your-sales-connect-password-7.png)

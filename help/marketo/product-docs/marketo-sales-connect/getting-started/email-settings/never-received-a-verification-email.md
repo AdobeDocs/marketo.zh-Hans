@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352411
-description: 从未收到验证电子邮件 — Marketo文档 — 产品文档
+description: 如果您从未收到Sales Connect验证电子邮件，请获取帮助。 排除故障并请求新的验证电子邮件。
 title: 从未收到验证电子邮件
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 21%
+source-wordcount: '56'
+ht-degree: 19%
 
 ---
 

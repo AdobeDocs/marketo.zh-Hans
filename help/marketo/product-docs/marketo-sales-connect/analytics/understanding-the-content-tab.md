@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352615
-description: 了解内容选项卡 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的内容选项卡和模板参与量度。 查看机密武器、最高和最低接触模板以及顶层附件。
 title: 了解“内容”选项卡
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '196'
 ht-degree: 2%
 
 ---

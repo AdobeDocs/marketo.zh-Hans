@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352436
-description: 销售电话本地存在 — Marketo文档 — 产品文档
+description: 了解Sales Phone在Sales Connect中的本地存在。 进行出站呼叫时显示本地呼叫者ID以提高应答率。
 title: 销售电话本地显示
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '151'
 ht-degree: 5%
 
 ---

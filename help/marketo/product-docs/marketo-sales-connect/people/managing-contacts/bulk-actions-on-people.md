@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081230
-description: 人员批量操作 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect的“人员”页面上使用批量操作。 添加到营销活动、从营销活动中删除或删除多个联系人。
 title: 批量操作人员
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 8%
+source-wordcount: '155'
+ht-degree: 7%
 
 ---
 

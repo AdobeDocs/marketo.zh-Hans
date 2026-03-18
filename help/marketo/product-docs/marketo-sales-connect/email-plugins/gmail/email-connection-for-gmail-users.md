@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17728401
-description: Gmail用户的电子邮件连接 — Marketo文档 — 产品文档
+description: 了解Sales Connect中Gmail用户的电子邮件连接。 连接Gmail以发送跟踪的电子邮件并将活动记录到Salesforce。
 title: 为 Gmail 用户设置电子邮件连接
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 9%
+source-wordcount: '175'
+ht-degree: 12%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 9%
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**[!UICONTROL Email Connection]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Email Connection]** 选项卡。
 
    ![](assets/three.png)
 
-1. 点击 **[!UICONTROL Get Started]**。
+1. 单击 **[!UICONTROL Get Started]**。
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ ht-degree: 9%
 
    ![](assets/five.png)
 
-1. 点击 **[!UICONTROL OK]**。
+1. 单击 **[!UICONTROL OK]**。
 
    ![](assets/six.png)
 
@@ -59,4 +59,4 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->Gmail强制执行其自身的发送限制。 [在此了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
+>Gmail强制执行其自身的发送限制。 [在此处了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。

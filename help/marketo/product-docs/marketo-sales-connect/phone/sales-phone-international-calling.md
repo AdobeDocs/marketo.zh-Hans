@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352434
-description: 销售人员电话国际通话 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的Sales Phone国际呼叫。 拨打和记录国际电话，并检查受支持国家/地区。
 title: 销售电话国际呼叫
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '409'
 ht-degree: 7%
 
 ---

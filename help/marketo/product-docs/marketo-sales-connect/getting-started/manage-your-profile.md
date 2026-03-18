@@ -1,12 +1,12 @@
 ---
-description: 管理配置文件 — Marketo文档 — 产品文档
+description: 了解如何管理Sales Connect配置文件。 在Web应用程序中更新您的姓名、电子邮件和其他配置文件设置。
 title: 管理您的轮廓
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 2%
+source-wordcount: '244'
+ht-degree: 4%
 
 ---
 
@@ -66,7 +66,7 @@ ht-degree: 2%
 
    ![](assets/manage-your-profile-7.png)
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/manage-your-profile-8.png)
 

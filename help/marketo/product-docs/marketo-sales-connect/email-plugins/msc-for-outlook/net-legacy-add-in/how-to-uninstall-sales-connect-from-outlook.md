@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352451
-description: 如何从Outlook卸载Sales Connect - Marketo文档 — 产品文档
+description: 了解如何从Outlook卸载Sales Connect插件。 需要时从Outlook桌面删除加载项。
 title: 如何从 Outlook 卸载 Sales Connect
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 11%
+source-wordcount: '70'
+ht-degree: 10%
 
 ---
 

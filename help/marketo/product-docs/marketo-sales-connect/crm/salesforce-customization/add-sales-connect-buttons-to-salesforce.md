@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352463
-description: 将Sales Connect按钮添加到 [!DNL Salesforce] - Marketo文档 — 产品文档
+description: 了解如何将Sales Connect按钮添加到Salesforce。 将Connect按钮置于Salesforce中，以便快速访问Sales Connect操作。
 title: 将 Sales Connect 按钮添加到 Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '139'
 ht-degree: 4%
 
 ---

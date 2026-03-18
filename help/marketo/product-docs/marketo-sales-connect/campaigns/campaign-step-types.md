@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746690
-description: Campaign步骤类型 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的Campaign步骤类型。 添加电子邮件、呼叫、InMail或自定义任务步骤以构建多渠道营销活动。
 title: 营销活动步骤类型
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 4%
 
 ---

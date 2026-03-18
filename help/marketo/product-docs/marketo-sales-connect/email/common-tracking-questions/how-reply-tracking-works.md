@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352482
-description: 回复跟踪的工作方式 — Marketo文档 — 产品文档
+description: 了解回复跟踪在Sales Connect中的工作方式。 了解如何检测回复并将其记录到Salesforce或Marketo。
 title: 回复跟踪的工作原理
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '174'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352639
-description: 创建新模板 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中创建新电子邮件模板。 使用动态字段和可跟踪内容构建可重用模板。
 title: 创建新模板
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 8%
+source-wordcount: '105'
+ht-degree: 7%
 
 ---
 

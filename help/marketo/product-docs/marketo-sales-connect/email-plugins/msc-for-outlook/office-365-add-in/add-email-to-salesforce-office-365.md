@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352447
-description: 将电子邮件添加到Salesforce (Office 365) - Marketo文档 — 产品文档
+description: 了解如何从Outlook Office 365插件向Salesforce添加电子邮件。 将发送或接收的电子邮件记录到正确的Salesforce记录。
 title: 将电子邮件添加到 Salesforce（Office 365）
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 5%
+source-wordcount: '124'
+ht-degree: 4%
 
 ---
 

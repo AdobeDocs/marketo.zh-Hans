@@ -1,10 +1,10 @@
 ---
-description: 事务性销售电子邮件模板 — Marketo文档 — 产品文档
+description: 了解Sales Connect中的事务性销售电子邮件模板。 使用绕过事务型消息取消订阅的模板。
 title: 交易型销售电子邮件模板
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '182'
 ht-degree: 4%
 
 ---

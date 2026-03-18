@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352494
-description: 我的帐户被锁定了。我该怎么办？ - Marketo 文档 - 产品文档
+description: 在锁定Sales Connect帐户后获取帮助。 了解如何重置密码或联系支持人员以重新获得访问权限。
 title: 我的帐户被锁定了。我该怎么办？
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 51%
+source-wordcount: '71'
+ht-degree: 30%
 
 ---
 

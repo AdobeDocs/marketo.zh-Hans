@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352408
-description: 如何在我的服务器上允许列表Sales Connect？ - Marketo 文档 - 产品文档
+description: 了解如何在您的服务器上允许列表Sales Connect。 添加所需的IP或域，以便Sales Connect能够发送和跟踪电子邮件。
 title: 如何在服务器上将 Sales Connect 加入允许列表？
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 18%
+source-wordcount: '78'
+ht-degree: 11%
 
 ---
 

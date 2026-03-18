@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352548
-description: 如何从Gmail卸载Sales Connect - Marketo文档 — 产品文档
+description: 了解如何从Gmail卸载Sales Connect插件。 需要时，从您的Gmail帐户中删除插件。
 title: 如何从 Gmail 卸载 Sales Connect
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 13%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 

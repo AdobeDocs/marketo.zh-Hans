@@ -1,11 +1,11 @@
 ---
-description: 将致电原因和致电结果记录到Salesforce - Marketo文档 — 产品文档
+description: 了解如何从Sales Connect将致电原因和致电结果记录到Salesforce。 确保将呼叫处置同步到正确的Salesforce字段。
 title: 将通话原因和通话结果记录到 Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '426'
 ht-degree: 4%
 
 ---

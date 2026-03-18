@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352637
-description: 将自动取消订阅添加到模板 — Marketo文档 — 产品文档
+description: 了解如何将自动取消订阅添加到Sales Connect模板。 包含取消订阅链接，以便收件人可以选择退出。
 title: 为模板添加自动取消订阅功能
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 13%
+source-wordcount: '82'
+ht-degree: 12%
 
 ---
 

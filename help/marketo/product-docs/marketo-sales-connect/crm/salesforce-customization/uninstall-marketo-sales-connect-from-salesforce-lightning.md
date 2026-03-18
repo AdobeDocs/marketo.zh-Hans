@@ -1,10 +1,10 @@
 ---
-description: 从Salesforce Lightning卸载Marketo Sales Connect - Marketo文档 — 产品文档
+description: 了解如何从Salesforce Lightning卸载Marketo Sales Connect。 从Lightning中删除Sales Connect自定义项和按钮。
 title: 从 Salesforce Lightning 中卸载 Marketo Sales Connect
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1199'
 ht-degree: 9%
 
 ---

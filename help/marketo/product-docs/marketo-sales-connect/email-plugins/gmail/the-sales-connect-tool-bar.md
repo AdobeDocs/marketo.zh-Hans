@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352444
-description: Sales Connect工具栏 — Marketo文档 — 产品文档
+description: 了解Gmail中的Sales Connect工具栏。 使用插件工具栏插入模板、跟踪电子邮件并登录到Salesforce。
 title: Sales Connect 工具栏
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '103'
+ht-degree: 6%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352592
-description: 如何插入动态字段 — Marketo文档 — 产品文档
+description: 了解如何将动态字段插入Sales Connect模板。 在模板编辑器中添加名字、公司和其他合并字段。
 title: 如何插入动态字段
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '235'
 ht-degree: 4%
 
 ---

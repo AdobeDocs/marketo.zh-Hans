@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417460
-description: 将任务分配给团队成员 — Marketo文档 — 产品文档
+description: 了解如何在Sales Connect中将任务分配给团队成员。 从命令中心或实时馈送委派电子邮件或呼叫任务。
 title: 将任务分配给团队成员
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 12%
+source-wordcount: '121'
+ht-degree: 10%
 
 ---
 

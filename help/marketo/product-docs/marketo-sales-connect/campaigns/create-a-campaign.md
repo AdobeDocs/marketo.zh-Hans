@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352618
-description: 创建营销活动 — Marketo文档 — 产品文档
+description: 了解如何创建包含电子邮件、呼叫、InMail和自定义任务步骤的Sales Connect营销活动。 在一个地方组织、安排和衡量外联工作。
 title: 创建营销活动
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 那么，如何设置营销活动？
 
-1. 单击&#x200B;**[!UICONTROL Campaigns]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Campaigns]** 选项卡。
 
    ![](assets/one-1.png)
 
@@ -36,7 +36,7 @@ ht-degree: 2%
    >
    >通过单击&#x200B;**旁边的**+**[!UICONTROL Categories]**&#x200B;创建新类别。
 
-1. 将选择您选择的类别。 如果您改变了主意，请单击下拉菜单并选择另一个下拉菜单。 完成后，单击&#x200B;**[!UICONTROL &#x200B; Continue]**。
+1. 将选择您选择的类别。 如果您改变了主意，请单击下拉菜单并选择另一个下拉菜单。 完成后，单击&#x200B;**[!UICONTROL  Continue]**。
 
    ![](assets/three-1.png)
 

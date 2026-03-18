@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13796464
-description: Sales Connect概述 — Marketo文档 — 产品文档
+description: 了解Marketo Sales Connect以及它如何在整个销售周期中推动参与。 使用实时信息源、人员详细信息和营销活动将销售与营销联系起来。
 title: Sales Connect 概述
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '254'
 ht-degree: 9%
 
 ---
