@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355602
-description: 在Marketo联机中安装和配置Microsoft Dynamics Sales Insight - Marketo文档 — 产品文档
+description: 了解如何在Microsoft Dynamics Online中安装和配置Marketo Sales Insight 。 为Dynamics Online设置解决方案。
 title: 在 Microsoft Dynamics Online 中安装和配置 Marketo Sales Insight
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 4%
+source-wordcount: '411'
+ht-degree: 6%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 4%
 
 ## 连接Marketo和[!DNL Sales Insight] {#connect-marketo-and-sales-insight}
 
-让我们在[!DNL Sales Insight]中将您的Marketo实例关联到[!DNL Dynamics]。 方法如下：
+让我们在[!DNL Sales Insight]中将您的Marketo实例关联到[!DNL Dynamics]。 以下是具体操作方法：
 
 >[!NOTE]
 >
@@ -155,11 +155,11 @@ ht-degree: 4%
 
 最后，您必须授予特定用户使用[!DNL Marketo Sales Insight]的访问权限。
 
-1. 转到&#x200B;**[!UICONTROL Settings]**。
+1. 前往 **[!UICONTROL Settings]**。
 
    ![](assets/image2014-12-12-9-3a8-3a34-1.png)
 
-1. 转到&#x200B;**[!UICONTROL Security]**。
+1. 前往 **[!UICONTROL Security]**。
 
    ![](assets/image2015-4-29-14-3a56-3a33-1.png)
 

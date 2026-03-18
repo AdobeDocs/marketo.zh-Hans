@@ -1,11 +1,11 @@
 ---
-description: 投放渠道概述 — Marketo文档 — 产品文档
+description: 了解在Sales Insight操作中发送销售电子邮件的投放渠道。 了解投放渠道如何启用跟踪和投放。
 title: 发送渠道概述
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---

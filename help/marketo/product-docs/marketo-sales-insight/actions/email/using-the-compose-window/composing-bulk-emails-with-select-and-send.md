@@ -1,13 +1,13 @@
 ---
-description: 使用选择并发送撰写批量电子邮件 — Marketo文档 — 产品文档
+description: 了解如何使用“选择并发送”来撰写和发送批量电子邮件。 从“人员”页面中选择联系人并大规模发送个性化电子邮件。
 title: 使用选择并发送功能撰写批量电子邮件
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '398'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 促销活动步骤类型和提醒任务 — Marketo文档 — 产品文档
+description: 了解Sales Campaign步骤类型和提醒任务。 在命令中心和Salesforce中使用“电子邮件”、“呼叫”、“InMail”和“自定义任务”步骤和队列任务。
 title: 销售营销活动步骤类型和提醒任务
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 5%
+source-wordcount: '325'
+ht-degree: 4%
 
 ---
 

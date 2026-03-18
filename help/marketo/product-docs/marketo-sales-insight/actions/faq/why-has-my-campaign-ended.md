@@ -1,11 +1,11 @@
 ---
-description: 我的营销活动为什么会结束？ - Marketo 文档 - 产品文档
+description: 了解促销活动结束的原因。 了解手动结束、回复设置、退回删除和自动结束条件。
 title: 为什么我的活动已结束？
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 17%
+source-wordcount: '89'
+ht-degree: 11%
 
 ---
 

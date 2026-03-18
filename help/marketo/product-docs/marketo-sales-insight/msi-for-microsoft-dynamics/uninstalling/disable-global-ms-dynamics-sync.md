@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355596
-description: 禁用全局MS Dynamics同步 — Marketo文档 — 产品文档
+description: 了解如何为Marketo Sales Insight禁用全局MS Dynamics同步。 无需卸载即可根据需要关闭同步。
 title: 禁用全局 MS Dynamics 同步
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 13%
+source-wordcount: '56'
+ht-degree: 12%
 
 ---
 

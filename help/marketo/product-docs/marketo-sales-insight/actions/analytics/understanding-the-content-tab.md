@@ -1,11 +1,11 @@
 ---
-description: 了解内容选项卡 — Marketo文档 — 产品文档
+description: 了解Sales Insight操作中的“内容”选项卡和模板参与量度。 查看机密武器、最高参与度和最低参与度，以及顶级附件和链接。
 title: 了解“内容”选项卡
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '198'
 ht-degree: 2%
 
 ---

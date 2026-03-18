@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377640
-description: 授权Marketo [!DNL Outlook] 插件 — Marketo文档 — 产品文档
+description: 了解如何授权Marketo Outlook插件。 完成OAuth，以便用户可以从Outlook发送和跟踪电子邮件。
 title: 授权Marketo [!DNL Outlook] 插件
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

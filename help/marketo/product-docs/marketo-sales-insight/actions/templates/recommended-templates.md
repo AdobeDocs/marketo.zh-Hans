@@ -1,11 +1,11 @@
 ---
-description: 推荐模板 — Marketo文档 — 产品文档
+description: 了解推荐的模板和最佳实践。 创建有效的销售电子邮件模板以获得参与度。
 title: 推荐模板
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 1%
 
 现在，选择您的条件。 当满足您的动态字段条件时，将推荐该模板。 从4个不同的条件中进行选择。
 
-**[!UICONTROL Equals]**：值必须为完全匹配(例如，Marketo等于Marketo)
+**[!UICONTROL Equals]**：值必须为完全匹配（例如，Marketo等于Marketo）
 
 **[!UICONTROL Does not Equal]**：值必须为完全匹配之外的任何值（例如，营销国家/地区不等于营销）
 

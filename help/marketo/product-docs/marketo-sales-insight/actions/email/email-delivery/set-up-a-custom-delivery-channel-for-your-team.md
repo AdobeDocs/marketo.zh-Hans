@@ -1,12 +1,12 @@
 ---
-description: 为团队设置自定义投放渠道 — Marketo文档 — 产品文档
+description: 了解如何为团队设置自定义投放渠道。 配置销售电子邮件的发送和跟踪。
 title: 为您的团队设置自定义发送渠道
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 11%
+source-wordcount: '165'
+ht-degree: 14%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 11%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Team Delivery Channel]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Team Delivery Channel]** 选项卡。
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 

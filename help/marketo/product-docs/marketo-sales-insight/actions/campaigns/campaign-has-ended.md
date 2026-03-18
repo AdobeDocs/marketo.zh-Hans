@@ -1,12 +1,12 @@
 ---
-description: 营销活动已结束 — Marketo文档 — 产品文档
+description: 了解为什么计划的活动电子邮件会在活动结束时失败。 查找退件、回复或手动营销活动结束等原因。
 title: 活动已结束
 exl-id: ca1ec3bb-7e7d-4524-b8ac-f0ce386c0c36
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 9%
+source-wordcount: '74'
+ht-degree: 8%
 
 ---
 

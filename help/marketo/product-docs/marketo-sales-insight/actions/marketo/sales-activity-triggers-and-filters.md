@@ -1,11 +1,11 @@
 ---
-description: 销售活动触发器和过滤器 — Marketo文档 — 产品文档
+description: 了解Marketo中的销售活动触发器和过滤器。 使用“操作”活动可触发智能营销活动和细分潜在客户。
 title: 销售活动触发器和过滤器
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '122'
 ht-degree: 8%
 
 ---

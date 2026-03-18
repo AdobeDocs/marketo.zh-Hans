@@ -1,11 +1,11 @@
 ---
-description: 与Salesforce同步取消订阅 — Marketo文档 — 产品文档
+description: 了解如何在Sales Insight Actions与Salesforce之间同步取消订阅。 保持选择退出状态在各个系统之间保持一致。
 title: 将取消订阅与 Salesforce 同步
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '467'
 ht-degree: 2%
 
 ---

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949285
-description: 在Marketo中记录潜在客户的入站邮件 — Marketo文档 — 产品文档
-title: 在 Marketo 中记录来自潜在客户的入站邮件
+description: 了解如何在Marketo中记录潜在客户的入站邮件。 捕获回复和入站电子邮件并将其归因于正确的潜在客户记录。
+title: 在 Marketo 中记录来自潜在客户的入站电子邮件
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 12%
+source-wordcount: '139'
+ht-degree: 11%
 
 ---
 
-# 在 Marketo 中记录来自潜在客户的入站邮件 {#log-inbound-mail-from-your-leads-in-marketo}
+# 在 Marketo 中记录来自潜在客户的入站电子邮件 {#log-inbound-mail-from-your-leads-in-marketo}
 
 您可以使用Marketo电子邮件加载项直接在[!DNL Outlook]中记录潜在客户的回复。
 

@@ -1,12 +1,12 @@
 ---
-description: 卸载Salesforce Lightning Customization Package - Marketo文档 — 产品文档
+description: 了解如何卸载适用于Sales Insight的Salesforce Lightning自定义软件包。 需要时，从Salesforce实例中删除该包。
 title: 卸载Salesforce Lightning自定义包
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '993'
-ht-degree: 11%
+source-wordcount: '1005'
+ht-degree: 12%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 11%
 
 1. 有10种类型的MSC字段可以添加到此部分中。 删除添加的所有字段，或仅删除整个部分。
 
-1. 完成后单击&#x200B;**[!UICONTROL Quick Save]**。
+1. 完成后，单击 **[!UICONTROL Quick Save]**。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-8.png)
 
@@ -72,7 +72,7 @@ ht-degree: 11%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
-1. 完成后单击&#x200B;**[!UICONTROL Quick Save]**。
+1. 完成后，单击 **[!UICONTROL Quick Save]**。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
@@ -82,7 +82,7 @@ ht-degree: 11%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. 从[!DNL Sales Connect]区域中选择[!UICONTROL Selected Fields]字段并单击[!UICONTROL Remove]箭头。 完成后单击&#x200B;**[!UICONTROL OK]**。
+1. 从[!DNL Sales Connect]区域中选择[!UICONTROL Selected Fields]字段并单击[!UICONTROL Remove]箭头。 完成后，单击 **[!UICONTROL OK]**。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 

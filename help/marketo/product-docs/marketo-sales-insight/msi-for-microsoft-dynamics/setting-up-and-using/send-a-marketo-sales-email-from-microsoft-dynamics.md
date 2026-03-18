@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953338
-description: 从Microsoft Dynamics发送Marketo销售电子邮件 — Marketo文档 — 产品文档
+description: 了解如何从Microsoft Dynamics发送Marketo销售电子邮件。 从Dynamics的MSI面板编写并发送跟踪电子邮件。
 title: 从 Microsoft Dynamics 发送 Marketo 销售电子邮件
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '157'
 ht-degree: 6%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >您可以先单击&#x200B;**发送测试电子邮件**，该电子邮件将在发送实际电子邮件之前发送给您(Microsoft Dynamics中的主电子邮件地址)。
+   >您可以先单击&#x200B;**发送测试电子邮件**，该电子邮件将在发送实际电子邮件之前发送给您（Microsoft Dynamics中的主电子邮件地址）。
 
    >[!NOTE]
    >

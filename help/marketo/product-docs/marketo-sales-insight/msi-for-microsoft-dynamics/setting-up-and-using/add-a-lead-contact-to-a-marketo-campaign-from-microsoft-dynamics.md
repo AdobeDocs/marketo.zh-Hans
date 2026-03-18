@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953342
-description: 从Microsoft Dynamics将潜在客户/联系人添加到Marketo营销活动 — Marketo文档 — 产品文档
+description: 了解如何从Microsoft Dynamics将潜在客户或联系人添加到Marketo营销活动。 使用MSI面板向营销活动添加潜在客户。
 title: 从 Microsoft Dynamics 将潜在客户/联系人添加到 Marketo 营销活动
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 10%
+source-wordcount: '136'
+ht-degree: 9%
 
 ---
 

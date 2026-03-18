@@ -1,11 +1,11 @@
 ---
-description: 将您的Sales Insight Actions帐户连接到Salesforce - Marketo文档 — 产品文档
+description: 了解如何将您的Sales Insight Actions帐户连接到Salesforce。
 title: 将您的 Sales Insight Actions 帐户连接到 Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 9%
 
 ---

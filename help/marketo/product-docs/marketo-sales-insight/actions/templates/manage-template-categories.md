@@ -1,14 +1,14 @@
 ---
-description: 管理模板类别 — Marketo文档 — 产品文档
+description: 了解如何在Sales Insight Actions中管理模板类别。 将模板组织成类别并控制共享。
 title: 管理模板类别
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '123'
+ht-degree: 19%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 10%
 
 ## 创建类别 {#create-a-category}
 
-1. 单击&#x200B;**[!UICONTROL Templates]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Templates]** 选项卡。
 
    ![](assets/manage-template-categories-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 10%
 
 ## 重命名模板类别 {#rename-a-template-category}
 
-1. 单击&#x200B;**[!UICONTROL Templates]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Templates]** 选项卡。
 
    ![](assets/manage-template-categories-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 10%
 
 ## 删除模板类别 {#delete-a-template-category}
 
-1. 单击&#x200B;**[!UICONTROL Templates]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Templates]** 选项卡。
 
    ![](assets/manage-template-categories-7.png)
 
@@ -52,7 +52,7 @@ ht-degree: 10%
 
    ![](assets/manage-template-categories-8.png)
 
-1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
+1. 单击 **[!UICONTROL Delete]** 确认。
 
    ![](assets/manage-template-categories-9.png)
 

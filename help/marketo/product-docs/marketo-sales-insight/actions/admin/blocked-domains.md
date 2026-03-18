@@ -1,12 +1,12 @@
 ---
-description: 阻止的域 — Marketo文档 — 产品文档
+description: 了解如何阻止Sales Insight Actions中的域，以防止向竞争对手发送电子邮件或垃圾邮件陷阱。
 title: 已阻止的域名
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '98'
+ht-degree: 7%
 
 ---
 

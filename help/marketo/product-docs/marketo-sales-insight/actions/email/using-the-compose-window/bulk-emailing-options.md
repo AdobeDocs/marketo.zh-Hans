@@ -1,11 +1,11 @@
 ---
-description: 批量发送电子邮件选项 — Marketo文档 — 产品文档
+description: 了解Sales Insight Actions中的批量电子邮件选项。 使用组电子邮件、选择并发送或营销活动发送给多个收件人。
 title: 批量发送电子邮件选项
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '266'
 ht-degree: 5%
 
 ---

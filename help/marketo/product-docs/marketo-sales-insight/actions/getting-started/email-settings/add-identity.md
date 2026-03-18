@@ -1,11 +1,11 @@
 ---
-description: 添加标识 — Marketo文档 — 产品文档
+description: 了解如何在Sales Insight Actions中添加电子邮件标识。 在“电子邮件”下的“设置”中添加并验证发送地址。
 title: 添加身份标识
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '188'
 ht-degree: 3%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 连接到Outlook - Marketo文档 — 产品文档
+description: 了解如何将Outlook连接到Sales Insight操作。 通过Actions集成，从Outlook发送和跟踪销售电子邮件。
 title: 连接到 Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 2%
+source-wordcount: '498'
+ht-degree: 3%
 
 ---
 
@@ -78,7 +78,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >Outlook Online (Office365)强制执行其自身的发送限制。 [在此了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
+   >Outlook Online (Office365)强制执行其自身的发送限制。 [在此处了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
 
 ## 连接到Exchange On-Premise {#connecting-to-exchange-on-premise}
 
@@ -145,7 +145,7 @@ ht-degree: 2%
 
 根据您的IT团队的偏好和当前配置，最好向他们咨询如何授予访问权限。 下面是一些有助于指导对话的文章。
 
-* 全局同意： [适用于Microsoft 365管理员的集成应用和Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* 全局同意： [适用于Microsoft 365管理员的集成应用程序和Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
 * 用户同意： [配置用户如何同意应用程序](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
 * 管理员同意： [配置管理员同意工作流](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * 打开或关闭用户同意： [在Microsoft 365中管理用户对应用的同意](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}

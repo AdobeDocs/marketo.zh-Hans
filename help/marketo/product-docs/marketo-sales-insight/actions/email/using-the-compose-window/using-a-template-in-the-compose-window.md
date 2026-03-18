@@ -1,11 +1,11 @@
 ---
-description: 在撰写窗口中使用模板 — Marketo文档 — 产品文档
+description: 了解如何在发送销售电子邮件时在撰写窗口中使用模板。 插入模板并固定类别以进行快速访问。
 title: 在撰写窗口中使用模板
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 4%
 
 ---

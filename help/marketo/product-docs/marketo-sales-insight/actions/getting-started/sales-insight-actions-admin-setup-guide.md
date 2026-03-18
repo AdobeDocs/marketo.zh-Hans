@@ -1,11 +1,11 @@
 ---
-description: 销售Insight操作管理员设置指南 — Marketo文档 — 产品文档
+description: 了解如何以管理员身份设置Sales Insight Actions。 配置Marketo连接、数据同步和邀请用户。
 title: Sales Insight Actions 管理员设置指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '613'
 ht-degree: 3%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->* 与Adobe客户团队（您的客户经理）确认已为您的Marketo Engage帐户启用MSI操作(如果您没有客户经理，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"})。
+>* 与Adobe客户团队（您的客户经理）确认已为您的Marketo Engage帐户启用MSI操作（如果您没有客户经理，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}）。
 >* 必须设置您的Marketo/Salesforce同步。
 
 <table>
@@ -106,7 +106,7 @@ ht-degree: 3%
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. 单击&#x200B;**[!UICONTROL connect]**。 然后，将连接您的帐户。
+1. 单击 **[!UICONTROL connect]**。 然后，将连接您的帐户。
 
    ![](assets/msi-actions-admin-guide-9.png)
 

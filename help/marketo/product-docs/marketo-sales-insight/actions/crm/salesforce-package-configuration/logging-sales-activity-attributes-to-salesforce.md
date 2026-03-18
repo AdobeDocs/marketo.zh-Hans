@@ -1,11 +1,11 @@
 ---
-description: 将销售活动属性记录到Salesforce - Marketo文档 — 产品文档
+description: 了解如何在Salesforce中为销售Insight操作添加自定义活动字段。 在设置中创建活动自定义字段以记录呼叫结果、原因等。
 title: 将销售活动属性记录到 Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 14%
+source-wordcount: '241'
+ht-degree: 13%
 
 ---
 

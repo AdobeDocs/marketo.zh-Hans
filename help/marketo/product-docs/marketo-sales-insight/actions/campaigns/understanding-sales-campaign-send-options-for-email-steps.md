@@ -1,11 +1,11 @@
 ---
-description: 了解电子邮件步骤的Sales Campaign发送选项 — Marketo文档 — 产品文档
+description: 了解Sales Campaign电子邮件步骤的发送选项。 选择发送时间、计划发送时间或创建任务以在第一个和后续步骤中自行发送。
 title: 了解销售营销活动电子邮件步骤的发送选项
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '755'
 ht-degree: 2%
 
 ---
@@ -75,5 +75,5 @@ ht-degree: 2%
 >[!MORELIKETHIS]
 >
 >[创建促销活动](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[销售活动步骤类型和提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Sales Campaign设置](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>[销售活动步骤类型和提醒任务](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Sales Campaign设置](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

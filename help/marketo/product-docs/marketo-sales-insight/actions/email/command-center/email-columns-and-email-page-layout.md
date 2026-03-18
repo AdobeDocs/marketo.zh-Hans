@@ -1,11 +1,11 @@
 ---
-description: 电子邮件列和电子邮件页面布局 — Marketo文档 — 产品文档
+description: 了解命令中心的电子邮件列和页面布局。 自定义显示的列以及电子邮件活动的显示方式。
 title: 电子邮件列和电子邮件页面布局
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---

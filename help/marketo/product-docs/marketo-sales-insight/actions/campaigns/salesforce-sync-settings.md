@@ -1,12 +1,12 @@
 ---
-description: Salesforce同步设置 — Marketo文档 — 产品文档
+description: 了解如何配置Salesforce同步设置以记录电子邮件活动。
 title: Salesforce 同步设置
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '574'
-ht-degree: 2%
+source-wordcount: '578'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 2%
 
    ![](assets/salesforce-sync-settings-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Sync Settings]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Sync Settings]** 选项卡。
 
    ![](assets/salesforce-sync-settings-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 2%
 
    ![](assets/salesforce-sync-settings-4.png)
 
-1. 单击 **[!UICONTROL Salesforce API]** 选项卡。在此信息卡中，您可以设置用于将信息记录到[!DNL Salesforce]的首选项。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 单击 **[!UICONTROL Salesforce API]** 选项卡。在此信息卡中，您可以设置用于将信息记录到[!DNL Salesforce]的首选项。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/salesforce-sync-settings-5.png)
 
@@ -58,7 +58,7 @@ ht-degree: 2%
 
    ![](assets/salesforce-sync-settings-7.png)
 
-1. 单击&#x200B;**[!UICONTROL Sync Settings]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Sync Settings]** 选项卡。
 
    ![](assets/salesforce-sync-settings-8.png)
 
@@ -102,7 +102,7 @@ ht-degree: 2%
 
    ![](assets/salesforce-sync-settings-11.png)
 
-1. 单击&#x200B;**[!UICONTROL Sync Settings]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Sync Settings]** 选项卡。
 
    ![](assets/salesforce-sync-settings-12.png)
 

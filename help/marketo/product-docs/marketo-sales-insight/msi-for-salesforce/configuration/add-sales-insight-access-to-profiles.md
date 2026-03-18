@@ -1,12 +1,12 @@
 ---
-description: 添加Insight销售人员对配置文件的访问权限 — Marketo文档 — 产品文档
+description: 了解如何添加销售Insight对Salesforce配置文件的访问权限。 授予用户访问Marketo Sales Insight包的权限。
 title: 向轮廓中添加 Sales Insight 访问权限
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '372'
+ht-degree: 5%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 1%
 
 1. 单击页面顶部的&#x200B;**[!UICONTROL New Profile]**&#x200B;按钮。
 
-1. 选取要克隆的配置文件并为其命名(例如： Sales Insight User)。
+1. 选取要克隆的配置文件并为其命名（例如： Sales Insight User）。
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。
 
 ## 添加[!DNL Sales Insight]权限 {#add-sales-insight-permissions}
 
@@ -50,15 +50,15 @@ ht-degree: 1%
    * 在选项卡设置中，将Marketo选项卡更改为选项卡隐藏
    * 在“自定义对象权限”中，取消选中[!DNL Marketo Sales Insight]配置上的读取、创建、编辑和删除
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。
 
 ## 为[!DNL Sales Insight]创建布局 {#create-layout-for-sales-insight}
 
 1. 转到设置页面，然后单击&#x200B;**[!UICONTROL App Setup]** > **[!UICONTROL Customize]** > **[!UICONTROL Leads]** > **[!UICONTROL Page Layouts]**。 然后单击&#x200B;**[!UICONTROL New]**&#x200B;按钮。
 
-1. 克隆您选择的布局，并为该布局提供一个适当的名称(例如： Sales Insight Layout)。
+1. 克隆您选择的布局，并为该布局提供一个适当的名称（例如： Sales Insight Layout）。
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。
 
 1. 对您的[!UICONTROL Contacts]、[!UICONTROL Opportunities]和[!UICONTROL Accounts]页面布局重复这些步骤。
 
@@ -70,7 +70,7 @@ ht-degree: 1%
 
 1. 从列表中选择您的[!DNL Sales Insight]配置文件，然后从“[!DNL Sales insight]”下拉列表中选择您的[!UICONTROL Select Page Layout]布局。
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。
 
 1. 对您的[!UICONTROL Contacts]、[!UICONTROL Opportunities]和[!UICONTROL Accounts]页面布局重复这些步骤。
 

@@ -1,11 +1,11 @@
 ---
-description: 如何修复在连接到Salesforce时“我们无法验证您的请求” — Marketo文档 — 产品文档
+description: 修复了将Sales Insight操作连接到Salesforce时的身份验证错误。 检查OAuth、权限和连接步骤。
 title: 如何修复连接到Salesforce时“我们无法验证您的请求”的问题
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 连接到Gmail - Marketo文档 — 产品文档
+description: 了解如何将Gmail连接到Sales Insight Actions。 通过Actions集成，从Gmail发送和跟踪销售电子邮件。
 title: 连接到 Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 6%
+source-wordcount: '190'
+ht-degree: 7%
 
 ---
 
@@ -57,4 +57,4 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Gmail强制执行其自身的发送限制。 [在此了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
+>Gmail强制执行其自身的发送限制。 [在此处了解详情](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。

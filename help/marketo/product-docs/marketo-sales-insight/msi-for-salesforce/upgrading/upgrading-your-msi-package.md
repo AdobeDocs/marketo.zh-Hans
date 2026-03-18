@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37357050
-description: 升级MSI包 — Marketo文档 — 产品文档
+description: 了解如何在Salesforce中升级Marketo Sales Insight包。 获取最新版本并应用升级。
 title: 升级 MSI 包
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 3%
+source-wordcount: '271'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 1. 在appexchange[中导航到](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}此页面。
 
-1. 从步骤一的页面右上角登录[!DNL Salesforce]实例(连接到Marketo实例的实例，可以是沙盒或生产实例)。 您必须具有管理员权限才能在[!DNL Salesforce]中安装/升级托管包。
+1. 从步骤一的页面右上角登录[!DNL Salesforce]实例（连接到Marketo实例的实例，可以是沙盒或生产实例）。 您必须具有管理员权限才能在[!DNL Salesforce]中安装/升级托管包。
 
 1. 单击&#x200B;**立即获取**&#x200B;按钮。 系统将要求您选择要安装的位置。 您将可以选择升级，因为您已经拥有以前版本的MSI。 根据您在第一步中登录的帐户选择一个选项。
 

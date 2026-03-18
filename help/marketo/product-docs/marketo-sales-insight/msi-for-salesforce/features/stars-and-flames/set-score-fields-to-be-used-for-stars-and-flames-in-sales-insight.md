@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
-description: 在Sales Insight - Marketo文档 — 产品文档中设置要用于星和火焰的分数字段
+description: 了解如何在Sales Insight中设置星星和火焰的分数字段。 将Marketo得分字段映射到Salesforce中的MSI显示。
 title: 在 Sales Insight 中设置用于星级和火焰标识的评分字段
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 9%
+source-wordcount: '152'
+ht-degree: 11%
 
 ---
 

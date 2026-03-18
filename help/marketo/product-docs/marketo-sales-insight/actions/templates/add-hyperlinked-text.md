@@ -1,11 +1,11 @@
 ---
-description: 添加超链接文本 — Marketo文档 — 产品文档
+description: 了解如何在电子邮件模板中添加超链接文本。 在模板编辑器中插入可跟踪链接并设置链接文本格式。
 title: 添加超链接文本
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '131'
 ht-degree: 5%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 5%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 输入您希望它链接的URL（即`https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans`）。 选择您想在同一窗口还是新窗口中打开URL，然后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入您希望它链接的URL（即`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 选择您想在同一窗口还是新窗口中打开URL，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-hyperlinked-text-4.png)
 

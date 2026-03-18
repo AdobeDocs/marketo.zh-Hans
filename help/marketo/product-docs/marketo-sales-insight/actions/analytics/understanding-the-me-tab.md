@@ -1,12 +1,12 @@
 ---
-description: 了解“我”选项卡 — Marketo文档 — 产品文档
+description: 了解Sales Insight Actions中的“Me”选项卡和您的电子邮件参与度统计信息。 查看已发送的电子邮件、模板使用情况以及最吸引人的电子邮件和联系人。
 title: 了解“我”选项卡
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 4%
+source-wordcount: '105'
+ht-degree: 3%
 
 ---
 

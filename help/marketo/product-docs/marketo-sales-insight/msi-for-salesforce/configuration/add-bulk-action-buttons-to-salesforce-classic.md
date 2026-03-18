@@ -1,11 +1,11 @@
 ---
-description: 将批量操作按钮添加到Salesforce Classic - Marketo文档 — 产品文档
+description: 了解如何在Salesforce Classic中添加批量操作按钮以列出视图。 添加“发送销售电子邮件”和“添加到销售活动”按钮。
 title: 向 Salesforce Classic 添加批量操作按钮
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '102'
 ht-degree: 7%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 7%
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Setup]**。 搜索“[!UICONTROL search layout]”并单击&#x200B;**[!UICONTROL Search Layouts]**&#x200B;下的&#x200B;**[!UICONTROL Leads]**。
+1. 单击 **[!UICONTROL Setup]**。 搜索“[!UICONTROL search layout]”并单击&#x200B;**[!UICONTROL Search Layouts]**&#x200B;下的&#x200B;**[!UICONTROL Leads]**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 

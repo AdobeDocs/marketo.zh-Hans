@@ -1,12 +1,12 @@
 ---
-description: 为什么我的任何联系人都没有推送到Sales Insight操作中？ - Marketo 文档 - 产品文档
+description: 当没有联系人同步到Sales Insight操作时进行故障排除。 检查销售所有者分配和连接要求。
 title: 为什么我的联系人没有被推送到 Sales Insight Actions？
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 19%
+source-wordcount: '82'
+ht-degree: 14%
 
 ---
 

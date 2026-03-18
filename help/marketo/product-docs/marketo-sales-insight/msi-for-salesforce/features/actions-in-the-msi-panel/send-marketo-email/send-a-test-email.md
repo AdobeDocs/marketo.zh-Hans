@@ -1,12 +1,12 @@
 ---
-description: 发送测试电子邮件 — Marketo文档 — 产品文档
+description: 了解如何从Salesforce中的MSI面板发送测试电子邮件。 在发送到潜在客户之前预览和测试销售电子邮件模板。
 title: 发送测试电子邮件
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 7%
+source-wordcount: '157'
+ht-degree: 8%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 1. 单击 **[!UICONTROL Edit Test Recipients]**。
 
-1. 您可以从列表中选择一个或多个潜在客户，以查看它将如何呈现给他们。 完成后单击&#x200B;**[!UICONTROL Apply Changes]**。
+1. 您可以从列表中选择一个或多个潜在客户，以查看它将如何呈现给他们。 完成后，单击 **[!UICONTROL Apply Changes]**。
 
    ![](assets/send-a-test-email-1.png)
 

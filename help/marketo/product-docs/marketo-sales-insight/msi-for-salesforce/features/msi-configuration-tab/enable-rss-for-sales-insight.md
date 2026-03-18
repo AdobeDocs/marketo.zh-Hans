@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377005
-description: 为销售人员启用RSS Insight - Marketo文档 — 产品文档
+description: 了解如何为Marketo Sales Insight启用RSS。 允许用户通过Salesforce中的RSS订阅潜在客户信息源更新。
 title: 为 Sales Insight 启用 RSS
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 8%
+source-wordcount: '93'
+ht-degree: 10%
 
 ---
 

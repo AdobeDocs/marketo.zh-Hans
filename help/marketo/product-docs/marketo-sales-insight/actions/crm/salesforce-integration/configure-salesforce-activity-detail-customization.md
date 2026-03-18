@@ -1,11 +1,11 @@
 ---
-description: 配置Salesforce活动详细信息自定义 — Marketo文档 — 产品文档
+description: 了解如何为任务主题字段配置Salesforce活动详细信息自定义。 设置活动同步时Salesforce任务的日志。
 title: 配置 Salesforce 活动详情自定义
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---

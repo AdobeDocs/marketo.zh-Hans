@@ -1,10 +1,10 @@
 ---
-description: 设置销售Insight操作沙盒 — Marketo文档 — 产品文档
+description: 了解如何设置Sales Insight Actions沙盒以进行测试。 请求配置、激活您的实例并连接到Salesforce沙盒。
 title: 设置 Sales Insight Actions 沙盒
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '682'
 ht-degree: 2%
 
 ---

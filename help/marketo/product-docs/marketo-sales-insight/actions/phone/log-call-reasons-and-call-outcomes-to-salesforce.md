@@ -1,18 +1,18 @@
 ---
-description: 将致电原因和致电结果记录到Salesforce - Marketo文档 — 产品文档
+description: 了解如何将致电原因和致电结果记录到Salesforce。 确保将调用活动和属性同步到CRM。
 title: 将通话原因和通话结果记录到 Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
 
 # 将通话原因和通话结果记录到 Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-如果您出于报告或可见性的目的，希望将致电结果记录并致电原因至Salesforce，则可以为每个创建自定义活动字段。 每个字段必须使用特定的API名称(在Salesforce中称为“字段名称”)。
+如果您出于报告或可见性的目的，希望将致电结果记录并致电原因至Salesforce，则可以为每个创建自定义活动字段。 每个字段必须使用特定的API名称（在Salesforce中称为“字段名称”）。
 
 * 呼叫结果字段名称：mktosales_call_output
 * 致电原因字段名称：mktosales_call_reason

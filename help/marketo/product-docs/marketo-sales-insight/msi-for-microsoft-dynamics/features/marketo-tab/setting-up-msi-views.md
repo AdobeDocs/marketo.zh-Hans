@@ -1,12 +1,12 @@
 ---
-description: 设置MSI视图 — Marketo文档 — 产品文档
+description: 了解如何在Microsoft Dynamics中设置MSI视图。 配置为用户显示的Marketo Sales Insight选项卡和数据。
 title: 设置 MSI 视图
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 3%
+source-wordcount: '249'
+ht-degree: 4%
 
 ---
 
@@ -54,4 +54,4 @@ URL： mkt_/MainViewWebActivity.html</br>
 ID： marketo_anonymous_webactivity</br>
 Title：匿名Web活动
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。

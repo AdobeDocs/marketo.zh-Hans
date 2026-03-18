@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512654
-description: 在Salesforce1中查看潜在客户馈送 — Marketo文档 — 产品文档
+description: 了解如何在Salesforce Mobile (Salesforce1)中查看潜在客户馈送。 在移动设备的MSI面板中查看实时商机活动。
 title: 在 Salesforce1 中查看潜在客户信息流
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '79'
 ht-degree: 7%
 
 ---

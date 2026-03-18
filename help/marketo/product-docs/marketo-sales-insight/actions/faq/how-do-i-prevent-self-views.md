@@ -1,11 +1,11 @@
 ---
-description: 如何防止自行查看 — Marketo文档 — 产品文档
+description: 了解如何防止在电子邮件跟踪中计入自检次数。 避免在查看自己的电子邮件时夸大公开统计信息。
 title: 如何防止出现自我观点
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '283'
 ht-degree: 2%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 内容和文件附件常见问题解答 — Marketo文档 — 产品文档
+description: 获取有关销售电子邮件中的内容和文件附件的常见问题解答。 了解大小限制、跟踪和最佳实践。
 title: 内容和文件附件常见问题
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '271'
 ht-degree: 3%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 3%
 
 **文件附件**&#x200B;就像您在常规电子邮件客户端中使用的文件附件。
 
-**内容**&#x200B;是我们用于描述您希望[!DNL Sales Insight Actions]跟踪的任何文件(PPT、PDF、Word文档等)的内容。
+**内容**&#x200B;是我们用于描述您希望[!DNL Sales Insight Actions]跟踪的任何文件（PPT、PDF、Word文档等）的内容。
 
 单击该按钮后，您可以选择已上传的文件，也可以上传要跟踪的新文件。 我们随后会在您使用的电子邮件或模板中插入链接。
 
 在接收端，收件人单击链接，系统将在浏览器中填充内容。 这样，我们就可以跟踪每个页面查看并向实时信息源中的[!DNL Sales Insight Actions]用户报告它们。
 
-文件和内容选项在以下位置可用：一次性电子邮件、模板、营销活动、[!DNL Outlook]&#x200B;(Windows和Mac)、Gmail和OWA。
+文件和内容选项在以下位置可用：一次性电子邮件、模板、营销活动、[!DNL Outlook]（Windows和Mac）、Gmail和OWA。
 
 ## 谁管理内容以及内容存储在何处？ {#who-manages-the-content-and-where-is-it-stored}
 

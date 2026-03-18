@@ -1,12 +1,12 @@
 ---
-description: 以其他用户身份查看营销活动列表 — Marketo文档 — 产品文档
+description: 了解如何在您是管理员时以其他用户身份查看营销活动。 使用营销活动页面上的查看方式下拉列表查看任何用户的营销活动。
 title: 以其他用户身份查看营销活动列表
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 15%
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 

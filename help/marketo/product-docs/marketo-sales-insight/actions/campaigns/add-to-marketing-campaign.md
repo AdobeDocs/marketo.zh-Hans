@@ -1,14 +1,14 @@
 ---
-description: 添加到营销活动 — Marketo文档 — 产品文档
+description: 了解如何通过“销售Insight操作”将联系人添加到Marketo营销活动。 选择联系人并将其添加到营销活动。
 title: 添加到营销活动
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 3%
+source-wordcount: '308'
+ht-degree: 5%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 3%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果您选择这样做，请单击[!UICONTROL Individuals]并键入它们。 完成后单击&#x200B;**[!UICONTROL Next]**。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果您选择这样做，请单击[!UICONTROL Individuals]并键入它们。 完成后，单击 **[!UICONTROL Next]**。
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -78,7 +78,7 @@ PICC
 
 PICC
 
-1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果您选择这样做，请单击[!UICONTROL Individuals]并键入它们。 完成后单击&#x200B;**[!UICONTROL Next]**。
+1. 由于您要将添加到营销活动，请跳过选择“发件人”地址。 但是，您可以选择添加更多联系人。 如果您选择这样做，请单击[!UICONTROL Individuals]并键入它们。 完成后，单击 **[!UICONTROL Next]**。
 
 PICC
 

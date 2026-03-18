@@ -1,11 +1,11 @@
 ---
-description: 模板参与度 — Marketo文档 — 产品文档
+description: 了解如何在Analytics内容选项卡中查看模板参与。 请参阅按日期范围划分的秘密武器、最高参与和最低参与量度。
 title: 模板互动情况
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '193'
 ht-degree: 2%
 
 ---

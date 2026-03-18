@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099167
-description: 在Sales Insight - Marketo文档 — 产品文档中选择操作
+description: 了解如何从Salesforce将潜在客户或联系人添加到Marketo营销活动。 使用MSI面板从记录添加到营销活动。
 title: 在 Sales Insight 中选择一项操作
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 6%
+source-wordcount: '207'
+ht-degree: 5%
 
 ---
 

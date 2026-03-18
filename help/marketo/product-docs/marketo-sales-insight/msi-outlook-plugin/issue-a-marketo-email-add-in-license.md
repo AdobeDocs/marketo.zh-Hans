@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949281
-description: 颁发Marketo电子邮件加载项许可证 — Marketo文档 — 产品文档
+description: 了解如何颁发适用于Outlook的Marketo电子邮件加载项许可证。 授予许可证，以便用户可以安装和使用插件。
 title: 发放 Marketo 电子邮件加载项许可证
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 4%
+source-wordcount: '300'
+ht-degree: 5%
 
 ---
 

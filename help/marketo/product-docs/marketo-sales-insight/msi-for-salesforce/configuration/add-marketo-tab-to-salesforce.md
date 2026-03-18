@@ -1,12 +1,12 @@
 ---
-description: 将Marketo选项卡添加到Salesforce - Marketo文档 — 产品文档
+description: 了解如何将“Marketo”选项卡添加到Salesforce。 使Marketo Sales Insight选项卡对Salesforce中的用户可见。
 title: 将 Marketo 选项卡添加到 Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 10%
+source-wordcount: '61'
+ht-degree: 8%
 
 ---
 

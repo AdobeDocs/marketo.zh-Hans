@@ -1,18 +1,18 @@
 ---
-description: 使用HTML - Marketo文档 — 产品文档
+description: 了解如何在Sales Insight Actions电子邮件模板中使用HTML。 添加自定义HTML以设置格式和高级内容。
 title: 使用 HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '110'
+ht-degree: 3%
 
 ---
 
 # 使用 HTML {#using-html}
 
-1. 使用在HTML中创建电子邮件的工具(例如，Marketo的电子邮件编辑器)，从电子邮件中复制源代码。
+1. 使用在HTML中创建电子邮件的工具（例如，Marketo的电子邮件编辑器），从电子邮件中复制源代码。
 
 1. 选择要将HTML添加到的模板。
 

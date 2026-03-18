@@ -1,12 +1,12 @@
 ---
-description: 最佳匹配 — Marketo文档 — 产品文档
+description: 了解Marketo Sales Insight for Dynamics中的最佳选择。 查看哪些潜在客户参与度最高并准备好进行外联。
 title: 最佳推荐
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 3%
+source-wordcount: '69'
+ht-degree: 2%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 3%
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-您还可以从[!DNL Best Bets]选项卡中选择多个潜在客户，然后选择&#x200B;_[!UICONTROL Send Marketo Email]_&#x200B;或&#x200B;_[!UICONTROL Add to Marketo Campaign]_。
+您还可以从[!DNL Best Bets]选项卡中选择多个潜在客户，然后选择&#x200B;_[!UICONTROL Send Marketo Email]_或_[!UICONTROL Add to Marketo Campaign]_。
 
 ![](assets/best-bets-1.png)

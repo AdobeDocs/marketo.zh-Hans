@@ -1,12 +1,12 @@
 ---
-description: 创建促销活动 — Marketo文档 — 产品文档
+description: 了解如何创建包含电子邮件、呼叫、InMail和自定义任务步骤的销售促销活动。 组织、扩展和衡量外联。
 title: 创建销售营销活动
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 2%
+source-wordcount: '314'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 那么，如何设置促销活动？
 
-1. 单击&#x200B;**[!UICONTROL Campaigns]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Campaigns]** 选项卡。
 
    ![](assets/create-a-sales-campaign-1.png)
 

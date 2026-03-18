@@ -1,9 +1,9 @@
 ---
-description: 管理配置文件 — Marketo文档 — 产品文档
+description: 了解如何管理Sales Insight操作配置文件。 在“设置”中更新名称、电子邮件、签名和通知首选项。
 title: 管理您的轮廓
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '269'
 ht-degree: 2%
 
 ---

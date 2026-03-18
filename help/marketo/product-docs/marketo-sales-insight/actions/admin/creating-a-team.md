@@ -1,12 +1,12 @@
 ---
-description: 创建团队 — Marketo文档 — 产品文档
+description: 了解如何在Sales Insight Actions中创建团队以共享模板、营销活动和组。
 title: 创建团队
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 6%
+source-wordcount: '117'
+ht-degree: 8%
 
 ---
 
@@ -54,6 +54,6 @@ ht-degree: 6%
 
    ![](assets/creating-a-team-8.png)
 
-1. 完成后单击&#x200B;**[!UICONTROL Add]**。
+1. 完成后，单击 **[!UICONTROL Add]**。
 
    ![](assets/creating-a-team-9.png)

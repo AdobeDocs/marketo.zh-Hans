@@ -1,12 +1,12 @@
 ---
-description: 将任务分配给团队成员 — Marketo文档 — 产品文档
+description: 了解如何从指挥中心将任务分配给团队成员。 向适当的代表重新分配电子邮件、呼叫和其他任务。
 title: 将任务分配给团队成员
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 9%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 

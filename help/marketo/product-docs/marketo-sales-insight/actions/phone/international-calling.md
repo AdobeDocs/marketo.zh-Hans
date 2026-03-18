@@ -1,11 +1,11 @@
 ---
-description: 国际呼叫 — Marketo文档 — 产品文档
+description: 了解Sales Insight Actions中的国际调用。 从拨号器拨打国际号码并记录呼叫。
 title: 国际呼叫
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '404'
 ht-degree: 6%
 
 ---

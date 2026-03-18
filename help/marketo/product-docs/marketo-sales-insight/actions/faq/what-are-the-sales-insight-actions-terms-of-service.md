@@ -1,12 +1,12 @@
 ---
-description: Sales Insight Actions的服务条款是什么？ - Marketo 文档 - 产品文档
+description: 查找Sales Insight Actions服务条款。 查看适用于您使用产品的法律条款。
 title: Sales Insight Actions 的服务条款是什么？
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 30%
+source-wordcount: '50'
+ht-degree: 18%
 
 ---
 

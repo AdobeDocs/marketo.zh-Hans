@@ -1,12 +1,12 @@
 ---
-description: 启用呼叫记录 — Marketo文档 — 产品文档
+description: 了解如何在Sales Insight操作中启用呼叫记录。 必要时开启录制并遵守双方同意。
 title: 启用通话录音
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 产品使用限制 — Marketo文档 — 产品文档
+description: 了解Sales Insight Actions产品使用限制。 了解您帐户的电子邮件、调用和API限制。
 title: 产品使用限制
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 19%
+source-wordcount: '243'
+ht-degree: 18%
 
 ---
 

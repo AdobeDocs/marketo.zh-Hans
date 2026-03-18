@@ -1,12 +1,12 @@
 ---
-description: Marketo取消订阅检查 — Marketo文档 — 产品文档
+description: 了解Marketo取消订阅检查，以便销售人员无法向Marketo中已取消订阅的用户发送电子邮件。
 title: Marketo 取消订阅检查
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 

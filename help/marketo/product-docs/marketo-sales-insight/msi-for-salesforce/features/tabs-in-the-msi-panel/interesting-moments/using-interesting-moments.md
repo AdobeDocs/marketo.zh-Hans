@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951640
-description: 使用有趣的时刻 — Marketo文档 — 产品文档
+description: 了解如何在MSI面板中使用有趣的时刻。 查看并解释指示潜在客户参与的关键活动。
 title: 使用关键时刻
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '428'
 ht-degree: 1%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >Marketo还将添加发生的日期以及添加有趣时刻的方式(即潜在客户操作>流程步骤、SOAP API)。
+   >Marketo还将添加发生的日期以及添加有趣时刻的方式（即潜在客户操作>流程步骤、SOAP API）。
 
 ## 这怎么会更有趣呢？  {#how-can-this-get-even-more-interesting}
 

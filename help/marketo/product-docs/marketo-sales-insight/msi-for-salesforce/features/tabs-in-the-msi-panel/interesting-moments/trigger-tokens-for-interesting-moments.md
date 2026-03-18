@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146999
-description: 触发有趣时刻的令牌 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中为有趣的时刻触发令牌。 在MSI面板中配置哪些活动可创建有趣的时刻。
 title: 关键时刻的触发令牌
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '556'
 ht-degree: 40%
 
 ---

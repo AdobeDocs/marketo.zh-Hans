@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095358
-description: 在Google邮件中查看人员和帐户信息和活动 — Marketo文档 — 产品文档
+description: 了解如何在Gmail中查看人员和帐户信息以及活动。 对电子邮件中的上下文使用Marketo Insights Chrome扩展。
 title: 在 Google Mail 中查看人员和帐户信息及活动
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '299'
 ht-degree: 6%
 
 ---

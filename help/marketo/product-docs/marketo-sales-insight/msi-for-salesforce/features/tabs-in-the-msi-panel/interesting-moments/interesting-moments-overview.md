@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949720
-description: 有趣的时刻概述 — Marketo文档 — 产品文档
+description: 在Marketo Sales Insight面板中了解有趣的时刻。 查看Salesforce中的关键潜在客户活动和参与。
 title: 关键时刻概述
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 5%
 
 ---
 

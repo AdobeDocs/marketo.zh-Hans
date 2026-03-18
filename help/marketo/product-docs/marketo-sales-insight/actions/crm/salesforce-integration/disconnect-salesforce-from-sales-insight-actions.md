@@ -1,13 +1,13 @@
 ---
-description: 从销售人员中断开Salesforce连接Insight操作 — Marketo文档 — 产品文档
+description: 了解如何从Sales Insight Actions中断开Salesforce的连接。
 title: 将 Salesforce 从 Sales Insight Actions 中断开
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 10%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Sales Insight操作中的有趣时刻 — Marketo文档 — 产品文档
+description: 了解Sales Insight操作中的有趣时刻。 了解如何在Marketo和Salesforce中记录和显示关键活动。
 title: Sales Insight Actions 中的关键时刻
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >Marketo还将添加发生的日期以及添加有趣时刻的方式(即潜在客户操作>流程步骤、SOAP API)。
+   >Marketo还将添加发生的日期以及添加有趣时刻的方式（即潜在客户操作>流程步骤、SOAP API）。
 
 ## 在Marketo中，一个有趣的时刻是什么样的？  {#what-does-an-interesting-moment-look-like-in-marketo}
 

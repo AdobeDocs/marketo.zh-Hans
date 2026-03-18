@@ -1,12 +1,12 @@
 ---
-description: 添加或更新电子邮件签名 — Marketo文档 — 产品文档
+description: 了解如何在Sales Insight操作中添加或更新电子邮件签名。 设置默认签名。
 title: 添加或更新您的电子邮件签名
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 11%
+source-wordcount: '112'
+ht-degree: 10%
 
 ---
 

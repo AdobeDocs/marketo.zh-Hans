@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571739
-description: 在Marketo 365中安装和配置Microsoft Dynamics Sales Insight - Marketo文档 — 产品文档
+description: 了解如何在Microsoft Dynamics 365中安装和配置Marketo Sales Insight。 添加解决方案并连接到Marketo。
 title: 在 Microsoft Dynamics 365 中安装和配置 Marketo Sales Insight
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 4%
+source-wordcount: '392'
+ht-degree: 5%
 
 ---
 

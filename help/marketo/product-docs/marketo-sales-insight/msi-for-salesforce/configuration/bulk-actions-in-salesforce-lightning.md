@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356282
-description: Salesforce Lightning中的批量操作 — Marketo文档 — 产品文档
+description: 了解适用于Marketo Sales Insight的Salesforce Lightning中的批量操作。 使用发送销售电子邮件并从列表视图添加到销售促销活动。
 title: Salesforce Lightning 中的批量操作
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 7%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 7%
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Object Manager]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Object Manager]** 选项卡。
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 

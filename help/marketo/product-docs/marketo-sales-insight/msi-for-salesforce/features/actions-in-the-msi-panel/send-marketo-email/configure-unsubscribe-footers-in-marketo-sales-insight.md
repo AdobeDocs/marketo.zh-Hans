@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
-description: 在Marketo Sales Insight - Marketo文档中配置取消订阅页脚 — 产品文档
+description: 了解如何在Marketo Sales Insight中配置取消订阅页脚。 设置销售电子邮件的取消订阅链接和合规性。
 title: 在 Marketo Sales Insight 中配置取消订阅页脚
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 5%
+source-wordcount: '192'
+ht-degree: 7%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 >
 >**定义**
 >
->**销售电子邮件**&#x200B;是从[!DNL Sales Insight]发送的电子邮件(不包括从Marketo Outlook插件发送的电子邮件)。
+>**销售电子邮件**&#x200B;是从[!DNL Sales Insight]发送的电子邮件（不包括从Marketo Outlook插件发送的电子邮件）。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 

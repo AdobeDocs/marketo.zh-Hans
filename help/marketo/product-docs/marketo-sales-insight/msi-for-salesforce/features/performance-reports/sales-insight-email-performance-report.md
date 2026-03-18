@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720314
-description: 销售Insight电子邮件性能报表 — Marketo文档 — 产品文档
-title: Sales Insight 电子邮件绩效报告
+description: 了解Salesforce中的Sales Insight电子邮件性能报表。 查看销售电子邮件的电子邮件量度和参与度。
+title: Sales Insight 电子邮件性能报告
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 9%
+source-wordcount: '146'
+ht-degree: 22%
 
 ---
 
-# Sales Insight 电子邮件绩效报告 {#sales-insight-email-performance-report}
+# Sales Insight 电子邮件性能报告 {#sales-insight-email-performance-report}
 
 查看通过[!DNL Salesforce]、[!DNL Microsoft Dynamics]或Gmail或[!DNL Outlook]插件发送的电子邮件性能。
 
@@ -29,7 +29,7 @@ ht-degree: 9%
 
    ![](assets/three.png)
 
-1. 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Report]** 选项卡。
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -41,13 +41,13 @@ ht-degree: 9%
 
 >[!TIP]
 >
->单击电子邮件的名称，以在电子邮件预览器中将其打开。
+>点击电子邮件名称，即可在电子邮件预览器中打开。
 
 ## 按[!UICONTROL Sales Rep]分组 {#group-by-sales-rep}
 
 您可以通过更改设置来查看按销售代表分组的此报告。
 
-1. 单击&#x200B;**[!UICONTROL Setup]**。 双击&#x200B;**[!UICONTROL Email]**。
+1. 单击 **[!UICONTROL Setup]**。 双击&#x200B;**[!UICONTROL Email]**。
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
@@ -59,7 +59,7 @@ ht-degree: 9%
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Report]** 选项卡。
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

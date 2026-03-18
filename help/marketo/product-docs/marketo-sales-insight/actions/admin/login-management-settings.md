@@ -1,12 +1,12 @@
 ---
-description: 登录管理设置 — Marketo文档 — 产品文档
+description: 了解Sales Insight操作身份验证的登录管理设置。 设置“仅限Salesforce”或其他选项。
 title: 登录管理设置
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 1%
+source-wordcount: '443'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
    ![](assets/login-management-settings-2.png)
 
-1. 向下滚动到[!UICONTROL Login Management]卡片并选择所需的设置(在此示例中，我们仅选择Salesforce)。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 向下滚动到[!UICONTROL Login Management]卡片并选择所需的设置（在此示例中，我们仅选择Salesforce）。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/login-management-settings-3.png)
 
@@ -72,4 +72,4 @@ ht-degree: 1%
 
 ### 选择“[!UICONTROL All Login Methods]”时，允许我的实例的用户使用哪些登录？ {#what-are-users-allowed-to-log-in-with-all-login}
 
-使用我们的登录页面时，用户将首先输入其电子邮件地址。 然后，他们将被发送到一个为其提供所有登录选项(用户名/密码、SFDC、Gmail、SSO)以供进行身份验证的页面。
+使用我们的登录页面时，用户将首先输入其电子邮件地址。 然后，他们将被发送到一个为其提供所有登录选项（用户名/密码、SFDC、Gmail、SSO）以供进行身份验证的页面。

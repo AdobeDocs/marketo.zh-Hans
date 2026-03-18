@@ -1,12 +1,12 @@
 ---
-description: 管理模板 — Marketo文档 — 产品文档
+description: 了解如何在Sales Insight Actions中管理电子邮件模板。 创建、编辑、共享和组织团队模板。
 title: 管理模板
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 3%
+source-wordcount: '511'
+ht-degree: 5%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 3%
 
    ![](assets/manage-templates-8.png)
 
-1. 您可以选择将模板保留在当前类别中或将其移动到其他类别。 在本例中，我们将其保留在当前版本中。 完成后单击&#x200B;**[!UICONTROL Share]**。
+1. 您可以选择将模板保留在当前类别中或将其移动到其他类别。 在本例中，我们将其保留在当前版本中。 完成后，单击 **[!UICONTROL Share]**。
 
    ![](assets/manage-templates-9.png)
 
@@ -125,7 +125,7 @@ ht-degree: 3%
 
    ![](assets/manage-templates-15.png)
 
-1. 单击&#x200B;**[!UICONTROL Archive]**&#x200B;确认。
+1. 单击 **[!UICONTROL Archive]** 确认。
 
    ![](assets/manage-templates-16.png)
 
@@ -151,6 +151,6 @@ ht-degree: 3%
 
    ![](assets/manage-templates-18.png)
 
-1. 单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认。
+1. 单击 **[!UICONTROL Delete]** 确认。
 
    ![](assets/manage-templates-19.png)

@@ -1,12 +1,12 @@
 ---
-description: Dynamic Chat集成 — Marketo文档 — 产品文档
+description: 了解Dynamic Chat与Marketo Sales Insight的集成。 请参阅Salesforce中MSI面板的聊天活动和参与。
 title: Dynamic Chat 集成
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 7%
+source-wordcount: '364'
+ht-degree: 6%
 
 ---
 

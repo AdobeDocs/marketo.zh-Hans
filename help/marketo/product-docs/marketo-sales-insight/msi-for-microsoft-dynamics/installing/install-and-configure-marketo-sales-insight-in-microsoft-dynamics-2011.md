@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571735
-description: 在Marketo 2011中安装和配置Microsoft Dynamics Sales Insight - Marketo文档 — 产品文档
+description: 了解如何在Microsoft Dynamics 2011中安装和配置Marketo Sales Insight。 添加解决方案并完成设置。
 title: 在 Microsoft Dynamics 2011 中安装和配置 Marketo Sales Insight
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 5%
+source-wordcount: '336'
+ht-degree: 6%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 5%
    >
    >在继续之前，您应该已经安装并配置了[Marketo解决方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)。
 
-1. 单击&#x200B;**[!UICONTROL Browse]**。 选择您[!DNL Marketo Sales Insight]下载的[解决方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。 单击 **[!UICONTROL Next]**。
+1. 单击 **[!UICONTROL Browse]**。 选择您[!DNL Marketo Sales Insight]下载的[解决方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 

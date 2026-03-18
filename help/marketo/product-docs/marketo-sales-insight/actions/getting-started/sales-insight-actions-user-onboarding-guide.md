@@ -1,12 +1,12 @@
 ---
-description: 销售Insight Actions用户入门指南 — Marketo文档 — 产品文档
+description: 了解如何作为新的Sales Insight Actions用户入门。 完成设置步骤并连接电子邮件、Salesforce和Marketo。
 title: Sales Insight Actions 用户快速入门
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 6%
+source-wordcount: '310'
+ht-degree: 5%
 
 ---
 

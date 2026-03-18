@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360303
-description: 自定义星星和火焰 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Sales Insight中自定义星星和火焰。 配置商机得分和紧迫性在Salesforce中的显示方式。
 title: 自定义星级和火焰标识
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 4%
+source-wordcount: '174'
+ht-degree: 7%
 
 ---
 
 # 自定义星级和火焰标识 {#customize-stars-and-flames}
 
-[!DNL Marketo Sales Insight]使用星星和火焰来优先处理潜在客户。 Marketo会自动决定谁获得1-2-3颗星/火焰。 但是，您可以修改公式。 方法如下：
+[!DNL Marketo Sales Insight]使用星星和火焰来优先处理潜在客户。 Marketo会自动决定谁获得1-2-3颗星/火焰。 但是，您可以修改公式。 以下是具体操作方法：
 
 >[!AVAILABILITY]
 >

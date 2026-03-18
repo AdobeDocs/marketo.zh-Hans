@@ -1,13 +1,13 @@
 ---
-description: 以其他用户身份查看模板列表 — Marketo文档 — 产品文档
+description: 了解如何在您是管理员时以其他用户身份查看模板列表。 使用查看方式查看其他用户的模板。
 title: 以其他用户身份查看模板列表
 hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '85'
 ht-degree: 18%
 
 ---
@@ -34,4 +34,4 @@ ht-degree: 18%
 
    >[!NOTE]
    >
-   >您还可以使用筛选器或搜索功能以及&#x200B;_[!UICONTROL View As]_&#x200B;查看与您最相关的内容。
+   >您还可以使用筛选器或搜索功能以及&#x200B;_[!UICONTROL View As]_查看与您最相关的内容。

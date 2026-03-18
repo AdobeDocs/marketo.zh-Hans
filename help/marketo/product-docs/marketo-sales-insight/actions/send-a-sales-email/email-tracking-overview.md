@@ -1,11 +1,11 @@
 ---
-description: 电子邮件跟踪概述 — Marketo文档 — 产品文档
+description: 了解销售电子邮件的电子邮件跟踪。 了解如何跟踪和记录查看、点击和回复。
 title: 电子邮件跟踪概述
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '492'
 ht-degree: 5%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 5%
 
 ## 如何追踪您的电子邮件附件 {#how-to-track-your-email-attachments}
 
-[!DNL Sales Connect]提供对附件(.doc、.ppt、.pdf)的跟踪，以便您查看附件打开/下载的时间，以及收件人浏览的页面。 我们将允许您同时使用[Web应用程序](https://toutapp.com/login)和Gmail(或Google应用程序)中的可跟踪附件功能。
+[!DNL Sales Connect]提供对附件(.doc、.ppt、.pdf)的跟踪，以便您查看附件打开/下载的时间，以及收件人浏览的页面。 我们将允许您同时使用[Web应用程序](https://toutapp.com/login)和Gmail（或Google应用程序）中的可跟踪附件功能。
 
 >[!NOTE]
 >

@@ -1,12 +1,12 @@
 ---
-description: 向用户授予Marketo访问权限 — Marketo文档 — 产品文档
+description: 了解如何在Sales Insight Actions中向用户授予Marketo访问权限。 允许用户查看Marketo数据并使用与Marketo连接的功能。
 title: 授予用户 Marketo 访问权限
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '212'
+ht-degree: 6%
 
 ---
 

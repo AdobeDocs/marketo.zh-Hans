@@ -1,11 +1,11 @@
 ---
-description: 将操作按钮添加到Salesforce列表视图 — Marketo文档 — 产品文档
+description: 了解如何将“发送销售电子邮件”和“添加到销售活动”按钮添加到Salesforce列表视图。 在Lightning或Classic中通过列表视图按钮布局进行配置。
 title: 在 Salesforce 列表视图中添加操作按钮
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 6%
+source-wordcount: '306'
+ht-degree: 5%
 
 ---
 

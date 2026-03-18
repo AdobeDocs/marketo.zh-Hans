@@ -1,11 +1,11 @@
 ---
-description: Highspot集成 — Marketo文档 — 产品文档
+description: 了解Highspot与Sales Insight Actions的集成。 在销售电子邮件中使用重点内容并跟踪参与情况。
 title: Highspot 集成
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '346'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 更改您的Marketo销售密码 — Marketo文档 — 产品文档
+description: 了解如何在Sales Insight Actions中更改Marketo Sales密码。 在不使用仅Salesforce登录名时在“设置”中更新密码。
 title: 更改您的 Marketo Sales 密码
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 8%
+source-wordcount: '172'
+ht-degree: 11%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 8%
 
    ![](assets/change-your-marketo-sales-password-2.png)
 
-1. 输入当前密码。 然后，输入新密码，然后重新键入以确保它们匹配。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入当前密码。 然后，输入新密码，然后重新键入以确保它们匹配。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/change-your-marketo-sales-password-3.png)
 
@@ -59,6 +59,6 @@ ht-degree: 8%
    >
    >也请务必检查您的垃圾邮件文件夹，因为此电子邮件有时可能最终会到达该位置。
 
-1. 输入并确认新密码。 完成后单击&#x200B;**[!UICONTROL Set Password]**。
+1. 输入并确认新密码。 完成后，单击 **[!UICONTROL Set Password]**。
 
    ![](assets/change-your-marketo-sales-password-8.png)

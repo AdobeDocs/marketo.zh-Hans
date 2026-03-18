@@ -1,12 +1,12 @@
 ---
-description: Salesforce活动中为何不显示跟踪活动？ - Marketo 文档 - 产品文档
+description: Salesforce活动中不显示跟踪活动时的故障诊断。 检查同步设置、API日志记录和权限。
 title: 为什么跟踪活动未显示在 Salesforce 活动中？
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 16%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516390
-description: 在Marketo AppExchange中安装Salesforce Sales Insight包 — Marketo文档 — 产品文档
+description: 了解如何从Salesforce AppExchange安装Marketo Sales Insight包。 将包添加到您的Salesforce实例。
 title: 在 Salesforce AppExchange 中安装 Marketo Sales Insight 软件包
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 5%
+source-wordcount: '218'
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 >
 >[!DNL Marketo Sales Insight]与[!DNL Salesforce] Platform (Shield)加密兼容。
 
-1. 转到[&#x200B; [!DNL Marketo Sales Insight]的](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)AppExchange页面，然后单击&#x200B;**[!UICONTROL Get it Now]**。
+1. 转到[ [!DNL Marketo Sales Insight]的](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)AppExchange页面，然后单击&#x200B;**[!UICONTROL Get it Now]**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 

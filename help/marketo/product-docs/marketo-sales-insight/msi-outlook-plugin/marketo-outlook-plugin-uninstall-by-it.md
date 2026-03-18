@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382829
-description: Marketo [!DNL Outlook] IT卸载插件 — Marketo文档 — 产品文档
+description: 了解IT人员如何卸载Marketo Outlook插件。 需要时，从用户计算机中删除加载项。
 title: Marketo [!DNL Outlook] 插件由IT卸载
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 2%
 
 ---

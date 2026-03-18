@@ -1,11 +1,11 @@
 ---
-description: 高级搜索概述 — Marketo文档 — 产品文档
+description: 了解如何在命令中心中使用高级搜索来查找电子邮件和任务。 按日期、发件人、状态和其他条件过滤。
 title: 高级搜索概述
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '396'
 ht-degree: 4%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 4%
  </tr>
 </table>
 
-**时间**
+**When**
 
 按创建日期、交付日期、失败日期或计划日期进行选择。 可用选项会根据您选择的电子邮件状态([!UICONTROL Sent]、[!UICONTROL Undelivered]、[!UICONTROL Pending])而发生更改。
 
@@ -83,13 +83,13 @@ ht-degree: 4%
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**状态：已发送**&#x200B;_
+_**状态：已发送**_
 
 ![](assets/advanced-search-overview-10.png)
 
 按已发送的电子邮件活动筛选。 您可以选择[!UICONTROL views]/[!UICONTROL no views]、[!UICONTROL clicks]/[!UICONTROL no clicks]和/或[!UICONTROL replies]/[!UICONTROL no replies]。
 
-_&#x200B;**状态：待处理**&#x200B;_
+_**状态：待处理**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -102,7 +102,7 @@ _&#x200B;**状态：待处理**&#x200B;_
  </tr>
  <tr>
   <td><strong>[!UICONTROL Scheduled]</strong></td>
-  <td>从撰写窗口(Salesforce或Web应用程序)、电子邮件插件或营销活动计划的电子邮件。</td>
+  <td>从撰写窗口（Salesforce或Web应用程序）、电子邮件插件或营销活动计划的电子邮件。</td>
  </tr>
  <tr>
   <td><strong>[!UICONTROL Drafts]</strong></td>
@@ -114,7 +114,7 @@ _&#x200B;**状态：待处理**&#x200B;_
  </tr>
 </table>
 
-_&#x200B;**状态：未传递**&#x200B;_
+_**状态：未传递**_
 
 ![](assets/advanced-search-overview-12.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949283
-description: 使用Marketo模板从 [!DNL Outlook] 发送和跟踪 — Marketo文档 — 产品文档
+description: 了解如何使用Marketo模板从Outlook发送和跟踪。 插入销售模板并从Outlook发送跟踪电子邮件。
 title: 使用Marketo模板从 [!DNL Outlook] 发送和跟踪
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

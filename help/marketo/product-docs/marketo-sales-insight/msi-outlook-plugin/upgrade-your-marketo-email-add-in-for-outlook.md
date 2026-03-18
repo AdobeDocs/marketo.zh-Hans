@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949279
-description: 针对 [!DNL Outlook] 升级Marketo电子邮件加载项 — Marketo文档 — 产品文档
+description: 了解如何升级适用于Outlook的Marketo电子邮件加载项。 获取最新版本的新增功能和修复。
 title: 升级 [!DNL Outlook]的Marketo电子邮件加载项
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '326'
 ht-degree: 11%
 
 ---

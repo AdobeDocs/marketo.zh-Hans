@@ -1,12 +1,12 @@
 ---
-description: 我能否使用CC/BCC - Marketo文档 — 产品文档跟踪多个收件人
+description: 了解在使用抄送和密送时是否可以跟踪多个收件人。 了解群组电子邮件的跟踪限制和行为。
 title: 我能否使用抄送/密送跟踪多个收件人
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

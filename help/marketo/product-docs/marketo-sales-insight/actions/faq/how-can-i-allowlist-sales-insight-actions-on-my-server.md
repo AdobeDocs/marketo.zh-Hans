@@ -1,12 +1,12 @@
 ---
-description: 如何在服务器上允许列表Sales Insight操作？ - Marketo 文档 - 产品文档
+description: 了解如何在服务器或防火墙上允许列表Sales Insight操作。 获取IP和域以允许跟踪和交付。
 title: 如何在服务器上将 Sales Insight Actions 加入允许列表？
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 20%
+source-wordcount: '77'
+ht-degree: 12%
 
 ---
 

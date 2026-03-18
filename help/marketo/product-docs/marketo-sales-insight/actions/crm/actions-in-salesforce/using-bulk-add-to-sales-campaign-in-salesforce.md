@@ -1,10 +1,10 @@
 ---
-description: 在Salesforce中使用批量添加到促销活动 — Marketo文档 — 产品文档
+description: 了解如何从Salesforce将潜在客户和联系人批量添加到Sales Campaign。 选择一个列表视图，然后使用Lightning或Classic中的Add to Sales Campaign按钮。
 title: 在 Salesforce 中批量添加到销售营销活动
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '598'
 ht-degree: 2%
 
 ---

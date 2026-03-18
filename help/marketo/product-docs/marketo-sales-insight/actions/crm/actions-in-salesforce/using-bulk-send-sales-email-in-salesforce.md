@@ -1,10 +1,10 @@
 ---
-description: 在Salesforce中使用批量发送销售电子邮件 — Marketo文档 — 产品文档
+description: 了解如何从Salesforce发送批量销售电子邮件。 在列表视图中选择潜在客户或联系人，然后使用Lightning或Classic中的“发送销售电子邮件”按钮。
 title: 在 Salesforce 中批量发送销售电子邮件
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '613'
 ht-degree: 2%
 
 ---

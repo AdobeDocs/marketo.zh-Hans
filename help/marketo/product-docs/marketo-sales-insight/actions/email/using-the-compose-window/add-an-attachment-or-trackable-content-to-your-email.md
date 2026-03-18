@@ -1,11 +1,11 @@
 ---
-description: 将附件或可跟踪内容添加到电子邮件 — Marketo文档 — 产品文档
+description: 了解如何向销售电子邮件添加附件或可跟踪内容。 附加文件或添加可跟踪链接和内容以进行参与跟踪。
 title: 向电子邮件添加附件或可跟踪内容
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '409'
 ht-degree: 4%
 
 ---

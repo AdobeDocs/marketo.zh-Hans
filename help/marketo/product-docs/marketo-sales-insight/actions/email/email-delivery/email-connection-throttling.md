@@ -1,11 +1,11 @@
 ---
-description: 电子邮件连接限制 — Marketo文档 — 产品文档
+description: 了解Sales Insight操作中的电子邮件连接限制和发送限制。 了解限制如何影响投放以及如何保持在限制范围内。
 title: 电子邮件连接节流
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '409'
 ht-degree: 2%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 销售Insight操作用户入门核对清单 — Marketo文档 — 产品文档
+description: 使用Sales Insight Actions用户入门核对清单开始操作。 跟踪新用户的设置步骤和激活。
 title: Sales Insight Actions 用户入门检查清单
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '131'
 ht-degree: 9%
 
 ---

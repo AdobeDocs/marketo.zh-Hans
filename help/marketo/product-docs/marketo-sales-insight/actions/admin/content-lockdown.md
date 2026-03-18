@@ -1,12 +1,12 @@
 ---
-description: 内容锁定 — Marketo文档 — 产品文档
+description: 了解如何启用内容锁定，以限制非管理员编辑模板和营销活动。
 title: 内容锁定
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 6%
 
 ---
 
@@ -26,6 +26,6 @@ ht-degree: 4%
 
    ![](assets/content-lockdown-2.png)
 
-1. 向下滚动到[!UICONTROL Content Lockdown]。 打开任一滑块将禁用团队成员创建/编辑模板和/或营销活动的能力。
+1. 向下滚动至 [!UICONTROL Content Lockdown]。打开任一滑块将禁用团队成员创建/编辑模板和/或营销活动的能力。
 
    ![](assets/content-lockdown-3.png)

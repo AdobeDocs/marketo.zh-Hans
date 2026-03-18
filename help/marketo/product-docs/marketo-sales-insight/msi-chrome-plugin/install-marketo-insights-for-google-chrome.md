@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147326
-description: 安装Marketo Insights for Google Chrome - Marketo文档 — 产品文档
+description: 了解如何安装适用于Google Chrome的Marketo Insights。 添加扩展以查看商机和帐户信息以及Gmail中的活动。
 title: 为 Google Chrome 安装 Marketo Insights
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '199'
 ht-degree: 3%
 
 ---

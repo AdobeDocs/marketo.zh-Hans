@@ -1,11 +1,11 @@
 ---
-description: 致电原因 — Marketo文档 — 产品文档
+description: 了解Sales Insight Actions中的呼叫原因。 设置进行调用的原因，使其登录Marketo和Salesforce。
 title: 通话原因
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '181'
 ht-degree: 2%
 
 ---

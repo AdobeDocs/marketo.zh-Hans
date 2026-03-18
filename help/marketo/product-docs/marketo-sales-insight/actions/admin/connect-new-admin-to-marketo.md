@@ -1,11 +1,11 @@
 ---
-description: 将新管理员连接到Marketo - Marketo文档 — 产品文档
+description: 了解如何将新管理员连接到Marketo并传输Marketo集成。 按照以下步骤断开当前管理员的连接并建立新连接。
 title: 将新管理员连接到 Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '495'
 ht-degree: 2%
 
 ---

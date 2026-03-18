@@ -1,11 +1,11 @@
 ---
-description: Salesforce中的销售Insight操作配置 — Marketo文档 — 产品文档
+description: 了解如何在Salesforce中配置Sales Insight Actions。 添加远程站点，启用MSI操作，并输入API密钥。
 title: 在 Salesforce 中配置 Sales Insight Actions
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 3%
+source-wordcount: '217'
+ht-degree: 4%
 
 ---
 
@@ -61,7 +61,7 @@ ht-degree: 3%
    >
    >如果您没有可用的[!UICONTROL API Secrey Key]，可以按照[本文](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)中的步骤找到它。
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。
 
 这将自动启用功能概述文章中概述的所有MSI操作功能。
 

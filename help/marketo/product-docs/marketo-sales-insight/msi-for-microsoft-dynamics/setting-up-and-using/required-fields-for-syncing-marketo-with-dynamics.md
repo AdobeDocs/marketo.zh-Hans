@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375827
-description: 将Marketo与Dynamics同步的必填字段 — Marketo文档 — 产品文档
+description: 了解将Marketo与Dynamics同步的必填字段。 确保映射正确的字段以便MSI正常工作。
 title: 同步 Marketo 与 Dynamics 所需的字段
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 6%
+source-wordcount: '159'
+ht-degree: 5%
 
 ---
 

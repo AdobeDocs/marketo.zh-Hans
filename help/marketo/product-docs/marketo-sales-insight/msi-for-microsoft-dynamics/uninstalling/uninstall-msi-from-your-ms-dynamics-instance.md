@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355600
-description: 从MS [!DNL Dynamics] 实例中卸载MSI - Marketo文档 — 产品文档
+description: 了解如何从MS Dynamics实例中卸载Marketo Sales Insight。 取出解决方案，并在需要时进行清理。
 title: 从MS [!DNL Dynamics] 实例卸载MSI
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 2%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 用户访问详细信息 — Marketo文档 — 产品文档
+description: 了解管理员和非管理员可以在Sales Insight操作中访问哪些内容。 比较模板、促销活动、分析和人员的权限。
 title: 用户访问详情
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 3%
+source-wordcount: '212'
+ht-degree: 2%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 命令中心概述 — Marketo文档 — 产品文档
+description: 了解用于管理销售电子邮件和任务的指挥中心。 在Sales Insight Actions中查看已发送的电子邮件、分配任务和使用快速操作。
 title: 指挥中心概述
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 4%
+source-wordcount: '489'
+ht-degree: 3%
 
 ---
 

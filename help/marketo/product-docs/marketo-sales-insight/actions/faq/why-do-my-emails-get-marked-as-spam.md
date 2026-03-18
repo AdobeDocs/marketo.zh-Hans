@@ -1,15 +1,15 @@
 ---
-description: 为什么我的电子邮件会被标记为垃圾邮件？ - Marketo 文档 - 产品文档
-title: 为什么我的电子邮件会被标记为垃圾邮件？
+description: 当您的销售电子邮件被标记为垃圾邮件时，获取帮助。 了解常见原因以及如何提高可投放性和发件人信誉。
+title: 为什么我的电子邮件会被标记为垃圾电子邮件？
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 11%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 
-# 为什么我的电子邮件会被标记为垃圾邮件？ {#why-do-my-emails-get-marked-as-spam}
+# 为什么我的电子邮件会被标记为垃圾电子邮件？ {#why-do-my-emails-get-marked-as-spam}
 
 作为一家公司，我们努力确保我们的可投放性保持高水平。 但是，某些用户行为和设置可能会触发将已发送的电子邮件路由到垃圾邮件文件夹。
 

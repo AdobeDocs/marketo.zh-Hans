@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571737
-description: 在Marketo 2013中安装和配置Microsoft Dynamics Sales Insight - Marketo文档 — 产品文档
+description: 了解如何在Microsoft Dynamics 2013中安装和配置Marketo Sales Insight。 添加解决方案并连接到Marketo。
 title: 在 Microsoft Dynamics 2013 中安装和配置 Marketo Sales Insight
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '362'
 ht-degree: 5%
 
 ---
@@ -127,7 +127,7 @@ ht-degree: 5%
 
 最后，您可以授予特定用户访问[!DNL Marketo Sales Insight]的权限。
 
-1. 转到&#x200B;**[!UICONTROL Settings]**。
+1. 前往 **[!UICONTROL Settings]**。
 
    ![](assets/image2014-12-12-9-3a8-3a34.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511512
-description: 在Marketo1中安装和配置Salesforce Sales Insight - Marketo文档 — 产品文档
+description: 了解如何在Marketo Mobile (Salesforce1)中安装和配置Salesforce Sales Insight。 在移动设备上使用MSI。
 title: 在 Salesforce1 中安装和配置 Marketo Sales Insight
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '290'
 ht-degree: 7%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNL B最佳匹配]、潜在客户提要、有趣的时刻以及添加到Marketo营销活动。
+>[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNLB最佳匹配]、潜在客户提要、有趣的时刻以及添加到Marketo营销活动。
 
 ## 启用[!DNL Salesforce1]移动应用 {#enable-the-salesforce1-mobile-app}
 

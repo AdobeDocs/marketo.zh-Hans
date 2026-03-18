@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352613
-description: 将人员添加到您的活动 — Marketo文档 — 产品文档
+description: 了解如何从Web应用程序、Salesforce或收件箱添加或删除Sales Campaigns中的人员。 设置回复和退回选项以自动结束营销活动。
 title: 将人员添加到您的营销活动
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '462'
 ht-degree: 3%
 
 ---

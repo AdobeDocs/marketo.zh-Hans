@@ -1,11 +1,11 @@
 ---
-description: 位置跟踪如何工作 — Marketo文档 — 产品文档
+description: 了解位置跟踪如何用于销售电子邮件。 了解收集什么位置数据以及如何使用数据。
 title: 位置跟踪的工作原理
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '123'
 ht-degree: 4%
 
 ---

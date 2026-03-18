@@ -1,11 +1,11 @@
 ---
-description: 来自电子邮件抄送和密送部分中列出的收件人的查看、点击和回复是否受到跟踪？ - Marketo 文档 - 产品文档
+description: 了解是否跟踪抄送和密送收件人的查看、点击和回复。 了解多个收件人的跟踪行为。
 title: 抄送和密送栏中列出的收件人的查看、点击和回复是否会被跟踪？
 exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 36%
+source-wordcount: '117'
+ht-degree: 34%
 
 ---
 

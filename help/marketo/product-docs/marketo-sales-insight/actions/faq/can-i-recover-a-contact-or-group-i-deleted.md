@@ -1,12 +1,12 @@
 ---
-description: 是否可以恢复我删除的联系人或组？ - Marketo 文档 - 产品文档
+description: 在Sales Insight操作中了解是否可以恢复已删除的联系人或组。 了解恢复选项和限制。
 title: 我可以恢复已删除的联系人或群组吗？
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '87'
+ht-degree: 20%
 
 ---
 

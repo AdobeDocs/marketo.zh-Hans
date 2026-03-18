@@ -1,12 +1,12 @@
 ---
-description: 发送跟踪电子邮件 — Marketo文档 — 产品文档
+description: 了解如何发送跟踪的销售电子邮件，以便查看查看次数、点击次数和回复次数。 使用投放渠道并从指挥中心跟踪。
 title: 发送可跟踪电子邮件
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 4%
+source-wordcount: '215'
+ht-degree: 3%
 
 ---
 

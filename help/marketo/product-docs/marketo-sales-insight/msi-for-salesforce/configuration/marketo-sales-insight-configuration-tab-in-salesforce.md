@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762322
-description: Salesforce中的Marketo Sales Insight Configuration选项卡 — Marketo文档 — 产品文档
+description: 了解Salesforce中的Marketo Sales Insight配置选项卡。 配置MSI设置并启用操作。
 title: Salesforce 中的 Marketo Sales Insight 配置选项卡
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '620'
 ht-degree: 1%
 
 ---
@@ -42,11 +42,11 @@ ht-degree: 1%
 
 **Marketo全局选项卡**
 
-* 启用RSS信息源：启用后，MSI用户可以在RSS信息源中查看其潜在客户信息源(除Salesforce中的潜在客户信息源之外)。 仅当“令牌过期”功能被禁用时，RSS馈送才能正常工作。 此设置可在您的Marketo Sales Insight Admin页面中进行控制。
+* 启用RSS信息源：启用后，MSI用户可以在RSS信息源中查看其潜在客户信息源（除Salesforce中的潜在客户信息源之外）。 仅当“令牌过期”功能被禁用时，RSS馈送才能正常工作。 此设置可在您的Marketo Sales Insight Admin页面中进行控制。
 * 最佳调试模式
 * 默认隐藏：您在此处选择的选项是单击“隐藏”图标时最佳匹配在Marketo的“最佳匹配”选项卡中隐藏的天数
 * 联系人状态字段：您在此处选择的选项将是在Marketo的“最佳匹配”选项卡的“状态标题”列中填充的值
-* 实时信息源设置：用于选择仅显示实时信息源的选项(在“销售线索”、“联系人”、“客户”和“业务机会”面板以及“全局Marketo”页面中)，仅显示销售线索信息源(在“Marketo全局”页面中)，或同时显示实时信息和销售线索信息源
+* 实时信息源设置：用于选择仅显示实时信息源的选项（在“销售线索”、“联系人”、“客户”和“业务机会”面板以及“全局Marketo”页面中），仅显示销售线索信息源（在“Marketo全局”页面中），或同时显示实时信息和销售线索信息源
 * 选项卡设置：默认情况下，所有五个选项卡均可用。 您可以在Marketo全局页面中选择选项卡的顺序
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-3.png)

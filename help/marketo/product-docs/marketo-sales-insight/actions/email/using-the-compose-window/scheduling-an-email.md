@@ -1,9 +1,9 @@
 ---
-description: 计划电子邮件 — Marketo文档 — 产品文档
+description: 了解如何计划销售电子邮件以便稍后发送。 在Sales Insight Actions或收件箱中撰写时设置日期和时间。
 title: 安排电子邮件发送
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---

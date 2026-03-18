@@ -1,12 +1,12 @@
 ---
-description: 电子邮件活动 — Marketo文档 — 产品文档
+description: 了解Dynamics的Marketo选项卡中的电子邮件活动。 查看潜在客户和联系人的已发送电子邮件、打开次数、点击次数和回复。
 title: 电子邮件活动
 exl-id: 8c5bd8dc-15a2-49c8-8c1c-e2e0b7c8745b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 9%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 

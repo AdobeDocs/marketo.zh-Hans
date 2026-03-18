@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377488
-description: 使用企业密钥为 [!DNL Outlook] 安装Marketo加载项 — Marketo文档 — 产品文档
+description: 了解如何使用企业密钥安装适用于Outlook的Marketo加载项。 使用企业密钥为您的组织部署加载项。
 title: 使用企业密钥为 [!DNL Outlook] 安装Marketo加载项
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 0%
+source-wordcount: '271'
+ht-degree: 1%
 
 ---
 
 # 使用企业密钥为[!DNL Outlook]安装Marketo加载项 {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-很多时候，销售代表对他们的笔记本电脑没有管理权限，他们的IT团队负责远程安装所有软件。 可以使用企业密钥(位于“管理员”的“Sales Insight”部分)以这种方式安装适用于Outlook的Marketo加载项。 如果未看到“查看企业密钥”按钮，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)以启用它。
+很多时候，销售代表对他们的笔记本电脑没有管理权限，他们的IT团队负责远程安装所有软件。 可以使用企业密钥（位于“管理员”的“Sales Insight”部分）以这种方式安装适用于Outlook的Marketo加载项。 如果未看到“查看企业密钥”按钮，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)以启用它。
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. 单击&#x200B;**[!UICONTROL Email Add-In]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Email Add-In]** 选项卡。
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 

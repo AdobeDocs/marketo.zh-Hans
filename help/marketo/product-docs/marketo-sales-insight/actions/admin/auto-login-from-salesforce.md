@@ -1,11 +1,11 @@
 ---
-description: 从Salesforce自动登录 — Marketo文档 — 产品文档
+description: 了解如何从Salesforce启用自动登录，以便用户自动对Sales Insight操作进行身份验证。 将“登录管理”设置为“仅限Salesforce”并连接帐户。
 title: 从Salesforce自动登录
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

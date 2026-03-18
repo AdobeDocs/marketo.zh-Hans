@@ -1,11 +1,11 @@
 ---
-description: 事务性销售电子邮件模板 — Marketo文档 — 产品文档
+description: 了解事务性销售电子邮件模板以及不需要取消订阅链接的时间。 用于一对一事务型消息。
 title: 交易型销售电子邮件模板
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---
