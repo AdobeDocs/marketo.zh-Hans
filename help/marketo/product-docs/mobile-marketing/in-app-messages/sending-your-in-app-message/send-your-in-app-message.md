@@ -1,18 +1,18 @@
 ---
-description: 发送应用程序内消息 — Marketo文档 — 产品文档
+description: 了解如何发送应用程序内消息。 创建项目，使用控制面板设置受众和消息，然后批准以启动。
 title: 发送您的应用程序内消息
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 5%
+source-wordcount: '162'
+ht-degree: 7%
 
 ---
 
 # 发送您的应用程序内消息 {#send-your-in-app-message}
 
-创建应用程序内消息后，便可发送该消息。 步骤如下：
+创建应用程序内消息后，便可发送该消息。 以下是步骤：
 
 >[!NOTE]
 >

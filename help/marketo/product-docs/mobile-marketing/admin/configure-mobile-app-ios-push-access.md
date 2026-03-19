@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512434
-description: 配置移动应用程序iOS推送访问 — Marketo文档 — 产品文档
+description: 了解如何为移动应用程序配置iOS推送访问权限。 在Admin中添加来自开发人员的证书和密码。
 title: 配置移动应用程序 iOS 推送访问
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 10%
 
 ---

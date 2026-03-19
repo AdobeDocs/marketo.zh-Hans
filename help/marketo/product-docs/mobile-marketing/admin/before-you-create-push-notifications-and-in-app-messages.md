@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11376159
-description: 在创建推送通知和应用程序内消息之前 — Marketo文档 — 产品文档
+description: 了解在创建推送和应用程序内消息之前应设置的内容。 获取管理员和开发人员步骤、SDK以及自定义事件指南。
 title: 在创建推送通知和应用程序内消息之前
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '343'
 ht-degree: 4%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 4%
 
 1. 然后Marketo管理员[向开发人员](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)发送一个代码片段。
 
-1. 开发人员下载适用于[Android](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)的SDK，并包含代码片段和其他方法。
+1. 开发人员下载适用于[Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)的SDK，并包含代码片段和其他方法。
 
 1. 默认情况下，应用程序内消息会在应用程序打开时触发。 如果要触发其他事件的消息，例如查看特定页面或按下特定按钮时，开发人员需要向代码添加自定义事件（请参阅下面的[应用程序内消息的自定义事件](#CustomEvents)）。
 
-1. 开发人员[为Android](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)生成服务器API密钥和项目编号，并将其发送给Marketo管理员。
+1. 开发人员[为Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)生成服务器API密钥和项目编号，并将其发送给Marketo管理员。
 
-1. Marketo管理员使用服务器API密钥(Android) [配置推送通知访问](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)，或使用证书(iOS) [配置](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)。
+1. Marketo管理员使用服务器API密钥(Android)[配置推送通知访问](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)，或使用证书(iOS)[配置](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)。
 
 >[!TIP]
 >

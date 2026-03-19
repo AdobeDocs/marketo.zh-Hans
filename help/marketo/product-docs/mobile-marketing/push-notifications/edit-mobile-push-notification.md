@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512460
-description: 编辑移动推送通知 — Marketo文档 — 产品文档
+description: 了解如何编辑移动推送通知。 打开营销活动，选择推送资产，然后使用编辑草稿进行更改。
 title: 编辑移动推送通知
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 36%
+source-wordcount: '47'
+ht-degree: 25%
 
 ---
 

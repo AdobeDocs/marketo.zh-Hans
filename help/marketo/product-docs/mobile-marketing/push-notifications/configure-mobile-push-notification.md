@@ -1,11 +1,11 @@
 ---
-description: 配置移动推送通知 — Marketo文档 — 产品文档
+description: 了解如何配置移动推送通知。 设置应用程序、消息文本、点击操作、深层链接并批准发送。
 title: 配置移动推送通知
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '461'
 ht-degree: 3%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >如果您的推送消息仅应用于一个平台(例如，iOS)，则可以通过手动将其选择器滑动到&#x200B;**已禁用**&#x200B;来排除另一个平台。
+   >如果您的推送消息仅应用于一个平台（例如，iOS），则可以通过手动将其选择器滑动到&#x200B;**已禁用**&#x200B;来排除另一个平台。
 
 1. 单击 **[!UICONTROL Next]**。
 
@@ -82,7 +82,7 @@ ht-degree: 3%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-也就是说，您应用程序的深层链接结构可能与上述示例不同。 您的开发人员在定义深层链接URI时有很多选项，因此请要求您的开发人员向您发送您有兴趣使用的页面的URI（链接）。 这可确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可以[在此查找更多信息](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
+也就是说，您应用程序的深层链接结构可能与上述示例不同。 您的开发人员在定义深层链接URI时有很多选项，因此请要求您的开发人员向您发送您有兴趣使用的页面的URI（链接）。 这可确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可以[在此查找更多信息](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
 
 >[!MORELIKETHIS]
 >

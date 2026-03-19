@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783141
-description: 发送推送通知示例 — Marketo文档 — 产品文档
+description: 了解如何发送推送通知示例以验证其是否有效。 选择测试设备或添加测试设备，然后从编辑器发送示例。
 title: 发送推送通知示例
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 4%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 

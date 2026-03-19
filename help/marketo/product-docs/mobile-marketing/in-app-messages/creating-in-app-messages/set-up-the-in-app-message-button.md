@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100644
-description: 设置应用程序内消息按钮 — Marketo文档 — 产品文档
+description: 了解如何设置应用程序内消息按钮。 为Apple和Android配置颜色、形状、自定义图像、字体并点按操作。
 title: 设置应用程序内消息按钮
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---

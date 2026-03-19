@@ -1,12 +1,12 @@
 ---
-description: 预期行为 — Marketo文档 — 产品文档
+description: 了解Marketo Sky中Predictive Audiences的预期行为。 了解数据隐私、激活时间和过滤器限制。
 title: 预期行为
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '389'
 ht-degree: 1%
 
 ---

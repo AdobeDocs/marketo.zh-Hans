@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100649
-description: 设置应用程序内消息背景 — Marketo文档 — 产品文档
+description: 了解如何设置应用程序内消息背景。 选择颜色或图像，设置边框和圆角半径，并为每个平台配置点按操作。
 title: 设置应用程序内消息背景
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---

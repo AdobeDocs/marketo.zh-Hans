@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100642
-description: 创建应用程序内消息文本 — Marketo文档 — 产品文档
+description: 了解如何创建应用程序内消息文本和样式。 编辑主文本和支持文本、颜色、大小、对齐方式、令牌并点击操作。
 title: 创建应用程序内消息文本
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---

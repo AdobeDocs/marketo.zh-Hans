@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092730
-description: 预览推送通知 — Marketo文档 — 产品文档
+description: 了解如何在Android和iOS上预览推送通知。 查看“主页”屏幕、“锁定”屏幕和“通知中心”上的外观。
 title: 预览推送通知
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---

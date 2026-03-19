@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512442
-description: 删除移动设备应用程序 — Marketo文档 — 产品文档
+description: 了解如何从Marketo中删除移动应用程序。 删除应用程序，以便无法再从中发送推送通知。
 title: 删除移动应用程序
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 21%
+source-wordcount: '53'
+ht-degree: 15%
 
 ---
 

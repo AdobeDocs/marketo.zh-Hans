@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100636
-description: 添加应用程序内消息图像 — Marketo文档 — 产品文档
-title: 添加应用程序内消息图片
+description: 了解如何在应用程序内消息中添加和自定义图像。 从Design Studio中选择，设置适合度、边框，然后点按每个平台的操作。
+title: 添加应用程序内消息图像
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '349'
 ht-degree: 2%
 
 ---
 
-# 添加应用程序内消息图片 {#add-in-app-message-images}
+# 添加应用程序内消息图像 {#add-in-app-message-images}
 
 您可以在此处选择和自定义应用程序内消息图像。
 
@@ -47,7 +47,7 @@ ht-degree: 2%
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. 单击&#x200B;**[!UICONTROL Remove]**。 现在，你可以选另一个了。
+1. 单击 **[!UICONTROL Remove]**。 现在，你可以选另一个了。
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100434
-description: 选择应用程序内消息的布局 — Marketo文档 — 产品文档
+description: 了解六种应用程序内消息布局。 选择“弹出窗口”或“全屏”模板，使用图像和按钮构建消息。
 title: 为您的应用程序内消息选择布局
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '490'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912178
-description: 设置取消按钮并批准消息 — Marketo文档 — 产品文档
+description: 了解如何设置取消按钮并批准您的应用程序内消息。 配置颜色、设计和点按操作，然后预览并批准以启动。
 title: 设置解除按钮并批准消息
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---

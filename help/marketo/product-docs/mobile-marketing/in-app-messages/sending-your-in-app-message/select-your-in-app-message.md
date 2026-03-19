@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617434
-description: 选择应用程序内消息 — Marketo文档 — 产品文档
+description: 了解如何为您的项目选择应用程序内消息。 从下拉列表中选择，然后编辑、预览或继续计划。
 title: 选择您的应用程序内消息
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 7%
+source-wordcount: '121'
+ht-degree: 6%
 
 ---
 

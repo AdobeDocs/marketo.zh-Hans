@@ -1,11 +1,11 @@
 ---
-description: 在智能营销活动中使用短信选项 — Marketo文档 — 产品文档
+description: 了解Smart Campaigns中的SMS触发器、过滤器和流程步骤。 使用访客短信活动和列表定位和触发营销活动。
 title: 在智能营销活动中使用短信选项
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '415'
 ht-degree: 3%
 
 ---
@@ -87,5 +87,5 @@ ht-degree: 3%
 >[!MORELIKETHIS]
 >
 >* [发送短信消息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
->* [为智能营销活动定义智能列表 | 触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
->* [为智能营销活动定义智能列表 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+>* [为Smart Campaign定义智能列表|触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [为智能营销活动定义智能列表|批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

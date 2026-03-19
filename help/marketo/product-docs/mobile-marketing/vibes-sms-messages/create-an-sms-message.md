@@ -1,12 +1,12 @@
 ---
-description: 创建短信消息 — Marketo文档 — 产品文档
+description: 了解如何创建短信消息。 在编辑器中添加文本、令牌和链接，并遵循字符限制和合规性要求。
 title: 创建短信消息
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 1%
+source-wordcount: '490'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 >
 >[将Vibes添加为LaunchPoint服务](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-an-sms-message-1.png)
 

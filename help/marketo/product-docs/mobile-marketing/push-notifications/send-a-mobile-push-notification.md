@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512457
-description: 发送移动推送通知 — Marketo文档 — 产品文档
+description: 了解如何发送移动推送通知。 使用带有智能列表和流量的智能营销活动来计划向受众推送。
 title: 发送移动推送通知
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 19%
+source-wordcount: '104'
+ht-degree: 21%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 19%
 
 >[!PREREQUISITES]
 >
->* [创建新的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [创建新的智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [创建推送通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 1. 进入 **[!UICONTROL Marketing Activities]** 区域。

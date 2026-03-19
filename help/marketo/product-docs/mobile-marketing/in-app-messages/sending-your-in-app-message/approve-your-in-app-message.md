@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617440
-description: 批准应用程序内消息 — Marketo文档 — 产品文档
+description: 了解如何批准应用程序内消息以将其启动。 暂停、恢复或停止程序，并通过应用程序内仪表板监控性能。
 title: 批准您的应用程序内消息
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '316'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100397
-description: 了解应用程序内消息 — Marketo文档 — 产品文档
+description: 了解通过优惠和提醒吸引应用程序用户的应用程序内消息。 只需点击一下即可创建和发送深层链接或取消的消息。
 title: 了解应用程序内消息
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '258'
 ht-degree: 2%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 2%
 
 ## 步骤1：管理员和开发人员执行初始设置 {#step-admin-and-developer-perform-initial-setups}
 
-Marketo管理员和移动设备应用程序开发人员共同为您进行设置。 有关详细信息，请参阅创建推送通知和应用内消息之前的[&#128279;](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)。
+Marketo管理员和移动设备应用程序开发人员共同为您进行设置。 有关详细信息，请参阅创建推送通知和应用内消息之前的[](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)。
 
 ## 步骤2：创建应用程序内消息 {#step-create-an-in-app-message}
 

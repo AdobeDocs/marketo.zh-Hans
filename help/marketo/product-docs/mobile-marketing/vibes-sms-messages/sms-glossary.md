@@ -1,11 +1,11 @@
 ---
-description: 短信术语表 — Marketo文档 — 产品文档
+description: 了解用于Marketo Engage的常见Vibes短信术语。 使用此词汇表获取客户、订阅列表、短代码等。
 title: 短信术语表
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '749'
 ht-degree: 1%
 
 ---

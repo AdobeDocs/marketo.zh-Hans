@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783146
-description: 添加新测试设备 — Marketo文档 — 产品文档
+description: 了解如何为推送通知添加新测试设备。 使用URL或二维码连接设备并发送测试推送。
 title: 添加新的测试设备
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 8%
+source-wordcount: '137'
+ht-degree: 9%
 
 ---
 

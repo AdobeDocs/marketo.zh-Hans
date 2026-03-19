@@ -1,12 +1,12 @@
 ---
-description: 在智能列表触发器和过滤器中使用Vibes SMS消息 — Marketo文档 — 产品文档
+description: 了解如何在智能营销活动中使用访客短信触发器和过滤器。 定义何时按订阅和列表成员资格发送或过滤。
 title: 在智能列表触发器和过滤器中使用Vibes SMS消息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -72,5 +72,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [为智能营销活动定义智能列表 | 触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [为Smart Campaign定义智能列表|触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [查找筛选器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

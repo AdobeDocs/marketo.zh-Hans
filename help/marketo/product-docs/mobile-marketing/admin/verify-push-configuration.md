@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512445
-description: 验证推送配置 — Marketo文档 — 产品文档
+description: 了解如何验证推送配置，以便同步您的移动应用程序。 在Admin中确认平台并开始发送推送通知。
 title: 验证推送配置
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 10%
+source-wordcount: '82'
+ht-degree: 8%
 
 ---
 

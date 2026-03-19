@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512451
-description: 创建推送通知 — Marketo文档 — 产品文档
+description: 了解如何创建推送通知。 将其添加为程序中的本地资产，然后为移动设备应用程序对其进行配置和打造。
 title: 创建推送通知
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 12%
 
 ---
 

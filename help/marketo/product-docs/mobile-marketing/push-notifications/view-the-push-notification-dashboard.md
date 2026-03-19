@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096523
-description: 查看推送通知功能板 — Marketo文档 — 产品文档
+description: 了解如何查看推送通知仪表板。 查看推送营销活动的发送总数、点按总数和点按衰减。
 title: 查看推送通知仪表板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 

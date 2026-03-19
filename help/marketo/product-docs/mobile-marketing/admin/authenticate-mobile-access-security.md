@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096158
-description: 验证移动访问安全性 — Marketo文档 — 产品文档
+description: 了解如何启用访问密钥和访问密钥以提高移动应用程序安全性。 向IT部门提供代码，以便验证应用程序登录。
 title: 验证移动访问安全性
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '142'
+ht-degree: 6%
 
 ---
 

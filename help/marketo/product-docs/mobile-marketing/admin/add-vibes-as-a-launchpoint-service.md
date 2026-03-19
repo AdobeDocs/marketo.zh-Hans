@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378845
-description: 将访客添加为LaunchPoint服务 — Marketo文档 — 产品文档
+description: 了解如何将Vibes添加为LaunchPoint服务。 在管理员中输入凭据以在Marketo Engage中启用短信并使用短信活动。
 title: 将 Vibes 添加为 LaunchPoint 服务
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 10%
 
 ---
 

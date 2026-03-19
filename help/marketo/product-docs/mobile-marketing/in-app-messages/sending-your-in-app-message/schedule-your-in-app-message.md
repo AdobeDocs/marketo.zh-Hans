@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370503
-description: 计划应用程序内消息 — Marketo文档 — 产品文档
+description: 了解如何计划应用程序内消息。 设置将来的开始日期和时间，或立即运行（可选择结束日期）。
 title: 计划您的应用程序内消息
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

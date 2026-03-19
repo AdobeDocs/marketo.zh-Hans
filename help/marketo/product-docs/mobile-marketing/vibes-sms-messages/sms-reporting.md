@@ -1,11 +1,11 @@
 ---
-description: 短信报告 — Marketo文档 — 产品文档
+description: 了解短信消息仪表板和报表。 查看短信营销活动的已发送、已投放、跳出率和一段时间内的活动。
 title: 短信报告
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '149'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617431
-description: 设置应用程序内消息受众 — Marketo文档 — 产品文档
+description: 了解如何设置应用程序内消息受众。 编辑智能列表，选择应用程序和触发器，设置显示限制并添加过滤器。
 title: 设置您的应用程序内消息受众
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '279'
 ht-degree: 4%
 
 ---
