@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359496
-description: 将内容添加到代码片段 — Marketo文档 — 产品文档
+description: 了解如何将令牌、图像、文件或富文本添加到代码片段。 使用Design Studio中的代码片段编辑器添加令牌、图像/文件和文本元素。
 title: 向代码段添加内容
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 6%
+source-wordcount: '202'
+ht-degree: 5%
 
 ---
 

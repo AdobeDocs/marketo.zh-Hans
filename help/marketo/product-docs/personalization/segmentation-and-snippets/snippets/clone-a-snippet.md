@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359514
-description: 克隆代码片段 — Marketo文档 — 产品文档
+description: 了解如何克隆代码片段以创建可修改的副本。 使用Design Studio和代码片段操作克隆和自定义电子邮件和登陆页面的内容。
 title: 克隆代码段
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 9%
+source-wordcount: '85'
+ht-degree: 7%
 
 ---
 

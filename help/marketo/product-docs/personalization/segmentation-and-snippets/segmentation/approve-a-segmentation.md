@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359457
-description: 批准分段 — Marketo文档 — 产品文档
+description: 了解如何批准分段，以便将其用于动态内容和报表。 使用数据库和分段操作在定义区段规则后进行批准。
 title: 批准分段
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---

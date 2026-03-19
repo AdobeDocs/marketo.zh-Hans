@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359474
-description: 编辑区段 — Marketo文档 — 产品文档
+description: 了解如何通过创建草稿和更改区段或规则来编辑区段。 在草稿中添加、编辑或删除区段并定义智能列表规则。
 title: 编辑分段
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '192'
 ht-degree: 3%
 
 ---

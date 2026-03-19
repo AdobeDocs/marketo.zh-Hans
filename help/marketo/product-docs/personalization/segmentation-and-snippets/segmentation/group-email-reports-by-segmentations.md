@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359488
-description: 按区段对电子邮件报表进行分组 — Marketo文档 — 产品文档
+description: 了解如何按分段对电子邮件性能报表进行分组。 使用“电子邮件性能报表设置”选项卡可应用一或两个分段进行分组。
 title: 按分段对电子邮件报告进行分组
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 15%
+source-wordcount: '119'
+ht-degree: 13%
 
 ---
 

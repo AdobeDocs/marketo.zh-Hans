@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359449
-description: 定义区段规则 — Marketo文档 — 产品文档
+description: 了解如何定义区段规则，将人员划分为互斥组。 添加智能列表筛选器，预览人员（草稿），并批准动态内容的区段。
 title: 定义区段规则
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 1%
+source-wordcount: '386'
+ht-degree: 2%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. 转到&#x200B;**[!UICONTROL Segmentation Actions]**。 单击 **[!UICONTROL Approve]**。
+1. 前往 **[!UICONTROL Segmentation Actions]**。 单击 **[!UICONTROL Approve]**。
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 

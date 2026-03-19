@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359510
-description: 删除区段 — Marketo文档 — 产品文档
+description: 了解如何删除不再需要的区段。 删除资产关联，取消批准分段，然后使用分段操作进行删除。
 title: 删除分段
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 6%
+source-wordcount: '110'
+ht-degree: 5%
 
 ---
 

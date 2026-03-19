@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: 批准带有非草稿的代码片段 — Marketo文档 — 产品文档
+description: 了解如何使用“非草稿”选项批准代码片段。 在批准时选择“全部更新”或“创建草稿”，以控制如何使用代码片段更新资产。
 title: 批准无草稿的代码段
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '229'
 ht-degree: 4%
 
 ---

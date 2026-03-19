@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953417
-description: 了解动态内容 — Marketo文档 — 产品文档
+description: 了解用于按区段个性化登陆页面和电子邮件的Marketo动态内容。 了解分段、动态内容块和可重用代码片段。
 title: 了解动态内容
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '237'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359492
-description: 按区段划分的组人员报表 — Marketo文档 — 产品文档
+description: 了解如何按区段中的任意区段对人员报表进行分组。 使用报表设置选项卡和分组人员依据，选择分段并查看结果。
 title: 按区段对人员报告进行分组
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 

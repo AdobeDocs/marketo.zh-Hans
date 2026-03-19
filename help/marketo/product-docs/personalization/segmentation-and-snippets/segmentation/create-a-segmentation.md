@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359447
-description: 创建分段 — Marketo文档 — 产品文档
+description: 了解如何创建分段以将人员分组以便于报告和动态内容。 在数据库中添加区段，设置顺序，然后定义区段规则。
 title: 创建分段
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '232'
 ht-degree: 3%
 
 ---

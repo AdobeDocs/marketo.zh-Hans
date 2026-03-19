@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359518
-description: 删除代码片段 — Marketo文档 — 产品文档
+description: 了解如何删除不再需要的代码片段。 取消批准代码片段并删除资产关联，然后使用Design Studio中的代码片段操作进行删除。
 title: 删除代码段
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 8%
+source-wordcount: '90'
+ht-degree: 6%
 
 ---
 

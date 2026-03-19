@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359466
-description: 使用动态内容编辑代码片段 — Marketo文档 — 产品文档
+description: 了解如何使用分段编辑包含动态内容的代码片段。 在Design Studio中，将区段由添加到代码片段并应用每个区段的不同内容。
 title: 编辑包含动态内容的代码段
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 9%
+source-wordcount: '127'
+ht-degree: 7%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359512
-description: 在智能列表中使用区段过滤器 — Marketo文档 — 产品文档
+description: 了解如何在智能列表中使用区段过滤器来优化性能。 添加区段过滤器，通过智能列表中的分段来定位人员。
 title: 在智能列表中使用区段过滤器
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 11%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 
