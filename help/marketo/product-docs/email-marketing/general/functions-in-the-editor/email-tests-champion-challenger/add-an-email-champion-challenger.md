@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359553
-description: 添加电子邮件冠军/挑战者 — Marketo文档 — 产品文档
+description: 了解如何添加冠军/挑战者电子邮件测试。 设置多个变体并定义入选方式。
 title: 添加电子邮件挑战者对比
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 5%
+source-wordcount: '211'
+ht-degree: 7%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->* [创建程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [创建项目](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [创建电子邮件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
 >Champion/Challenger电子邮件仅适用于触发营销活动和参与计划流。 对于批量邮件，请使用电子邮件程序的[A/B测试功能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

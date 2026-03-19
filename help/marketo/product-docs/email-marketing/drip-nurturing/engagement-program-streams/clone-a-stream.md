@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359789
-description: 克隆流 — Marketo文档 — 产品文档
+description: 了解如何克隆参与计划流以进行测试。 从流齿轮图标中克隆，并在新流上设置节奏。
 title: 克隆流
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '94'
+ht-degree: 6%
 
 ---
 

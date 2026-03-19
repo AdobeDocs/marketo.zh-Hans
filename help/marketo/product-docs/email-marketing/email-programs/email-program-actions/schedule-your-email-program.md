@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359455
-description: 计划您的电子邮件项目 — Marketo文档 — 产品文档
+description: 了解如何计划您的电子邮件计划。 设置投放日期和时间，并（可选）使用收件人时区。
 title: 安排电子邮件项目
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '140'
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 7%
 
 创建电子邮件程序、定义受众并选择电子邮件后，您需要通知程序&#x200B;*何时*&#x200B;发送电子邮件。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

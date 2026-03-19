@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900573
-description: 添加系统令牌作为电子邮件中的链接 — Marketo文档 — 产品文档
+description: 了解如何将系统令牌作为链接添加到电子邮件中。 在链接URL中使用令牌以取消订阅或其他动态链接。
 title: 在电子邮件中添加系统令牌作为链接
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 10%
+source-wordcount: '215'
+ht-degree: 9%
 
 ---
 

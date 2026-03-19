@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359910
-description: 编辑流内容的可用性 — Marketo文档 — 产品文档
+description: 了解如何为流内容设置活动开始日期和活动结束日期。 使用“编辑可用性”可计划内容在投放中处于活动状态的时间。
 title: 编辑流内容的可用性
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 11%
+source-wordcount: '116'
+ht-degree: 10%
 
 ---
 

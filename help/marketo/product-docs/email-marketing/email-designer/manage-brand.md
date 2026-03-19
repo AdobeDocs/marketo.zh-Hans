@@ -2,14 +2,15 @@
 solution: Marketo Engage
 product: Marketo
 title: 管理品牌
-description: 了解如何创建和管理品牌指南
+description: 了解如何在电子邮件Designer中创建和管理品牌指南。 配置和更新电子邮件的品牌设置。
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1319'
+source-wordcount: '1330'
 ht-degree: 8%
 
 ---
@@ -92,7 +93,7 @@ ht-degree: 8%
 
    * 查看品牌
    * Edit
-   * 重复
+   * 复制
    * 发布
    * 取消发布
    * 删除

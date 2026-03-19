@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900556
-description: 创建纯文本电子邮件 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中创建纯文本电子邮件。 将文本版本用于纯文本营销活动或用作回退的营销活动。
 title: 创建纯文本电子邮件
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 13%
+source-wordcount: '178'
+ht-degree: 12%
 
 ---
 

@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 品牌主题
-description: 了解如何创建和管理品牌指南。
+description: 了解如何在Marketo Engage中创建和管理品牌指南。 设置品牌主题以实现一致的电子邮件设计。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1097'
+source-wordcount: '1107'
 ht-degree: 1%
 
 ---
@@ -341,7 +341,7 @@ ht-degree: 1%
    >
    >* 在画布中设计电子邮件内容，并选择要应用于该内容的主题。
    >* 电子邮件只能包含一个品牌主题。
-   >* 对于在此资源中创建的任何组件，您可以从右侧窗格的“样式”选项卡中应用主题中可用的任何样式选项(例如，call-to-action可以配置为主/次/第三)。
+   >* 对于在此资源中创建的任何组件，您可以从右侧窗格的“样式”选项卡中应用主题中可用的任何样式选项（例如，call-to-action可以配置为主/次/第三）。
 
 1. 实施所需的设计。 例如，可以选择文本组件以应用主题中定义的任何标题/段落样式。
 

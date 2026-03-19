@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359839
-description: 测试参与流 — Marketo文档 — 产品文档
+description: 了解如何与测试人员一起测试参与流。 使用“程序操作”和“运行转换”发送内容并验证转换规则。
 title: 测试参与流
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 5%
+source-wordcount: '158'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 将所有内容添加到流后，即可一次测试一个内容。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/one.png)
 

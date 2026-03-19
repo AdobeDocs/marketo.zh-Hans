@@ -1,12 +1,12 @@
 ---
-description: 临时文档 — Marketo文档 — 产品文档
+description: 新电子邮件Designer测试版的临时文档。 添加资产并使用设计器进行测试版（在目录中隐藏）。
 title: 临时文档
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

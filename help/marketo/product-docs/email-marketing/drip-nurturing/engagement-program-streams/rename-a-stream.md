@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359832
-description: 重命名流 — Marketo文档 — 产品文档
+description: 了解如何重命名参与计划流。
 title: 重命名流
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '58'
 ht-degree: 10%
 
 ---

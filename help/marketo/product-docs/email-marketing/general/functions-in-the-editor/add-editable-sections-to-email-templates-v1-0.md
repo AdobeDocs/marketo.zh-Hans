@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900585
-description: 将可编辑部分添加到电子邮件模板v1.0 - Marketo文档 — 产品文档
+description: 了解如何在v1.0中将可编辑部分添加到电子邮件模板。允许用户编辑特定区域，同时保持其余区域处于锁定状态。
 title: 向电子邮件模板 v1.0 添加可编辑部分
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 15%
+source-wordcount: '110'
+ht-degree: 13%
 
 ---
 

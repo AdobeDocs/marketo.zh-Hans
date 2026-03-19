@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359584
-description: 冠军/挑战者 — 宣布冠军 — Marketo文档 — 产品文档
+description: 了解如何为您的电子邮件测试声明Champion。 选择入选变体并将入选者发送给其余受众。
 title: 冠军/挑战者 — 宣布冠军
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 >
 >[冠军/挑战者：批准您的电子邮件测试](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098134
-description: 将项目添加到参与项目项目流 — Marketo文档 — 产品文档
+description: 了解参与流中的嵌套程序以及何时使用它们。 为子组、多点触控和额外流量步骤添加程序。
 title: 将计划添加到参与计划流中
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 3%
+source-wordcount: '462'
+ht-degree: 4%
 
 ---
 
@@ -57,5 +57,5 @@ ht-degree: 3%
 
 >[!MORELIKETHIS]
 >
->* [将内容添加到流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [向流中添加内容](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [了解程序](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

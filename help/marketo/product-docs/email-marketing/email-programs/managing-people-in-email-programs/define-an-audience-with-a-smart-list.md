@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900595
-description: 使用智能列表定义受众 — Marketo文档 — 产品文档
+description: 了解如何使用智能列表定义电子邮件计划受众。 使用过滤器定位接收电子邮件程序的用户。
 title: 使用智能列表定义受众
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 7%
+source-wordcount: '266'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 >
 >仅当电子邮件程序未获批准时，定义受众才能正常工作。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -55,7 +55,7 @@ ht-degree: 7%
 >
 >你注意到被阻止的号码了吗？ 此数字是限定的人员的子集，表示无法发送此电子邮件的人员，因为他们是：
 >
->* 已取消订阅
+>* 取消订阅
 >* 营销暂停
 >* 已列入阻止列表
 >* 电子邮件无效

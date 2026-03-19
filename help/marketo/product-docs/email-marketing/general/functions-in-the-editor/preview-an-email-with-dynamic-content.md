@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900548
-description: 预览包含动态内容的电子邮件 — Marketo文档 — 产品文档
+description: 了解如何预览包含动态内容的电子邮件。 在发送之前，请参阅变体如何呈现不同的区段。
 title: 预览包含动态内容的电子邮件
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 11%
+source-wordcount: '116'
+ht-degree: 10%
 
 ---
 

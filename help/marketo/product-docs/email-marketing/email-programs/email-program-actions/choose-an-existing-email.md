@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359451
-description: 选择现有电子邮件 — Marketo文档 — 产品文档
+description: 了解如何为电子邮件计划选择现有电子邮件。 从Design Studio或本地电子邮件中选择程序。
 title: 选择现有电子邮件
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 3%
+source-wordcount: '238'
+ht-degree: 4%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 在您[创建电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)并定义受众后，您将需要决定要发送的电子邮件。 您可以从头开始[为电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)创建电子邮件，或选择已存在的电子邮件。 下面是如何选择已存在的项目。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

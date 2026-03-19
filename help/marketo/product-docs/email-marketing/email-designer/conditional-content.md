@@ -2,12 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 条件内容
-description: 在电子邮件中使用条件内容以根据收件人动态显示内容。
+description: 了解按收件人显示不同内容的条件内容。 使用电子邮件Designer中的规则来个性化电子邮件。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+exl-id: 979ef9db-920f-466f-8c7d-e9de1ee4cf00
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '308'
 ht-degree: 2%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->已创建至少一个分段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已创建至少一个分段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 添加条件内容 {#add-conditional-content}
 

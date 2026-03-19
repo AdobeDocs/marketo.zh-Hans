@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359947
-description: 在参与流之间过渡人员 — Marketo文档 — 产品文档
+description: 了解如何设置过渡规则以在参与流之间移动人员。 在要拉入的流中定义规则。
 title: 在参与流之间转移人员
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '235'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 参与计划可以有多个流。 如果您[添加流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您将需要定义用户从一个流移动到另一个流的方法。 这些规则称为&#x200B;**过渡规则。**
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

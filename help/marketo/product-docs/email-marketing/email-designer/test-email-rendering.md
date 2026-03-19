@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 使用 Litmus 测试电子邮件渲染效果
-description: Marketo Engage用户可以将他们的Litmus帐户集成在一起，无缝地测试各种电子邮件客户端中的内容呈现。
+description: 了解如何使用Litmus测试跨客户端的电子邮件渲染。 集成您的Litmus帐户以预览各种电子邮件客户端中的内容。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---

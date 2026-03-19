@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098691
-description: 移动电子邮件 — Marketo文档 — 产品文档
+description: 了解如何将电子邮件移动到其他程序或文件夹。 重新定位电子邮件资源，同时保留资源本身。
 title: 移动电子邮件
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 是否需要将电子邮件从一个程序移动到另一个程序？ 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/move-an-email-1.png)
 

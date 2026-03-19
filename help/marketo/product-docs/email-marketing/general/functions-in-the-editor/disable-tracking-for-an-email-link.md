@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900579
-description: 禁用电子邮件链接的跟踪 — Marketo文档 — 产品文档
+description: 了解如何禁用特定电子邮件链接的跟踪。 需要隐私或重定向URL时关闭点击跟踪。
 title: 禁用电子邮件链接跟踪
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 5%
+source-wordcount: '290'
+ht-degree: 4%
 
 ---
 

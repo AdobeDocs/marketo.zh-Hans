@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147354
-description: 使电子邮件可操作 — Marketo文档 — 产品文档
+description: 了解如何使电子邮件正常运行，以便能够联系未订阅的人员。 用于事务性或必需通信。
 title: 将电子邮件设为运营类
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 5%
+source-wordcount: '166'
+ht-degree: 4%
 
 ---
 

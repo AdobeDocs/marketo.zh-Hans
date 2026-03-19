@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900597
-description: 通过导入列表定义受众 — Marketo文档 — 产品文档
+description: 了解如何通过导入列表来定义电子邮件计划受众。 使用静态或上传列表来定位您的发送。
 title: 通过导入列表定义受众
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 15%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 15%
 >
 >导入的所有日期/时间字段将视为中部时间（Central Time）。如果您的日期/时间字段为其他时区，可以使用 Excel 公式将其转换为中部时间（美国/芝加哥）。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -63,7 +63,7 @@ ht-degree: 15%
 >
 >你注意到被阻止的号码了吗？ 此数字是合格人员的子集，表示由于以下原因无法发送此电子邮件的人员：
 >
->* 已取消订阅
+>* 取消订阅
 >* 营销暂停
 >* 已列入阻止列表
 >* 电子邮件无效

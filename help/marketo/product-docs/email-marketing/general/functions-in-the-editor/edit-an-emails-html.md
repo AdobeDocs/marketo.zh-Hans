@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900554
-description: 编辑电子邮件的HTML - Marketo文档 — 产品文档
+description: 了解如何直接编辑电子邮件的HTML。 访问HTML视图，对您的电子邮件代码进行高级更改。
 title: 编辑电子邮件的 HTML
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 2%
+source-wordcount: '342'
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
    ![](assets/two-4.png)
 
-1. 进行任何更改。 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 进行任何更改。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/three-3.png)
 
@@ -70,7 +70,7 @@ ht-degree: 2%
 
    ![](assets/six-1.png)
 
-1. 完成后单击&#x200B;**[!UICONTROL Close]**。
+1. 完成后，单击 **[!UICONTROL Close]**。
 
    ![](assets/seven.png)
 

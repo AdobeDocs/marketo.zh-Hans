@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952678
-description: 使用发送警报信息令牌{{SP_Send_Alert_Info}} - Marketo文档 — 产品文档
+description: 了解如何在电子邮件中使用发送警报信息令牌。 动态插入发送详细信息，如时间和程序名称。
 title: 使用发送警报信息令牌
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 5%
+source-wordcount: '262'
+ht-degree: 4%
 
 ---
 

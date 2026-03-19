@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11371040
-description: 电子邮件模板语法 — Marketo 文档 — 产品文档
+description: 了解Email Editor 2.0中的电子邮件模板语法。对模板中的模块和可编辑部分使用正确的语法。
 title: 电子邮件模板语法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '2449'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '2462'
+ht-degree: 99%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359581
-description: 冠军/挑战者 — 批准您的电子邮件测试 — Marketo文档 — 产品文档
+description: 了解如何批准您的Champion/Challenger电子邮件测试。 完成审批，以便运行测试并宣布入选者。
 title: 冠军/挑战者 — 批准您的电子邮件测试
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '145'
 ht-degree: 6%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >[配置报表警报](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

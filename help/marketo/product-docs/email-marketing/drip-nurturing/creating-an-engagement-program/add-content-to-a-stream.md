@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359659
-description: 将内容添加到流 — Marketo文档 — 产品文档
+description: 了解如何将电子邮件或项目添加到参与计划流。 使用“添加内容”按钮或加号图标构建您的培养。
 title: 向流中添加内容
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 创建参与计划后，您需要将内容添加到流。 您可以将电子邮件或程序添加到流。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-content-to-a-stream-1.png)
 

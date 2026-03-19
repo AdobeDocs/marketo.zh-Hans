@@ -1,13 +1,14 @@
 ---
 title: 设计可访问的内容
-description: 了解如何在Adobe Marketo Engage中为您的电子邮件设计无障碍内容。
+description: 了解如何在Marketo Engage中设计无障碍的电子邮件内容。 应用最佳实践，使电子邮件适用于所有收件人。
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: 电子邮件、设计、辅助功能
-source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
+exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1359'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -46,7 +47,7 @@ Marketo Engage Email Designer根据Web内容无障碍准则(WCAG) 2.1，级别AA
 **颜色对比度**
 
 * 保持文本与背景之间的对比度至少为4.5:1。
-* 对于大文本(≥24px或粗体18px)，请确保对比度至少为3:1。
+* 对于大文本（≥24px或粗体18px），请确保对比度至少为3:1。
 * 避免在白色背景上使用浅灰色或淡色文本。
 * 不要仅仅依靠颜色来传达含义。 使用下划线、图标等
 
@@ -126,7 +127,7 @@ Marketo Engage Email Designer允许您预览和优化不同设备和屏幕大小
 
 * [WebAim对比度检查器](https://webaim.org/resources/contrastchecker/){target="_blank"}和[WAVE Web辅助功能评估工具](https://wave.webaim.org/){target="_blank"}用于评估对比度和符合性；
 
-* 屏幕阅读器等辅助技术(例如：[NVDA](https://www.nvaccess.org/download/){target="_blank"}或iPhone上的[VoiceOver](https://support.apple.com/en-ie/guide/iphone/iph3e2e415f/ios){target="_blank"})可从视障用户的角度体验电子邮件。
+* 屏幕阅读器等辅助技术（例如：[NVDA](https://www.nvaccess.org/download/){target="_blank"}或iPhone上的[VoiceOver](https://support.apple.com/en-ie/guide/iphone/iph3e2e415f/ios){target="_blank"}）可从视障用户的角度体验电子邮件。
 
 ## 使用深色模式 {#dark-mode}
 

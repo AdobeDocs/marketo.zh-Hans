@@ -1,14 +1,14 @@
 ---
 solution: Marketo Engage
 product: marketo
-description: 欢迎使用全新的 Adobe Marketo Engage 电子邮件设计器。
+description: 了解Email Designer及其拖放编辑器。 在Marketo Engage中创建和自定义电子邮件模板以提高工作效率。
 title: 概述
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 735721e66b1cd2e21df5c2b85051d4bfee44d2e0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '659'
-ht-degree: 98%
+source-wordcount: '670'
+ht-degree: 95%
 
 ---
 

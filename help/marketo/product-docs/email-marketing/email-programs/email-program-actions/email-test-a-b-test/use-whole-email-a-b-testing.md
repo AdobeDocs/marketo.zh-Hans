@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359502
-description: 使用“整个电子邮件”A/B测试 — Marketo文档 — 产品文档
+description: 了解如何运行整封电子邮件的A/B测试。 测试不同的电子邮件版本，并根据您选择的标准选择一个入选者。
 title: 使用“整个电子邮件”A/B 测试
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '269'
 ht-degree: 6%
 
 ---
@@ -45,11 +45,11 @@ ht-degree: 6%
 
 1. 选择您的第二封电子邮件。
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. 单击&#x200B;**[!UICONTROL Add]**&#x200B;以应用第二封电子邮件。 拖动滑块以选择要接收A/B测试的受众百分比，然后单击&#x200B;**[!UICONTROL Next]**。
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

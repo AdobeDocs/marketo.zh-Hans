@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359953
-description: 内容已耗竭的人员 — Marketo文档 — 产品文档
+description: 了解如何查找已用完所有流内容的人员。
 title: 已耗尽内容的人员
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 6%
+source-wordcount: '169'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 6%
 
 ## “成员”选项卡 {#members-tab}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

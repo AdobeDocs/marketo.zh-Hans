@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359476
-description: 使用电子邮件计划仪表板 — Marketo文档 — 产品文档
+description: 了解如何使用电子邮件计划仪表板查看绩效。 监视器打开次数、点击次数和其他量度概览。
 title: 使用电子邮件项目仪表板
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '404'
 ht-degree: 2%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 2%
 >
 >**定义**
 >
->电子邮件收件人下载电子邮件的图像(包括插入Marketo的跟踪像素)时，会计入&#x200B;**[!UICONTROL Opens]**。 如果收件人查看了电子邮件，但选择不下载其图像，则不会将其计为已打开。 如果图像在收件人的预览窗格中加载，则通常将被计为打开图像，但实际打开图像的情况因电子邮件客户端而异。
+>电子邮件收件人下载电子邮件的图像（包括插入Marketo的跟踪像素）时，会计入&#x200B;**[!UICONTROL Opens]**。 如果收件人查看了电子邮件，但选择不下载其图像，则不会将其计为已打开。 如果图像在收件人的预览窗格中加载，则通常将被计为打开图像，但实际打开图像的情况因电子邮件客户端而异。
 >
 >**[!UICONTROL Click to Open]**&#x200B;测量在电子邮件中同时打开和点击了链接的电子邮件的百分比。 我们取唯一点击数除以唯一打开数，然后乘以100以百分比形式显示。
 

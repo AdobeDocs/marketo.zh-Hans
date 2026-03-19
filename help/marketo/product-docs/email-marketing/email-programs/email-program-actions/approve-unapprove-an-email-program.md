@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359462
-description: 批准/取消批准电子邮件程序 — Marketo文档 — 产品文档
+description: 了解如何批准或取消批准电子邮件程序。 完成审批工作流，以便能够计划和发送项目。
 title: 批准/取消批准电子邮件项目
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '190'
+ht-degree: 7%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 5%
 
 现在您的项目已准备就绪，最后一步是批准它。 方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,7 +53,7 @@ ht-degree: 5%
 
 如果您改变主意并决定不希望它退出，则可以取消批准电子邮件程序。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

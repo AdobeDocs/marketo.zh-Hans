@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147342
-description: 批准电子邮件 — Marketo文档 — 产品文档
+description: 了解如何批准电子邮件，以便将其用在程序中。 在计划或发送之前完成审批工作流。
 title: 批准电子邮件
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 5%
 
 ---
 

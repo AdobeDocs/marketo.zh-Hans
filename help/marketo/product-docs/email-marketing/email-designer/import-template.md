@@ -2,13 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: 模板导入
-description: 了解如何将现有电子邮件模板从经典编辑器导入新的电子邮件Designer。
+description: 了解如何将电子邮件模板从经典编辑器导入电子邮件Designer。
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta 版
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '756'
 ht-degree: 1%
 
 ---
@@ -71,7 +72,7 @@ ht-degree: 1%
 
    ![](assets/import-template-9.png)
 
-## 最佳实践 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 经典电子邮件模板是使用自由格式的HTML开发的，因此此导入程序可能并不总是完美导入每个组件。 请检查导入的模板，确保所有部分均可编辑并正确映射。 如果某个区域不可选，请重新创建它以获得最佳结果。
 

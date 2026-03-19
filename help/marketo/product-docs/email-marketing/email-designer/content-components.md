@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: 内容组件
-description: 描述。
+description: 了解用于个性化电子邮件布局的内容组件。 在Email Designer的结构组件中添加组件并为组件设置样式。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1154'
-ht-degree: 0%
+source-wordcount: '1172'
+ht-degree: 15%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 添加内容组件 {#add-content-components}
 
-要将内容组件添加到电子邮件并根据需要对其进行调整，请执行以下步骤。
+要将内容组件添加到您的电子邮件中，并根据您的需要调整这些内容组件，请执行以下步骤。
 
 1. 在电子邮件Designer中，使用现有内容或将&#x200B;**[!UICONTROL Structure components]**&#x200B;拖放到空内容中来定义电子邮件的布局。`[Learn how](content-from-scratch.md)`
 
@@ -30,13 +30,13 @@ ht-degree: 0%
 
    屏幕快照
 
-1. 将您选择的内容组件拖放到相关结构组件中。
+1. 将所选内容组件拖放到相关的结构组件中。
 
    屏幕快照
 
    >[!NOTE]
    >
-   >可以将多个组件添加到单个结构组件中，并添加到结构组件的每一列中。
+   >您可以将多个组件添加到单个结构组件中，也可以将它们添加到结构组件的每个列中。
 
 1. 使用右侧的&#x200B;**[!UICONTROL Settings]**&#x200B;和&#x200B;**[!UICONTROL Style]**&#x200B;选项卡调整每个组件的属性和样式。 例如，可以更改每个组件的文本样式、填充或边距。`[Learn more about alignment and padding](alignment-and-padding.md)`
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 要将特定样式应用于一组内容组件，您可以添加&#x200B;**[!UICONTROL Container]**&#x200B;组件，然后在其中添加所需的内容组件。 这允许您向容器应用不同的样式，这与应用于内部内容组件的样式不同。
 
-例如，添加一个&#x200B;**[!UICONTROL Container]**&#x200B;组件，然后在该容器中添加一个[Button](#button)组件。 您可以为容器使用特定的背景，为按钮使用另一个背景。
+例如，添加一个&#x200B;**[!UICONTROL Container]**&#x200B;组件，然后在该容器中添加一个[Button](#button)组件。 可以为该容器使用一个特定背景，并为按钮使用另一个背景。
 
 屏幕快照
 
@@ -88,26 +88,26 @@ ht-degree: 0%
 
 1. 单击新添加的组件以个性化文本，并访问Email Designer右侧窗格中的&#x200B;**[!UICONTROL Settings]**&#x200B;和&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡。
 
-1. 使用工具栏中可用的以下选项更改文本：
+1. 使用工具栏中的以下可用选项更改文本：
 
    屏幕快照
 
    * **[!UICONTROL Change text style]**：对您的文本应用粗体、斜体、下划线或删除线。
-   * **更改对齐方式**：选择文字的左对齐、右对齐、居中对齐或两端对齐方式。
+   * **更改对齐方式**：为文本选择左对齐、右对齐、居中对齐或两端对齐。
    * **[!UICONTROL Create list]**：在文本中添加项目符号或编号列表。
    * **[!UICONTROL Set heading]**：为您的文本添加最多六个标题级别。
-   * **字体大小**：选择文本的字体大小（像素）。
+   * **字体大小**：选择文本的字体大小（以像素为单位）。
    * **[!UICONTROL Change font color]**：选择字体的颜色。
    * **[!UICONTROL Insert link]**：向内容添加任何类型的链接。
    * **[!UICONTROL Edit image]**：将图像或资源添加到文本组件。`[Learn more about asset management](../integrations/assets.md)`
    * **[!UICONTROL Change font color]**：选择字体的颜色。
    * **[!UICONTROL Add personalization]**：添加个性化字段以自定义配置文件数据的内容。`[Learn more about content personalization](../personalization/personalize.md)`
-   * **[!UICONTROL Show the source code]**：显示文本的源代码。 无法修改它。
+   * **[!UICONTROL Show the source code]**：显示文本的源代码。 不能修改。
    * **[!UICONTROL Enable conditional content]**：添加条件内容以将组件的内容调整到目标配置文件。`[Learn more about dynamic content](../personalization/get-started-dynamic-content.md)`
    * **[!UICONTROL Duplicate]**：添加文本组件的副本。
    * **[!UICONTROL Delete]**：从电子邮件中删除所选的文本组件。
 
-1. 调整其他样式属性，如文本颜色、字体系列、边框、填充、边距等。 从&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡。
+1. 从以下位置调整其他样式属性，例如文本颜色、字体系列、边框、内边距、边距等：从&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡。
 
    屏幕快照
 
@@ -121,7 +121,7 @@ ht-degree: 0%
 
 ## HTML {#HTML}
 
-使用&#x200B;**[!UICONTROL HTML]**&#x200B;组件复制并粘贴现有HTML的各个部分。 这使您能够创建免费的模块化HTML组件以重用某些外部内容。
+使用&#x200B;**[!UICONTROL HTML]**&#x200B;组件复制并粘贴现有HTML的各个部分。 这使您能够创建免费的模块化 HTML 组件以重用某些外部内容。
 
 1. 从&#x200B;**[!UICONTROL Content Components]**，将&#x200B;**[!UICONTROL HTML]**&#x200B;组件拖放到&#x200B;**[!UICONTROL Structure component]**&#x200B;中。
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->为了仅使外部内容与Email Designer兼容，Adobe建议从头开始创建消息，并将现有电子邮件的内容复制到组件中。
+>要简单地使外部内容与电子邮件设计器兼容，Adobe 建议从头开始创建邮件并将现有电子邮件中的内容复制到组件中。
 
 ## 图像 {#image}
 
@@ -147,7 +147,7 @@ ht-degree: 0%
 
 1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;选项卡中，单击&#x200B;**[!UICONTROL Browse]**&#x200B;以从资源中选择图像文件，或单击&#x200B;**[!UICONTROL Import media]**&#x200B;以将资源上传到Adobe Experience Manager Assets。
 
-   要了解有关[!DNL Adobe Experience Manager Assets]的更多信息，请参阅[Adobe Experience Manager Assets文档](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=zh-Hans){target="_blank"}。
+   要了解有关[!DNL Adobe Experience Manager Assets]的更多信息，请参阅[Adobe Experience Manager Assets文档](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}。
 
    >[!NOTE]
    >
@@ -186,7 +186,7 @@ ht-degree: 0%
 
 1. 如果需要，您还可以从Assets中更改每个社交媒体的图标。
 
-1. 调整其他样式属性，如样式、边距、边框等。 从&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡。
+1. 从以下位置调整其他样式属性（例如样式、边距、边框等）：从&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡。
 
 ## 优惠决策 {#offer-decision}
 

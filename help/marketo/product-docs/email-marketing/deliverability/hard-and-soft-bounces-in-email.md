@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147328
-description: 电子邮件中的硬退信和软退信 — Marketo文档 — 产品文档
+description: 了解硬退信和软退信以及Marketo如何对它们进行分类。 使用“电子邮件已暂停”和“电子邮件无效”字段管理问题投放。
 title: 电子邮件中的硬退回和软退回
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 15%
+source-wordcount: '298'
+ht-degree: 14%
 
 ---
 

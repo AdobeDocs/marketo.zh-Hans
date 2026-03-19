@@ -1,12 +1,12 @@
 ---
-description: 测试、监控和了解收件箱跟踪器的可投放性问题。
+description: 了解用于测试和监控电子邮件投放能力的收件箱跟踪器。 访问有关导航、功能板和促销活动跟踪的培训视频。
 title: 收件箱跟踪器教程
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 

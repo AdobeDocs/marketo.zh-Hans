@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382535
-description: 在我的令牌中使用URL - Marketo文档 — 产品文档
+description: 了解如何在我的令牌中使用URL。 在令牌中存储和引用URL，以在电子邮件中显示链接和登陆页面。
 title: 在我的令牌中使用 URL
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 5%
+source-wordcount: '250'
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 
    ![](assets/two-4.png)
 
-1. 为令牌提供一个唯一的名称，输入URL(不带https://)并单击&#x200B;**[!UICONTROL Save]**。
+1. 为令牌提供一个唯一的名称，输入URL（不带https://）并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/three-4.png)
 

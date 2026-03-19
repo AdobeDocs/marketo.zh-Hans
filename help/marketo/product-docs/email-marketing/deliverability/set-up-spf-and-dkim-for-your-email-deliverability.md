@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720710
-description: 为提高电子邮件送达率设置 SPF 和 DKIM — Marketo 文档 — 产品文档
+description: 了解如何在您的DNS中设置SPF和DKIM以提高电子邮件可投放性。 授权Marketo代表您发送并减少垃圾邮件标记。
 title: 为提高电子邮件送达率设置 SPF 和 DKIM
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '421'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '434'
+ht-degree: 94%
 
 ---
 

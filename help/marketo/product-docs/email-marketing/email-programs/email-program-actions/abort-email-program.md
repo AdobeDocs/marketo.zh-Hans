@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504840
-description: 中止电子邮件程序 — Marketo文档 — 产品文档
+description: 了解如何在发送之前或期间中止电子邮件程序。 停止投放并根据需要处理剩余受众。
 title: 中止电子邮件项目
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 6%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 

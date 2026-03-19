@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: 了解如何将种子列表导入Marketo Engage实例。
+description: 了解如何将种子列表导入Marketo Engage以进行收件箱放置测试。 使用Everest下载并添加可投放性营销活动的列表。
 title: 电子邮件可投放性功能包 — 如何导入种子列表
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 0%
+source-wordcount: '326'
+ht-degree: 5%
 
 ---
 
-# 电子邮件可投放性功能包：如何导入种子列表 {#email-deliverability-power-pack-how-to-import-a-seed-list}
+# 电子邮件供应能力增强包：如何导入种子列表 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-种子列表是多个邮箱提供商(包括Google应用程序、Hotmail、Yahoo！等)的电子邮件帐户列表，用于估计收件箱投放率与垃圾邮件文件夹投放率。 以下是将该列表导入Marketo Engage实例的步骤。
+种子列表是多个邮箱提供商（包括Google应用程序、Hotmail、Yahoo！等）的电子邮件帐户列表，用于估计收件箱投放率与垃圾邮件文件夹投放率。 以下是将该列表导入Marketo Engage实例的步骤。
 
 >[!IMPORTANT]
 >
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Manage Seed List]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Manage Seed List]** 选项卡。
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. 单击&#x200B;**[!UICONTROL Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Download: One Per Line]**。
+1. 点击 **[!UICONTROL Actions]** 下拉菜单，并选择 **[!UICONTROL Download: One Per Line]**。
 
    ![](assets/email-deliverability-power-pack-4.png)
 

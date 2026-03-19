@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795727
-description: 中止按收件人时区计划的电子邮件项目投放 — Marketo文档 — 产品文档
+description: 了解如何中止按收件人时区计划的电子邮件项目的投放。 停止发送并处理剩余的收件人。
 title: 中止按收件人时区安排的电子邮件项目发送
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '220'
 ht-degree: 9%
 
 ---

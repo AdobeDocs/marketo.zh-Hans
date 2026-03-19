@@ -1,12 +1,12 @@
 ---
-description: 电子邮件协作 — Marketo文档 — 产品文档
+description: 了解电子邮件在Email Designer中的协作和评论。 实时查看、评论和解决您团队的反馈。
 title: 电子邮件协作
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '314'
 ht-degree: 2%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->使用@mentions标记团队成员(例如，“@John，请更新冬季新闻稿”)。
+>使用@mentions标记团队成员（例如，“@John，请更新冬季新闻稿”）。
 
 ## 查看所有评论 {#view-all-comments}
 
@@ -75,7 +75,7 @@ ht-degree: 2%
 * 提及(@username)
 * 分辨率
 
-## 最佳实践 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 使用@mentions确保将反馈快速提供给合适的团队成员。
 

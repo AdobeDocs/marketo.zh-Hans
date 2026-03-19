@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359469
-description: 查看电子邮件计划仪表板 — Marketo文档 — 产品文档
+description: 了解如何查看电子邮件计划仪表板。 查看绩效指标和项目状态概览。
 title: 查看电子邮件项目仪表板
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 4%
+source-wordcount: '231'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 ## 选择您的电子邮件程序 {#select-your-email-program}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

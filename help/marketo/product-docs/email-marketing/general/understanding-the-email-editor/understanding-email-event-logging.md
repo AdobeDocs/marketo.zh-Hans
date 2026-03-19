@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147356
-description: 了解电子邮件事件日志 — Marketo文档 — 产品文档
+description: 了解Marketo中的电子邮件事件日志。 了解如何跟踪和存储打开、点击和其他事件。
 title: 了解电子邮件事件日志
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '305'
 ht-degree: 3%
 
 ---

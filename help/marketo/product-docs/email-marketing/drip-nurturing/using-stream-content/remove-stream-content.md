@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359915
-description: 删除流内容 — Marketo文档 — 产品文档
+description: 了解如何在不需要保留历史记录时删除流内容。
 title: 移除流内容
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '123'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 您可以删除或存档一段内容。 与删除流内容不同，[存档](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)保留与该内容关联的所有历史记录。 如果您不介意丢失某些内容的历史统计信息并想将其删除，请查看下面介绍操作方法。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

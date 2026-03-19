@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359491
-description: 添加A/B测试 — Marketo文档 — 产品文档
+description: 了解如何将A/B测试添加到电子邮件计划。 选择要测试的内容（主题、内容、开始日期或日期/时间）并设置入选者标准。
 title: 添加 A/B 测试
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 5%
+source-wordcount: '193'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
 
 测试是优化电子邮件以实现更好参与的绝佳方法。 下面是如何开始的。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-an-a-b-test-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359467
-description: 电子邮件性能报告 - Marketo 文档 - 产品文档
+description: 了解如何创建和使用电子邮件性能报表。 跟踪打开次数、点击次数、退回次数和其他电子邮件量度。
 title: 电子邮件性能报告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '489'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '500'
+ht-degree: 96%
 
 ---
 

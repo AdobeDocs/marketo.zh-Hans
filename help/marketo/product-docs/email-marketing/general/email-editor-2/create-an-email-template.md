@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096400
-description: 创建电子邮件模板 — Marketo文档 — 产品文档
+description: 了解如何在电子邮件编辑器2.0中创建电子邮件模板。构建包含模块和可编辑部分的可重用模板。
 title: 创建电子邮件模板
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 5%
+source-wordcount: '264'
+ht-degree: 16%
 
 ---
 
@@ -69,7 +69,7 @@ ht-degree: 5%
 
    >[!CAUTION]
    >
-   >将电子邮件另存为模板时，变量值不会延续。 变量将继续使用基础模板中指定的默认值。 除非已将电子邮件中的可用模块插入电子邮件正文中，否则它们也不会延续。
+   >将电子邮件保存为模板时，变量值不会一并保留。变量将继续使用底层模板中指定的默认值。除非已将电子邮件中的可用模块插入电子邮件正文中，否则它们也不会延续。
 
 要自定义您的电子邮件模板，请查看以下文章。
 

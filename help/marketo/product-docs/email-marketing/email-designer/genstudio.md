@@ -1,14 +1,14 @@
 ---
 title: GenStudio 与 Marketo Engage 的集成
-description: 了解如何在Marketo Engage中使用GenStudio。
+description: 了解如何在Marketo Engage中使用GenStudio来创建内容。 在电子邮件GenStudio工作流程中访问Designer功能。
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '406'
 ht-degree: 3%
 
 ---
@@ -42,9 +42,9 @@ Adobe GenStudio for Performance Marketing是一个创作、人工智能优先的
 
    ![导出您的HTML](assets/genstudio-integration-1.png)
 
-1. [将HTML](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}导出的模板上载到GenStudio for Performance Marketing。
+1. [将HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}导出的模板上载到GenStudio for Performance Marketing。
 
-1. 在GenStudio中，使用此模板可[创建多个带有AI提示的电子邮件变体](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}并保存它们。
+1. 在GenStudio中，使用此模板可[创建多个带有AI提示的电子邮件变体](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}并保存它们。
 
 ## 在Marketo Engage中利用GenStudio体验 {#leverage-genstudio-experiences}
 
@@ -72,7 +72,7 @@ Adobe GenStudio for Performance Marketing是一个创作、人工智能优先的
 
 1. 选定的内容显示在电子邮件Designer中。
 
-   ![电子邮件设计工具](assets/genstudio-integration-6.png){width="800" zoomable="yes"}
+   ![电子邮件设计器](assets/genstudio-integration-6.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900577
-description: 创建电子邮件脚本令牌 — Marketo文档 — 产品文档
+description: 了解如何创建电子邮件脚本令牌。 定义在电子邮件中输出动态值的自定义令牌。
 title: 创建电子邮件脚本令牌
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 4%
+source-wordcount: '212'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 对于高级开发人员，您可以在电子邮件中使用[Velocity脚本](https://velocity.apache.org/engine/1.7/user-guide.html)。 下面是操作方法。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
@@ -49,7 +49,7 @@ ht-degree: 4%
 
 1. 在Velocity中编写脚本。 以下是一些有用的资源：
 
-   * [Marketo开发人员电子邮件脚本文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo开发人员电子邮件脚本文档](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity用户指南](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity参考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity工具Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

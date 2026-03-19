@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359555
-description: 冠军/挑战者 — 整封电子邮件 — Marketo文档 — 产品文档
+description: 了解如何使用整个电子邮件运行Champion/Challenger测试。 测试不同的电子邮件版本，并按标准声明入选者。
 title: 冠军/挑战者 — 整个电子邮件
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 2%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 

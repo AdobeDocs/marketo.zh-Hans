@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147340
-description: 发送来自潜在客户所有者的电子邮件 — Marketo文档 — 产品文档
+description: 了解如何从潜在客户所有者地址发送电子邮件。 使用“Send from Lead Owner”选项，使电子邮件显示正确的发件人。
 title: 以潜在客户所有者身份发送电子邮件
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 7%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359877
-description: 禁用和启用已用内容通知 — Marketo文档 — 产品文档
+description: 了解如何打开或关闭已用完的内容通知。 使用程序的设置选项卡和已用内容通知设置。
 title: 禁用和启用内容耗尽通知
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '95'
 ht-degree: 16%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 16%
 
 当人们耗尽流中的所有内容时，Marketo可以向您发送通知。 您可以根据需要禁用/启用通知。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

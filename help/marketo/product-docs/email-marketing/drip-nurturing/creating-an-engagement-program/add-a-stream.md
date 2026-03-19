@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359787
-description: 添加流 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中为参与计划添加新流。 在“流”选项卡中，每个项目最多可添加25个流。
 title: 添加流
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '68'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 参与计划可以包含多个流。 以下是如何添加新密码。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

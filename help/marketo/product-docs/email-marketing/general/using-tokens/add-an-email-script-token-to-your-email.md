@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900575
-description: 向您的电子邮件添加电子邮件脚本令牌 — Marketo文档 — 产品文档
+description: 了解如何向电子邮件添加电子邮件脚本令牌。 在电子邮件编辑器中插入使用令牌的动态内容。
 title: 向电子邮件添加脚本令牌
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 16%
+source-wordcount: '167'
+ht-degree: 15%
 
 ---
 

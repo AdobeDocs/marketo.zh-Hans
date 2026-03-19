@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359936
-description: 删除流 — Marketo文档 — 产品文档
+description: 了解如何从参与计划删除流。 如有需要，请先将人员移出并进行确认，以避免丢失历史数据。
 title: 删除流
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 7%
+source-wordcount: '100'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 如果您需要从参与计划中删除流，请按照这些快速而简单的步骤操作。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

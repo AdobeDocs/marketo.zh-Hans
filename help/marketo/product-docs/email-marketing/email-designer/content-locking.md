@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 锁定电子邮件模板中的内容
-description: 了解如何在电子邮件模板中锁定内容。
+description: 了解如何在电子邮件模板中锁定内容，以便其他人无法进行编辑。 保护Email Designer中的部分以保持一致性。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '843'
 ht-degree: 8%
 
 ---

@@ -1,14 +1,14 @@
 ---
 title: 连接Experience Manager文档
-description: 了解如何将Adobe Experience Manager Cloud Services连接到Adobe Marketo Engage，以便您能够利用AEM资源。
+description: 了解如何将AEM云服务连接到Marketo Engage。 在设计器中创作电子邮件时，使用您的AEM资源。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

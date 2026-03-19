@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359955
-description: 参与流性能报表 — Marketo文档 — 产品文档
-title: 参与流绩效报告
+description: 了解如何创建和运行参与流绩效报表。 按程序电子邮件过滤并查看详细的流统计信息。
+title: 参与流性能报告
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '156'
 ht-degree: 7%
 
 ---
 
-# 参与流绩效报告 {#engagement-stream-performance-report}
+# 参与流性能报告 {#engagement-stream-performance-report}
 
 想要了解参与内容的表现如何？ 尝试参与流性能报表。
 

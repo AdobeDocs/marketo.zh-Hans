@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359856
-description: 打开和关闭参与计划 — Marketo文档 — 产品文档
+description: 了解如何打开或关闭参与计划以停止或恢复内容。
 title: 启用或关闭参与计划
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '91'
+ht-degree: 23%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 21%
 
 只需轻轻一按开关，即可关闭参与计划。 这将阻止发送任何内容。 操作方法如下：
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

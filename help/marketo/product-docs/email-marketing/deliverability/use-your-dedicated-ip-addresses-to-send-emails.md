@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900587
-description: 使用专用IP地址发送电子邮件 — Marketo文档 — 产品文档
+description: 了解如何在Marketo中使用专用IP地址发送电子邮件。 从可投放性顾问处获取有关IP预热和DNS设置的指导。
 title: 使用专用 IP 地址发送电子邮件
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '428'
 ht-degree: 4%
 
 ---

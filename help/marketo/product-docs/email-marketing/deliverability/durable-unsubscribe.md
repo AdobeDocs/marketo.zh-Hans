@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094576
-description: 持久取消订阅 — Marketo文档 — 产品文档
+description: 了解持久取消订阅以及主电子邮件状态如何在人员之间传播。 在Marketo中管理重新订阅和人员记录。
 title: 永久取消订阅
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---

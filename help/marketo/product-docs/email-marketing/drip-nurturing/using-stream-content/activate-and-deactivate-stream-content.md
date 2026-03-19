@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359669
-description: 激活和停用流内容 — Marketo文档 — 产品文档
+description: 了解如何激活和取消激活参与度投放的流内容。
 title: 激活和停用流内容
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 9%
+source-wordcount: '129'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 ## 激活流内容 {#activate-stream-content}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

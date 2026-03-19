@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900565
-description: 在电子邮件中包含日历事件(.ics)- Marketo文档 — 产品文档
+description: 了解如何在电子邮件中包含日历事件(.ics)。 添加附件，以便收件人可以将事件添加到其日历。
 title: 在电子邮件中包含日程表事件 (.ics)
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 18%
+source-wordcount: '101'
+ht-degree: 16%
 
 ---
 

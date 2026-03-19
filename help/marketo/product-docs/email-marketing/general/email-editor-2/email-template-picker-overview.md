@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912237
-description: 电子邮件模板选取器概述 — Marketo文档 — 产品文档
+description: 了解Email Editor 2.0中的电子邮件模板选取器。创建新电子邮件时从模板中进行选择。
 title: 电子邮件模板选择器概述
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 3%
+source-wordcount: '267'
+ht-degree: 4%
 
 ---
 

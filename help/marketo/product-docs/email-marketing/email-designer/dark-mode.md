@@ -1,12 +1,13 @@
 ---
-description: 深色模式 — Marketo文档 — 产品文档
+description: 了解如何在Email Designer中为深色模式设计电子邮件。 设置自定义深色模式显示以支持电子邮件客户端。
 title: 深色模式
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 2%
+source-wordcount: '1210'
+ht-degree: 1%
 
 ---
 
@@ -41,7 +42,7 @@ ht-degree: 2%
 
 一些示例包括：
 
-* Gmail(桌面Webmail、iOS、Android、Mobile Webmail)
+* Gmail（桌面Webmail、iOS、Android、Mobile Webmail）
 * Outlook Windows
 * Outlook Windows Mail
 
@@ -68,7 +69,7 @@ ht-degree: 2%
 >
 >了解如何在电子邮件Designer中定义[自定义深色模式设置](#define-custom-dark-mode)。
 
-根据每个电子邮件客户端，可能会应用某些限制。 例如，如果存在图像，则某些客户端(例如Apple Mail 16)将不会生成深色模式。
+根据每个电子邮件客户端，可能会应用某些限制。 例如，如果存在图像，则某些客户端（例如Apple Mail 16）将不会生成深色模式。
 
 为了获得最佳结果，请在您定位的电子邮件客户端中测试您的内容。 若要查看每个客户端中的模拟，请使用Email Designer中的[电子邮件渲染](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)功能。
 
@@ -142,7 +143,7 @@ ht-degree: 2%
    >
    >虽然模拟非常接近电子邮件在深色模式中的显示方式，但由于电子邮件服务提供商或设备设置的变化，实际呈现可能会有所不同。
 
-## 最佳实践 {#best-practices}
+## 最佳做法 {#best-practices}
 
 随着主要电子邮件客户端采用深色模式的次数增加，无论您是否使用[自定义深色模式](#define-custom-dark-mode)，都必须考虑您的电子邮件在浅色和深色环境中的呈现方式。
 

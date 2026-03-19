@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359559
-description: 冠军/挑战者 — 发件人地址 — Marketo文档 — 产品文档
+description: 了解如何从地址运行冠军/挑战者测试。 测试不同的发件人地址并按标准声明入选者。
 title: 冠军/挑战者 — 发件人地址
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---

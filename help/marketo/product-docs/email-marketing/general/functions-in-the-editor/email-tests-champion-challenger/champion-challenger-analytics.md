@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359567
-description: 冠军/挑战者 — 配置报表警报 — Marketo文档 — 产品文档
+description: 了解如何查看Champion/Challenger分析和配置报告警报。 跟踪测试性能并在入选者准备就绪时收到通知。
 title: 冠军/挑战者 — 配置报表警报
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '228'
 ht-degree: 1%
 
 ---

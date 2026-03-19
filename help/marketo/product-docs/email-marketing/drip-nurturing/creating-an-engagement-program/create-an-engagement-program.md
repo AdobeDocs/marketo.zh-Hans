@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359652
-description: 创建参与项目 — Marketo 文档 — 产品文档
+description: 了解如何在Marketo中创建参与计划以用于电子邮件培养。 选择参与作为项目类型，并添加流和内容。
 title: 创建参与项目
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 74%
 
 ---
 

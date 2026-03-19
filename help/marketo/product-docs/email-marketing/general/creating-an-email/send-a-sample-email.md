@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147352
-description: 发送示例电子邮件 — Marketo文档 — 产品文档
+description: 了解如何在启动之前发送示例电子邮件以测试内容。 使用电子邮件编辑器向自己或其他人发送测试副本。
 title: 发送示例电子邮件
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 7%
+source-wordcount: '313'
+ht-degree: 8%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 7%
    >
    >我的令牌将解析为适用于电子邮件程序的值。
 
-1. 输入一个或多个电子邮件地址进行投放。 对于多个电子邮件地址，请使用逗号分隔。 完成后单击&#x200B;**[!UICONTROL Send]**。
+1. 输入一个或多个电子邮件地址进行投放。 对于多个电子邮件地址，请使用逗号分隔。 完成后，单击 **[!UICONTROL Send]**。
 
    ![](assets/two.png)
 
@@ -56,7 +56,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >触发器字段仅适用于使用[电子邮件脚本](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)的用户。
+   >触发器字段仅适用于使用[电子邮件脚本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)的用户。
 
 ## 发送基于区段的示例电子邮件 {#send-a-sample-email-based-on-a-segment}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950617
-description: 在电子邮件中使用动态内容 — Marketo文档 — 产品文档
+description: 了解如何在电子邮件中使用动态内容。 根据规则和属性向不同区段显示不同的内容。
 title: 在电子邮件中使用动态内容
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 4%
+source-wordcount: '263'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 4%
 
 ## 添加分段 {#add-segmentation}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

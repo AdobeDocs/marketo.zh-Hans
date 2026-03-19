@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900589
-description: 将跟踪链接添加到文本电子邮件 — Marketo文档 — 产品文档
+description: 了解如何将跟踪链接添加到纯文本电子邮件。 启用链接跟踪，以便衡量电子邮件报表中的点击量。
 title: 向文本电子邮件添加跟踪链接
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '172'
 ht-degree: 8%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359782
-description: 将人员添加到参与计划 — Marketo文档 — 产品文档
+description: 了解人们如何成为参与计划的成员。 使用流程步骤、表单、导入或Salesforce营销活动来添加成员。
 title: 将人员添加到参与计划中
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 12%
+source-wordcount: '109'
+ht-degree: 11%
 
 ---
 

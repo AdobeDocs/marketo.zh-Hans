@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900558
-description: 编辑电子邮件中的元素 — Marketo文档 — 产品文档
+description: 了解如何在电子邮件编辑器2.0中编辑电子邮件中的元素。修改电子邮件布局中的文本、图像和其他模块。
 title: 编辑电子邮件中的元素
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359549
-description: 使用电子邮件项目仪表板 — A/B测试视图 — Marketo文档 — 产品文档
+description: 了解如何使用电子邮件计划仪表板A/B测试视图。 在声明入选者之前监控测试变体和性能。
 title: 使用电子邮件项目仪表板 - A/B 测试视图
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 18%
+source-wordcount: '118'
+ht-degree: 16%
 
 ---
 

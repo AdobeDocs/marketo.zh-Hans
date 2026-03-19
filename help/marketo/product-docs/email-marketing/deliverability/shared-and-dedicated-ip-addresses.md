@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912085
-description: 共享和专用IP地址 — Marketo文档 — 产品文档
+description: 了解共享和专用IP地址及其优缺点。 确定哪个选项适合您的发送数量和信誉目标。
 title: 共享和专用的 IP 地址
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ _优点_
 _缺点_
 
 **卷更改** — 卷数量激增可能会对您的信誉产生负面影响，因此需要对其进行管理。
-**IP预热进程** — 信誉随时间而构建。 某些Internet服务提供商(ISP)会限制没有卷历史记录的IP地址，因此您必须在头几周内建立信誉(Marketo可以帮助您)。
+**IP预热进程** — 信誉随时间而构建。 某些Internet服务提供商(ISP)会限制没有卷历史记录的IP地址，因此您必须在头几周内建立信誉（Marketo可以帮助您）。
 **成本** — 从任何提供商的专用IP发送通常需要额外付费。
 
 **共享IP的优点和缺点**

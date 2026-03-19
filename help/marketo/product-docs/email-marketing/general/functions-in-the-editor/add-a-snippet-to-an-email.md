@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147358
-description: 向电子邮件添加代码片段 — Marketo文档 — 产品文档
+description: 了解如何向电子邮件添加代码片段。 将代码片段库中的可重用内容块插入电子邮件。
 title: 向电子邮件添加代码段
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 8%
+source-wordcount: '156'
+ht-degree: 7%
 
 ---
 

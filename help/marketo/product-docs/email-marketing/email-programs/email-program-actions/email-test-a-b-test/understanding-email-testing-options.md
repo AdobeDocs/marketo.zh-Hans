@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359483
-description: 了解电子邮件测试选项 — Marketo文档 — 产品文档
+description: 了解A/B测试的电子邮件测试选项。 了解主题行、整个电子邮件、发件人地址和日期/时间测试。
 title: 了解电子邮件测试选项
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 11%
+source-wordcount: '109'
+ht-degree: 10%
 
 ---
 

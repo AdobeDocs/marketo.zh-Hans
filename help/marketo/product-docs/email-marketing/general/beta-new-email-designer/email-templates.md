@@ -1,14 +1,14 @@
 ---
-description: 电子邮件模板 — Marketo文档 — 产品文档
+description: 在新的电子邮件Designer中了解电子邮件模板。 创建并重用模板，以便在Marketo Engage中更快地创建电子邮件。
 title: 电子邮件模板
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1714'
-ht-degree: 1%
+source-wordcount: '1728'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到请求并想请求加急，请联系Adobe客户团队（您的客户经理）或[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)。
+>要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果您的订阅尚未完成迁移，且希望加快进度，请联系 Adobe 客户团队（您的客户经理）或 [Marketo 支持团队](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 >[!NOTE]
 >
@@ -72,11 +72,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->.zip文件结构没有限制。 但是，引用必须是相对的，并且适合.zip文件夹的树结构。
+>具体的 .zip 文件结构没有任何限制。但是，引用必须是相对的，并且适合.zip文件夹的树结构。
 
 1. 在&#x200B;_设计您的模板_&#x200B;页面中，选择&#x200B;**导入HTML**。
 
-1. 拖放所需的HTML或.zip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
+1. 拖放所需的 ip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
    ![](assets/import-your-html-1.png)
 
@@ -84,7 +84,7 @@ ht-degree: 1%
    >
    >上传HTML内容后，您的内容将处于兼容模式。 在此模式下，您只能个性化文本、添加链接或向内容添加资产。
 
-1. 若要利用Email Designer内容组件，请单击&#x200B;**HTML converter**&#x200B;选项卡，然后单击&#x200B;**转换**。
+1. 要利用Email Designer内容组件，请单击&#x200B;**HTML converter**&#x200B;选项卡，然后单击&#x200B;**转换**。
 
    >[!CAUTION]
    >
@@ -182,13 +182,13 @@ ht-degree: 1%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
    * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 

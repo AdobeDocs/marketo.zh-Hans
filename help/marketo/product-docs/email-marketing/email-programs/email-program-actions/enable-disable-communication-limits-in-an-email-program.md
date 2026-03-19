@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359596
-description: 在电子邮件程序中启用/禁用通信限制 — Marketo文档 — 产品文档
+description: 了解如何在电子邮件程序中启用或禁用通信限制。 控制用户从程序接收电子邮件的频率。
 title: 在电子邮件项目中启用/禁用通信限制
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 12%
 >
 >通信限制在管理员部分[中设置为](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)，并帮助您避免向某人发送过多电子邮件。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 

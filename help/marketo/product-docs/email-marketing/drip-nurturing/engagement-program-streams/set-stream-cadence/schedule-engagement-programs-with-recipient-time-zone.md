@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12982909
-description: 按收件人时区安排参与计划 — Marketo文档 — 产品文档
+description: 了解如何使用收件人时区安排参与计划点播。 将首次播放设置为至少提前25小时进行全球交付。
 title: 按收件人时区安排参与计划
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 7%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 
