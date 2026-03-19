@@ -25,7 +25,7 @@ ht-degree: 4%
 
 1. 开发人员[为Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)生成服务器API密钥和项目编号，并将其发送给Marketo管理员。
 
-1. Marketo管理员使用服务器API密钥(Android)[配置推送通知访问](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)，或使用证书(iOS)[配置](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)。
+1. Marketo管理员使用服务器API密钥(Android) [配置推送通知访问](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)，或使用证书(iOS) [配置](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)。
 
 >[!TIP]
 >
