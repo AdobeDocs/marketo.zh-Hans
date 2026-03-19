@@ -78,7 +78,7 @@ ht-degree: 96%
 
 * **规则 2**：如果电子邮件记录显示为 _[!UICONTROL Opened]_，则计为_&#x200B;已投递&#x200B;_。
 
-* **规则 3**：如果电子邮件记录显示为 _[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，则同时计为&#x200B;_已投递_&#x200B;和&#x200B;_已打开_。
+* **规则 3**：如果电子邮件记录显示为 _[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，则同时计为&#x200B;_已投递_&#x200B;和&#x200B;_已打开_。
 
 * **规则 4**：如果电子邮件状态为 _[!UICONTROL Opened]_，则忽略退信。如果电子邮件尚未打开，则_&#x200B;硬退信&#x200B;_的优先级高于_&#x200B;软退信&#x200B;_和_&#x200B;已投递&#x200B;_。
 
