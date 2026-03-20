@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385057
-description: 设置类别 — Marketo文档 — 产品文档
+description: 在预测内容中设置类别，以在Web或电子邮件上将预测结果分组。 在内容设置中创建类别标记以方便筛选和搜索。
 title: 设置类别
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '158'
 ht-degree: 5%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 5%
 
 以下是如何创建类别标记。
 
-1. 转到&#x200B;**[!UICONTROL Content Settings]**。
+1. 前往 **[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand-1.png)
 

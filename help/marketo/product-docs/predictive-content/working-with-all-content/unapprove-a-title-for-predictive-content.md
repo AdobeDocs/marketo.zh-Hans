@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
-description: 取消批准预测内容的标题 — Marketo文档 — 产品文档
+description: 了解如何从“所有内容”页面或“编辑内容”弹出窗口中取消批准预测内容的标题。 需要时，从“预测内容”页面中删除标题。
 title: 取消批准预测性内容标题
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 10%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 

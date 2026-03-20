@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12981204
-description: Predictive Content Analytics概述 — Marketo文档 — 产品文档
-title: 预测性内容分析概述
+description: 了解关于热门视图、转化率、趋势内容和建议的Predictive Content Analytics功能板。 按属性过滤、设置日期范围和导出数据以优化内容策略。
+title: 预测性 Content Analytics 概述
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---
 
-# 预测性内容分析概述 {#predictive-content-analytics-overview}
+# 预测性 Content Analytics 概述 {#predictive-content-analytics-overview}
 
 使用内容分析进一步了解您的现有内容，（基于AI和预测算法）了解哪些内容适合您的受众，并从营销工作中提高ROI。
 

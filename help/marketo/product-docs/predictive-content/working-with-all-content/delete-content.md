@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384659
-description: 删除内容 — Marketo文档 — 产品文档
+description: 了解如何在不再需要跟踪内容时从所有内容页面中删除内容。 通过“内容操作”删除内容，以使列表保持最新。
 title: 删除内容
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 19%
+source-wordcount: '68'
+ht-degree: 13%
 
 ---
 

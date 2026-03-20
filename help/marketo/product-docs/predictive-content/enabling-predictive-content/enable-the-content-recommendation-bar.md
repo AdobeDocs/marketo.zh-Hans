@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720108
-description: 启用内容推荐栏 — Marketo文档 — 产品文档
+description: 了解如何为每个URL启用内容推荐栏并使用预测分析设置其样式。 使用“内容设置”可打开页面并自定义颜色和路径。
 title: 启用内容推荐栏
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 3%
+source-wordcount: '333'
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 3%
 
 ## 启用和自定义内容推荐栏 {#enable-and-customize-the-content-recommendation-bar}
 
-1. 转到&#x200B;**[!UICONTROL Content Settings]**。
+1. 前往 **[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand.png)
 

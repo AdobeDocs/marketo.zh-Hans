@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385053
-description: 部署JavaScript for Content-AI - Marketo文档 — 产品文档
+description: 了解如何为预测内容生成并放置RTP Web Personalization标记。 将其复制到页头，验证覆盖范围，并确认切换是否保持打开状态。
 title: 部署 Content-AI 的 JavaScript
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 ## 生成标记 {#generate-tag}
 
-1. 登录您的Predictive Content帐户。 转到&#x200B;**[!UICONTROL Account Settings]**。
+1. 登录您的Predictive Content帐户。 前往 **[!UICONTROL Account Settings]**。
 
    ![](assets/settings-dropdown-account-hands.png)
 

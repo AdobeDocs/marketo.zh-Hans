@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745750
-description: 算法目标设置 — Marketo文档 — 产品文档
+description: 了解如何在内容设置中将预测内容算法目标设置为“点击次数”或“转化次数”。 使AI与您的业务目标保持一致，以最大限度地提高内容性能。
 title: 算法目标设置
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 6%
+source-wordcount: '119'
+ht-degree: 7%
 
 ---
 
@@ -31,6 +31,6 @@ ht-degree: 6%
    |---|---|
    | **[!UICONTROL Conversions]** | 显示最有可能使查看内容的人员提交表单的内容 |
 
-1. 完成后单击&#x200B;**[!UICONTROL Save]**。
+1. 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/four.png)

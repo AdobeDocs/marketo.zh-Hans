@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385942
-description: 编辑推荐栏的预测内容 — Marketo文档 — 产品文档
+description: 了解如何为内容推荐栏启用批准的预测内容。
 title: 编辑推荐栏的预测性内容
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 22%
+source-wordcount: '73'
+ht-degree: 21%
 
 ---
 

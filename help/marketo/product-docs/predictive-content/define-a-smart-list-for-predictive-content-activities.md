@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097873
-description: 为预测内容活动定义智能列表 — Marketo文档 — 产品文档
+description: 了解如何使用富媒体、推荐栏和电子邮件的预测内容活动定义智能列表。 触发营销活动并过滤单击推荐内容的人员。
 title: 为预测性内容活动定义智能列表
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 5%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 5%
 
    >[!MORELIKETHIS]
    >
-   >* [为智能营销活动定义智能列表 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [为智能营销活动定义智能列表|批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [向智能营销活动添加流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [为Web Personalization活动定义智能列表](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
    >* [启用Web富媒体的预测内容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

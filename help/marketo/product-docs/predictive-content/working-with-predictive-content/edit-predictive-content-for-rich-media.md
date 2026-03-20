@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385940
-description: 编辑富媒体的预测内容 — Marketo文档 — 产品文档
+description: 了解如何使用描述、sRGB图像和类别设置富媒体的预测内容。 为Web推荐启用已批准的内容。
 title: 编辑富媒体的预测性内容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '220'
 ht-degree: 6%
 
 ---

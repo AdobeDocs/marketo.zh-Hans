@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384651
-description: 添加新内容 — Marketo文档 — 产品文档
+description: 将新内容手动添加到预测内容中的所有内容页面。 输入标题、URL、图像和类别，然后批准推荐。
 title: 添加新内容
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '92'
+ht-degree: 13%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719190
-description: 启用内容发现 — Marketo文档 — 产品文档
+description: 了解如何启用内容发现，以便预测内容自动发现和标记您网站中的内容。 跟踪PDF、视频等内容的查看以便推荐。
 title: 启用内容发现
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '164'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 内容发现功能会自动从您的网站上发现并标记您现有的内容（包括案例研究、博客文章、视频、新闻稿等），并跟踪这些资料的查看次数。  预测内容使用搜索到的内容，并采用预测分析来确定哪些内容是表现最好的内容，并将最佳内容推荐给适当的人员。
 
-1. 转到&#x200B;**[!UICONTROL Content Settings]**。
+1. 前往 **[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand.png)
 

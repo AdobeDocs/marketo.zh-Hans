@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385020
-description: 在电子邮件中启用预测内容 — Marketo文档 — 产品文档
+description: 了解如何在批准和编辑标题后使用ContentAI预测电子邮件图像。 打开Email 2.0编辑器，启用每个图像，选取类别、预览和定版。
 title: 在电子邮件中启用预测性内容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '394'
 ht-degree: 3%
 
 ---

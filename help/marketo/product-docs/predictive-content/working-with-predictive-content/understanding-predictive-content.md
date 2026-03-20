@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384665
-description: 了解预测内容 — Marketo文档 — 产品文档
+description: 了解批准的预测内容标题、启用的源、点击量和转化数据。 使用过滤器和日期来比较推荐在Web和电子邮件上的表现。
 title: 了解预测性内容
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---

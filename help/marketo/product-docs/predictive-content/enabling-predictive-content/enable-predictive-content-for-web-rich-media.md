@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514956
-description: 为Web富媒体启用预测内容 — Marketo文档 — 产品文档
+description: 了解如何在您的网站上为Web富媒体模板启用预测内容。 单独或批量打开标题，然后根据开发人员文档嵌入和自定义JavaScript。
 title: 为 Web 富媒体启用预测性内容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '307'
 ht-degree: 6%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 6%
 
 ## 自定义Javascript代码并将其嵌入您的网站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-请参阅Marketo开发人员网站[上有关富媒体推荐模板](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的文档。 本部分说明如何自定义网站的模板。
+请参阅Marketo开发人员网站[上有关富媒体推荐模板](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的文档。 本部分说明如何自定义网站的模板。
 
 将JavaScript代码粘贴到网站中您希望显示该模板的位置。
 

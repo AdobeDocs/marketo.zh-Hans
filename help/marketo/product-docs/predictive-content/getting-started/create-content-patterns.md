@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385579
-description: 创建内容模式 — Marketo文档 — 产品文档
+description: 了解如何定义URL模式，以便预测内容自动发现访客查看或单击的HTML页面。 在内容设置URL模式下添加路径和类别。
 title: 创建内容模式
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 当您设置内容模式时，当Web访客单击与内容模式相关的HTML网页时，将自动发现内容。 它用于将HTML页面（博客文章、新闻稿、新闻文章）作为内容片段添加到所有内容页面。 当自动发现基于内容模式时，它会在Web访客查看或单击指向HTML页面的链接时发现并跟踪与定义的URL模式相关的Web页面。 此内容片段（URL、页面名称和元数据，包括图像URL和描述）将添加到所有内容页面中，以准备预测内容。 要自动发现其他内容（如PDF和嵌入的视频），您需要[启用内容发现](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)。
 
-1. 转到&#x200B;**[!UICONTROL Content Settings]**。
+1. 前往 **[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand-2.png)
 
@@ -47,8 +47,8 @@ ht-degree: 2%
 
 * 您可以在表达式中的任意位置使用通配符（示例： _domain.com/&#42;_、_domain.com/&#42;blog&#42;_）
 
-* 我们建议在表达式末尾使用/&#42;来继续模式发现(示例： _domain.com/blog/&#42;_&#x200B;可发现Blog文件夹中的所有帖子)
-* 内容模式不区分大小写(示例： _domain.com/Blog/&#42;_&#x200B;发现&#x200B;_domain.com/Blog_&#x200B;和&#x200B;_domain.com/blog_&#x200B;上的所有html页面)
+* 我们建议在表达式末尾使用/&#42;来继续模式发现（示例： _domain.com/blog/&#42;_&#x200B;可发现Blog文件夹中的所有帖子）
+* 内容模式不区分大小写（示例： _domain.com/Blog/&#42;_&#x200B;发现&#x200B;_domain.com/Blog_&#x200B;和&#x200B;_domain.com/blog_&#x200B;上的所有html页面）
 
 * 未发现URL参数（这可以避免使用相同的内容URL但不同的参数发现多个项目）
 
@@ -71,7 +71,7 @@ ht-degree: 2%
    <td><p>发现与模式domain.com/article/2017/匹配的所有内容：</p><p>domain.com/article/2017/5-top-tricks</p></td>
   </tr>
   <tr>
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
    <td><p>发现任何包含“数据表”一词的URL：</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
   </tr>
   <tr>

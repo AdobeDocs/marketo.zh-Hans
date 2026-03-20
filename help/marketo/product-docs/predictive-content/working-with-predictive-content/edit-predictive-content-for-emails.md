@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385938
-description: 编辑电子邮件的预测内容 — Marketo文档 — 产品文档
+description: 了解如何使用图像、按钮标签和类别为电子邮件设置预测内容。 在预测内容编辑器中为电子邮件启用已批准的内容。
 title: 编辑电子邮件的预测性内容
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 4%
+source-wordcount: '244'
+ht-degree: 5%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 4%
 
    ![](assets/five.png)
 
-1. 单击并拖动滑块可更改图像大小。 然后单击并拖动裁剪框以隔离要使用的所需图像区域。 完成后单击&#x200B;**[!UICONTROL Preview]**。
+1. 单击并拖动滑块可更改图像大小。 然后单击并拖动裁剪框以隔离要使用的所需图像区域。 完成后，单击 **[!UICONTROL Preview]**。
 
    ![](assets/six.png)
 
