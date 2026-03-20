@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953444
-description: 定义期间成本 — Marketo文档 — 产品文档
+description: 了解如何使用定义期间成本定义期间成本，从而在Marketo Engage中定义期间成本。 使用本指南完成您的下一步。
 title: 定义周期成本
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. 输入&#x200B;**[!UICONTROL Period Cost]**&#x200B;为整数，且不含小数或逗号(最大限制：99999999)
+1. 输入&#x200B;**[!UICONTROL Period Cost]**&#x200B;为整数，且不含小数或逗号（最大限制：99999999）
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 

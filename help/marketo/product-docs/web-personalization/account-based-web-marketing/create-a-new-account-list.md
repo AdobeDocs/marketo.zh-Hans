@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720232
-description: 新建帐户列表 — Marketo文档 — 产品文档
+description: 了解如何使用创建新帐户列表create-a-new-account-list在Marketo Engage中创建新帐户列表。 使用本指南完成您的下一步。
 title: 创建新帐户列表
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 4%
+source-wordcount: '409'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 ## 创建新帐户列表 {#create-a-new-account-list-1}
 
-1. 转到&#x200B;**[!UICONTROL Account Lists]**。
+1. 前往 **[!UICONTROL Account Lists]**。
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
@@ -68,7 +68,7 @@ ht-degree: 4%
 
 ![](assets/create-new-account-list-edit.jpg)
 
-选择&#x200B;**[!UICONTROL Browse...]**&#x200B;并上传新的CSV文件。 此文件将替换原始文件。 单击&#x200B;**[!UICONTROL Save]**。 新上传的文件将处于待处理状态，直到Marketo支持批准为止，当处于待处理状态时，原始文件将保持活动状态。
+选择&#x200B;**[!UICONTROL Browse...]**&#x200B;并上传新的CSV文件。 此文件将替换原始文件。 单击 **[!UICONTROL Save]**。 新上传的文件将处于待处理状态，直到Marketo支持批准为止，当处于待处理状态时，原始文件将保持活动状态。
 
 ![](assets/set-account-list-edit-hands.jpg)
 

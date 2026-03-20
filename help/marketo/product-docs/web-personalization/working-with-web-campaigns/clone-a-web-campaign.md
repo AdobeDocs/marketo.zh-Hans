@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093157
-description: 克隆Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何使用克隆Web营销活动在Marketo Engage中克隆Web营销活动。 使用本指南完成您的下一步。
 title: 克隆 Web 营销活动
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 4%
+source-wordcount: '178'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ## 创建克隆营销活动 {#create-a-clone-campaign}
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

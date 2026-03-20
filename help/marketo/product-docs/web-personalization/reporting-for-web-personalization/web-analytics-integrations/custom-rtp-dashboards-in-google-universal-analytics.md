@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504238
-description: Google Universal Analytics中的自定义RTP功能板 — Marketo文档 — 产品文档
+description: 了解Marketo Engage中google universal analytics的自定义rtp仪表板，包括中的自定义rtp仪表板。 放心地迈出下一步。
 title: 在 Google Universal Analytics 中自定义 RTP 仪表板
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '761'
 ht-degree: 2%
 
 ---
@@ -74,14 +74,14 @@ ht-degree: 2%
      <li><span class="uicontrol">创建一个显示</span>：<span class="uicontrol">会话</span>的条形图</li>
      <li><span class="uicontrol">按</span>分组： <span class="uicontrol">事件标签</span></li>
      <li><span class="uicontrol">透视依据</span>：<span class="uicontrol">默认渠道分组</span></li>
-     <li>筛选器：<br><span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （<span class="uicontrol">包含</span>） RTP区段</li>
+     <li>筛选器： <br><span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （<span class="uicontrol">包含</span>） RTP区段</li>
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
      <li>名称：RTP分段用户的数量</li>
      <li>类型： <span class="uicontrol">2.1指标</span></li>
      <li><span class="uicontrol">显示以下量度</span>： <span class="uicontrol">用户</span><br></li>
-     <li>筛选器：<br><span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （包含）RTP段</li>
+     <li>筛选器：<br><span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span>（包含） RTP区段</li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
@@ -104,9 +104,9 @@ ht-degree: 2%
     <ul>
      <li><strong>名称：按国家/地区分段会话</strong></li>
      <li><strong>类型： <span class="uicontrol">Geomap</span></strong></li>
-     <li><strong><span class="uicontrol">绘制所选量度</span>： <span class="uicontrol">国家/地区</span> | <span class="uicontrol">个会话</span></strong></li>
+     <li><strong><span class="uicontrol">绘制所选量度</span>：<span class="uicontrol">国家/地区</span> | <span class="uicontrol">会话</span></strong></li>
      <li><strong><span class="uicontrol">选择区域</span>：<span class="uicontrol">世界</span></strong></li>
-     <li><strong>筛选器：<span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （包含）RTP段</strong></li>
+     <li><strong>筛选器：<span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span>（包含） RTP区段</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th>
     <ul>
@@ -124,7 +124,7 @@ ht-degree: 2%
      <li>类型： <span class="uicontrol">栏</span></li>
      <li><span class="uicontrol">创建一个显示</span>： <span class="uicontrol">用户</span>的条形图</li>
      <li><span class="uicontrol">按</span>分组： <span class="uicontrol">事件操作</span></li>
-     <li>筛选器：<span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （包含）RTP段</li>
+     <li>筛选器：<span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span>（包含） RTP区段</li>
     </ul><p><img width="350" src="assets/add-a-widget.png" data-linked-resource-id="11382874" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th>
     <ul>
@@ -140,8 +140,8 @@ ht-degree: 2%
     <ul>
      <li>名称：按热门区段划分的会话和目标</li>
      <li>类型：表<br></li>
-     <li>显示以下列：<br>事件标签 | 会话 | 目标转化率</li>
-     <li>筛选器：<br>仅显示 | 事件类别（包含）RTP区段</li>
+     <li>显示以下列：<br>事件标签|会话|目标转化率</li>
+     <li>筛选器：<br>仅显示|事件类别（包含） RTP区段</li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th> </th>
   </tr>
@@ -217,7 +217,7 @@ ht-degree: 2%
     <ul>
      <li>名称： <strong>CRE — 最推荐的内容</strong></li>
      <li>类型： <strong><span class="uicontrol">表</span></strong><br></li>
-     <li><span class="uicontrol">显示以下列</span>： <br><strong><span class="uicontrol">页面标题</span> | <span class="uicontrol">页面查看次数</span></strong><br></li>
+     <li><span class="uicontrol">显示以下列</span>： <br><strong><span class="uicontrol">页面标题</span> | <span class="uicontrol">页面视图</span></strong><br></li>
      <li>筛选器：<br>筛选器： <strong>[<span class="uicontrol">仅显示</span>] <span class="uicontrol">页面</span> （<span class="uicontrol">包含</span>）： rcmd</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
   </tr>

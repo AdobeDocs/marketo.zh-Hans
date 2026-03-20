@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094404
-description: 使用字段管理器创建自定义字段组 — Marketo文档 — 产品文档
+description: 了解如何使用Marketo Engage中的字段管理器通过创建自定义字段组来创建自定义字段组。 使用本指南完成您的下一步。
 title: 使用字段组织器创建自定义字段组
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 5%
+source-wordcount: '966'
+ht-degree: 4%
 
 ---
 
@@ -118,7 +118,7 @@ ht-degree: 5%
 
    整数编辑器允许您创建多个子组以按大小定义每个子组。 在此示例中，将创建三个组以用于小型、Medium和企业企业。
 
-1. 要添加您的第一个组，请在&#x200B;**[!UICONTROL Group Name]**&#x200B;字段中输入名称（例如：小），并在&#x200B;**[!UICONTROL Group Range]**&#x200B;字段中输入最大值(例如：200000)。 单击 **[!UICONTROL Add Group]**。
+1. 要添加您的第一个组，请在&#x200B;**[!UICONTROL Group Name]**&#x200B;字段中输入名称（例如：小），并在&#x200B;**[!UICONTROL Group Range]**&#x200B;字段中输入最大值（例如：200000）。 单击 **[!UICONTROL Add Group]**。
 
    ![](assets/twelve.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360199
-description: 按属性分组人员报表 — Marketo文档 — 产品文档
+description: 了解Marketo Engage中按属性划分的组人员报表，包括按属性划分的组人员报表。 使用本指南完成您的下一步。
 title: 按属性对人员报告进行分组
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 10%
+source-wordcount: '126'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 10%
 
    >[!TIP]
    >
-   >如果选择具有数字值的属性，如&#x200B;_[!UICONTROL Created At]_&#x200B;或&#x200B;_[!UICONTROL Annual Revenue]_，请从右侧的&#x200B;**[!UICONTROL Units]**&#x200B;下拉列表中选择量度。
+   >如果选择具有数字值的属性，如&#x200B;_[!UICONTROL Created At]_或_[!UICONTROL Annual Revenue]_，请从右侧的&#x200B;**[!UICONTROL Units]**&#x200B;下拉列表中选择量度。
 
    操作完成！单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡以查看您的报告已进行相应分组。
 

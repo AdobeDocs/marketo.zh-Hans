@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719404
-description: AB测试您的Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中测试Web营销活动，包括测试Web营销活动。 使用本指南完成您的下一步。
 title: 对 Web 营销活动进行 AB 测试
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 4%
+source-wordcount: '316'
+ht-degree: 5%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 ## 如何设置拆分A/B测试 {#how-to-set-up-a-split-a-b-test}
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-2.jpg)
 

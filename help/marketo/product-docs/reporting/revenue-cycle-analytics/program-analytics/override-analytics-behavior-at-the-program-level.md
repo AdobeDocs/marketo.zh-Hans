@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360421
-description: 覆盖项目级别的Analytics行为 — Marketo文档 — 产品文档
+description: 了解Marketo Engage中项目级别的覆盖分析行为，包括覆盖分析行为。 放心地迈出下一步。
 title: 在项目层级覆盖分析行为
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 10%
+source-wordcount: '194'
+ht-degree: 9%
 
 ---
 

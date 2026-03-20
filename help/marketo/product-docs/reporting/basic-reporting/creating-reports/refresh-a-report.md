@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472328
-description: 刷新报表 — Marketo文档 — 产品文档
+description: 了解如何手动刷新报表以获取最新数据，即使报表每24小时自动刷新一次。 使用刷新按钮或报表操作菜单来更新结果。
 title: 刷新报告
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 5%
+source-wordcount: '127'
+ht-degree: 4%
 
 ---
 

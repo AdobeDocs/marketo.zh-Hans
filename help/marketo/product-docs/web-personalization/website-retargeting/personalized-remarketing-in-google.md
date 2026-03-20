@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720810
-description: Google中的个性化再营销 — Marketo文档 — 产品文档
+description: 了解Marketo Engage中的Google个性化再营销，包括Google中的个性化再营销。 使用本指南完成您的下一步。
 title: 在 Google 中进行个性化二次营销
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 6%
+source-wordcount: '239'
+ht-degree: 5%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 6%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 在受众生成器中，单击&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL UICONTROL [ !] Custom Variables]和[!UICONTROL Events]。
+1. 在受众生成器中，单击&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL [!]UICONTROL Custom Variables]和[!UICONTROL Events]。
 
 >[!TIP]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093041
-description: 编辑智能列表订阅 — Marketo文档 — 产品文档
+description: 了解如何通过更新收件人、频率、列、结束投放日期和格式来编辑智能列表订阅。 直接在“订阅”选项卡中进行更改。
 title: 编辑智能列表订阅
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '197'
 ht-degree: 6%
 
 ---

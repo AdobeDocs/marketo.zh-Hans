@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097100
-description: 计划Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中计划Web营销活动，包括计划Web营销活动计划。 使用本指南完成您的下一步。
 title: 计划 Web 营销活动
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 3%
 >
 >安排开始和停止日期非常适合在特定期间运行的计划事件，例如网络研讨会。 重复是每周仅在特定日期运行的特殊优惠的完美选择。
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 

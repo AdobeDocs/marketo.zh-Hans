@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100257
-description: 电子邮件分析常见问题解答 — Marketo文档 — 产品文档
+description: 查找有关电子邮件分析的常见问题解答，包括量度计算、自定义维度和设备筛选。 了解电子邮件分析与其他报表工具有何不同。
 title: 电子邮件洞察常见问题
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '599'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 为什么在分配自定义维度版块后无法重用这些版块？ {#why-cant-i-re-use-custom-dimensions-slots-after-theyve-been-assigned}
 
-一旦分配了给定的自定义Dimension插槽，重新映射它将会导致以前的数据在与新含义混合时产生错误。 因此，自定义Dimension插槽可能无法重复使用。 此行为与其他量度分析工具(例如Google Analytics)的行为一致。
+一旦分配了给定的自定义Dimension插槽，重新映射它将会导致以前的数据在与新含义混合时产生错误。 因此，自定义Dimension插槽可能无法重复使用。 此行为与其他量度分析工具（例如Google Analytics）的行为一致。
 
 ## [!UICONTROL Email Insights]是否支持Marketo Sales Insight电子邮件？ {#does-email-insights-support-marketo-sales-insight-emails}
 

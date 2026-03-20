@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512105
-description: 将报表克隆到组报表 — Marketo文档 — 产品文档
+description: 了解如何将报告从“我的报告”克隆到“组报告” ，以使所有工作区用户都能看到它们。 使用“克隆到”选项与您的团队共享报告。
 title: 将报告克隆到组报告
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 14%
+source-wordcount: '113'
+ht-degree: 12%
 
 ---
 

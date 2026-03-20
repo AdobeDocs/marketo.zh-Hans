@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720149
-description: 在Wordpress上实施RTP - Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中的wordpress上实施rtp，包括在dnl wordpress上实施rtp。 使用本指南完成您的下一步。
 title: 在 WordPress 上实施 RTP
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 2%
+source-wordcount: '187'
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 1. 在文本编辑器右侧的模板文件列表中，找到&#x200B;**header.php**&#x200B;并将其打开。
 
-1. 转到&#x200B;**[!UICONTROL Account Settings]**。
+1. 前往 **[!UICONTROL Account Settings]**。
 
    a.如果您已从支持部门收到JavaScript标记 — 请继续执行步骤5。
 
@@ -43,4 +43,4 @@ ht-degree: 2%
 
 1. 验证它是否显示在包括登陆页面和子域在内的所有页面上。
 
-   a.您可以在网站的页面上单击鼠标右键，从而执行此操作。 转到&#x200B;**[!UICONTROL View Page Source]。**&#x200B;搜索&#x200B;**RTP**&#x200B;以查找标记。
+   a.您可以在网站的页面上单击鼠标右键，从而执行此操作。 前往 **[!UICONTROL View Page Source]。**&#x200B;搜索&#x200B;**RTP**&#x200B;以查找标记。

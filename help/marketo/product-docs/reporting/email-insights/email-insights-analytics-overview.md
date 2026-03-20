@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099411
-description: 电子邮件分析Analytics概述 — Marketo文档 — 产品文档
+description: 了解电子邮件分析分析，该分析探讨了电子邮件投放和参与量度的聚合时间序列数据。 使用图表和引导式分析发现相关的性能驱动因素。
 title: 电子邮件洞察分析概述
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 3%
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 

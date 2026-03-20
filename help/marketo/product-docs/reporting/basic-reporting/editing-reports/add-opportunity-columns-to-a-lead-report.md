@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360018
-description: 将Opportunity列添加到潜在客户报表 — Marketo文档 — 产品文档
+description: 了解如何添加商机列来潜在客户报告以查看商机统计和量度。 显示商机数据，包括金额、转化率和销售周期信息。
 title: 向潜在客户报告添加商机列
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 8%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719396
-description: 查找使用特定区段的Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中使用特定区段查找Web营销活动，并使用查找符合条件的Web营销活动。 放心地迈出下一步。
 title: 查找使用特定区段的 Web 营销活动
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '99'
 ht-degree: 20%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 正在查找使用特定区段的Web营销活动？
 
-1. 转到&#x200B;**[!UICONTROL Segments]**。
+1. 前往 **[!UICONTROL Segments]**。
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 

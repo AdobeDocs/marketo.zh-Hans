@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9437340
-description: 使用Tealium Tag Manager实施RTP - Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中使用Tealium标签管理器实施rtp，包括使用dnl实施rtp。 使用本指南完成您的下一步。
 title: 使用 Tealium 标记管理器实施 RTP
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 4%
+source-wordcount: '200'
+ht-degree: 5%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 4%
 
 1. 登录到您的RTP帐户。
 
-1. 转到[!UICONTROL Account Settings]。
+1. 前往 [!UICONTROL Account Settings]。
 
    >[!NOTE]
    >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504383
-description: 将字段添加到收入资源管理器报表 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中将字段添加到收入资源管理器报表，包括向收入添加字段。 使用本指南完成您的下一步。
 title: 向收入探索器报告添加字段
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 8%
 
 ---
 

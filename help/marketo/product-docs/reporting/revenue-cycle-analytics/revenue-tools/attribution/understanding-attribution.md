@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953136
-description: 了解归因 — Marketo文档 — 产品文档
+description: 了解如何了解Marketo Engage中的归因，包括什么是归因即归因。 使用本指南完成您的下一步。
 title: 了解归因
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '226'
 ht-degree: 1%
 
 ---

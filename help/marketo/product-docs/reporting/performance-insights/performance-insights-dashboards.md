@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795534
-description: 性能分析功能板 — Marketo文档 — 产品文档
-title: 绩效洞察仪表板
+description: 了解性能分析功能板，包括参与度、管道和收入视图。 使用首次联系和多次联系量度衡量受众参与度、新名称获取和渠道性能。
+title: 性能洞察仪表板
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 1%
+source-wordcount: '511'
+ht-degree: 0%
 
 ---
 

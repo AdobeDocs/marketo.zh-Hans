@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360405
-description: 构建项目会员资格分析报告，其中列出潜在客户 — Marketo文档 — 产品文档
+description: 了解如何构建项目会员资格分析报告，该报告会使用构建项目列出Marketo Engage中的潜在客户。 使用本指南完成您的下一步。
 title: 生成列出潜在客户的项目成员分析报告
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 15%
+source-wordcount: '149'
+ht-degree: 14%
 
 ---
 

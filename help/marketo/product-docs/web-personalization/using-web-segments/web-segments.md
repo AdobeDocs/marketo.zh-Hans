@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719093
-description: Web区段 — Marketo文档 — 产品文档
+description: 了解Marketo Engage中的Web区段，包括“区段”选项卡会显示所有自定义项。 使用本指南完成您的下一步。
 title: Web 区段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1998'
 ht-degree: 0%
 
 ---
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
+>命名帐户列表名称旁边方括号中的数字被用作Web Personalization [读取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)列表的索引引用。
 
 **排除ISP**
 
@@ -269,7 +269,7 @@ ht-degree: 0%
    * 访客正在使用此特定设备/操作系统
    * 访客未使用任何移动设备
 
-* **[!UICONTROL Device]** — 从下拉列表中选择一个或多个设备(Apple、Samsung、LG、HTC、Nexus、Blackberry等……)。 选定的设备显示在下方。
+* **[!UICONTROL Device]** — 从下拉列表中选择一个或多个设备（Apple、Samsung、LG、HTC、Nexus、Blackberry等……）。 选定的设备显示在下方。
 
 **浏览器**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **用户上下文API**
 
-Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Web Personalization API调用[在此处阅读更多相关信息。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

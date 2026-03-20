@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360437
-description: 使用项目分析器浏览项目和渠道详细信息 — Marketo文档 — 产品文档
+description: 了解如何使用Marketo Engage中的项目分析器浏览项目和渠道详细信息，包括浏览项目。 使用本指南完成您的下一步。
 title: 使用项目分析器查看项目和渠道详情
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '198'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571892
-description: 使用字段组织者 — Marketo文档 — 产品文档
+description: 了解如何使用在Marketo Engage中使用字段组织器使用字段组织器。 使用本指南完成您的下一步。
 title: 使用字段组织器
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '170'
 ht-degree: 5%
 
 ---

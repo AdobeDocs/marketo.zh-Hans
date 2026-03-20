@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359996
-description: 列排序报表 — Marketo文档 — 产品文档
+description: 了解如何按列对报表数据进行排序以突出显示最重要的数字。 单击“报表”选项卡中的列标题，以选择升序或降序排序顺序。
 title: 按列对报告进行排序
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 10%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

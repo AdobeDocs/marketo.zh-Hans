@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720151
-description: 在Marketo登陆页面上实施RTP - Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中的marketo登陆页面上实施rtp，包括在marketo上实施rtp。 使用本指南完成您的下一步。
 title: 在 Marketo 登陆页面上实施 RTP
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '183'
 ht-degree: 7%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 7%
 
 1. 验证它是否显示在包括登陆页面和子域在内的所有页面上。
 
-   要执行此操作，请右键单击您的网站页面。 转到&#x200B;**[!UICONTROL View Page Source]。**&#x200B;搜索&#x200B;**[!UICONTROL RTP]**&#x200B;以查找标记。
+   要执行此操作，请右键单击您的网站页面。 前往 **[!UICONTROL View Page Source]。**&#x200B;搜索&#x200B;**[!UICONTROL RTP]**&#x200B;以查找标记。

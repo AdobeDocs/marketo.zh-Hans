@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359999
-description: 对报表列重新排序 — Marketo文档 — 产品文档
+description: 了解如何通过将报表列拖放到新位置来重新排列报表列。 在“报表”选项卡中自定义列顺序，以优先处理最重要的数据。
 title: 重新排序报告列
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 9%
+source-wordcount: '107'
+ht-degree: 7%
 
 ---
 

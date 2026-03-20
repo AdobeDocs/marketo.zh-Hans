@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360235
-description: 创建机会影响分析器 — Marketo文档 — 产品文档
+description: 了解如何使用创建机会影响在Marketo Engage中创建机会影响分析器。 使用本指南完成您的下一步。
 title: 创建商机影响分析器
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '212'
 ht-degree: 6%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 6%
    >
    >在大多数情况下，**[!UICONTROL All Time]**&#x200B;是最简单的选择。
 
-1. 你在那儿！ 单击主选项卡，以查看此机会中涉及的有趣时刻和成功案例。
+1. 完成了！单击主选项卡，以查看此机会中涉及的有趣时刻和成功案例。
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

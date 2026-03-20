@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719398
-description: 新建Dialog Web营销活动 — Marketo文档 — 产品文档
+description: 创建对话框Web营销活动，以便通过网站上的弹出消息实时个性化内容。 自定义对话框样式、位置、动画和显示设置以吸引访客。
 title: 创建新对话 Web 营销活动
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '748'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Web营销活动是与特定区段关联的自定义反应。 响应可以是您网站上的对话框、区域替换[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 

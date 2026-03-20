@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360409
-description: 构建一个电子邮件分析报告，其中显示项目信息 — Marketo文档 — 产品文档
+description: 了解如何使用构建电子邮件来构建电子邮件分析报告，该报告显示Marketo Engage中的项目信息。 使用本指南完成您的下一步。
 title: 生成显示项目信息的电子邮件分析报告
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 16%
+source-wordcount: '143'
+ht-degree: 14%
 
 ---
 

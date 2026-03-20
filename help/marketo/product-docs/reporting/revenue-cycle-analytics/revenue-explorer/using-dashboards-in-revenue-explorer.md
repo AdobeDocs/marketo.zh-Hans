@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094959
-description: 在Revenue Explorer中使用功能板 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage的revenue explorer中使用功能板在revenue explorer中使用功能板。 使用本指南完成您的下一步。
 title: 使用收入探索器中的仪表板
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '228'
 ht-degree: 3%
 
 ---

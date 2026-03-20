@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718664
-description: 了解收入模型成功路径 — Marketo文档 — 产品文档
+description: 了解收入模型在Marketo Engage中的成功路径，包括了解收入模型的成功。 放心地迈出下一步。
 title: 了解收入模型成功路径
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '235'
 ht-degree: 5%
 
 ---

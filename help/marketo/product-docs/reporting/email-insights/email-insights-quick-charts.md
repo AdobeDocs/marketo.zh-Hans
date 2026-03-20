@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099415
-description: 电子邮件分析快速图表 — Marketo文档 — 产品文档
+description: 了解如何在Email Insights中创建快速图表并将其另存为常用图表视图的缩略图。 保存最多20个自定义图表，并从“快速图表”图标中快速访问它们。
 title: 电子邮件洞察快速图表
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '246'
+ht-degree: 3%
 
 ---
 

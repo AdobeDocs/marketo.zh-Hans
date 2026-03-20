@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359987
-description: 订阅基本报表 — Marketo文档 — 产品文档
+description: 了解如何订阅基本报告的电子邮件地址以接收自动更新并与团队共享报告。 在订阅选项卡中设置订阅频率。
 title: 订阅基础报告
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 14%
+source-wordcount: '136'
+ht-degree: 12%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719408
-description: 编辑现有Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何使用编辑现有Web营销活动在Marketo Engage中编辑现有Web营销活动。 使用本指南完成您的下一步。
 title: 编辑现有 Web 营销活动
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 18%
+source-wordcount: '71'
+ht-degree: 16%
 
 ---
 
 # 编辑现有 Web 营销活动 {#edit-an-existing-web-campaign}
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 

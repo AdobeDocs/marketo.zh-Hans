@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360394
-description: 导出Opportunity Influence Analyzer数据 — Marketo文档 — 产品文档
+description: 了解如何使用导出机会影响分析器在Marketo Engage中导出机会影响分析器数据。 放心地迈出下一步。
 title: 导出商机影响分析器数据
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 9%
+source-wordcount: '138'
+ht-degree: 8%
 
 ---
 

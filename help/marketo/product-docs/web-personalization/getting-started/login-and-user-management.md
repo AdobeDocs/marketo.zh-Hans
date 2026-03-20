@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513771
-description: 登录和用户管理 — Marketo文档 — 产品文档
+description: 了解如何使用登录和用户管理在Marketo Engage中登录和用户管理。 使用本指南完成您的下一步。
 title: 登录与用户管理
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 3%
 
 ## 将WP角色分配给用户 {#assign-wp-role-to-user}
 
-1. 转到&#x200B;**[!UICONTROL Users]**。
+1. 前往 **[!UICONTROL Users]**。
 
    ![](assets/image2015-4-29-11-3a31-3a3.png)
 

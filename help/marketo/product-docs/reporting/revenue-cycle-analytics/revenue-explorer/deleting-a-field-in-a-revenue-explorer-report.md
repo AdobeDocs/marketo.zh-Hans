@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504520
-description: 在收入资源管理器报表中删除字段 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage的收入资源管理器报表中删除字段，包括删除收入中的字段。 使用本指南完成您的下一步。
 title: 删除收入探索器报告中的字段
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '89'
+ht-degree: 8%
 
 ---
 

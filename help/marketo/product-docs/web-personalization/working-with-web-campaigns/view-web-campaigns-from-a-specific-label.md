@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720075
-description: 从特定标签查看Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何从Marketo Engage中的特定标签查看Web营销活动，包括从特定标签查看Web营销活动。 使用本指南完成您的下一步。
 title: 查看来自特定标签的 Web 营销活动
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 17%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 17%
 
 ## 按现有标签筛选 {#filter-by-existing-labels}
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-4.jpg)
 

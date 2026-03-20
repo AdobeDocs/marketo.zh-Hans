@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718681
-description: 在收入Modeler中按帐户开始跟踪 — Marketo文档 — 产品文档
+description: 了解在Marketo Engage的收入建模器中按帐户进行的开始跟踪，包括按帐户进行的开始跟踪。 使用本指南完成您的下一步。
 title: 在收入建模器中按帐户开始跟踪
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 7%
+source-wordcount: '241'
+ht-degree: 6%
 
 ---
 

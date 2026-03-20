@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511725
-description: 了解我的报表和组报表 — Marketo文档 — 产品文档
+description: 了解仅对您可见的“我的报表”与对所有Workspace用户可见的“组报表”之间的区别。 有效地组织已保存的报告。
 title: 了解我的报告和小组报告
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 20%
+source-wordcount: '77'
+ht-degree: 15%
 
 ---
 

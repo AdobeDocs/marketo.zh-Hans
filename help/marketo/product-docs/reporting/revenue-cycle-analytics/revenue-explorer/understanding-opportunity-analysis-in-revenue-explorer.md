@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951884
-description: 了解Revenue Explorer中的Opportunity Analysis - Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage的revenue explorer中了解opportunity analysis ，包括了解。 使用本指南完成您的下一步。
 title: 了解收入探索器中的商机分析
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '910'
 ht-degree: 7%
 
 ---
@@ -77,7 +77,7 @@ Opportunity Analysis使您能够访问所有与销售线索、公司和销售机
 
    | 维度 | 描述 |
    |---|---|
-   | 已列入阻止列表 | 列入阻止列表铅是的 |
+   | 已列入阻止列表 | 铅是的 |
    | 已转换为机会 | 商机已转换为商机 |
    | 电子邮件无效 | 商机是否具有有效的电子邮件地址 |
    | 营销暂停 | 潜在客户是否已从营销电子邮件中停用 |
@@ -89,8 +89,8 @@ Opportunity Analysis使您能够访问所有与销售线索、公司和销售机
    | 潜在客户所有者电子邮件地址 | 潜在客户所有者的电子邮件地址 |
    | 潜在客户所有者职务 | 潜在客户所有者的职务 |
    | 潜在客户所有者名称 | 潜在客户所有者的姓名 |
-   | 潜在客户来源 | 商机来源 |
-   | 潜在客户状态 | 潜在客户状态 |
+   | 销售线索来源 | 商机来源 |
+   | 销售线索状态 | 潜在客户状态 |
 
 1. 潜在客户创建时间范围
 

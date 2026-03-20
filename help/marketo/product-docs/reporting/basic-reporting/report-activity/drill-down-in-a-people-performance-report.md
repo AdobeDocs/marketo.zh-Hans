@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360035
-description: 深入查看人员绩效报表 — Marketo文档 — 产品文档
-title: 深入分析人员绩效报告
+description: 了解如何通过选择行并选择属性来深入查看人员绩效报表中的其他人员信息。 在新的报告选项卡中探索详细的潜在客户数据。
+title: 深入分析人员性能报告
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 14%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 
-# 深入分析人员绩效报告 {#drill-down-in-a-people-performance-report}
+# 深入分析人员性能报告 {#drill-down-in-a-people-performance-report}
 
 在人员业绩报表中进行追溯以查看附加人员信息。
 

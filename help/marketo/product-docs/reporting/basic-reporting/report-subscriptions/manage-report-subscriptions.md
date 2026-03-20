@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359991
-description: 管理报表订阅 — Marketo文档 — 产品文档
+description: 了解如何从Analytics订阅选项卡在一个位置管理所有报表订阅。 根据需要编辑频率、收件人和设置或删除订阅。
 title: 管理报告订阅
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 6%
+source-wordcount: '222'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. 单击&#x200B;**[!UICONTROL Subscriptions]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Subscriptions]** 选项卡。
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 

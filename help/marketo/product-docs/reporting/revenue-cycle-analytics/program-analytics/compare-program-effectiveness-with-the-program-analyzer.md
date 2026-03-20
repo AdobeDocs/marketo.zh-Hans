@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360403
-description: 使用程序分析器比较程序有效性 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中使用Program Analyzer比较Program Effectiveness，包括比较Program。 使用本指南完成您的下一步。
 title: 使用项目分析器比较项目成效
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 1%
 
 ---

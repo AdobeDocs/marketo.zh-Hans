@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7505310
-description: 订阅智能列表 — Marketo文档 — 产品文档
+description: 了解如何订阅智能列表以接收直接发送到收件箱的报告。 使用可自定义的频率和格式从营销活动或数据库创建订阅。
 title: 订阅智能列表
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '418'
 ht-degree: 2%
 
 ---

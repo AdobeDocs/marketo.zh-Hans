@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098884
-description: 筛选Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何使用过滤Web营销活动filter-web-campaigns在Marketo Engage中过滤Web营销活动。 使用本指南完成您的下一步。
 title: 筛选 Web 营销活动
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '102'
 ht-degree: 8%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 创建数百个[!DNL Web Personalization]营销活动后，真正有帮助的是能够使用过滤器仅查看您感兴趣的营销活动。
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-8.jpg)
 

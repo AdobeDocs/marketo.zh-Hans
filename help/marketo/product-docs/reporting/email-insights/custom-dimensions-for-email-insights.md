@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11375276
-description: 电子邮件分析的自定义维度 — Marketo文档 — 产品文档
+description: 了解如何使用分段和项目标记向电子邮件分析添加最多10个自定义维度。 请仔细选择维度，因为添加后就无法删除或替换这些维度。
 title: 电子邮件洞察的自定义维度
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '117'
 ht-degree: 11%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 11%
 
 >[!CAUTION]
 >
->不能删除或替换自定义维度&#x200B;**&#x200B;**，因此请仔细选择您的10个维度。
+>不能删除或替换自定义维度&#x200B;****，因此请仔细选择您的10个维度。
 
 1. 在[!UICONTROL Email Insights]中，单击页面右上角的齿轮图标。
 

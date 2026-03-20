@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979010
-description: 性能分析趋势概述 — Marketo文档 — 产品文档
-title: 绩效洞察趋势概述
+description: 了解使用圆环图和折线图显示随时间变化的渠道性能趋势的性能分析趋势视图。 分析12个月的趋势，以确定一致的入选策略。
+title: 性能洞察趋势概述
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 2%
 
 ---

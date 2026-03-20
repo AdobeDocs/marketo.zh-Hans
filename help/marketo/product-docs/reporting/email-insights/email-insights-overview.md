@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099408
-description: 电子邮件分析概述 — Marketo文档 — 产品文档
+description: 了解电子邮件分析，它通过Analytics和发送部分根据历史电子邮件数据提供强大的分析。 使用高级过滤选项探索交付和参与量度。
 title: 电子邮件洞察概述
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '219'
 ht-degree: 3%
 
 ---

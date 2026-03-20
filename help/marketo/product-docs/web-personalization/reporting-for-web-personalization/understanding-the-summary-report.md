@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9438258
-description: 了解摘要报表 — Marketo文档 — 产品文档
+description: 了解摘要报表，该报表提供促销活动及建议内容性能的每月视图。 跟踪点击次数、直接转化、辅助转化并将结果与前几个月进行比较。
 title: 了解摘要报告
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 1%
+source-wordcount: '405'
+ht-degree: 0%
 
 ---
 

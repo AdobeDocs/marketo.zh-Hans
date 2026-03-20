@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097867
-description: 为Web Personalization活动定义智能列表 — Marketo文档 — 产品文档
+description: 了解如何使用为其定义智能列表，在Marketo Engage中为Web个性化活动定义智能列表。 使用本指南完成您的下一步。
 title: 为 Web 个性化活动定义智能列表
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -57,10 +57,10 @@ ht-degree: 2%
    >
    >对于多个触发器，如果任何一个触发器被激活，则人员将通过流执行操作。
 
-   若要同时对一组人员运行营销活动，请了解如何[为智能营销活动定义智能列表 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)。
+   若要同时对一组人员运行该营销活动，请了解如何[为智能营销活动|批处理](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)定义智能列表。
 
    >[!MORELIKETHIS]
    >
-   >* [为智能营销活动定义智能列表 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [为智能营销活动定义智能列表|批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [向智能营销活动添加流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [为预测性内容活动定义智能列表](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12978938
-description: 存档Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中存档Web营销活动，包括存档Web营销活动存档。 使用本指南完成您的下一步。
 title: 归档 Web 营销活动
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '70'
 ht-degree: 14%
 
 ---
 
 # 归档 Web 营销活动 {#archive-a-web-campaign}
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/one.jpg)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782266
-description: 优先处理Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中优先处理Web活动，包括优先处理Web活动。 使用本指南完成您的下一步。
 title: 为 Web 营销活动设定优先级
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 3%
+source-wordcount: '177'
+ht-degree: 4%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 3%
 >
 >In Zone营销活动和（小组件或对话框）营销活动可以在同一页面上做出反应。
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-6.jpg)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511980
-description: 保存报表 — Marketo文档 — 产品文档
+description: 了解如何通过从“报表操作”中选择“另存为”来保存默认报表以便稍后再次查看。 在“我的报表”或“群组报表”的文件夹中组织已保存报表。
 title: 保存报告
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 

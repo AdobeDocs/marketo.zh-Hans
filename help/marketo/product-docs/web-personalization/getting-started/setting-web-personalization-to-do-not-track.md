@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382593
-description: 将Web Personalization设置为不跟踪 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中将Web个性化设置为“不跟踪”，包括将Web个性化设置为。 使用本指南完成您的下一步。
 title: 将 Web 个性化设置为不跟踪
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ Web访客可以通过选择“不跟踪”(DNT)来设置浏览器，以防止任
 
 ## 启用或禁用切换 {#enable-or-disable-the-toggle}
 
-1. 转到&#x200B;**[!UICONTROL Account Settings]**。
+1. 前往 **[!UICONTROL Account Settings]**。
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 

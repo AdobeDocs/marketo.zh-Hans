@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718648
-description: 了解Opportunity Influence Analyzer — Marketo文档 — 产品文档
+description: 了解如何了解Marketo Engage中的opportunity influence analyzer ，包括了解。 使用本指南完成您的下一步。
 title: 了解商机影响分析器
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '267'
 ht-degree: 3%
 
 ---

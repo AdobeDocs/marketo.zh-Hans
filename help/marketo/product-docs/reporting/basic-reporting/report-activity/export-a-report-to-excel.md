@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360020
-description: 将报表导出到 [!DNL Excel] - Marketo文档 — 产品文档
+description: 了解如何将报表导出到Excel文件以供在其他软件中进行分析。 单击“报表”选项卡中的“导出”按钮可下载数据。
 title: 将报告导出到 [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '93'
+ht-degree: 4%
 
 ---
 

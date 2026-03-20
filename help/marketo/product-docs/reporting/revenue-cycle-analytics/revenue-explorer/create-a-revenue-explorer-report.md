@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504047
-description: 创建收入资源管理器报表 — Marketo文档 — 产品文档
+description: 了解如何使用创建收入资源管理器报表，在Marketo Engage中创建收入资源管理器报表。 使用本指南完成您的下一步。
 title: 创建收入探索器报告
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 7%
+source-wordcount: '143'
+ht-degree: 6%
 
 ---
 

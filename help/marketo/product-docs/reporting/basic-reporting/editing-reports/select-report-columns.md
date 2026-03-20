@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359994
-description: 选择报表列 — Marketo文档 — 产品文档
+description: 了解如何通过从可用选项中进行选择来选择要在报表中显示的列。 通过单击列标题并选择列来自定义报表视图。
 title: 选择报告列
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 10%
+source-wordcount: '73'
+ht-degree: 8%
 
 ---
 

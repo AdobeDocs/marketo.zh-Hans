@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099798
-description: 在电子邮件分析 — Marketo文档中过滤 — 产品文档
+description: 了解如何按受众、内容、平台、设备类型和日期范围过滤电子邮件分析数据。 应用多个筛选器以深入查看特定量度并比较性能。
 title: 电子邮件洞察中的筛选
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '188'
 ht-degree: 2%
 
 ---

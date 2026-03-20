@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360008
-description: 在Web报表中显示人员或匿名访客 — Marketo文档 — 产品文档
+description: 了解Marketo Engage的Web报表中的显示人员或匿名访客，包括显示人员或。 使用本指南完成您的下一步。
 title: 在 Web 报告中显示人员或匿名访客
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 11%
+source-wordcount: '155'
+ht-degree: 10%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >包含匿名访客的ISP会生成更长的报表，但排除它们可以更清楚地了解访客的来源(标准来源，如Google)之外。
+   >包含匿名访客的ISP会生成更长的报表，但排除它们可以更清楚地了解访客的来源（标准来源，如Google）之外。
 
 1. 就是这样。 单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡以返回并与已知或匿名人员一起查看您的报告。
 

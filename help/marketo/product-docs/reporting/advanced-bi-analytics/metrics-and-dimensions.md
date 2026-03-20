@@ -1,12 +1,12 @@
 ---
-description: 量度和维度 — Marketo文档 — 产品文档
+description: 了解高级BI Analytics报表（包括电子邮件、潜在客户、项目和机会分析）的可用量度和维度。 使用这些数据元素构建自定义报表。
 title: 量度和维度
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 7%
+source-wordcount: '1058'
+ht-degree: 8%
 
 ---
 
@@ -317,7 +317,7 @@ ht-degree: 7%
             <li>原始来源类型</li>
             <li>潜在客户分区</li>
             <li>注册Source类型</li>
-            <li>已取消订阅</li>
+            <li>取消订阅</li>
             <li>电子邮件地址</li>
             <li>电子邮件无效</li>
             <li>潜在客户所有者电子邮件地址</li>
@@ -618,11 +618,11 @@ ht-degree: 7%
             <li>已单击</li>
             <li>投诉</li>
             <li>已送达</li>
-            <li>硬退回</li>
+            <li>硬退信</li>
             <li>已打开</li>
             <li>已发送</li>
             <li>独特点击</li>
-            <li>已取消订阅</li>
+            <li>取消订阅</li>
           </ul>
       </td>
       <td>

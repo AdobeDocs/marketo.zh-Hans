@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720917
-description: Facebook中的个性化再营销 — Marketo文档 — 产品文档
+description: 了解Marketo Engage在facebook中的个性化再营销，包括dnl中的个性化再营销。 使用本指南完成您的下一步。
 title: 在 Facebook 中进行个性化二次营销
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 7%
+source-wordcount: '268'
+ht-degree: 8%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 7%
 >[!PREREQUISITES]
 >
 >* 使用Web Personalization数据完成[重定位](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)设置
->* 查看有关自定义受众[和再营销的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook文档。
+>* 查看有关自定义受众[和再营销的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook文档。
 
 ## 在[!DNL Facebook]中创建受众 {#creating-an-audience-in-facebook}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360397
-description: 订阅收入资源管理器报表 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中订阅收入资源管理器报表，包括订阅收入资源管理器。 使用本指南完成您的下一步。
 title: 订阅收入探索器报告
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 6%
+source-wordcount: '142'
+ht-degree: 5%
 
 ---
 

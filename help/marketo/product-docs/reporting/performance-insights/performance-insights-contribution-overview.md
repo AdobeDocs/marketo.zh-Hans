@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979008
-description: 性能分析贡献概述 — Marketo文档 — 产品文档
-title: 绩效洞察贡献概述
+description: 了解绩效分析贡献视图，该视图通过参与、管道和收入指标评估营销对收入的贡献。 使用圆环图和条形图查看渠道和程序性能。
+title: 性能洞察贡献概述
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ![](assets/one-1.png)
 
-选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;仪表板中的&#x200B;_[!UICONTROL Revenue]_&#x200B;赢得的机会。
+选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;仪表板中的&#x200B;_[!UICONTROL Revenue]_赢得的机会。
 
 ![](assets/2.png)
 

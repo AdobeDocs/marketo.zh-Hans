@@ -1,11 +1,11 @@
 ---
-description: 报表概述 — Marketo文档 — 产品文档
+description: 了解Marketo Engage报表模块，包括基本报表、电子邮件分析、性能分析和高级BI分析。 了解适合您需求的报表解决方案。
 title: 报告概述
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -22,13 +22,13 @@ Marketo提供了多种报表模块来满足不同需求。
 
 使用Analytics和Sends从历史数据中获取有关电子邮件的[强大洞察](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"}。
 
-## 绩效洞察 {#performance-insights}
+## 性能洞察 {#performance-insights}
 
 [绩效分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"}涵盖了参与、管道和收入生成的渠道绩效和项目绩效。
 
 ## 高级BI Analytics报告 {#advanced-bi-analytics-reporting}
 
-_(以前称为Revenue Cycle Explorer/Advanced Report Builder)_
+_（以前称为Revenue Cycle Explorer/Advanced Report Builder）_
 
 >[!AVAILABILITY]
 >
@@ -54,7 +54,7 @@ _(以前称为Revenue Cycle Explorer/Advanced Report Builder)_
 
 ## 高级历程分析 {#advanced-journey-analytics}
 
-收入周期模型：对整个收入漏斗的所有阶段进行建模，并模拟这些阶段之间的过渡，从您首次与潜在客户交互一直到潜在客户成功为止。
+收入周期模型：建模整个收入funnel的所有阶段以及这些阶段之间如何过渡，从您首次与潜在客户交互一直到潜在客户成功为止。
 
 Success Path Analyzer：获取通过收入周期模型的速度和流量的可视化表示形式。 Success Path Analyzer要求您创建收入周期模型。
 

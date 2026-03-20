@@ -1,18 +1,18 @@
 ---
-description: 高级BI Analytics概述 — Marketo文档 — 产品文档
+description: 了解Advanced BI Analytics，这是一个灵活的报告界面，具有丰富的可视化图表和更快的Marketo Engage数据性能。 创建具有交互式功能板和导出选项的自定义报表。
 title: 高级 BI 分析概述
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1058'
 ht-degree: 1%
 
 ---
 
 # 高级 BI 分析概述 {#advanced-bi-analytics-overview}
 
-Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提供了有关Marketo Engage数据的灵活报表和可视化界面，提供了有关进度、性能等内容的精细详细信息。 它具有更丰富的交互性和可视化功能、更快的性能以及更顺畅和直观的用户体验。
+Advanced BI Analytics（以前称为Revenue Explorer和Advanced Report Builder）提供了有关Marketo Engage数据的灵活报表和可视化界面，提供了有关进度、性能等内容的精细详细信息。 它具有更丰富的交互性和可视化功能、更快的性能以及更顺畅和直观的用户体验。
 
 这些增强功能可帮助您节省时间、发现更有价值的见解、推动优化，并与同事和利益相关者分享更有说服力的数据故事。
 
@@ -24,7 +24,7 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 * **高性能查询引擎**：在大型数据集上的性能提升了5倍，从而加快数据处理速度、加快报告加载速度，并提供更流畅的分析体验。
 
-* **丰富且引人注目的可视化图表**：包含图表、地图和KPI指标在内的一系列内置可视化图表选项进行了大量扩展，使功能板更具洞察力和影响力，并显着提升数据故事讲述能力。
+* **丰富且引人注目的可视化**：包含图表、地图和KPI指标在内的一系列内置可视化选项非常庞大，它们使功能板更具洞察力和影响力，并显着增强数据storytelling。
 
 * **高级交互性和动态筛选**：跨可视化应用动态切片器、交叉筛选和相互依赖的筛选器。 多页报表支持高级向下钻取、向上钻取和穿透钻取，从而确保轻松地探索数据。
 
@@ -63,7 +63,8 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 导出完整报表时，您的导出选项为PDF和PPT。 如果您需要.XLS或.CSV格式的数据，可以通过导出单个可视化图表来执行此操作（[请参阅下面的](#export-a-visualization)）。
 
 >[!BEGINTABS]
->[!TAB 从报告页面] 
+
+>从报告页面[!TAB ]
 
 1. 在“报告”页面上，单击所需报告的“更多”图标(...)，然后选择&#x200B;**导出**。
 
@@ -124,7 +125,7 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 观看以下视频，了解多页面、穿透钻取报表体验的示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451692/?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 高级BI Analytics中的标准报表 {#standard-reports}
 
@@ -262,7 +263,7 @@ Advanced BI Analytics(以前称为Revenue Explorer和Advanced Report Builder)提
 
 ### 显着体验更改 {#notable-experience-changes}
 
-以下是新体验（高级BI Analytics）相对于经典体验(收入资源管理器/高级Report Builder)所做的更改。
+以下是新体验（高级BI Analytics）相对于经典体验（收入资源管理器/高级Report Builder）所做的更改。
 
 * 日期类型筛选器的功能是等效的；但是，指定值的语法发生了变化。 在现有的自定义报表中，除“每周时间”之外的所有日期类型筛选器值都会自动转换为新Experience中对应的等效值。 已停止对“每周时间”值的支持。
 

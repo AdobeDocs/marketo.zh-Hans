@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360028
-description: 克隆报表 — Marketo文档 — 产品文档
+description: 了解如何克隆报告以创建重复项以供自定义，而无需更改原始报告。 使用报表操作或右键单击以克隆新报表并命名新报表。
 title: 克隆报告
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '88'
+ht-degree: 6%
 
 ---
 

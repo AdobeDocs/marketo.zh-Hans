@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951252
-description: 按最新或最佳性能对Web营销活动排序 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中按最新或表现最佳对Web营销活动进行排序，方法是按最新或对Web营销活动进行排序。 使用本指南完成您的下一步。
 title: 按最新或最佳表现排序 Web 营销活动
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 19%
+source-wordcount: '101'
+ht-degree: 17%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 19%
 
 您可以通过几种不同的方式对Web营销活动进行排序。
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-1.jpg)
 

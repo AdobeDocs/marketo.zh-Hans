@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719338
-description: 电子邮件报表 — Marketo文档 — 产品文档
+description: 了解Web Personalization的自动电子邮件报表，包括“组织”、“人员”、“表现最好的营销活动”和“摘要”报表。 自定义您在“用户设置”中接收的报表。
 title: 电子邮件报告
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---

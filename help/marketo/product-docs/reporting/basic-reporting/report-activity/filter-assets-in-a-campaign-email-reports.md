@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360227
-description: 在Campaign电子邮件报表中筛选Assets - Marketo文档 — 产品文档
-title: 筛选营销活动电子邮件报告中的资产
+description: 了解如何在Marketo Engage中使用营销活动电子邮件中的筛选资源来筛选营销活动电子邮件报告中的资源。 使用本指南完成您的下一步。
+title: 筛选营销活动电子邮件报告中的资源
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 9%
+source-wordcount: '171'
+ht-degree: 8%
 
 ---
 
-# 筛选营销活动电子邮件报告中的资产 {#filter-assets-in-a-campaign-email-reports}
+# 筛选营销活动电子邮件报告中的资源 {#filter-assets-in-a-campaign-email-reports}
 
 将[营销活动电子邮件效果](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)报告集中在您的项目（“本地资产”）中的特定[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)上或已存档的项目上。
 

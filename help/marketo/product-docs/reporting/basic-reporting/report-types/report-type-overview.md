@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359965
-description: 报表类型概述 — Marketo文档 — 产品文档
+description: 了解可用的报表类型，包括人员绩效、电子邮件绩效、营销活动电子邮件绩效和Web活动报表。 根据您的分析需求选择正确的报表类型。
 title: 报告类型概述
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 11%
+source-wordcount: '235'
+ht-degree: 10%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 11%
  </thead>
  <tbody>
   <tr>
-   <td><strong><a href="people-performance-report.md">人员绩效报告</a></strong></td>
+   <td><strong><a href="people-performance-report.md">人员性能报告</a></strong></td>
    <td>按任何属性对人员分组，并包含机会信息。 深入和探索。</td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ ht-degree: 11%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">按收入阶段分类的人员报告</a></strong></td>
-   <td>收入模型的基本报表。 有关更深入的报告，请参阅<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入周期分析</a>。</td>
+   <td>收入模型的基本报表。 有关更深入的报告，请参阅<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入周期分析</a>。</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">登陆页面性能</a>  </strong></td>
@@ -55,7 +55,7 @@ ht-degree: 11%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">项目绩效</a>  </strong></td>
-   <td>基本的计划指标，如成员和成功。 有关更深入的报告，请参阅<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入周期分析</a>。</td>
+   <td>基本的计划指标，如成员和成功。 有关更深入的报告，请参阅<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入周期分析</a>。</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">公司Web活动</a></strong></td>
@@ -66,12 +66,12 @@ ht-degree: 11%
    <td>向登陆页面和公共网站报告Web活动。</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">参与流绩效报告</a> </strong></td>
-   <td>查看<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">参与计划</a>的工作情况。</td>
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">参与流性能报告</a> </strong></td>
+   <td>查看<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">参与计划</a>的工作情况。</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">营销活动电子邮件效果</a> </strong></td>
-   <td>查看<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">参与计划</a>的工作情况。</td>
+   <td>查看<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">参与计划</a>的工作情况。</td>
   </tr>
  </tbody>
 </table>

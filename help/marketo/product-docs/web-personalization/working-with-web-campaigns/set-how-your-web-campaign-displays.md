@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12978906
-description: 设置Web营销活动的显示方式 — Marketo文档 — 产品文档
+description: 了解如何使用设置Web营销活动的显示方式，设置Web营销活动在Marketo Engage中的显示方式。 使用本指南完成您的下一步。
 title: 设置 Web 营销活动的显示方式
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 14%
+source-wordcount: '209'
+ht-degree: 13%
 
 ---
 

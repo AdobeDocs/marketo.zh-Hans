@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514224
-description: 自定义和显示热网格 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中自定义和显示热网格，包括自定义和显示热网格。 使用本指南完成您的下一步。
 title: 自定义并显示热力网格
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 15%
+source-wordcount: '81'
+ht-degree: 12%
 
 ---
 

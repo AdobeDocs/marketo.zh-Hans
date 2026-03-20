@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719336
-description: 用户设置 — Marketo文档 — 产品文档
+description: 了解如何配置用户设置，包括时区、电子邮件报告、密码、移动通知和个人区域设置。 自定义您的Web Personalization体验和导出首选项。
 title: 用户设置
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 

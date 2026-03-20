@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981145
-description: 设置性能分析 — Marketo文档 — 产品文档
-title: 设置绩效洞察
+description: 了解如何通过配置机会设置、计划成本、分析行为和成功标准来设置性能分析。 确保正确的归因和数据流，以便进行准确的报告。
+title: 设置性能洞察
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 3%
+source-wordcount: '296'
+ht-degree: 4%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 3%
 
    ![](assets/select-program.png)
 
-1. 单击&#x200B;**[!UICONTROL Setup]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Setup]** 选项卡。
 
    ![](assets/setup-tab.png)
 

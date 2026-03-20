@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360423
-description: 在收入周期模型中查找所有潜在客户 — Marketo文档 — 产品文档
+description: 了解如何使用在收入周期中查找所有潜在客户，在Marketo Engage中的收入周期模型中查找所有潜在客户。 使用本指南完成您的下一步。
 title: 查找收入周期模型中的所有潜在客户
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 9%
+source-wordcount: '189'
+ht-degree: 8%
 
 ---
 

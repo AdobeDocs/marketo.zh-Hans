@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095084
-description: 从Revenue Explorer绘制结果 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中绘制收入资源管理器中的结果图表，包括绘制收入结果图表。 使用本指南完成您的下一步。
 title: 将收入探索器的结果生成图表
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '238'
 ht-degree: 2%
 
 ---

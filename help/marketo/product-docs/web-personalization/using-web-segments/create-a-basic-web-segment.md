@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719344
-description: 创建基本Web区段 — Marketo文档 — 产品文档
+description: 了解如何使用创建基本Web区段create-a-basic-web-segment，在Marketo Engage中创建基本Web区段。 放心地迈出下一步。
 title: 创建基础 Web 区段
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '165'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 让我们创建一个以来自美国和金融服务业的所有Web访客为目标的基本区段。
 
-1. 转到&#x200B;**[!UICONTROL Segments]**。
+1. 前往 **[!UICONTROL Segments]**。
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 

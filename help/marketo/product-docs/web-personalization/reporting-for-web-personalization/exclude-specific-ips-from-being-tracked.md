@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719340
-description: 排除要跟踪的特定IP - Marketo文档 — 产品文档
+description: 了解如何在Web Personalization中排除要跟踪的特定IP地址或IP范围。 在“帐户设置”中排除您的员工和组织，使其无法进行跟踪和报告。
 title: 排除特定 IP 不被跟踪
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 6%
+source-wordcount: '208'
+ht-degree: 5%
 
 ---
 

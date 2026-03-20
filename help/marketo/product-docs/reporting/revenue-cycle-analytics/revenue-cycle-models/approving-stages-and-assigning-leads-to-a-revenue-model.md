@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718683
-description: 批准阶段并将潜在客户分配给收入模型 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中批准阶段并将潜在客户分配给收入模型，包括批准阶段和。 放心地迈出下一步。
 title: 批准阶段并将潜在客户分配到收入模型
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '313'
 ht-degree: 7%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360032
-description: 更改报告电子邮件中URL的过期时间 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中更改报告电子邮件中URL的过期时间，包括更改过期时间。 使用本指南完成您的下一步。
 title: 更改报告电子邮件中 URL 的过期时间
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '112'
 ht-degree: 19%
 
 ---

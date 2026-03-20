@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719179
-description: 使用Web Personalization富文本编辑器 — Marketo文档 — 产品文档
+description: 了解如何使用dnl web个性化在Marketo Engage中使用Web个性化富文本编辑器。 放心地迈出下一步。
 title: 使用 Web 个性化富文本编辑器
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 4%
+source-wordcount: '185'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 4%
 <table>
  <tbody>
   <tr>
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><img alt="--" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
    <td colspan="1"><strong>编辑HTML Source</strong></td>
    <td colspan="1">允许您查看HTML源代码</td>
   </tr>

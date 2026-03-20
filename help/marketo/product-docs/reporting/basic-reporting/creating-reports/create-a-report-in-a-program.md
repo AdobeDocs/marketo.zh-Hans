@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359963
-description: 在程序中创建报表 — Marketo文档 — 产品文档
+description: 了解如何在项目中创建报告，以分析人员、项目、登陆页面、电子邮件和社交资产。 直接从Marketing Activities或Analytics选项卡运行报表。
 title: 在项目中创建报告
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '191'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 运行报表以分析人员、程序、登陆页面、电子邮件和社交资产。
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

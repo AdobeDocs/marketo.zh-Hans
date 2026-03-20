@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360341
-description: 将自定义字段同步到Revenue Explorer - Marketo文档 — 产品文档
+description: 了解如何使用将自定义字段同步到收入在Marketo Engage中将自定义字段同步到收入资源管理器。 使用本指南完成您的下一步。
 title: 将自定义字段同步到收入探索器
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979006
-description: 性能分析概述 — Marketo文档 — 产品文档
+description: 了解有助于优化渠道组合的性能洞察，并发现实现一致入选策略的长期趋势。 分析贡献、趋势并将数据导出到PowerPoint或Excel。
 title: 性能洞察概述
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 3%
+source-wordcount: '240'
+ht-degree: 2%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360014
-description: 人员绩效报表 — Marketo文档 — 产品文档
-title: 人员绩效报告
+description: 了解人员绩效报表，该报表衡量一段时间内数据库的增长情况并按属性对人员进行分组。 通过深入分析功能分析您的项目并探索详细的潜在客户信息。
+title: 人员性能报告
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
 
-# 人员绩效报告 {#people-performance-report}
+# 人员性能报告 {#people-performance-report}
 
 使用[!UICONTROL People Performance]报告测量数据库随时间的增长。 您可以查看您添加了多少人以及添加时间。 了解有关人员的更多信息并评估您的计划。 按任何人员或公司属性或按[分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)对结果进行分组。
 

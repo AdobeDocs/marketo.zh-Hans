@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514149
-description: 归因示例3 - Marketo文档 — 产品文档
+description: 了解Marketo Engage中的归因示例3，包括归因示例3归因示例。 使用本指南完成您的下一步。
 title: 归因举例 3
 exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '188'
 ht-degree: 3%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 3%
 
 请阅读以下方案，并尝试确定网格中应包含的数字。
 
-* 4月11 | Steve下载（内容） — 成功
-* 4月22日 | Opportunity创建费用为3,000美元（Steve和Jason都有角色）
-* 4月25日 | Jason出席（网络研讨会） — 成功
-* 4月30日 | 机会已结束 — 已结束
+* 4月11日| Steve下载（内容） — 成功
+* 4月22日| Opportunity创建费用为3,000美元（Steve和Jason都有角色）
+* 4月25日| Jason出席（网络研讨会） — 成功
+* 4月30日|机会不公开
 
 | 归因量度 | （内容） | （网络研讨会） |
 |---|---|---|

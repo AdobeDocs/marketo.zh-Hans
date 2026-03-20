@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980873
-description: 性能分析快速图表 — Marketo文档 — 产品文档
-title: 绩效洞察快速图表
+description: 了解如何在Performance Insights中创建并保存常用图表视图的快速图表。 保存多达20个带有特定筛选器和量度的自定义图表以进行快速访问。
+title: 性能洞察快速图表
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 3%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 

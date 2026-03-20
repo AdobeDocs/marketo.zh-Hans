@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360002
-description: 配置报表大小 — Marketo文档 — 产品文档
+description: 了解如何通过将最大行限制从默认的5,000行更改来配置报表大小。 调整设置选项卡中的可用导出行以优化报表性能。
 title: 配置报告大小
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 9%
+source-wordcount: '124'
+ht-degree: 8%
 
 ---
 

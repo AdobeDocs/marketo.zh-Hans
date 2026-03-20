@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360188
-description: 营销活动电子邮件性能报表 — Marketo文档 — 产品文档
-title: 营销活动电子邮件绩效报告
+description: 了解按智能营销活动对电子邮件统计信息分组的Campaign电子邮件性能报表。 跟踪打开、点击、退回和取消订阅以衡量促销活动有效性。
+title: 营销活动电子邮件性能报告
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 4%
+source-wordcount: '221'
+ht-degree: 34%
 
 ---
 
-# 营销活动电子邮件绩效报告 {#campaign-email-performance-report}
+# 营销活动电子邮件性能报告 {#campaign-email-performance-report}
 
 要查看按[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)分组的电子邮件性能统计数据，请运行营销活动电子邮件性能报表。
 
@@ -25,21 +25,21 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >单击电子邮件的名称，以在电子邮件预览器中将其打开。
+   >点击电子邮件名称，即可在电子邮件预览器中打开。
 
    可为营销活动电子邮件性能报告选择[列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)包括：
 
    | 列 | 描述 |
    |---|---|
-   | [!UICONTROL Hard Bounced] | 由于永久条件（如不存在电子邮件地址），电子邮件被拒绝。 |
-   | [!UICONTROL Soft Bounced] | 由于临时情况（如服务器关闭或收件箱已满），电子邮件被拒绝。 |
+   | [!UICONTROL Hard Bounced] | 由于永久性原因（例如电子邮件地址不存在），电子邮件遭到拒收。 |
+   | [!UICONTROL Soft Bounced] | 由于临时性原因（例如服务器不可用或收件箱已满），拒收电子邮件。 |
    | [!UICONTROL Pending] | 电子邮件仍在投放过程中。 |
-   | [!UICONTROL Clicked Link] | 单击电子邮件中链接的电子邮件收件人数量。 |
+   | [!UICONTROL Clicked Link] | 点击电子邮件中任意链接的收件人数量。 |
    | [!UICONTROL Unsubscribed] | 单击电子邮件中的&#x200B;**[!UICONTROL Unsubscribe]**&#x200B;链接并填写表单的电子邮件收件人数。 |
 
    >[!NOTE]
    >
-   >一般来说，我们尝试用常识来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，则他们显然会先打开该链接。 有关我们遵循的特定规则，请参阅[电子邮件性能报表](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
+   >通常情况下，我们会以符合直觉的方式来记录这些统计数据。例如，如果某人单击了电子邮件中的链接，则他们显然会先打开该链接。 有关我们遵循的特定规则，请参阅[电子邮件性能报表](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
 
    >[!MORELIKETHIS]
    >

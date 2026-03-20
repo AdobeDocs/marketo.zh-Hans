@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718656
-description: 创建新的收入模型 — Marketo文档 — 产品文档
+description: 了解如何使用在Marketo Engage中创建新收入模型create-a-new-revenue-model。 放心地迈出下一步。
 title: 创建新的收入模式
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 8%
 
 ---
 

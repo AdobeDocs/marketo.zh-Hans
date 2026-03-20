@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951220
-description: 使用Mobile Platform列构建人员绩效报表 — Marketo文档 — 产品文档
-title: 使用移动平台列生成人员绩效报告
+description: 了解如何使用在Marketo Engage中使用移动平台列构建人员绩效报表。 使用本指南完成您的下一步。
+title: 使用移动平台列生成人员性能报告
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 8%
 
 ---
 
-# 使用移动平台列生成人员绩效报告 {#build-a-people-performance-report-with-mobile-platform-columns}
+# 使用移动平台列生成人员性能报告 {#build-a-people-performance-report-with-mobile-platform-columns}
 
 按照以下步骤创建使用Mobile Platform (iOS/Android)列的人员绩效报表。
 
 ## 创建移动设备智能列表 {#create-mobile-smart-lists}
 
-1. 转到&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

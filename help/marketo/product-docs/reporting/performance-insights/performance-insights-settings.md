@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795492
-description: 性能分析设置 — Marketo文档 — 产品文档
-title: 绩效洞察设置
+description: 了解性能分析设置，包括项目成功聚合、前期配置、受营销影响的机会和成本计算选项。 根据您的仪表板视图配置设置。
+title: 性能洞察设置
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---

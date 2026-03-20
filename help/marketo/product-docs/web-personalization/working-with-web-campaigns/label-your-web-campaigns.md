@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949154
-description: 为您的Web营销活动添加标签 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中使用标签来标记您的Web营销活动，方法是将Web营销活动标记为your-web-campaigns 。 使用本指南完成您的下一步。
 title: 为 Web 营销活动添加标签
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 5%
+source-wordcount: '167'
+ht-degree: 4%
 
 ---
 

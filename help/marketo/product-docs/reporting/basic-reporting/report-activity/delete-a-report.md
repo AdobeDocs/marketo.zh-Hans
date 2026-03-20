@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360030
-description: 删除报表 — Marketo文档 — 产品文档
+description: 了解如何通过在导航树中右键单击不再需要的报告，来删除这些报告。 通过删除过期的报表，使您的报表工作区保持井然有序。
 title: 删除报告
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 9%
+source-wordcount: '84'
+ht-degree: 7%
 
 ---
 

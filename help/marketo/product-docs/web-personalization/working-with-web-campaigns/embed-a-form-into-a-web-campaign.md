@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095554
-description: 将表单嵌入到Web营销活动 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中将表单嵌入到Web营销活动中，包括将表单嵌入到Web营销活动中。 使用本指南完成您的下一步。
 title: 将表单嵌入 Web 营销活动
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 8%
+source-wordcount: '330'
+ht-degree: 7%
 
 ---
 
@@ -85,4 +85,4 @@ ht-degree: 8%
 >
 >* [编辑表单主题的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [显示没有后续登陆页面的感谢消息](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

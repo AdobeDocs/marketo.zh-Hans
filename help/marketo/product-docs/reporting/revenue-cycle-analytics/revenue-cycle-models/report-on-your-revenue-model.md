@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360429
-description: 收入模型报表 — Marketo文档 — 产品文档
+description: 了解Marketo Engage中收入模型的报告，包括收入模型的报告。 使用本指南完成您的下一步。
 title: 生成收入模型报告
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 8%
 >
 >潜在客户必须是要包含在报告中的模型的成员。
 
-1. 转到&#x200B;**[!UICONTROL Analytics]**。
+1. 前往 **[!UICONTROL Analytics]**。
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
@@ -43,4 +43,4 @@ ht-degree: 8%
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-这有什么用呢？ 模型显示了您的销售和营销漏斗。 跟踪其随时间推移的平衡，以便在瓶颈成为问题之前发现它们。
+这有什么用呢？ 模型显示了您的销售和营销funnel。 跟踪其随时间推移的平衡，以便在瓶颈成为问题之前发现它们。

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514146
-description: 归因示例2 - Marketo文档 — 产品文档
+description: 了解Marketo Engage中的归因示例2，包括归因示例2归因示例。 使用本指南完成您的下一步。
 title: 归因举例 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 4%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 4%
 
 请阅读以下方案，并尝试确定网格中应包含的数字。
 
-* 4月11 | 帐单收购方：（贸易展）
-* 4月15日 | Joan被收购（网络研讨会）
-* 4月22日 | （机会1）创建成本为6,000美元
-* 4月24日 | （机会2）创建成本为$10,000
-* 4月25日 | Bill和Joan与&#x200B;**BOTH**&#x200B;选项的角色相关联
-* 4月29日 | （机会1）是非赢即得
+* 4月11日| Bill被（贸易展）收购
+* 4月15日| Joan被收购（网络研讨会）
+* 4月22日| （机会1）创建价6,000美元
+* 4月24日| （机会2）创建价$10,000
+* 4月25日| Bill和Joan与&#x200B;**BOTH**&#x200B;选件的角色相关联
+* 4月29日| （机会1）不胜枚举
 
 | 项目名称 | （商展） | （网络研讨会） |
 |---|---|---|

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979012
-description: 在Performance Insights中进行筛选 — Marketo文档 — 产品文档
-title: 绩效洞察中的筛选
+description: 了解如何按ABM帐户列表、自定义属性、机会类型、项目标记和工作区筛选性能分析数据。 应用多个筛选器以查询特定信息和更新图表。
+title: 性能洞察中的筛选
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '328'
 ht-degree: 1%
 
 ---

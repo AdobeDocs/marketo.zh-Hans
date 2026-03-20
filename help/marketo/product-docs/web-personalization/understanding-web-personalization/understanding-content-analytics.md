@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10093159
-description: 了解Content Analytics - Marketo文档 — 产品文档
-title: 了解内容分析
+description: 了解如何了解Marketo Engage中的内容分析，包括了解内容分析。 使用本指南完成您的下一步。
+title: 了解 Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '370'
 ht-degree: 3%
 
 ---
 
-# 了解内容分析 {#understanding-content-analytics}
+# 了解 Content Analytics {#understanding-content-analytics}
 
 Content Analytics页面会显示您从网站搜索到的现有内容（案例研究、博客文章、视频、新闻稿等）。 它还会显示内容的性能以及访客参与这些内容时生成的用户。
 
 ## 查看Content Analytics {#view-content-analytics}
 
-转到&#x200B;**[!UICONTROL Content Analytics]**。
+前往 **[!UICONTROL Content Analytics]**。
 
 ![](assets/one.png)
 
@@ -48,7 +48,7 @@ Analytics表提供了以下详细信息：
    <td colspan="1" rowspan="1">数字内容资产的名称。 单击<strong>标题</strong>以在新选项卡中打开内容URL。</td>
   </tr>
   <tr>
-   <td colspan="1"><p><strong>推荐</strong><strong>图标</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1"><p><strong>推荐</strong><strong>图标</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
    <td colspan="1">表示是否已为<a href="#">内容推荐</a>添加内容片段。</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ Analytics表提供了以下详细信息：
 
 * **[!UICONTROL Views]**：所选时间范围中该内容段的视图
 * **[!UICONTROL Direct Conversions]**：在同一次访问中查看了内容并填写了表单的Web访客。
-* **[!UICONTROL Conversion Rate]**&#x200B;**：**&#x200B;直接转化除以点击量计算的百分比转化率
+* **[!UICONTROL Conversion Rate]****：**&#x200B;直接转化除以点击量计算的百分比转化率
 
 **[!UICONTROL Trends]**
 

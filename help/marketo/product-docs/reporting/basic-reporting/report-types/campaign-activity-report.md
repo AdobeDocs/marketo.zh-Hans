@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360057
-description: 营销活动报表 — Marketo文档 — 产品文档
+description: 了解Marketo Engage中的促销活动报表，包括促销活动报表 — 促销活动报表。 使用本指南完成您的下一步。
 title: 营销活动报告
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 5%
+source-wordcount: '234'
+ht-degree: 4%
 
 ---
 

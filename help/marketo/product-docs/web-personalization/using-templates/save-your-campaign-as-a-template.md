@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949170
-description: 将Campaign另存为模板 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中将营销活动另存为模板，包括将营销活动另存为模板。 使用本指南完成您的下一步。
 title: 将营销活动保存为模板
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '105'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 您是否曾花时间创建过完美的Web营销活动？ 现在，您可以将其另存为模板，以便将来轻松重复使用。
 
-1. 转到&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-1.jpg)
 

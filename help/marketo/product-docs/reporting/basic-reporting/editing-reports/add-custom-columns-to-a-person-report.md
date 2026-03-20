@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360201
-description: 向人员报表添加自定义列 — Marketo文档 — 产品文档
+description: 了解如何使用智能列表作为过滤器向人员报表添加自定义列。 通过在“设置”选项卡中拖动自定义列，使用其他量度增强报表。
 title: 向人员报告添加自定义列
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 15%
+source-wordcount: '107'
+ht-degree: 13%
 
 ---
 

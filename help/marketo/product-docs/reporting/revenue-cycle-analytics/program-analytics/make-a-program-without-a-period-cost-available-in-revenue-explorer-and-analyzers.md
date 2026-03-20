@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360389
-description: 在Revenue Explorer和Analysers - Marketo文档 — 产品文档中提供无期间成本的计划
+description: 了解如何在Marketo Engage的Revenue Explorer和Analyzer中使用无期间成本的程序。 使用本指南完成您的下一步。
 title: 在收入探索器和分析器中启用无周期成本的项目
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 10%
+source-wordcount: '254'
+ht-degree: 11%
 
 ---
 

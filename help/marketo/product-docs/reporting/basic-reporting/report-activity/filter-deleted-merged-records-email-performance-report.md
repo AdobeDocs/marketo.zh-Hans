@@ -1,16 +1,16 @@
 ---
-description: 过滤电子邮件报表中的合并/删除记录 — Marketo文档 — 产品文档
+description: 了解如何使用中的过滤器删除的合并记录在Marketo Engage的电子邮件报告中过滤合并/删除的记录。 放心地迈出下一步。
 title: 过滤电子邮件报表中的合并/删除记录
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 7%
+source-wordcount: '134'
+ht-degree: 6%
 
 ---
 
-# 筛选电子邮件绩效报告中的已删除/已合并记录 {#filter-deleted-merged-records-in-an-email-performance-report}
+# 筛选电子邮件性能报告中的已删除/已合并记录 {#filter-deleted-merged-records-in-an-email-performance-report}
 
 将电子邮件性能报表的重点放在程序（“本地资产”）中的电子邮件、Design Studio中的电子邮件（“全局资产”）或已存档的电子邮件上。
 

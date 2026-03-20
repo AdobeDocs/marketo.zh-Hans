@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360418
-description: 按收入阶段列出的人员报表 — Marketo文档 — 产品文档
+description: 了解Marketo Engage中按收入阶段划分的人员报表，包括按收入阶段划分的人员报表。 使用本指南完成您的下一步。
 title: 按收入阶段分类的人员报告
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '139'
 ht-degree: 12%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 12%
 >
 >并非所有Marketo版本都包含此功能。 有关更多详细信息，请联系您的客户经理。
 
-1. 转到&#x200B;**[!UICONTROL Analytics]**。
+1. 前往 **[!UICONTROL Analytics]**。
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 

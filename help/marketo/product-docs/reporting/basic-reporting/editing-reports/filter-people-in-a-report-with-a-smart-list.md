@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360016
-description: 使用智能列表筛选报表中的人员 — Marketo文档 — 产品文档
+description: 了解如何使用智能列表过滤报表中的人员，以按特定人员属性缩小结果范围。 在“智能列表”选项卡中为各种报表类型应用筛选器。
 title: 使用智能列表筛选报告中的人员
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 17%
+source-wordcount: '142'
+ht-degree: 15%
 
 ---
 

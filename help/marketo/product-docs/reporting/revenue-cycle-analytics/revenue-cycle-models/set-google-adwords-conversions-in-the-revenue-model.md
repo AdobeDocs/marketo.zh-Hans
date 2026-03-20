@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6095029
-description: 在收入模型中设置 [!DNL Google AdWords] 转化 — Marketo文档 — 产品文档
+description: 了解如何使用set dnl google在Marketo Engage的收入模型中设置[！dnl google adwords]转化。 使用本指南完成您的下一步。
 title: 在收入模型中设置 [!DNL Google AdWords] 转化
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '426'
 ht-degree: 2%
 
 ---

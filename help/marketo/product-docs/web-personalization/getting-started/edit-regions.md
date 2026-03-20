@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720224
-description: 编辑区域 — Marketo文档 — 产品文档
+description: 了解如何在Marketo Engage中使用将用户区域设置更改为来编辑区域。 使用本指南完成您的下一步。
 title: 编辑区域
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 想要将用户区域设置更改为仅查看特定区域的数据吗？
 
-1. 转到&#x200B;**[!UICONTROL User Settings]**。
+1. 前往 **[!UICONTROL User Settings]**。
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
