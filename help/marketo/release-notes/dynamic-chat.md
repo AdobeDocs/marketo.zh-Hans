@@ -20,7 +20,7 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 ### 下载文字记录 {#download-transcript}
 
-实时聊天结束后，您现在可以下载聊天记录的.txt文件。 [更多信息](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+实时聊天结束后，您现在可以下载聊天记录的.txt文件。 [更多信息](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025 年 6 月版 {#june-2025-release}
 
