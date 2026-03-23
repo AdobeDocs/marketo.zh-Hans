@@ -3,10 +3,10 @@ description: Dynamic Chat 发行说明 - Marketo 文档 - 产品文档
 title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '3438'
-ht-degree: 99%
+source-wordcount: '3474'
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,13 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 ## 2026 年 3 月版 {#march-2026-release}
 
+### 访客等待时间限制 {#visitor-wait-time}
+
+设置访客在收到回退消息之前等待连接到实时代理的最长时间（10到500秒之间）。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+
 ### 下载文字记录 {#download-transcript}
 
-实时聊天结束后，您现在可以下载聊天记录的.txt文件。 [更多信息](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+实时聊天结束后，您现在可以下载聊天记录的.txt文件。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025 年 6 月版 {#june-2025-release}
 
@@ -109,7 +113,7 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 <p>
 
-_&#x200B;**帐户路由**&#x200B;_
+_**帐户路由**_
 
 <table><thead>
   <tr>
@@ -135,7 +139,7 @@ _&#x200B;**帐户路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**自定义路由**&#x200B;_
+_**自定义路由**_
 
 <table><thead>
   <tr>
@@ -161,7 +165,7 @@ _&#x200B;**自定义路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**团队路由**&#x200B;_
+_**团队路由**_
 
 <table><thead>
   <tr>
@@ -187,7 +191,7 @@ _&#x200B;**团队路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**轮询路由**&#x200B;_
+_**轮询路由**_
 
 <table><thead>
   <tr>

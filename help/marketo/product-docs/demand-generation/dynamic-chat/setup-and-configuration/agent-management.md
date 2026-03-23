@@ -3,10 +3,10 @@ description: 了解Dynamic Chat中的代理管理。 查看座席、管理团队
 title: 代理管理
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 2%
+source-wordcount: '364'
+ht-degree: 3%
 
 ---
 
@@ -77,3 +77,17 @@ ht-degree: 2%
 >[!TIP]
 >
 >创建自定义消息时，您可以设置字体样式，使用链接，甚至插入表情符号！`:)`
+
+## 设置 {#settings}
+
+### 并发实时聊天限制 {#concurrent-live-chat}
+
+设置座席一次可以进行的并发活动聊天数。 可设置为1到10。
+
+![](assets/agent-management-10.png)
+
+### 访客等待时间限制 {#visitor-wait-time}
+
+控制访客在收到回退消息之前等待连接到实时代理的最长时间（以秒为单位）。 可设置为10到500秒之间。
+
+![](assets/agent-management-11.png)
