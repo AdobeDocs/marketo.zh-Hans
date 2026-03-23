@@ -3,10 +3,10 @@ description: Dynamic Chat 发行说明 - Marketo 文档 - 产品文档
 title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
 workflow-type: tm+mt
-source-wordcount: '3414'
-ht-degree: 100%
+source-wordcount: '3438'
+ht-degree: 99%
 
 ---
 
@@ -15,6 +15,12 @@ ht-degree: 100%
 Adobe Dynamic Chat 发布采用持续交付模式，使功能部署更具可扩展性。有时一个月内会发布多个版本，请定期查看以获取最新信息。
 
 Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/release-notes/current.md){target="_blank"}。
+
+## 2026 年 3 月版 {#march-2026-release}
+
+### 下载文字记录 {#download-transcript}
+
+实时聊天结束后，您现在可以下载聊天记录的.txt文件。 [更多信息](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025 年 6 月版 {#june-2025-release}
 
