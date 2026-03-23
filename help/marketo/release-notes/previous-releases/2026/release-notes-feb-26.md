@@ -1,24 +1,24 @@
 ---
-description: 最新发行说明 - Marketo 文档 - 产品文档
-title: 最新发行说明
-exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+description: 发行说明 — 2026年2月 — Marketo文档 — 产品文档
+title: 发行说明 - 2026 年 2 月
 feature: Release Information
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
+source-git-commit: 2d774545b17959ec0dfdf3ed004e7679d925fb98
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 25%
+source-wordcount: '393'
+ht-degree: 26%
 
 ---
 
-# 发行说明：2026 年 3 月 {#release-notes-mar-26}
+# 发行说明：2026 年 2 月 {#release-notes-feb-26}
 
-在下方，您会找到2026年3月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
+在下方，您会找到2026年2月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2026年3月27日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2026年2月20日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -28,17 +28,11 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>向Designer发送电子邮件 — 管理品牌（测试版）</strong>：根据您组织/品牌的特定撰稿准则生成电子邮件内容。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件Designer - Brand Alignment</strong>：使用电子邮件内容质量检查器来衡量消息传送的一般可读性和连贯性。
+   <td><strong>电子邮件Designer — 文件夹操作</strong>：与旧电子邮件编辑器对等。
+   <ul>
+   <li>为电子邮件Designer资源共享和存档文件夹操作。</li>
+   <li>跨工作区共享文件夹，右键单击文件夹以创建新资产，通过拖放操作移动资产。</li>
+   </ul>
    </td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
@@ -49,8 +43,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer - Outlook渲染修复</strong>：此更新修复了渲染问题，尤其是在MS Outlook中。 “专家模式”允许您进行细微的HTML/CSS编辑，或向电子邮件添加脚本标记（最佳实践是不对电子邮件的HTML进行任何其他更改，以使可视化元素保持原样）。
-   </td>
+   <td><strong>向Designer发送电子邮件 — API</strong>：您现在可以使用Designer电子邮件的API调用。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -60,8 +53,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>向Designer发送电子邮件 — 快速操作</strong>： <i>与旧电子邮件编辑器对等</i>。 快速操作现在可用于所有电子邮件Designer资源（电子邮件、电子邮件模板、片段）。 支持的快速操作包括：复制、删除、移动、创建/编辑草稿。
-   </td>
+   <td><strong>电子邮件Designer - Brand Quality Checker</strong>：评估一般内容质量，以识别可读性、内容一致性和有效性方面的潜在问题，而不依赖于您的品牌指南。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
@@ -71,19 +63,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Picklist管理</strong>：您现在可以指定可以在Marketo Engage的字段中使用的值。
-   </td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>推送通知</strong>：在推送通知消息中配置的重定向URL现在支持Marketo Engage令牌（仅适用于<i>启动应用程序URL</i>）。
-   </td>
+   <td><strong>电子邮件Designer - AI助手图像生成</strong>：现在，除了Firefly之外，您还可以使用Nano Banana模型通过AI助手生成电子邮件内容的图像。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
