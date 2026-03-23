@@ -3,10 +3,10 @@ description: 发行说明 — 2026年2月 — Marketo文档 — 产品文档
 title: 发行说明 - 2026 年 2 月
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: 2d774545b17959ec0dfdf3ed004e7679d925fb98
+source-git-commit: 937c4a43066f957ddbeab9363174bc04e9a7d718
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 26%
+source-wordcount: '400'
+ht-degree: 25%
 
 ---
 
@@ -64,8 +64,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>电子邮件Designer - AI助手图像生成</strong>：现在，除了Firefly之外，您还可以使用Nano Banana模型通过AI助手生成电子邮件内容的图像。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">为电子邮件的特定部分创建内容</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,7 +73,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hans){target="_blank"}。
+* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API合并潜在客户限制**：从2026年3月31日开始，在合并潜在客户API调用的leadIds参数中包含超过25个ID的调用将导致1080错误代码，并且将跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
 
