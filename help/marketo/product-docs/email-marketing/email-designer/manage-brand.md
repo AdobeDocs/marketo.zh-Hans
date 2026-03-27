@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5688edd53ead1c6a4f0f7e90ab3f4f6598fa489f
 workflow-type: tm+mt
-source-wordcount: '1330'
-ht-degree: 8%
+source-wordcount: '1256'
+ht-degree: 2%
 
 ---
 
@@ -27,37 +27,33 @@ ht-degree: 8%
 
 ## 访问品牌 {#generative-access}
 
-要访问&#x200B;**[!UICONTROL Brands]**&#x200B;中的[!DNL Adobe Marketo Engage]菜单，需要向用户授予&#x200B;**[!UICONTROL Manage brand kit]**&#x200B;或&#x200B;**[!UICONTROL Enable AI assistant]**&#x200B;权限。
+要访问&#x200B;**[!UICONTROL Brands]**&#x200B;中的[!DNL Adobe Marketo Engage]菜单，需要向用户授予相关权限。
 
 +++  了解如何分配品牌相关权限
 
-要为品牌分配权限，请执行以下步骤：
+### 用户和角色 {#users-and-roles}
 
-1. 在&#x200B;**权限**&#x200B;产品中，转到&#x200B;**角色**&#x200B;选项卡并选择所需的&#x200B;**角色**。
+1. 在&#x200B;_管理员_&#x200B;中，选择&#x200B;**用户和角色**。
 
-1. 单击&#x200B;**编辑**，修改权限。
+1. 选择所需的角色。
 
-1. 添加&#x200B;**AI助手**&#x200B;资源，然后从下拉菜单中选择&#x200B;**管理品牌套件**&#x200B;或&#x200B;**[!UICONTROL Enable Ai assistant]**。
+1. 单击以展开&#x200B;**Access Design Studio**&#x200B;菜单。
 
-   请注意，**[!UICONTROL Enable Ai assistant]**&#x200B;权限仅提供对&#x200B;**[!UICONTROL Brands]**&#x200B;菜单的只读访问权限。
+1. 选择&#x200B;**访问AI助手**，然后单击&#x200B;**保存**。
 
-   屏幕快照
+### 管理员
 
-1. 单击&#x200B;**保存**&#x200B;以应用更改。
+1. 返回管理区域，单击新建体验。
 
-   任何已分配此角色的用户的权限都将自动更新。
+1. 在&#x200B;_管理您的品牌_&#x200B;旁边，单击&#x200B;**编辑**。
 
-1. 要将此角色分配给新用户，请导航到&#x200B;**角色**&#x200B;仪表板中的&#x200B;**用户**&#x200B;选项卡，然后单击&#x200B;**添加用户**。
-
-1. 输入用户名、电子邮件地址或从列表中选择，然后单击&#x200B;**保存**。
-
-1. 如果之前没有创建用户，请参阅[此文档](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/access-control/abac/permissions-ui/users)。
+好吧，接下来呢???
 
 +++
 
 ## 创建和管理您的品牌 {#create-brand-kit}
 
-要创建和管理品牌指南，您可以自己输入详细信息，也可以上传品牌指南文档以自动提取信息：
+要创建和管理品牌指南，您可以自己输入详细信息，也可以上传品牌指南文档以自动提取信息。
 
 1. 在&#x200B;**[!UICONTROL Brands]**&#x200B;菜单中，单击&#x200B;**[!UICONTROL Create brand]**。
 
@@ -93,7 +89,7 @@ ht-degree: 8%
 
    * 查看品牌
    * Edit
-   * 复制
+   * 重复
    * 发布
    * 取消发布
    * 删除
