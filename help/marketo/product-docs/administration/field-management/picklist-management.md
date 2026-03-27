@@ -4,9 +4,10 @@ title: 选取列表管理
 hide: true
 hidefromtoc: true
 feature: Field Management
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -43,16 +44,24 @@ ht-degree: 0%
 
 ## 自动建议 {#autosuggest}
 
+启用&#x200B;_托管选取列表_&#x200B;设置后，筛选器、流程步骤选择和更改数据值步骤将自动从托管选取列表中建议值。 禁用此设置时，仅建议使用非托管值。
+
+![](assets/picklist-management-4.png)
+
+![](assets/picklist-management-5.png)
+
+![](assets/picklist-management-6.png)
+
 ### 在受管选取列表和非受管选取列表之间切换 {#switching}
 
 大多数Marketo Engage订阅都包含引入托管选择列表之前的数据。 要在智能列表中使用值或来自此非托管版本选择列表（例如，来自数据库中记录存在的完整值集）的流程步骤，请切换智能列表或营销活动视图中的托管选择列表设置。 打开时，仅显示受管理的选取列表值。 关闭时，会使用非托管选取列表，并根据数据库中的现有值自动建议值。
 
-### 表单选择列表（选择类型字段） {#form-picklists}
+## 表单选择列表（选择类型字段） {#form-picklists}
 
 与系统初始和CRM管理的选择列表一样，使用“选择”字段类型时，管理的选择列表的值会传播到Forms中。 对于具有托管选取列表的字段，选择该字段并将字段类型设置为&#x200B;_Select_。
 
-![](assets/picklist-management-4.png)
+![](assets/picklist-management-7.png)
 
 这显示了为该字段定义的受管选取列表值集。
 
-![](assets/picklist-management-5.png)
+![](assets/picklist-management-8.png)
