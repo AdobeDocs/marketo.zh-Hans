@@ -4,7 +4,7 @@ description: 了解如何在电子邮件中使用发送警报信息令牌。 动
 title: 使用发送警报信息令牌
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
@@ -52,7 +52,7 @@ ht-degree: 4%
 
    ![](assets/three-3.png)
 
-1. 查找并选择&#x200B;**[!UICONTROL {{SP_Send_Alert_Info}}]**&#x200B;令牌并单击&#x200B;**[!UICONTROL Insert]**。
+1. 查找并选择&#x200B;**[!UICONTROL `{{SP_Send_Alert_Info}}`]**&#x200B;令牌并单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 

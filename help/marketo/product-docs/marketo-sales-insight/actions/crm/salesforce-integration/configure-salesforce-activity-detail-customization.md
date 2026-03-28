@@ -3,9 +3,9 @@ description: 了解如何为任务主题字段配置Salesforce活动详细信息
 title: 配置 Salesforce 活动详情自定义
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '677'
 ht-degree: 2%
 
 ---
@@ -68,33 +68,33 @@ ht-degree: 2%
   <th>描述</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>将填充任务类型，如Email、Call、InMail或Custom。</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>将填充任务的主题。</p>
       <p>如果是电子邮件，则会填充电子邮件的主题行。</p>
       <p>在调用、inMail或自定义的案例中，如果创建了一个提醒任务，且该任务名称/主题字段中有值，则系统会填充一个值。</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>如果活动是从销售活动发起的，则会填充销售活动的名称。</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>如果活动是从销售市场活动启动的，则会填充此活动发生的销售市场活动日期编号。</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>如果活动是从销售市场活动启动的，则会填充此活动发生的销售市场活动日期内的步骤编号。</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>如果活动是调用并且选择了调用结果，则会填充调用结果值。</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>如果活动是呼叫并且选择了呼叫原因，则会填充呼叫原因值。</td>
  </tr>
 </table>

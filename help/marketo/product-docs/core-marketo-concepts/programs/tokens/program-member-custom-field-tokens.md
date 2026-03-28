@@ -4,7 +4,7 @@ description: 了解项目群成员自定义字段令牌。 使用令牌将成员
 title: 项目成员自定义字段令牌
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 5%
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 PMCF令牌将在令牌家族的成员域下受支持。
 
-成员令牌用于项目群成员范围内的字段。 截至当前状态，成员令牌还用于插入来自集成服务合作伙伴的唯一值。 `{{member.webinar url}}`令牌自动解析服务提供商生成的人员的唯一确认URL。 {{member.registration code}}解析为服务提供商提供的注册码。
+成员令牌用于项目群成员范围内的字段。 截至当前状态，成员令牌还用于插入来自集成服务合作伙伴的唯一值。 `{{member.webinar url}}`令牌自动解析服务提供商生成的人员的唯一确认URL。 `{{member.registration code}}`解析为服务提供商提供的注册码。
 
 >[!NOTE]
 >

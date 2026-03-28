@@ -4,7 +4,7 @@ description: 了解如何使用富文本编辑器处理电子邮件内容。 在
 title: 使用富文本编辑器
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 3%
@@ -39,7 +39,7 @@ ht-degree: 3%
 
    ![](assets/four.png)
 
-   如果电子邮件模板中包含`<div class=“mktEditable”></div>`，则在打开部分并在编辑器中键入“Text Goes Here”时，您将看到以下HTML Source行为：
+   如果电子邮件模板中包含`<div class="mktEditable"></div>`，则在打开部分并在编辑器中键入“Text Goes Here”时，您将看到以下HTML Source行为：
 
 <table>
  <tbody>
@@ -50,8 +50,8 @@ ht-degree: 3%
   </tr>
   <tr>
    <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;此处显示文本&lt;/p&gt;<br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;此处显示文本&lt;/div&gt;<br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class="mktEditable"&gt;<br>此处显示文本<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;此处为文本&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>此处为文本<br>&lt;/div&gt;</p></td>
   </tr>
  </tbody>
 </table>
@@ -79,7 +79,8 @@ ht-degree: 3%
 | ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Bold] | **较深且较厚**。 |
 | ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Italic] | *为强调或引号*&#x200B;而倾斜。 |
 | ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Underline] | 在你的文字下面加一行。 |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | 使用此下拉菜单为文本和图像布局。 居中对齐，选择左对齐或右对齐，或沿边展开并完全对齐。 |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | 列表 | 从下拉菜单中选择项目符号或数字。 项目符号的好用在于包含步骤的列表和数字。 |
+| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | 使用此下拉菜单为文本和图像布局。 居中对齐，选择左对齐或右对齐，或沿边展开并完全对齐。 |
+| ![—](assets/image2015-7-9-10-3a32-3a47.png) | 列表 | 从下拉菜单中选择项目符号或数字。 项目符号的好用在于包含步骤的列表和数字。 |
 | ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Indent] | 选择或多或少缩进。 用于段落或要脱颖而出的任何文本。 |
 | ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insert/Edit Link] | 放入指向网站或其他内容的链接；轻松对其进行更改。 |
 | ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insert/Edit Image] | 一张图片胜过千言万语。 放一个。 单击相机图标以浏览设计工作室。 您可以并排放置图像。 |
