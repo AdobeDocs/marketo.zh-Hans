@@ -4,8 +4,8 @@ description: 发送电子邮件 - Marketo 文档 - 产品文档
 title: 发送电子邮件
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 100%
 
@@ -125,7 +125,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >默认时区不是您的时区吗？了解如何[在此更新它](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}。
+   >默认时区不是您的时区吗？了解如何[在此更新它](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}。
 
 1. 在 [!UICONTROL Approval] 模块下点击 **[!UICONTROL Approve Program]**，即可完成！
 

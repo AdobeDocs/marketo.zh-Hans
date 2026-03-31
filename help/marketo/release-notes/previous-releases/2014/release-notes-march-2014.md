@@ -4,7 +4,7 @@ description: 发行说明 — 2014年3月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年3月
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 1%
@@ -51,12 +51,12 @@ ht-degree: 1%
 
 ## 其他用户语言 {#additional-user-language}
 
-选择您的[Marketo应用程序语言](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)。 用您的首选语言查看Marketo潜在客户管理界面 — 现在支持日语。
+选择您的[Marketo应用程序语言](/help/marketo/product-docs/administration/settings/change-time-zone.md)。 用您的首选语言查看Marketo潜在客户管理界面 — 现在支持日语。
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Marketo开发人员博客 {#marketo-developer-blog}
 
-[Marketo开发人员博客](https://developers.marketo.com/blog/)专门面向那些支持现代营销人员快速发展的需求的Web开发人员和软件工程师。 您可以订阅有关新集成选项、API版本更新的公告，以及一系列新的操作方法文章(包括代码示例以及有关与Marketo平台集成的最佳实践)。
+[Marketo开发人员博客](https://developers.marketo.com/blog/)专门面向那些支持现代营销人员快速发展的需求的Web开发人员和软件工程师。 您可以订阅有关新集成选项、API版本更新的公告，以及一系列新的操作方法文章（包括代码示例以及有关与Marketo平台集成的最佳实践）。
 
 本系列中的[第一篇文章](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)将指导您了解如何使用API高效地检索Marketo中存储的人员（客户/联系人/潜在客户）的信息。
