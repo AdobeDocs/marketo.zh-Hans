@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9337'
 ht-degree: 99%
 
 ---
@@ -220,7 +220,7 @@ ht-degree: 99%
          + [登陆页面标头](product-docs/administration/settings/landing-page-headers.md)
          + [产品使用情况仪表板](product-docs/administration/settings/product-usage-dashboards.md)
          + [根据 IP 限制 Marketo 登录](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
-         + [选择语言、区域和时区](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+         + [更改您的时区](product-docs/administration/settings/change-time-zone.md)
          + [设置回退页面](product-docs/administration/settings/set-a-fallback-page.md)
          + [为订阅设置默认位置](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [了解隐私设置](product-docs/administration/settings/understanding-privacy-settings.md)
@@ -1028,7 +1028,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
