@@ -3,10 +3,10 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 25%
+ht-degree: 24%
 
 ---
 
@@ -29,8 +29,19 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>向Designer发送电子邮件 — 管理品牌（测试版）</strong>：根据您组织/品牌的特定撰稿准则生成电子邮件内容。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">创建和管理品牌</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>向Designer发送电子邮件 — 快速操作</strong>： <i>与旧电子邮件编辑器对等</i>。 快速操作现在可用于所有电子邮件Designer资源（电子邮件、电子邮件模板、片段）。 支持的快速操作包括：复制、删除、移动、创建/编辑草稿。
+   </td>
+   <td>已发布</i></td>
+   <td>不适用</td>
   </tr>
   <tr>
    <td> </td>
@@ -49,17 +60,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>电子邮件Designer - Outlook渲染修复</strong>：此更新修复了渲染问题，尤其是在MS Outlook中。 “专家模式”允许您进行细微的HTML/CSS编辑，或向电子邮件添加脚本标记（最佳实践是不对电子邮件的HTML进行任何其他更改，以使可视化元素保持原样）。
-   </td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>向Designer发送电子邮件 — 快速操作</strong>： <i>与旧电子邮件编辑器对等</i>。 快速操作现在可用于所有电子邮件Designer资源（电子邮件、电子邮件模板、片段）。 支持的快速操作包括：复制、删除、移动、创建/编辑草稿。
    </td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
@@ -92,7 +92,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hans){target="_blank"}。
+* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API合并潜在客户限制**：从2026年3月31日开始，在合并潜在客户API调用的leadIds参数中包含超过25个ID的调用将导致1080错误代码，并且将跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
 
