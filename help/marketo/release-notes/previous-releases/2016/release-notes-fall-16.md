@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: 发行说明 — 2016年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年秋季
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ![](assets/facebook.png)
 
-## [通用ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## 通用Id {#universal-id}
 
 通用ID允许您通过一次登录访问多个Marketo订阅，并快速在订阅之间切换。 您可以将单个社区配置文件用于所有订阅。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 如果无法强制执行[营销活动限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)，为什么要设置这些限制？ 当您将营销活动限制设置设置为限制数据库中可通过单个营销活动进行定位的人员数量时，您现在能够限制哪些用户在计划营销活动时可以覆盖这些设置。
 
-## [移动推送通知的声音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## 移动推送通知的[声音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
 通过启用声音功能，为您的iOS推送通知增添丰富内容。 这项新功能允许您在移动设备上显示推送通知时触发声音。
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ## [与Salesforce Encryption兼容的Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-市场[!DNL Sales Insight]现在与[!DNL Salesforce] Shield Encryption兼容。 所有[!DNL Sales Insight]客户都应升级到此最新的托管包（版本1.4359.2），该包在[&#x200B; [!DNL Appexchange]上有](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)可用。
+市场[!DNL Sales Insight]现在与[!DNL Salesforce] Shield Encryption兼容。 所有[!DNL Sales Insight]客户都应升级到此最新的托管包（版本1.4359.2），该包在[ [!DNL Appexchange]上有](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)可用。
 
 ## [命名帐户API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 

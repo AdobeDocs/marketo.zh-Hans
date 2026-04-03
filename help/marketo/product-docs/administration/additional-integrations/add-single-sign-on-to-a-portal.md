@@ -4,9 +4,9 @@ description: 启用SAML 2.0单点登录，以便您的身份提供程序为Marke
 title: 为门户添加单点登录
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: bba45ef3db9cf8f1a7a9f9c818a5890ca63d6ec7
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '573'
 ht-degree: 5%
 
 ---
@@ -48,7 +48,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 * **用户设置** - Marketo手动设置用户。
 * **授权** - Marketo中维护用户权限。
 * **OAuth支持** - Marketo当前不支持OAuth。
-* **自动用户传播** — 也称为“准时预配”，这是指用户首次SAML登录时能够在他们访问的任何网络应用程序(例如Marketo)中创建用户，并且无需手动管理操作的情况。 目前Marketo不支持此功能。
+* **自动用户传播** — 也称为“准时预配”，这是指用户首次SAML登录时能够在他们访问的任何网络应用程序（例如Marketo）中创建用户，并且无需手动管理操作的情况。 目前Marketo不支持此功能。
 * **加密** - Marketo当前不支持加密。
 
 >[!NOTE]
@@ -115,6 +115,5 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
 >[!MORELIKETHIS]
 >
->* [使用通用ID进行订阅登录](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
 >* [限制用户仅登录SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
 >* [邀请Marketo用户使用通用ID访问两个实例](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

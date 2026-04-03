@@ -2,9 +2,9 @@
 description: 发行说明 — 2021年8月 — Marketo文档 — 产品文档
 title: 发行说明 - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '897'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 1%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn]潜在客户Forms集成**：营销人员现在可以对在[!DNL LinkedIn]通过他们的潜在客户Forms广告单元捕获表单填写时发生的转化执行收入归因。 这些见解随后可用于优化表单性能和付费媒体投资。 [!DNL LinkedIn]潜在客户Gen Forms是[!DNL LinkedIn]增长最快的付费媒体产品之一，这项新功能包含在我们与[!DNL LinkedIn]的现有[!DNL Bizible]广告集成中。
+* **[!DNL Bizible][!DNL LinkedIn]潜在客户Forms集成**：营销人员现在可以对在[!DNL LinkedIn]通过他们的潜在客户Forms广告单元捕获表单填写时发生的转化执行收入归因。 这些见解随后可用于优化表单性能和付费媒体投资。 [!DNL LinkedIn]潜在客户Gen Forms是[!DNL LinkedIn]增长最快的付费媒体产品之一，这项新功能包含在我们与[!DNL LinkedIn]的现有[!DNL Bizible]广告集成中。
 
 * **改进了Velocity功能板**：我们新增了一个新的Velocity量度和功能板筛选器，以便获得更深入的见解。 营销人员使用此仪表板来了解分阶段潜在客户和商机周转率以及不同营销和销售参与形式的效率。
 
@@ -81,7 +81,7 @@ ht-degree: 1%
 
 ## 公告 {#announcements}
 
-* **更新到订阅通用ID设置**：为了支持现有用户即将集成的Marketo Engage和Adobe标识，所有Marketo Engage订阅将在启用通用ID支持时统一起来。 可在此处[找到更多信息](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)。
+* **更新到订阅通用ID设置**：为了支持现有用户即将集成的Marketo Engage和Adobe标识，所有Marketo Engage订阅将在启用通用ID支持时统一起来。
 
 **_产品发布网络研讨会_**
 
