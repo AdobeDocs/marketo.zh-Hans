@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 3ab1d36fd99e72566adc463429fb8084dbf364c9
+source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
 workflow-type: tm+mt
-source-wordcount: '9339'
+source-wordcount: '9342'
 ht-degree: 99%
 
 ---
@@ -1027,7 +1027,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
@@ -1050,7 +1050,7 @@ ht-degree: 99%
          + 品牌 {#brands}
             + [品牌主题](product-docs/email-marketing/email-designer/brands/brand-themes.md)
             + [应用品牌](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [管理品牌](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [创建和管理您的品牌](product-docs/email-marketing/email-designer/brands/manage-brands.md)
             + [个性化您的品牌](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
             + [品牌一致性](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + 电子邮件项目 {#email-programs}
