@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 99%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 99%
 + 产品文档 {#product-docs}
    + 附加应用程序 {#additional-apps}
       + SEO {#seo}
-         + 了解 SEO {#understanding-seo}
-            + [了解搜索引擎优化](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [了解 SEO 仪表板：SEO 建议](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [了解 SEO 仪表板：SEO 快照](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO - 添加站点/删除站点](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO - 添加竞争对手](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO - 管理列表](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO - 为您的搜索引擎选择地区/国家](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO - 设置电子邮件提醒偏好](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + 关键词 {#keywords}
-            + [SEO - 添加关键词](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO - 在关键词视图中添加/移除列](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO - 从列表中添加/移除关键词](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - 导出关键词结果](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO - 筛选关键词结果](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO - 获取建议关键词](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO - 使用 CSV 导入关键词](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO - 关键词趋势图](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO - 使用目标关键词优化特定页面](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO - 移除关键词](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO - 了解关键词](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - 在搜索引擎中查看关键词结果](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + 页面 {#pages}
-            + [SEO - 为页面问题添加备注](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO - 添加页面](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO - 从列表中添加/移除页面](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO - 从列表中添加/移除页面问题](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO - 将问题导出为 CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO - 移除/删除页面问题](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO - 移除/删除页面](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO - 了解页面](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO - 使用页面详情深入分析](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + 入站链接 {#inbound-links}
-            + [SEO - 手动添加入站链接 URL](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO - 从列表中添加/移除入站链接 URL](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO - 获取入站链接建议](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO - 移除/删除入站链接 URL](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO - 了解入站链接](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + 报告 {#reports}
             + [SEO - 使用竞争对手关键词趋势报告](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - 使用关键词趋势报告](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
@@ -1027,7 +993,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
