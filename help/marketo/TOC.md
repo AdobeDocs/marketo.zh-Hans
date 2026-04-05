@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
+source-git-commit: 8a9445f0cce6afc6506d0cb30b67bd071828f0a1
 workflow-type: tm+mt
-source-wordcount: '9160'
+source-wordcount: '9168'
 ht-degree: 99%
 
 ---
@@ -58,6 +58,11 @@ ht-degree: 99%
       + [继承实例：记录您的设置](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [回顾核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + 产品文档 {#product-docs}
+   + MARKETO MCP {#marketo-mcp}
+      + [概述](product-docs/marketo-mcp/overview.md)
+      + 代理 {#agents}
+         + [导入潜在客户](product-docs/marketo-mcp/agents/import-leads.md)
+         + [项目QA](product-docs/marketo-mcp/agents/program-qa.md)
    + 附加应用程序 {#additional-apps}
       + SEO {#seo}
          + 关键词 {#keywords}
@@ -993,7 +998,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
