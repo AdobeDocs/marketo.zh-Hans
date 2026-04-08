@@ -3,9 +3,9 @@ description: 即将推出。
 title: 调查潜在客户
 hide: true
 hidefromtoc: true
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: 780e07bfafe72bd69a43c3014522fd1b2a6b9a36
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 了解为什么有人没有MQL、没有计划资格或在生命周期中前进。
 
-要查看调查方案的完整列表，请单击右侧的向下箭头。
+要查看调查方案的完整列表，请单击右侧的箭头。
 
 屏幕快照
 
