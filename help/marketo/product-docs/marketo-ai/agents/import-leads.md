@@ -4,9 +4,9 @@ title: 导入潜在客户
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,52 @@ ht-degree: 0%
 
 借助字段映射帮助，将潜在客户列表导入到您的Marketo Engage数据库中并进行重复数据删除。
 
-是否导入潜在客户列表？ 人？ 在csv格式中，应用一些数据标准化规则并将其保存到Marketo数据库。
+## 使用方法 {#how-to-use}
 
-单击此代理将引导您进入对话式人工智能。 在左窗格中有一个AI助手，它提供了一个窗口，供代理发布指导、响应和选项，以便运行哪些数据标准化功能。
+1. 在“我的Marketo”中，单击&#x200B;**使用AI构建**&#x200B;图块。
 
-要启动导入流程，请单击附件图标上传文件。
+   ![](assets/import-leads-1.png)
 
-在导入列表中键入并单击发送
+1. 单击&#x200B;**导入潜在客户**&#x200B;代理。
 
-输入要应用的业务规则，然后单击发送。 输入后，中心控制台中的窗口将提供所应用规则的结果。
+   ![](assets/import-leads-2.png)
 
-根据需要输入其他业务规则，然后单击“发送”。
+   你被带到了对话式人工智能。 在左窗格中，代理程序会发布要运行哪些数据标准化功能的指导、响应和选项。
 
-要查看数据库的映射列表字段列表，请单击映射选项卡。
+   ![](assets/import-leads-3.png)
 
-准备好将列表保存到数据库后，单击导入到Marketo。
+1. 要开始导入潜在客户，请单击附件图标并通过.CSV文件上传它们。
 
-选择要保存列表的文件夹，输入潜在客户列表的名称，选中同意框，然后单击“批准并导入到Marketo”按钮。
+   ![](assets/import-leads-4.png)
 
-保存列表后，将为验证提供已处理、失败或出现警告的记录摘要。
+1. 键入&#x200B;_导入列表_&#x200B;并单击&#x200B;**发送**。
+
+   ![](assets/import-leads-5.png)
+
+   您的列表将在中心控制台中预览。
+
+   ![](assets/import-leads-6.png)
+
+1. 输入所需的业务规则并单击&#x200B;**发送**。
+
+   ![](assets/import-leads-7.png)
+
+   结果将显示在中心控制台中。
+
+   ![](assets/import-leads-8.png)
+
+   如果需要，请输入其他业务规则。
+
+1. 要查看映射的字段，请单击&#x200B;**映射**&#x200B;选项卡。
+
+1. 如果有任何字段映射不正确，请在此处修复它们。
+
+   ![](assets/import-leads-9.png)
+
+1. 准备导入列表时，单击&#x200B;**导入到Marketo**&#x200B;选项卡。
+
+1. 选择目标文件夹并输入名称。 选中每个同意框并单击&#x200B;**批准并导入到Marketo**。
+
+   ![](assets/import-leads-10.png)
+
+完成导入后，将为验证提供已处理潜在客户的摘要、行失败以及任何警告。
