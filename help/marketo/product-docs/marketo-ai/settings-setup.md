@@ -4,10 +4,10 @@ title: 设置和设置
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 4%
+source-wordcount: '189'
+ht-degree: 1%
 
 ---
 
@@ -15,58 +15,56 @@ ht-degree: 4%
 
 介绍文本。
 
+## 权限 {#permissions}
+
+要访问Marketo AI，管理员必须首先启用角色权限。
+
+1. 在“我的Marketo”中，单击&#x200B;**管理员**，然后单击&#x200B;**用户和角色**。
+
+   ![](assets/settings-setup-1.png)
+
+1. 在&#x200B;_角色_&#x200B;选项卡中，选择所需的角色，然后单击&#x200B;**编辑角色**。
+
+   ![](assets/settings-setup-2.png)
+
+1. 向下滚动并选择&#x200B;**使用AI访问内部版本**&#x200B;复选框，然后单击&#x200B;**保存**。
+
+   ![](assets/settings-setup-3.png)
+
 ## 设置 {#settings}
 
-请按照以下步骤将NAME连接到您的Marketo Engage帐户。
+1. 在“我的Marketo”中，单击&#x200B;**使用AI构建**&#x200B;图块。
 
-1. 在“我的Marketo”中，单击&#x200B;**使用AI构建**&#x200B;拼贴。
+   ![](assets/settings-setup-4.png)
 
-屏幕快照
+1. 单击齿轮图标。
 
-1. 单击齿轮图标
+   ![](assets/settings-setup-5.png)
 
-将需要尚未连接的实例
+### 连接 {#connection}
 
-## 连接 {#connection}
+此选项卡不包含可编辑的字段。 它会显示您的Munchkin ID和IMS组织等帐户信息。
 
-在“连接”选项卡中，按照以下步骤对MARKETO MCP的NAME进行初始设置。
+![](assets/settings-setup-6.png)
 
-+++初始设置步骤
+### 组织规则 {#organizational-rules}
 
-文本
+定义创建或修改Marketo资源时Marketo Engage AI遵循的组织准则和限制。
 
-屏幕快照
-
-文本
-
-屏幕快照
-
-+++
-
-## 组织规则 {#organizational-rules}
-
-定义在创建或修改MARKETO资源时，Marketo MCP遵循的组织准则和限制。
-
-文本
-
-屏幕快照
-
-文本
-
-屏幕快照
+![](assets/settings-setup-7.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
 >规则对YAML frontmatter使用Markdown格式。 全局规则适用于所有工作区。 Workspace规则会覆盖全局设置。
 
-## 集成 {#integrations}
+### 集成（即将推出） {#integrations}
 
-配置与外部服务和API的连接（即将推出）。
+配置与外部服务和API的连接。
 
 _此选项卡可能会显示在UI中，但尚未可用。 请返回查看更新_。
 
-## 通知 {#notifications}
+### 通知（即将推出） {#notifications}
 
-管理警报首选项和通知渠道（即将推出）。
+管理警报首选项和通知渠道。
 
 _此选项卡可能会显示在UI中，但尚未可用。 请返回查看更新_。
