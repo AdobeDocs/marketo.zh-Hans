@@ -1,12 +1,12 @@
 ---
-description: 即将推出。
+description: 了解如何审核您的项目以获得所有组件（如电子邮件、登陆页面、营销活动等）的最佳实践。
 title: 项目QA
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,22 @@ ht-degree: 0%
 
 审核您的项目以获得所有组件（如电子邮件、登陆页面、营销活动等）的最佳实践。
 
-有两种方法可访问此代理。
+## 使用方法 {#how-to-use}
 
-单击中央窗口中的代理程序并单击右上方的下拉菜单
+1. 在“我的Marketo”中，单击&#x200B;**使用AI构建**&#x200B;图块。
 
-单击使用此代理按钮
+   ![](assets/program-qa-1.png)
 
-在提示对话框的左窗格中，将显示默认文本。
+1. 单击&#x200B;**程序QA**&#x200B;代理。
 
-然后在右窗格中选择要QA的程序
+   ![](assets/program-qa-2.png)
 
-中心窗口中将显示计划摘要，其中概述了计划以及为其创建的内容。
+   您会进入对话式人工智能屏幕。
 
-或者，单击对话人工智能主屏幕中的代理。
+1. 在右窗格中选择所需的程序。
 
-AI助手将显示默认文本以显示将执行的代理。
+   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-然后选择右侧需要QA&#39;d的程序。
+中心窗格中将显示项目的摘要，提供项目的概览。
 
-相同的摘要将显示在中心控制台中
+![](assets/program-qa-4.png){width="450" zoomable="yes"}

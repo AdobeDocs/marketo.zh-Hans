@@ -4,9 +4,9 @@ title: 导入潜在客户
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/import-leads-2.png)
 
-   你被带到了对话式人工智能。 在左窗格中，代理程序会发布要运行哪些数据标准化功能的指导、响应和选项。
+   您会进入对话式人工智能屏幕。 在左窗格中，代理程序会发布要运行哪些数据标准化功能的指导、响应和选项。
 
    ![](assets/import-leads-3.png)
 
