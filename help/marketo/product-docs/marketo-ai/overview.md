@@ -4,7 +4,7 @@ title: Marketo Engage AI概述
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 3%
@@ -31,6 +31,14 @@ Marketo Engage AI提供了一系列代理，这些代理用于自动执行繁琐
 
 ## 代理 {#agents}
 
+### 项目QA {#program-qa}
+
+根据最佳实践验证Marketo Engage程序，并在启动之前捕获任何问题。 [了解详情](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### 导入潜在客户 {#import-leads}
+
+借助字段映射帮助，将潜在客户列表导入到您的Marketo Engage数据库中并进行重复数据删除。 [了解详情](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### 调查潜在客户（即将推出） {#investigate-lead}
 
 了解为什么有人没有MQL、没有计划资格或在生命周期中前进。
@@ -42,14 +50,6 @@ Marketo Engage AI提供了一系列代理，这些代理用于自动执行繁琐
 ### 创建项目（即将推出） {#create-program}
 
 使用营销活动简述生成整个Marketo Engage项目，并包含电子邮件、登陆页面和Smart Campaign。
-
-### 项目QA {#program-qa}
-
-根据最佳实践验证Marketo Engage程序，并在启动之前捕获任何问题。 [了解详情](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### 导入潜在客户 {#import-leads}
-
-借助字段映射帮助，将潜在客户列表导入到您的Marketo Engage数据库中并进行重复数据删除。 [了解详情](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### 标准化数据（即将推出） {#normalize-data}
 
