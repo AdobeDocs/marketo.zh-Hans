@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/settings-setup-2.png)
 
-1. 向下滚动并&#x200B;_取消选中_**使用AI访问生成**&#x200B;复选框，然后单击&#x200B;**保存**。
+1. 向下滚动并&#x200B;_取消选中_&#x200B;**使用AI访问生成**&#x200B;复选框，然后单击&#x200B;**保存**。
 
    ![](assets/settings-setup-3.png)
 
