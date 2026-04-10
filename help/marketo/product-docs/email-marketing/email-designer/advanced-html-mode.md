@@ -1,15 +1,15 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 为电子邮件内容添加自定义 CSS
-description: 了解如何在电子邮件Designer中将自定义CSS添加到电子邮件内容。 使用Marketo Engage中的自定义代码设计电子邮件的样式。
+title: 使用高级HTML编辑器编辑电子邮件模板
+description: 了解如何在Marketo Engage Email Designer中查看和编辑原始HTML源代码，包括护栏、访问步骤和关键限制。
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
-source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
+source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 2%
+source-wordcount: '367'
+ht-degree: 0%
 
 ---
 
