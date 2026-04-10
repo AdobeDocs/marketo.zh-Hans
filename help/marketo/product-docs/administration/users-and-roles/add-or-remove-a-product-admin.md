@@ -1,0 +1,97 @@
+---
+description: 在Adobe Admin Console中添加或移除产品管理员的步骤。
+title: 添加或移除产品管理员
+exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
+feature: Marketo with Adobe Identity
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 9%
+
+---
+
+# 添加或移除产品管理员 {#add-or-remove-a-product-admin}
+
+>[!NOTE]
+>
+>**系统**&#x200B;管理员仅在Adobe组织级别创建。 如果您认为您需要多个项目，请联系[Adobe支持](https://experienceleague.adobe.com/en/support)。
+
+## 添加产品管理员 {#add-a-product-admin}
+
+>[!IMPORTANT]
+>
+>必须向产品配置文件添加管理员才能访问Marketo Engage。
+
+1. 登录到[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
+
+   ![](assets/add-or-remove-a-product-admin-1.png)
+
+1. 单击&#x200B;**Marketo Engage**。
+
+   ![](assets/add-or-remove-a-product-admin-2.png)
+
+1. 选择所需的订阅（如果您有多个订阅）。
+
+   ![](assets/add-or-remove-a-product-admin-3.png)
+
+1. 单击 **[!UICONTROL Admins]** 选项卡。
+
+   ![](assets/add-or-remove-a-product-admin-4.png)
+
+1. 单击&#x200B;**[!UICONTROL Add Admin]**&#x200B;按钮。
+
+   ![](assets/add-or-remove-a-product-admin-5.png)
+
+1. 输入要添加的管理员的电子邮件地址或用户名。 名字和姓氏是可选的。 单击 **[!UICONTROL Save]**。
+
+   ![](assets/add-or-remove-a-product-admin-6.png)
+
+1. 单击您刚刚添加的管理员的名称。
+
+   ![](assets/add-or-remove-a-product-admin-7.png)
+
+1. 在“产品”下，单击三个圆点菜单并选择&#x200B;**[!UICONTROL Edit]**。
+
+   ![](assets/add-or-remove-a-product-admin-8.png)
+
+1. 单击&#x200B;**+**&#x200B;符号。 单击所需的Marketo Engage订阅（如果有多个订阅）旁边的V形符号，然后选择所需的产品配置文件。
+
+   ![](assets/add-or-remove-a-product-admin-9.png)
+
+1. 单击 **[!UICONTROL Save]**。
+
+   ![](assets/add-or-remove-a-product-admin-10.png)
+
+然后，用户将收到两封电子邮件。 第一封电子邮件会通知他们已获得Marketo Engage的产品管理员权限。 第二封电子邮件会邀请他们登录到Marketo Engage。
+
+>[!NOTE]
+>
+>当通过Adobe Admin Console将产品管理员用户添加到Marketo Engage时，将会在订阅中授予该用户Adobe产品管理员角色。
+
+## 删除管理员 {#remove-a-user}
+
+1. 登录到[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
+
+   ![](assets/add-or-remove-a-product-admin-11.png)
+
+1. 单击&#x200B;**Marketo Engage**。
+
+   ![](assets/add-or-remove-a-product-admin-12.png)
+
+1. 选择所需的订阅（如果您有多个订阅）。
+
+   ![](assets/add-or-remove-a-product-admin-13.png)
+
+1. 单击 **[!UICONTROL Admins]** 选项卡。
+
+   ![](assets/add-or-remove-a-product-admin-14.png)
+
+1. 选择要删除的管理员，然后单击&#x200B;**[!UICONTROL Remove Admin]**&#x200B;按钮。
+
+   ![](assets/add-or-remove-a-product-admin-15.png)
+
+1. 单击 **[!UICONTROL Remove Admin]** 确认。
+
+   ![](assets/add-or-remove-a-product-admin-16.png)
+
+然后，用户将收到一封电子邮件，通知他们不再拥有Marketo Engage的产品管理员访问权限。

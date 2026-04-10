@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 99%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 99%
          + [Adobe Identity 管理概述](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [管理员设置](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [产品管理员设置](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [为启用 Adobe IMS 的订阅添加仅限 API 用户](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [添加或移除产品管理员](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [添加或移除用户](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [常见问题解答](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [使用 Adobe ID 登录用户](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + 订阅与用户迁移 {#subscription-and-user-migration}
-            + [迁移至 Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [了解 Marketo 订阅与用户迁移至 Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Marketo Engage 支持迁移](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [疑难解答指南](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + 设置 {#settings}
          + [批量导出 API 信息](product-docs/administration/settings/bulk-export-api-information.md)
          + [营销活动检查器](product-docs/administration/settings/campaign-inspector.md)
@@ -205,7 +196,10 @@ ht-degree: 99%
          + [隐藏/取消隐藏项目渠道](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [管理标签值](product-docs/administration/tags/managing-tag-values.md)
       + 用户和角色 {#users-and-roles}
+         + [添加或移除产品管理员](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [添加或移除用户](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [创建仅限 API 的用户角色](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [创建仅限 API 的用户](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [创建、删除、编辑和更改用户角色](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [电子邮件验证](product-docs/administration/users-and-roles/email-verification.md)
          + [导出用户和角色列表](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
@@ -999,7 +993,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
