@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
 
-# 使用高级HTML编辑器编辑电子邮件模板 {#email-template-expert-mode}
+# 使用高级HTML编辑器编辑电子邮件模板 {#advanced-html-mode}
 
 高级HTML模式允许您直接从[!DNL Marketo Engage]电子邮件Designer界面查看和编辑电子邮件模板的原始源代码。
 
@@ -40,13 +40,13 @@ ht-degree: 2%
 
 1. 在电子邮件Designer中打开或[创建电子邮件模板](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)。
 
-1. 在编辑电子邮件模板屏幕中，单击右上角的HTML按钮。
+1. 在&#x200B;_编辑电子邮件模板_&#x200B;屏幕中，单击右上角的HTML按钮。
 
-   屏幕快照
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. 首次打开高级HTML编辑器时，会显示一条警告消息。 完成时单击&#x200B;**[!UICONTROL OK]**&#x200B;进行审核。
 
-   屏幕快照
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ ht-degree: 2%
 
 1. 此时将显示高级HTML编辑器。
 
-   屏幕快照
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. 将所需的更改添加到您的电子邮件内容中。
 
@@ -64,7 +64,7 @@ ht-degree: 2%
 
 1. 出于兼容性原因，内容模拟和保存在高级HTML视图中不可用。 切换回“桌面”视图以预览内容并保存更改。
 
-   屏幕快照
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
