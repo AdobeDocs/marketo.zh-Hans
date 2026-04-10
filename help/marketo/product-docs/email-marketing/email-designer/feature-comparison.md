@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '830'
 ht-degree: 10%
 
 ---
@@ -262,22 +262,10 @@ ht-degree: 10%
     <td>可用</td>
   </tr>
   <tr>
-    <td>内容审批工作流</td>
-    <td>能够在Marketo Engage中为电子邮件引入批准工作流。</td>
-    <td>不可用</td>
-    <td>待定</td>
-  </tr>
-  <tr>
-    <td>CRM中的电子邮件</td>
-    <td>能够向CRM发送与电子邮件相关的信息。</td>
+    <td>HTML编辑器</td>
+    <td>能够修改<a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md">电子邮件模板</a>的HTML内容。</td>
     <td>可用</td>
-    <td>待定</td>
-  </tr>
-  <tr>
-    <td>代码编辑器</td>
-    <td>能够修改电子邮件、电子邮件模板和片段的HTML内容。</td>
     <td>可用</td>
-    <td>待定</td>
   </tr>
   <tr>
     <td>支持移动、删除和导入包含电子邮件资产的程序</td>
