@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '9171'
+source-wordcount: '9176'
 ht-degree: 99%
 
 ---
@@ -999,12 +999,13 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [导入模板](product-docs/email-marketing/email-designer/import-template.md)
          + [将图像转换为 HTML 模板](product-docs/email-marketing/email-designer/image-to-html.md)
+         + [电子邮件模板高级HTML编辑器](product-docs/email-marketing/email-designer/advanced-html-mode.md)
          + [设计无障碍内容](product-docs/email-marketing/email-designer/accessible-content.md)
          + [自定义 CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [深色模式](product-docs/email-marketing/email-designer/dark-mode.md)
