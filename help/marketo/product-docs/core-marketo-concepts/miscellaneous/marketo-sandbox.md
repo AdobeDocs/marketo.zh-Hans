@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: 了解用于生产前测试的Marketo Engage沙盒。 使用沙盒实例在不影响生产的情况下进行测试。
 title: Marketo 沙盒
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Marketo Engage沙盒是在生产环境中实施之前用于测试目的的附加
 
 ## 关于沙盒的注意事项 {#things-to-know-about-sandboxes}
 
-* 如果要添加用户，该过程与[在生产环境中添加用户](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user#add-a-user)的过程相同。 同样，如果他们已具有Marketo登录信息，则必须使用其他电子邮件地址。
+* 如果要添加用户，该过程与[在生产环境中添加用户](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user)的过程相同。 同样，如果他们已具有Marketo登录信息，则必须使用其他电子邮件地址。
 * 您的Marketo沙盒最初将是空的，但具有与生产实例相同的可用功能。
 * 如果您在沙盒中创建程序并希望将其移至生产环境，则可以执行[程序导入](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)。
 * 沙盒会被限制，以便生产实例不会受到测试环境的不利影响。 每次营销活动运行最多可发送20封电子邮件。
