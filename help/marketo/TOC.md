@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
 workflow-type: tm+mt
-source-wordcount: '9129'
+source-wordcount: '9132'
 ht-degree: 99%
 
 ---
@@ -199,6 +199,7 @@ ht-degree: 99%
          + [创建仅限 API 的用户角色](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [创建仅限 API 的用户](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [创建、删除、编辑和更改用户角色](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
+         + [编辑用户工作区](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [导出用户和角色列表](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [管理用户角色和权限](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [导出角色和权限](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -989,7 +990,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
