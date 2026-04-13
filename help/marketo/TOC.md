@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9129'
 ht-degree: 99%
 
 ---
@@ -169,7 +169,6 @@ ht-degree: 99%
          + [营销活动检查器](product-docs/administration/settings/campaign-inspector.md)
          + [更改分析的归因设置](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [为人员详情页创建自定义选项卡](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [编辑帐户设置](product-docs/administration/settings/edit-account-settings.md)
          + [编辑“请勿跟踪”浏览器支持设置](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [编辑登录页面设置](product-docs/administration/settings/edit-landing-page-settings.md)
          + [编辑报告和警报中的链接过期时间](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
@@ -990,7 +989,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
