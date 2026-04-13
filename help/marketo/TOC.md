@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '9146'
+source-wordcount: '9129'
 ht-degree: 99%
 
 ---
@@ -168,8 +168,6 @@ ht-degree: 99%
          + [批量导出 API 信息](product-docs/administration/settings/bulk-export-api-information.md)
          + [营销活动检查器](product-docs/administration/settings/campaign-inspector.md)
          + [更改分析的归因设置](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [更改您的 Marketo 密码](product-docs/administration/settings/change-your-marketo-password.md)
-         + [更改密码安全设置](product-docs/administration/settings/change-your-password-security-settings.md)
          + [为人员详情页创建自定义选项卡](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [编辑帐户设置](product-docs/administration/settings/edit-account-settings.md)
          + [编辑“请勿跟踪”浏览器支持设置](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
@@ -185,7 +183,7 @@ ht-degree: 99%
          + [根据 IP 限制 Marketo 登录](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [更改您的时区](product-docs/administration/settings/change-time-zone.md)
          + [设置回退页面](product-docs/administration/settings/set-a-fallback-page.md)
-         + [为订阅设置默认位置](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
+         + [设置默认货币](product-docs/administration/settings/set-default-currency.md)
          + [了解隐私设置](product-docs/administration/settings/understanding-privacy-settings.md)
       + 标记 {#tags}
          + [创建新项目标签及标签值](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
@@ -201,9 +199,7 @@ ht-degree: 99%
          + [创建仅限 API 的用户角色](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [创建仅限 API 的用户](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [创建、删除、编辑和更改用户角色](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [电子邮件验证](product-docs/administration/users-and-roles/email-verification.md)
          + [导出用户和角色列表](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [管理 Marketo 用户](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [管理用户角色和权限](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [导出角色和权限](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [角色权限说明](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
@@ -993,7 +989,7 @@ ht-degree: 99%
             + [移除流内容](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 电子邮件设计器 {#email-designer}
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
