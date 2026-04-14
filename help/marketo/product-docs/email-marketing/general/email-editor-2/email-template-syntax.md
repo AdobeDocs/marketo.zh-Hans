@@ -4,10 +4,10 @@ description: 了解Email Editor 2.0中的电子邮件模板语法。对模板中
 title: 电子邮件模板语法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '2462'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -106,7 +106,7 @@ Marketo 的电子邮件语法仅在模板和单个电子邮件中生效；如果
 
 示例：
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### 选项 2 — 使用 \&lt;img\> {#option-use-an-img}
 
@@ -128,7 +128,7 @@ Marketo 的电子邮件语法仅在模板和单个电子邮件中生效；如果
 
 ## 代码段 {#snippets}
 
-如果将某个区域定义为片段，最终用户即可选择要在该区域中插入的已批准[片段](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。尽管富文本元素可以在电子邮件编辑器中转换为片段，但如果某个区域被明确指定为片段，则无法再转换为富文本。您可以使用带有 class=&quot;mktoSnippet&quot; 的 `<div>` 来指定片段区域。
+如果您将区域定义为代码片段，最终用户将能够选择要插入此区域的已批准[代码片段](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 尽管富文本元素可以在电子邮件编辑器中转换为片段，但如果某个区域被明确指定为片段，则无法再转换为富文本。您可以使用带有 class=&quot;mktoSnippet&quot; 的 `<div>` 来指定片段区域。
 
 所需属性
 
@@ -370,4 +370,4 @@ Marketo 的电子邮件语法仅在模板和单个电子邮件中生效；如果
 
 >[!CAUTION]
 >
->容器中只能包含模块——如果包含其他任何内容，该容器将被视为无效！每个模板只允许包含一个容器。
+>容器只能包含模块 — 如果存在其他内容，则将容器视为无效。 每个模板只允许包含一个容器。
