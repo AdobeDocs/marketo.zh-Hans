@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
+source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
 workflow-type: tm+mt
-source-wordcount: '9129'
+source-wordcount: '9132'
 ht-degree: 99%
 
 ---
@@ -61,6 +61,7 @@ ht-degree: 99%
    + Marketo人工智能 {#marketo-ai}
       + [概述](product-docs/marketo-ai/overview.md)
       + [设置和设置](product-docs/marketo-ai/settings-setup.md)
+      + [设置和设置](product-docs/marketo-ai/settings-setup-new.md)
       + 代理 {#agents}
          + [导入潜在客户](product-docs/marketo-ai/agents/import-leads.md)
          + [项目QA](product-docs/marketo-ai/agents/program-qa.md)
@@ -995,7 +996,7 @@ ht-degree: 99%
             + [个性化您的品牌](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
             + [品牌一致性](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
