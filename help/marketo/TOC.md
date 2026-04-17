@@ -996,7 +996,7 @@ ht-degree: 99%
             + [个性化您的品牌](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
             + [品牌一致性](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 ](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
