@@ -3,9 +3,9 @@ description: 了解如何启用Marketo AI权限、配置组织规则以及管理
 title: 设置和设置
 hide: true
 hidefromtoc: true
-source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
+source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '491'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 ## 权限和角色 {#permission-and-role}
 
-有一个具有AI _权限的_&#x200B;访问内部版本，以及一个具有AI _角色的_&#x200B;内部版本，这赋予管理员更大的控制权，以控制哪些用户可以访问具有AI **功能的**&#x200B;内部版本。 权限在角色级别分配。 默认情况下，_具有AI_&#x200B;角色的生成附带启用了&#x200B;_具有AI_&#x200B;权限的访问生成。
+有一个具有AI _权限的_&#x200B;访问内部版本，以及一个具有AI用户&#x200B;_角色的_&#x200B;内部版本，这赋予管理员更大的控制权，以控制哪些用户可以访问具有AI **功能的**&#x200B;内部版本。 权限在角色级别分配。 默认情况下，_具有AI用户的内部版本_&#x200B;角色附带启用了AI _权限的_&#x200B;访问内部版本。
 
 >[!IMPORTANT]
 >
@@ -79,6 +79,10 @@ ht-degree: 2%
 
 按照以下步骤将特定用户分配给&#x200B;_使用AI用户构建_&#x200B;角色。
 
+>[!NOTE]
+>
+>此角色&#x200B;**仅**&#x200B;包含具有AI _权限的_&#x200B;访问生成。 如果您希望用户不仅能够访问Marketo AI，请务必添加其他权限。
+
 1. 在“我的Marketo”中，单击&#x200B;**管理员**，然后单击&#x200B;**用户和角色**。
 
    ![](assets/settings-setup-1.png)
@@ -93,7 +97,7 @@ ht-degree: 2%
 
 ### 自定义角色 {#custom-role}
 
-您还可以选择[创建新角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_使用AI访问Build_&#x200B;以及您需要的任何其他内容，并[将该角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
+您还可以选择[创建新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_使用AI访问Build_&#x200B;以及您需要的任何其他内容，并[将该角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
 
 ## 设置 {#settings}
 
