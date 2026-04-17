@@ -3,9 +3,9 @@ description: 了解如何启用Marketo AI权限、配置组织规则以及管理
 title: 设置和设置
 hide: true
 hidefromtoc: true
-source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
+source-git-commit: 2e7e068ac53c9f26075d700822fc1f89274dddbe
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '471'
 ht-degree: 2%
 
 ---
@@ -22,38 +22,14 @@ ht-degree: 2%
 >
 >默认情况下，并非所有角色都启用&#x200B;_具有AI_&#x200B;权限的访问生成。 有关详细信息，请参阅下表。
 
-<table><thead>
-  <tr>
-    <th>角色</th>
-    <th>默认状态</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>管理员</td>
-    <td>已启用</td>
-  </tr>
-  <tr>
-    <td>Adobe产品管理员</td>
-    <td>已启用</td>
-  </tr>
-  <tr>
-    <td>营销用户</td>
-    <td>已禁用</td>
-  </tr>
-  <tr>
-    <td>标准用户</td>
-    <td>不可用</td>
-  </tr>
-  <tr>
-    <td>使用AI用户构建</td>
-    <td>已启用</td>
-  </tr>
-  <tr>
-    <td>自定义角色</td>
-    <td>已禁用</td>
-  </tr>
-</tbody>
-</table>
+| 角色 | 默认状态 |
+| --- | --- |
+| 管理员 | 已启用 |
+| Adobe产品管理员 | 已启用 |
+| 营销用户 | 已禁用 |
+| 标准用户 | 不可用 |
+| 使用AI用户构建 | 已启用 |
+| 自定义角色 | 已禁用 |
 
 ### 使用AI权限访问生成 {#access-build-with-ai-permission}
 
@@ -81,7 +57,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->此角色&#x200B;**仅**&#x200B;包含具有AI _权限的_&#x200B;访问生成。 如果您希望用户不仅能够访问Marketo AI，请务必添加其他权限。
+>此角色&#x200B;**仅**&#x200B;包含具有AI _权限的_&#x200B;访问生成。
 
 1. 在“我的Marketo”中，单击&#x200B;**管理员**，然后单击&#x200B;**用户和角色**。
 
@@ -97,7 +73,7 @@ ht-degree: 2%
 
 ### 自定义角色 {#custom-role}
 
-您还可以选择[创建新角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_使用AI访问Build_&#x200B;以及您需要的任何其他内容，并[将该角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
+您还可以选择[创建新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_使用AI访问Build_&#x200B;以及您需要的任何其他内容，并[将该角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
 
 ## 设置 {#settings}
 
