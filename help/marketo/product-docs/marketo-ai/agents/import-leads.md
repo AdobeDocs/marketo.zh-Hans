@@ -1,12 +1,13 @@
 ---
 description: 了解如何使用导入商机代理上传CSV、应用业务规则、映射字段并将商机直接导入Marketo Engage数据库。
 title: 导入潜在客户
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,10 @@ ht-degree: 0%
 # 导入潜在客户 {#import-leads}
 
 借助字段映射帮助，将潜在客户列表导入到您的Marketo Engage数据库中并进行重复数据删除。
+
+>[!NOTE]
+>
+>此功能处于公开Beta测试阶段，当前在接下来的几个月内分阶段推出。 当您在“我的Marketo”屏幕上看到带有AI的&#x200B;_Build_&#x200B;拼贴时，便知道您的订阅何时启用了它。
 
 ## 使用方法 {#how-to-use}
 
