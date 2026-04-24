@@ -1,14 +1,12 @@
 ---
 description: 探索旨在自动执行营销任务（如项目QA、商机导入、数据标准化等）的Marketo Engage AI代理套件。
 title: Marketo Engage AI概述
-beta: true
-hide: true
-hidefromtoc: true
+badge: Beta 版
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +18,7 @@ Marketo Engage AI提供了一系列代理，这些代理用于自动执行繁琐
 >
 >此功能处于公开Beta测试阶段，当前在接下来的几个月内分阶段推出。 当您在“我的Marketo”屏幕上看到带有AI的&#x200B;_Build_&#x200B;拼贴时，便知道您的订阅何时启用了它。
 
-## 如何访问  {#access}
+## 如何访问 {#access}
 
 在“我的Marketo”屏幕上，单击&#x200B;**使用AI构建**&#x200B;拼贴。
 
@@ -28,7 +26,7 @@ Marketo Engage AI提供了一系列代理，这些代理用于自动执行繁琐
 
 对话界面提供了一组Agentic功能，这些功能旨在自动执行可显着提高生产力的手动任务。
 
-单击对话框提示区域中的&#x200B;**开始使用**&#x200B;按钮（提示中默认显示“_AI代理开始使用……_”）。
+单击对话框提示区域中的&#x200B;**开始**&#x200B;按钮(“_AI代理开始……_” 缺省情况下处于提示中)。
 
 ![](assets/overview-2.png)
 

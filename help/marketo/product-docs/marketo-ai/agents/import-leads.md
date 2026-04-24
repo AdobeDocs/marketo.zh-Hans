@@ -1,13 +1,11 @@
 ---
 description: 了解如何使用导入商机代理上传CSV、应用业务规则、映射字段并将商机直接导入Marketo Engage数据库。
 title: 导入潜在客户
-beta: true
-hide: true
-hidefromtoc: true
+badge: Beta 版
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
