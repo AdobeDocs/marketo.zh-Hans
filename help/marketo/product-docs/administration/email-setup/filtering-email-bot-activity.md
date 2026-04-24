@@ -1,35 +1,35 @@
 ---
-description: 使用IAB列表匹配和邻近模式过滤或记录电子邮件机器人活动，以防止打开次数和点击次数夸大。
+description: Filter or log email bot activity to prevent inflated opens and clicks using IAB list matching and proximity patterns.
 title: 过滤电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '467'
-ht-degree: 2%
+source-wordcount: '475'
+ht-degree: 13%
 
 ---
 
 # 过滤电子邮件机器人活动 {#filtering-email-bot-activity}
 
-有时，电子邮件机器人活动可能会错误地夸大电子邮件打开数和点击数数据。 请按照以下步骤修复此问题。
+Sometimes, email bot activity can erroneously inflate your email opens and clicks data. Follow the steps below to fix that.
 
-我们使用两种不同的方法来确认机器人活动：
+We use two separate methods to confirm bot activity:
 
-* 与[Interactive Advertising Bureau机器人列表](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}匹配：与IAB UA/IP（用户代理/IP地址）列表中的任何内容匹配的活动将被标记为机器人。
-* 与邻近模式匹配：当两个或多个活动同时发生（在一秒之内）时，它们将被识别为机器人。 比较过程中考虑的属性包括：
+* Match with [Interactive Advertising Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Activities that match with anything on the IAB UA/IP (User Agent/IP address) list will be marked as bots.
+* Match with proximity pattern: When two or more activities happen at the same time (in under a second), they&#39;re identified as bots. 比较过程中考虑的属性包括：
    * 商机ID（应相同）
    * 电子邮件资源（应相同）
    * 链接点击或电子邮件打开
    * 时间差（应小于1秒）
 
-针对电子邮件链接点击和电子邮件打开活动，新属性将填充以下值：
+Against email link click and email open activity, new attributes will be populated with the values below:
 
-* 被标识为机器人的活动将具有“机器人活动”作为“真”，“机器人活动模式”作为被标识的模式/方法
-* 被识别为非机器人的活动将具有“机器人活动”作为“False”，“机器人活动模式”作为“N/A”
-* 在引入这些属性之前发生的活动会将“机器人活动”作为“ ”（空），“机器人活动模式”作为“ ”（空）
+* Activities that are identified as bots will have &quot;Bot Activity&quot; as &quot;True&quot; and &quot;Bot Activity Pattern&quot; as the identified pattern/method
+* Activities that are identified as not bots will have &quot;Bot Activity&quot; as &quot;False&quot; and &quot;Bot Activity Pattern&quot; as &quot;N/A&quot;
+* Activities that happened before we introduced these attributes will have &quot;Bot Activity&quot; as &quot; &quot; (empty) and &quot;Bot Activity Pattern&quot; as &quot; &quot; (empty)
 
-## 选择筛选器类型 {#select-filter-type}
+## Select Filter Type {#select-filter-type}
 
 1. 单击 **[!UICONTROL Admin]**。
 
@@ -43,31 +43,31 @@ ht-degree: 2%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 有两个滑块可供选择。 您可以只启用一个或同时启用两者。 如果启用&#x200B;**[!UICONTROL Match with IAB List]**，请选择是[!UICONTROL log bot activity] _还是_ [!UICONTROL filter bot activity]。
+1. There are two sliders to choose from. You can enable just one or both. If you enable **[!UICONTROL Match with IAB List]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. 如果启用&#x200B;**[!UICONTROL Match with Proximity Pattern]**，请选择是[!UICONTROL log bot activity] _还是_ [!UICONTROL filter bot activity]。 您还可以设置&#x200B;**活动之间的持续时间**&#x200B;的秒数（默认值为0，最大值为3）。
+1. If you enable **[!UICONTROL Match with Proximity Pattern]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity]. You can also set the amount of seconds for **Duration Between Activities** (default is 0, max is 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->如果将&#x200B;**Duration Between Activities**&#x200B;设置为0秒，我们将识别在同一秒发生的电子邮件活动。 如果在指定的秒数内发生了多个电子邮件活动，则会将其识别为机器人活动。
+>With **Duration Between Activities** set to 0 seconds, we will identify email activities that are happening at the exact same second. If multiple email activities happen within the designated amount of seconds, it will be identified as bot activity.
 
 >[!IMPORTANT]
 >
->* 如果选择[!UICONTROL Filter Bot Activity]，您可能会看到电子邮件打开次数和点击次数出现下降，因为false活动被淘汰。
+>* If you choose [!UICONTROL Filter Bot Activity], you may see a drop in email opens and clicks as false activities are weeded out.
 
-**可选步骤**：要禁用任一功能，只需取消选择相应的滑块即可。 如果这样做，数据将不会重置。
+**OPTIONAL STEP**: To disable either feature, simply deselect the respective slider. 如果这样做，数据将不会重置。
 
 >[!TIP]
 >
->通过“电子邮件中的点击链接”和“打开电子邮件”过滤器中的“是机器人活动”布尔值（是/否）和“机器人活动模式”，以及“电子邮件中的点击链接”和“打开电子邮件”触发器中的“是机器人活动”数据，利用智能列表中的机器人活动数据。
+>Leverage bot activity data in Smart Lists via &quot;Is Bot Activity&quot; boolean (yes/no) and &quot;Bot Activity Pattern&quot; in the &quot;Clicked Link in Email&quot; and &quot;Open Email&quot; filters, and &quot;Clicks Link in Email&quot; and &quot;Opens Email&quot; triggers.
 
 ## IP阻止列表 {#ip-blocklist}
 
-我们整理了一个IP地址列表，这些地址负责生成数百万个虚假参与，因为从以下任何IP收到的此类参与会被自动过滤掉，而不会添加到您的Marketo Engage实例中。 这可能会导致电子邮件打开次数、点击次数和其他相关活动减少。 以下列表可能会定期更新。
+We&#39;ve compiled a list of IP addresses that are responsible for generating millions of fake engagements, as such engagement received from any of the following IPs is automatically filtered out and not added to your Marketo Engage Instance. This may result in a reduction in email opens, clicks, and other related activities. The list below may be updated periodically.
 
 * 40.94.34.52
 * 40.94.34.86
@@ -123,4 +123,4 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->在将IP地址添加到此列表之前，我们会仔细分析和审查每个IP地址，确保仅阻止最关键和最有害的IP地址。
+>We meticulously analyze and scrutinize every IP address before adding it to this list, ensuring only the most critical and harmful IPs are blocked.
