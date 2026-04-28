@@ -17,7 +17,7 @@ ht-degree: 22%
 
 >[!IMPORTANT]
 >
->SOAP API [将于2026年7月31日被弃用](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)。 建议改用[REST API](https://developer.adobe.com/marketo-apis/)。
+>SOAP API [将于2026年7月31日被弃用](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/soap/soap-api)。 建议改用[REST API](https://developer.adobe.com/marketo-apis/)。
 
 >[!NOTE]
 >
