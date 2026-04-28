@@ -4,9 +4,9 @@ description: 将Adobe Connect添加为LaunchPoint服务，以便Marketo管理网
 title: 将Adobe Connect添加为 [!DNL LaunchPoint] 服务
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '183'
 ht-degree: 7%
 
 ---
@@ -53,7 +53,7 @@ Marketo管理您的Adobe Connect网络研讨会注册和出席情况。
 
    >[!TIP]
    >
-   >创建参与者密码时，您选择的值将在发送事件链接时包含在查询字符串中。 因此，我们建议您使其对客户友好。
+   >创建参与者密码时，您选择的值将在发送事件链接时包含在查询字符串中。 建议您将它设为对客户友好的版本。
 
    >[!NOTE]
    >

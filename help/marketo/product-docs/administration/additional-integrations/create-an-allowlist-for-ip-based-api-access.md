@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098433
-description: Restrict API access to specific IP addresses or ranges via Admin Web Services IP Restrictions.
+description: 通过管理员Web服务IP限制将API访问限制为特定的IP地址或范围。
 title: 为基于 IP 的 API 访问创建允许列表
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: d0c8f8d5dda0747a83e4a76004863c650998c75f
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '161'
 ht-degree: 15%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 15%
 
 >[!CAUTION]
 >
->启用此功能会阻止您此时访问[Marketo MCP服务器](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server){target="_blank"}。 此问题将在即将发布的版本中修复。
+>启用此功能会阻止您此时访问[Marketo MCP服务器](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"}。 预计此问题将在即将发布的版本中解决。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 

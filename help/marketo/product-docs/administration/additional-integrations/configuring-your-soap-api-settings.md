@@ -2,20 +2,22 @@
 unique-page-id: 2360352
 description: 在Admin Web Services中为开发人员设置SOAP API加密密钥并获取端点详细信息。
 title: 配置 SOAP API 设置
+hide: true
+hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 24%
+source-wordcount: '96'
+ht-degree: 22%
 
 ---
 
 # 配置 SOAP API 设置 {#configuring-your-soap-api-settings}
 
->[!NOTE]
+>[!IMPORTANT]
 >
->我们建议使用REST API。 在[developer.adobe.com](https://developer.adobe.com/marketo-apis/)上了解详情。
+>SOAP API [将于2026年7月31日被弃用](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)。 建议改用[REST API](https://developer.adobe.com/marketo-apis/)。
 
 >[!NOTE]
 >
@@ -35,8 +37,4 @@ ht-degree: 24%
 
 >[!CAUTION]
 >
->您的SOAP端点和[!UICONTROL User ID]将是唯一的；请勿将本文中的屏幕快照发送给您的开发人员。
-
->[!MORELIKETHIS]
->
->[SOAP API文档](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/soap/soap-api)
+>您的SOAP端点和[!UICONTROL User ID]是唯一的；请勿将本文中的屏幕快照发送给您的开发人员。

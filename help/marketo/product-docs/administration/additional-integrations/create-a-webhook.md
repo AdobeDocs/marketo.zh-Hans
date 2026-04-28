@@ -4,9 +4,9 @@ description: 在管理员中创建webhook，以调用短信、人员数据等第
 title: 创建 [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '202'
 ht-degree: 3%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 3%
 
    * **[!UICONTROL URL]**：输入在对Web服务的请求中使用的URL。 要在您的请求中插入令牌，如人员的电子邮件地址(**`{{lead.Email Address}}`**)，请单击&#x200B;**[!UICONTROL Insert Token]**。
 
-   * **[!UICONTROL Template]**：如果您希望在请求正文中传输信息，请通过有效负荷模板输入。 允许用于以下请求类型的模板：POST、DELETE、PATCH或PUT。 您可以使用数据格式，如JSON或XML。 要在模板中插入令牌，请单击&#x200B;**[!UICONTROL Insert Token]**。
+   * **[!UICONTROL Template]**：如果要在请求正文中传输信息，请通过有效负荷模板输入。 允许用于以下请求类型的模板：POST、DELETE、PATCH或PUT。 您可以使用数据格式，如JSON或XML。 要在模板中插入令牌，请单击&#x200B;**[!UICONTROL Insert Token]**。
 
    * **[!UICONTROL Request Token Encoding]**：如果令牌值包含特殊字符（例如&amp;符号），请指示您的请求格式（**JSON**&#x200B;或&#x200B;**表单/URL**）。
 
@@ -51,4 +51,4 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->在[[!DNL Webhooks]](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}深入了解中了解详情。
+>在[[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}深入了解中了解详情。

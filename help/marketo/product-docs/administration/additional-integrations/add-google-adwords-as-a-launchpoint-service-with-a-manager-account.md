@@ -4,16 +4,16 @@ description: 使用LaunchPoint中的经理帐户将多个 [!DNL Google AdWords] 
 title: 添加 [!DNL Google AdWords] 作为经理帐户的 [!DNL Launchpoint] 服务
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '292'
 ht-degree: 7%
 
 ---
 
 # 使用经理帐户添加[!DNL Google AdWords]作为[!DNL Launchpoint]服务 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-将您的[!DNL Google AdWords]帐户关联到Marketo以自动将离线转化数据从Marketo上传到[!DNL Google AdWords]。 然后，在[!DNL AdWords]中[添加自定义列](https://support.google.com/adwords/answer/3073556){target="_blank"}后，您将能够从[!DNL AdWords] UI中轻松查看哪些点击导致合格的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。 此信息不显示在Marketo UI中。
+将您的[!DNL Google AdWords]帐户关联到Marketo以自动将离线转化数据从Marketo上传到[!DNL Google AdWords]。 然后，在[!DNL AdWords]中[添加自定义列](https://support.google.com/adwords/answer/3073556){target="_blank"}后，您可以从[!DNL AdWords] UI中查看哪些点击导致合格的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。 此信息不显示在Marketo UI中。
 
 如果您有多个[!DNL Google Adwords]帐户，则可以使用[[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"}（以前称为[!DNL My Client Center]）将它们与Marketo集成。
 
@@ -63,7 +63,7 @@ ht-degree: 7%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-7.png)
 
-1. 状态将显示为&#x200B;**[!UICONTROL Success]**。 选择 **[!UICONTROL Next]**。
+1. 状态为&#x200B;**[!UICONTROL Success]**。 选择 **[!UICONTROL Next]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 
@@ -92,7 +92,7 @@ ht-degree: 7%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   现在，请参阅下面的相关文章，了解如何在收入模型中映射[!DNL AdWords]离线转化。
+   请参阅下面的相关文章，了解如何在收入模型中映射[!DNL AdWords]离线转化。
 
    >[!MORELIKETHIS]
    >

@@ -4,10 +4,10 @@ description: 将Marketo [!DNL Munchkin] JavaScript添加到您的网站以跟踪
 title: 将 [!DNL Munchkin] 跟踪代码添加到您的网站
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 3%
+source-wordcount: '652'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
 >[!PREREQUISITES]
 >
->请确保您有权访问经验丰富的JavaScript开发人员。 Marketo技术支持未设置为协助对自定义JavaScript进行故障诊断。
+>确保您有权访问经验丰富的JavaScript开发人员。 Marketo技术支持未设置为协助对自定义JavaScript进行故障诊断。
 
 ## 将跟踪代码添加到您的网站 {#add-tracking-code-to-your-website}
 
@@ -33,7 +33,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. 为&#x200B;**[!UICONTROL Asynchronous]**&#x200B;选择&#x200B;**[!UICONTROL Tracking Code Type]**。
+1. 为&#x200B;**[!UICONTROL Tracking Code Type]**&#x200B;选择&#x200B;**[!UICONTROL Asynchronous]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
@@ -41,13 +41,13 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
    >
    >在大多数情况下，您应使用异步代码。 [了解详情](#types-of-munchkin-tracking-codes)。
 
-1. 单击并复制Javascript跟踪代码以放置到您的网站上。
+1. 复制JavaScript跟踪代码以添加到您的网站。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-4.png)
 
    >[!CAUTION]
    >
-   >请勿使用此屏幕快照中显示的代码 — 您必须使用帐户中显示的唯一代码！
+   >请勿使用此屏幕快照中显示的代码 — 您必须使用帐户中显示的唯一代码。
 
    >[!TIP]
    >
@@ -59,7 +59,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    >[!TIP]
    >
-   >对于访问量大的网站（即每月访问数十万次），我们建议您选择不跟踪匿名人员。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}。
+   >对于访问量大的网站（即每月访问数十万次），建议您不要跟踪匿名人员。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}。
 
 ## 使用多个工作区时添加跟踪代码 {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -79,21 +79,21 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    >[!NOTE]
    >
-   >如果不使用特殊工作区[!DNL Munchkin]代码，则将向帐户设置时创建的默认分区分配用户。 它最初名为“[!UICONTROL Default]”，但您可能已在自己的Marketo帐户中更改了名称。
+   >如果不使用特殊工作区[!DNL Munchkin]代码，则将向帐户设置时创建的默认分区分配用户。 默认情况下，它名为“[!UICONTROL Default]”，但此名称可能已更改。
 
-1. 为&#x200B;**[!UICONTROL Asynchronous]**&#x200B;选择&#x200B;**[!UICONTROL Tracking Code Type]**。
+1. 为&#x200B;**[!UICONTROL Tracking Code Type]**&#x200B;选择&#x200B;**[!UICONTROL Asynchronous]**。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
-1. 单击并复制JavaScript跟踪代码以放置到您的网站上。
+1. 复制JavaScript跟踪代码以添加到您的网站。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-10.png)
 
    >[!CAUTION]
    >
-   >请勿使用此屏幕快照中显示的代码 — 您必须使用帐户中显示的唯一代码！
+   >请勿使用此屏幕快照中显示的代码 — 您必须使用帐户中显示的唯一代码。
 
-1. 将跟踪代码放在网页的`<head>`元素中。 访问此页面的新用户将分配给此分区。
+1. 将跟踪代码放在网页的`<head>`元素中。 访问此页面的新用户已分配给此分区。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-11.png)
 
@@ -103,7 +103,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
    >[!NOTE]
    >
-   >在Marketo中创建的登陆页面会自动包含跟踪代码，因此您无需在其上放置此代码。
+   >在Marketo中创建的登陆页面会自动包含跟踪代码。 您无需将此代码添加到其中。
 
 ## [!DNL Munchkin]跟踪代码的类型 {#types-of-munchkin-tracking-codes}
 

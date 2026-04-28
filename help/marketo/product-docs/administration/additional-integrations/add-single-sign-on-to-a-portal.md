@@ -4,20 +4,20 @@ description: 启用SAML 2.0单点登录，以便您的身份提供程序为Marke
 title: 为门户添加单点登录
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 5%
+source-wordcount: '620'
+ht-degree: 6%
 
 ---
 
 # 为门户添加单点登录 {#add-single-sign-on-to-a-portal}
 
-如果您的目录服务对用户进行身份验证，则可以允许单点登录(SSO)进入Marketo。 我们使用[!DNL Security Assertion Markup Language] (SAML)版本2.0及更高版本支持此功能。
+如果您的目录服务对用户进行身份验证，则可以允许单点登录(SSO)进入Marketo。 Marketo使用[!DNL Security Assertion Markup Language] (SAML)版本2.0及更高版本支持此功能。
 
 Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)对用户进行身份验证。
 
-启用SSO后，IdP可以验证用户的凭据。 当用户希望使用Marketo软件时，IdP随后会向Marketo发送一条签名的SAML消息，充当SP。 此消息向Marketo保证用户有权使用Marketo软件。
+启用SSO后，IdP可以验证用户的凭据。 当用户希望使用Marketo软件时，IdP随后会向Marketo发送一条签名的SAML消息，充当SP。 此消息向Marketo确认用户有权使用Marketo软件。
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
 >[!IMPORTANT]
 >
->这&#x200B;**不**&#x200B;适用于登记到Adobe Identity的订阅。 以前设置可能会显示（在IMS迁移之前显示的），但不再适用。 对于登记到Adobe Identity的订阅，将在Adobe Admin Console中的Adobe组织级别设置单点登录。 [在此处了解详情](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
+>这&#x200B;**不**&#x200B;适用于登记到Adobe Identity的订阅。 以前设置可能会显示（在IMS迁移之前显示的），但不再适用。 对于登记到Adobe Identity的订阅，在Adobe Admin Console中的Adobe组织级别设置了[单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
->您是[!DNL Microsoft Azure]用户吗？ 查看他们的[集成教程](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}。 仅供参考，其教程的步骤5c中存在打字错误。 请将中继状态设置为`https://<munchkinid>.mktoweb.com`，**_不是_** `https://<munchkinid>.marketo.com`。
+>您是[!DNL Microsoft Azure]用户吗？ 查看他们的[集成教程](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}。 请注意，其教程的步骤5c中存在打字错误。 将中继状态设置为`https://<munchkinid>.mktoweb.com`，**_不是_** `https://<munchkinid>.marketo.com`。
 
 ## 如何发送请求 {#how-to-send-the-request}
 
@@ -48,7 +48,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 * **用户设置** - Marketo手动设置用户。
 * **授权** - Marketo中维护用户权限。
 * **OAuth支持** - Marketo当前不支持OAuth。
-* **自动用户传播** — 也称为“准时预配”，这是指用户首次SAML登录时能够在他们访问的任何网络应用程序（例如Marketo）中创建用户，并且无需手动管理操作的情况。 目前Marketo不支持此功能。
+* **自动用户传播** — 也称为“准时预配”，这是当用户首次SAML登录能够在他们访问的任何网络应用程序（例如Marketo）中创建用户，并且无需手动管理操作时。 目前Marketo不支持此功能。
 * **加密** - Marketo当前不支持加密。
 
 >[!NOTE]
@@ -69,7 +69,7 @@ Marketo可充当SAML服务提供商(SP)，并依赖外部身份提供程序(IdP)
 
    >[!NOTE]
    >
-   >如果在&#x200B;**[!UICONTROL Single Sign-On]**&#x200B;下未看到&#x200B;**[!UICONTROL Admin]**，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
+   >如果在&#x200B;**[!UICONTROL Admin]**&#x200B;下未看到&#x200B;**[!UICONTROL Single Sign-On]**，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
 
 1. 在&#x200B;**[!UICONTROL SAML Settings]**&#x200B;部分下，单击&#x200B;**[!UICONTROL Edit]**。
 

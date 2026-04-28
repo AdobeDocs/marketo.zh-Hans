@@ -4,16 +4,16 @@ description: 为ReST API集成创建链接到仅API用户的自定义LaunchPoint
 title: 创建用于 ReST API 的自定义服务
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 19%
+source-wordcount: '150'
+ht-degree: 24%
 
 ---
 
 # 创建用于 ReST API 的自定义服务 {#create-a-custom-service-for-use-with-rest-api}
 
-如果您要通过ReST API与Marketo集成，则需要创建自定义服务。 操作方法如下：
+如果要通过ReST API与Marketo集成，请创建自定义服务。
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 19%
 
 >[!TIP]
 >
->有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请查看我们的开发人员文档。 如果您需要，我们还有[SOAP API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/soap/soap-api)。
+>有关[REST API](https://developer.adobe.com/marketo-apis/)的详细信息，请参阅开发人员文档。
 
 ## 创建自定义服务 {#create-custom-service}
 
@@ -47,15 +47,11 @@ ht-degree: 19%
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
-   >[!NOTE]
-   >
-   >请注意，我们已经对常见网络研讨会服务进行了本机集成。
-
 1. 单击 **[!UICONTROL Create]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   哦，太好了！ 服务现已创建，让我们继续获取所有凭据以提供访问权限。
+   现已创建该服务。 检索凭据以提供访问权限。
 
 ## 用于访问API的凭据 {#credentials-for-api-access}
 
@@ -67,7 +63,7 @@ ht-degree: 19%
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. 单击上面创建的自定义&#x200B;**[!UICONTROL View Details]**&#x200B;服务的[!UICONTROL LaunchPoint]。
+1. 单击上面创建的自定义[!UICONTROL LaunchPoint]服务的&#x200B;**[!UICONTROL View Details]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
@@ -81,4 +77,4 @@ ht-degree: 19%
 
 >[!CAUTION]
 >
->不要共享此信息；这是您数据的后门。 保持安全！
+>不要共享此信息，因为它提供了对数据的访问。
