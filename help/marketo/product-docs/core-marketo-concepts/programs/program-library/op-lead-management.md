@@ -3,10 +3,10 @@ description: 潜在客户管理运营计划模板。 使用它来管理潜在客
 title: OP-潜在客户管理
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 7%
+source-wordcount: '279'
+ht-degree: 8%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 7%
 >
 >在Marketo Engage中，数据库中的记录称为人员/人员。 此示例中的商机管理是引用CRM中的记录。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html)页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)页面。
 
 ## 渠道摘要 {#channel-summary}
 

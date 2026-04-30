@@ -3,10 +3,10 @@ description: 客户获取API操作程序模板。 使用它通过API捕获潜在
 title: OP-客户获取-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '182'
+ht-degree: 8%
 
 ---
 
@@ -86,4 +86,4 @@ ht-degree: 6%
 
 * 考虑使用类似的程序，以确保与所有输入源的最佳实践保持一致，以包括您的CRM或数据集成。
 
-* 在特定于渠道的营销计划中，请务必根据需要捕获客户获取。
+* 在特定于渠道的渠道营销计划中，确保根据需要捕获客户获取。

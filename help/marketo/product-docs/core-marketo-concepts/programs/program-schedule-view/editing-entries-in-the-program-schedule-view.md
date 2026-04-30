@@ -4,10 +4,10 @@ description: 了解如何在项目计划视图中编辑条目。 更改计划项
 title: 在项目计划视图中编辑条目
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 9%
+source-wordcount: '143'
+ht-degree: 10%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 9%
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. 太棒了！ 您的描述现已更改。
+1. 已更新描述。
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
@@ -49,7 +49,7 @@ ht-degree: 9%
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-你摇滚！ 现在，输入的日期已移至新日期。
+已更新输入的日期。
 
 >[!NOTE]
 >

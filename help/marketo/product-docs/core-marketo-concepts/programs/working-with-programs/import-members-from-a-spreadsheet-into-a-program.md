@@ -4,7 +4,7 @@ description: 了解如何将成员从电子表格导入程序。
 title: 从电子表格导入成员到项目
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 11%
@@ -59,7 +59,7 @@ ht-degree: 11%
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
-   太棒了！ 您应该会看到导入的新成员。
+   此时应会显示新成员。
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 

@@ -3,10 +3,10 @@ description: 网络研讨会计划模板。 将其用于具有标准命名约定
 title: WBN-YYYY-MM-DD-网络研讨会项目
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 15%
+source-wordcount: '621'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 这是一个网络研讨会计划示例，其中具有注册管理、三封邀请电子邮件、提醒参加以及利用Marketo Engage活动计划的后续电子邮件。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -194,7 +194,7 @@ ht-degree: 15%
   <tr>
    <td>文本</td>
    <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
-   <td>my.DownloadURL?without=http:// </td>
+   <td>my.DownloadURL？不带=http:// </td>
   </tr>
   <tr>
    <td>文本</td>
@@ -245,17 +245,17 @@ ht-degree: 15%
   <tr>
    <td>文本</td>
    <td><code>{{my.PageURL-Download}}</code></td>
-   <td>my.DownloadURL?without=http://</td>
+   <td>my.DownloadURL？不带=http://</td>
   </tr>
   <tr>
    <td>文本</td>
    <td><code>{{my.PageURL-Registration}}</code></td>
-   <td>my.RegistrationPageURL?without=http://</td>
+   <td>my.RegistrationPageURL？不带=http://</td>
   </tr>
    <tr>
    <td>文本</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
+   <td>my.ThankYouPageURL？不带=http://</td>
   </tr>
   <tr>
    <td>文本</td>
@@ -310,7 +310,7 @@ ht-degree: 15%
 
 ## 最佳实践 {#best-practices}
 
-* 如果您使用的是集成的网络研讨会提供商，请不要忘记将Marketo Engage程序连接到托管系统中的网络研讨会。
+* 如果您使用的是集成网络研讨会提供商，请将Marketo Engage程序连接到托管系统中的网络研讨会。
 
 * 导入网络研讨会程序后，将表单从本地资产移动到位于Design Studio中的全局资产。
    * 减少表单数量并利用Design Studio中的更多全局资产，可在程序设计和管理中实现更大的可扩展性。 它还提供了灵活性，可以定期更新字段、选择加入语言等的合规性。
@@ -325,7 +325,7 @@ ht-degree: 15%
 
 >[!TIP]
 >
->不要忘记激活“05 — 已参加（项目成功）”活动以跟踪成功！ 请在发送电子邮件前&#x200B;_执行_&#x200B;操作。
+>在发送电子邮件之前，激活“05 — 已参加（项目成功）”活动以跟踪成功。
 
 >[!IMPORTANT]
 >

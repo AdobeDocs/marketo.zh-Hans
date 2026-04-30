@@ -4,10 +4,10 @@ description: 了解如何管理和查看项目群成员。 查看项目中的人
 title: 管理和查看成员
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 6%
 
 ---
 
@@ -79,11 +79,9 @@ ht-degree: 5%
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   这可能需要花些时间。 全部完成后，您将看到以下消息！
+   这可能需要花些时间。 进程完成后，将显示以下消息。
 
    ![](assets/changestatusconfirm.png)
-
-功能很多，但都非常简单。 祝您使用愉快！
 
 >[!MORELIKETHIS]
 >

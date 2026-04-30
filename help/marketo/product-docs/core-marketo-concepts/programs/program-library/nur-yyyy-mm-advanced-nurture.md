@@ -3,10 +3,10 @@ description: 高级培养计划模板。 使用它通过命名惯例进行多流
 title: NUR-YYYY-MM-高级培养
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 10%
+source-wordcount: '508'
+ht-degree: 11%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 10%
 
 这是利用Marketo Engage参与计划的高级培养计划示例。 嵌套电子邮件程序阻止用户接收他们已使用的内容，或控制他们应在每个流中使用的内容类型。 可以为每个嵌套电子邮件程序运行归因报表。 渠道：“Nurture”以及嵌套电子邮件程序的专用“Nurture电子邮件”渠道使用Marketo Engage电子邮件程序发送一封新闻稿电子邮件。 电子邮件可以包含或不包含A/B测试。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -213,4 +213,4 @@ ht-degree: 10%
 
 >[!TIP]
 >
->不要忘记激活“04 — 参与（项目成功）”营销活动以跟踪成功！ 请在发送电子邮件前&#x200B;_执行_&#x200B;操作。
+>在发送电子邮件之前，激活“04 — 参与（项目成功）”营销活动以跟踪成功。

@@ -3,10 +3,10 @@ description: 新闻稿计划模板。 将其用于具有标准命名的定期电
 title: NL-YYYY-MM-新闻稿
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 8%
+source-wordcount: '293'
+ht-degree: 10%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 此示例利用Marketo Engage电子邮件计划发送一封新闻稿电子邮件。 电子邮件可以包含或不包含A/B测试。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -144,4 +144,4 @@ ht-degree: 8%
 
 >[!TIP]
 >
->不要忘记激活“01参与”营销活动以跟踪成功！ _before_&#x200B;执行此操作您的表单已上线且已发送电子邮件。
+>激活“01参与”营销活动以在您的表单上线并发送电子邮件之前跟踪成功。

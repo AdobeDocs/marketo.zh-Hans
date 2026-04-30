@@ -4,10 +4,10 @@ description: 了解如何在程序中使用标记。 添加标记以组织项目
 title: 在项目中使用标签
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 16%
+source-wordcount: '163'
+ht-degree: 15%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 16%
 
    ![](assets/use-tags-in-a-program-4.png)
 
-1. 好极了。 您将在画布中看到新标记。
+1. 新标记现在显示在画布中。
 
    ![](assets/use-tags-in-a-program-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 16%
 
    ![](assets/use-tags-in-a-program-8.png)
 
-1. 太棒了！ 您应该会看到所做的编辑反映在画布中。
+1. 编辑内容现在应反映在画布中。
 
    ![](assets/use-tags-in-a-program-9.png)
 
@@ -69,4 +69,4 @@ ht-degree: 16%
 
    ![](assets/use-tags-in-a-program-11.png)
 
-做得不错！具有一致标记的程序可让您在运行报表时更轻松。
+具有一致标记的程序可以提高报告效率。

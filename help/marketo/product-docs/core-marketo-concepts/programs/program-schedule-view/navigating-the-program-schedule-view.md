@@ -4,10 +4,10 @@ description: 了解如何在“项目计划视图”中导航。 浏览时间并
 title: 浏览项目计划视图
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 7%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 6%
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   现在，您将查看项目的计划视图。
+   此时将显示项目的计划视图。
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -38,8 +38,6 @@ ht-degree: 6%
 1. 在条目详细信息中，单击箭头可移至下一个计划条目。
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
-
-   很酷吧？
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
@@ -60,8 +58,6 @@ ht-degree: 6%
 1. 您可以单击右上角的屏幕图标，以全屏模式查看项目计划。
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
-
-太棒了！ 现在您已经知道如何查看程序，让我们学习它还可以执行的其他有趣操作。
 
 >[!MORELIKETHIS]
 >

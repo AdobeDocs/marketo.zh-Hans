@@ -3,10 +3,10 @@ description: 贸易展览计划模板。 将其用于命名一致的事件和商
 title: TS-YYYY-MM-DD-展会项目
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 11%
+source-wordcount: '440'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 这是一个贸易展项目示例，其中的邀请和跟进电子邮件利用Marketo Engage活动项目。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -31,9 +31,9 @@ ht-degree: 11%
    <td>01 — 已邀请
    <br/>02 — 轮候
    <br/>03已注册
-   <br/>04访问过的展位
+   <br/>04访问展位
    <br/>05参与显示活动 — 成功
-   <br/>06参与了Post节目 — 成功</td>
+   <br/>06参与发布展示 — 成功</td>
    <td>包含</td>
    <td>活动</td>
   </tr>
@@ -211,7 +211,7 @@ ht-degree: 11%
 
 >[!TIP]
 >
->不要忘记激活“03 — 通过跟进电子邮件参与（计划成功）”营销活动以跟踪成功！ 请在发送电子邮件前&#x200B;_执行_&#x200B;操作。
+>在发送电子邮件之前，激活“03 — 通过跟进电子邮件参与（计划成功）”营销活动以跟踪成功。
 
 >[!IMPORTANT]
 >

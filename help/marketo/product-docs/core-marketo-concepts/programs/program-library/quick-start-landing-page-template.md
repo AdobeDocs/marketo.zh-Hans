@@ -3,9 +3,9 @@ description: 快速入门登陆页面模板。 使用它可从模板快速创建
 title: 快速启动登陆页面模板
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '473'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Marketo Engage参考库中的某些入门计划包含一个简单、易于使用
 >
 >详细了解[引导式登陆页面模板](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 区域概要 {#sections-summary}
 

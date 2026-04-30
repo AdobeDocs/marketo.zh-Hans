@@ -4,9 +4,9 @@ description: 了解如何在程序中克隆资源。 创建电子邮件、登陆
 title: 克隆项目中的资源
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '125'
 ht-degree: 13%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 13%
    >
    >您还可以将资产克隆到其他程序。 使用&#x200B;**[!UICONTROL Program]**&#x200B;下拉菜单进行选择。
 
-1. 太棒了！ 您现在应该会看到新的克隆资产。
+1. 新的克隆资产现在应可见。
 
    ![](assets/report.jpg)
 

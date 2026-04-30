@@ -4,16 +4,16 @@ description: 了解如何编辑项目的分析行为设置。 配置如何跟踪
 title: 编辑分析行为设置
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '178'
 ht-degree: 7%
 
 ---
 
 # 编辑分析行为设置 {#edit-analytics-behavior-settings}
 
-您可以在渠道[上的管理员级别设置](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}分析行为，但也可以在项目级别对其进行编辑。 操作方法如下：
+您可以在渠道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}上的管理员级别设置[分析行为，但也可以在项目级别对其进行编辑。 操作方法如下：
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -47,7 +47,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-做得好！ 现在您知道如何在程序级别覆盖分析行为了。
+已在项目级别覆盖分析行为。
 
 >[!NOTE]
 >
