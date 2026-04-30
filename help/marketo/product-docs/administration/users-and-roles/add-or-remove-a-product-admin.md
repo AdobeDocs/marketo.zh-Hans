@@ -14,7 +14,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**系统**&#x200B;管理员仅在Adobe组织级别创建。 如果您认为您需要多个项目，请联系[Adobe支持](https://experienceleague.adobe.com/en/support)。
+>**系统**&#x200B;管理员仅在Adobe组织级别创建。 如果您认为您需要多个项目，请联系[Adobe支持](https://experienceleague.adobe.com/zh-hans/support)。
 
 ## 添加产品管理员 {#add-a-product-admin}
 
