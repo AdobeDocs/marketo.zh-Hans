@@ -3,20 +3,20 @@ description: 了解如何导出所有角色及其权限。
 title: 导出角色和权限
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 19%
+source-wordcount: '85'
+ht-degree: 22%
 
 ---
 
 # 导出角色和权限 {#export-roles-and-permissions}
 
-以下是如何导出所有角色及其权限。
+以下步骤说明了如何导出所有角色及其权限。
 
 >[!NOTE]
 >
->需要管理员权限
+>**需要管理员权限**
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 
@@ -36,7 +36,7 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->确保您的浏览器未阻止来自Marketo的弹出窗口。
+>确保您的浏览器不会阻止来自Marketo的弹出窗口。
 
 数据将导出为CSV，并包含角色、权限以及每个组启用的权限计数。
 

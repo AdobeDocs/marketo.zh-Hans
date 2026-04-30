@@ -4,16 +4,16 @@ description: 了解如何编辑向工作区分配了哪些人员分区。
 title: 将人员分区分配到工作区
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 15%
+source-wordcount: '133'
+ht-degree: 19%
 
 ---
 
 # 将人员分区分配到工作区 {#assign-person-partitions-to-workspaces}
 
-以下是如何编辑人员分区/工作区分配：
+请按照以下步骤编辑人员分区和工作区分配：
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 15%
    >
    >* “[!UICONTROL All Person Partitions]”复选框表示此工作区可以访问系统中的所有人员分区。
    >
-   >* 主人员分区是默认输入所有人员的位置。 使用[流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)或[分配规则](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}来移动人员。
+   >* 主人员分区是默认输入所有人员的位置。 使用[流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)或[分配规则](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}在分区之间移动人员。
 
 1. 单击 **[!UICONTROL Save]**。
 
@@ -56,8 +56,6 @@ ht-degree: 15%
 保存后，您应该会看到所做的更改。
 
 ![](assets/assign-person-partitions-to-workspaces-6.png)
-
-您已成功编辑工作区！
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ description: 在Adobe Admin Console中添加或移除产品管理员的步骤。
 title: 添加或移除产品管理员
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '283'
 ht-degree: 9%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**系统**&#x200B;管理员仅在Adobe组织级别创建。 如果您认为您需要多个项目，请联系[Adobe支持](https://experienceleague.adobe.com/zh-hans/support)。
+>**系统**&#x200B;管理员仅在Adobe组织级别创建。 如果您认为您需要多个项目，请联系[Adobe支持](https://experienceleague.adobe.com/en/support)。
 
 ## 添加产品管理员 {#add-a-product-admin}
 

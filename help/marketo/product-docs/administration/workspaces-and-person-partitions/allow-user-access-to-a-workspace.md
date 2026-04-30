@@ -4,16 +4,16 @@ description: 授予用户访问一个或多个工作区的权限的步骤。
 title: 允许用户访问工作区
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 18%
+source-wordcount: '99'
+ht-degree: 20%
 
 ---
 
 # 允许用户访问工作区 {#allow-user-access-to-a-workspace}
 
-工作区可以出于任何原因（如业务单位或地理位置分离）。 它们分隔了每个团队的资产（智能列表、程序等）。 以下是如何授予用户访问一个或多个工作区的权限。
+工作区可以出于任何原因（如业务单位或地理位置分离）。 它们分隔资产（智能列表、程序等） 每支队伍的。
 
 >[!NOTE]
 >

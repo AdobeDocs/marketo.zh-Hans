@@ -4,10 +4,10 @@ description: 了解如何导出用户和角色列表。
 title: 导出用户和角色列表
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 27%
+source-wordcount: '70'
+ht-degree: 28%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 27%
 >
 >**需要管理员权限**
 
-导出用户和用户角色的完整列表相当容易。 操作方法如下：
+按照以下步骤导出用户和用户角色的完整列表。
 
 1. 前往 **[!UICONTROL Admin]**。
 
@@ -39,6 +39,6 @@ ht-degree: 27%
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   仅此而已，伙计们！ 您应该正在下载新的Excel文件。
+   Excel文件开始下载。
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

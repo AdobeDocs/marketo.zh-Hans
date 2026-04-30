@@ -4,16 +4,16 @@ description: 编辑人员分区名称和工作区分配的步骤。
 title: 编辑现有人员分区
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 19%
+source-wordcount: '85'
+ht-degree: 21%
 
 ---
 
 # 编辑现有人员分区 {#edit-an-existing-person-partition}
 
-人员分区就像拥有第二个（或第三个）数据库。 分区可以连接到一个或多个工作区。 下面是如何编辑分区详细信息。
+人员分区就像拥有第二个（或第三个）数据库。 分区可以连接到一个或多个工作区。
 
 >[!NOTE]
 >
@@ -39,6 +39,6 @@ ht-degree: 19%
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-保存更改后，您应该会看到更新！
+保存更改后，将显示更新。
 
 ![](assets/edit-an-existing-person-partition-5.png)

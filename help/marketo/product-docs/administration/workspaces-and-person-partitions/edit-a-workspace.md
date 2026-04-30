@@ -4,16 +4,16 @@ description: 了解如何更改工作区的Lead分区、主要人员分区和主
 title: 编辑工作区
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
 # 编辑工作区 {#edit-a-workspace}
 
-有时您需要在Workspace中进行更改。 操作十分简单。
+有时您需要在Workspace中进行更改。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->使用[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}来浏览工作区。
+>有关工作区的详细信息，请参阅[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 
@@ -57,7 +57,7 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >您无法更改工作区语言。
+   >无法更改工作区语言。
 
 >[!MORELIKETHIS]
 >
