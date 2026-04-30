@@ -4,16 +4,16 @@ description: 了解如何在营销日历中创建智能列表目标。 使用每
 title: 创建智能列表目标
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '145'
 ht-degree: 10%
 
 ---
 
 # 创建智能列表目标 {#create-a-smart-list-goal}
 
-目标是跟踪进度和激励团队的方法。 它们可以与智能列表结合使用，以跟踪Marketo中的各种内容。 此外，在您设置智能列表目标后，当它在演示文稿中使用时，它将每2小时自动更新一次。
+目标是跟踪进度和激励团队的方法。 它们可与智能列表结合使用，以在Marketo中跟踪各种量度。 此外，设置智能列表目标后，在演示文稿中使用该目标时，它将每2小时自动更新一次。
 
 与演示文稿一样，目标特定于[工作区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
@@ -37,14 +37,14 @@ ht-degree: 10%
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [定义智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)。 可能性是无穷的！
+1. [定义智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)。
 
    ![](assets/mql.png)
 
-1. 设置完智能列表后，单击&#x200B;**[!UICONTROL Close]**&#x200B;按钮并返回上一选项卡。
+1. 配置智能列表后，单击&#x200B;**[!UICONTROL Close]**&#x200B;按钮并返回上一选项卡。
 
    ![](assets/mql2.png)
 
-   看那个！ 已创建您的智能列表目标。
+   已创建智能列表目标。
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)

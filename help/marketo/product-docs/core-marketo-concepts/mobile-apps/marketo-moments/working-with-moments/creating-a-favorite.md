@@ -4,10 +4,10 @@ description: 了解如何在Marketo Moments中创建收藏夹。 在移动应用
 title: 创建收藏夹
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 7%
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 
@@ -26,5 +26,3 @@ ht-degree: 7%
 1. 点按&#x200B;**[!UICONTROL Favorite]**。
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
-
-   就这么多！

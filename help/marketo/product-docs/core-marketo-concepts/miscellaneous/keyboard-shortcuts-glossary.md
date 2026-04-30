@@ -1,18 +1,20 @@
 ---
 unique-page-id: 1147318
 description: 获取有关Marketo键盘快捷键的帮助，以进行区域导航、日历等。 使用快捷方式可在Marketo Engage中更快地移动。
+hide: true
+hidefromtoc: true
 title: 键盘快捷键术语表
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 15%
 
 ---
 
 # 键盘快捷键术语表 {#keyboard-shortcuts-glossary}
 
-你是键盘快捷键使用者吗？ 我们为您提供保障！
+使用这些键盘快捷键可更快速地导航Marketo。
 
 ## 区域导航 {#area-navigation}
 
@@ -41,4 +43,4 @@ ht-degree: 15%
 |---|---|
 | ESC | 关闭弹出窗口 |
 | 返回/输入 | 提交弹出窗口 |
-| Ctrl + Alt/Opt + H | 在表单编辑器中隐藏/取消隐藏字段 |
+| Ctrl + Alt/Opt + H | 在表单编辑器中隐藏或取消隐藏字段 |

@@ -4,7 +4,7 @@ description: 了解如何创建营销日历演示文稿，以便在HDTV上投影
 title: 创建演示
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 7%
@@ -36,7 +36,7 @@ ht-degree: 7%
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   做得好！ 现在您已准备好自定义您的演示文稿。
+   演示文稿现已准备就绪，可以进行自定义。
 
 >[!MORELIKETHIS]
 >

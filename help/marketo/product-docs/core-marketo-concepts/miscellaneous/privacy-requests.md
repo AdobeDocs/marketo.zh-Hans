@@ -2,10 +2,10 @@
 description: 了解如何在Marketo中管理访问和删除的隐私请求。 通过Privacy Service UI或API提交请求并处理消费者数据。
 title: 隐私请求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 15%
+source-wordcount: '371'
+ht-degree: 20%
 
 ---
 
@@ -25,12 +25,10 @@ ht-degree: 15%
 
 您可以通过两种方式提交单个请求以从Marketo Engage访问和删除消费者数据：
 
-* 通过Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 请参阅[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hans#){target="_blank"}的文档。
+* 通过Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 请参阅[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html#){target="_blank"}的文档。
 * 通过Privacy Service API。 请参阅[此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}的文档和[此处](https://developer.adobe.com/experience-platform-apis/){target="_blank"}的 API 信息。
 
 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hans){target="_blank"}支持两种类型的请求：数据访问和数据删除。
-
-我们来看看如何创建访问和删除请求。
 
 ## 发送Marketo Engage请求所需的设置 {#required-setup-to-send-requests-for-marketo-engage}
 
@@ -38,10 +36,10 @@ ht-degree: 15%
 
 1. 确认以下各项：
 
-   a. IMS组织ID<br/>
-b.要执行操作的人员的电子邮件地址
+   答： IMS 组织 ID<br/>
+b. 要执行操作的人员的电子邮件地址
 
-   IMS 组织 ID 是一个由 24 个字符组成的字母数字字符串，其后附加有 @AdobeOrg。 如果您的营销团队或内部Adobe系统管理员不知道您组织的IMS组织ID，请通过`gdprsupport@adobe.com`联系Adobe客户关怀部门。 您需要 IMS 组织 ID 才能将请求提交到 Privacy API。
+   IMS 组织 ID 是一个由 24 个字符组成的字母数字字符串，其后附加有 @AdobeOrg。 如果您的营销团队或Adobe内部系统管理员不知道您组织的IMS组织ID，请通过`gdprsupport@adobe.com`联系Adobe支持。 您需要 IMS 组织 ID 才能将请求提交到 Privacy API。
 
 1. 在Privacy Service中，您可以将访问和删除请求提交到Marketo Engage，并检查现有请求的状态。
 

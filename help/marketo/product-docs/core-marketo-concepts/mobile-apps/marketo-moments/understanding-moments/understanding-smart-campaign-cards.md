@@ -4,9 +4,9 @@ description: 了解Marketo时间中的Smart Campaign信息卡。 从移动设备
 title: 了解智能营销活动信息卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 1%
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. 现在，您将看到Smart Campaign流程。 此营销活动只有一个流程步骤，但可以有多个步骤。
+1. 此处显示了Smart Campaign的流程。 此营销活动只有一个流程步骤，但可以有多个步骤。
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. 看到底下的那两个点了吗？ 它们指示有两个电子邮件连接到此Smart Campaign。 要查看另一封电子邮件的结果，请向左滑动屏幕。 以下是第二封电子邮件的结果。
+1. 底部的两个圆点表示有两个电子邮件连接到此Smart Campaign。 要查看另一封电子邮件的结果，请向左滑动屏幕。 以下是第二封电子邮件的结果。
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -65,7 +65,7 @@ ht-degree: 1%
 
 ## 创建电子邮件示例和预览 {#creating-email-samples-and-previews}
 
-在电子邮件发出之前查看一下会是个好主意。 或者，将样本发送给其他人，以便获得第二组眼睛。
+最好在电子邮件发出前查看一下它。 或者，将样本发送给其他人，以便获得第二组眼睛。
 
 1. 点按电子邮件上的三个点操作菜单。
 
@@ -93,7 +93,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >现在，您的卡将变为橙色！
+   >卡会变成橙色。
 
 ## 取消智能营销活动运行 {#canceling-a-smart-campaign-run}
 
@@ -127,8 +127,6 @@ ht-degree: 1%
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
-   一块蛋糕！
-
 ## 其他智能营销活动操作 {#other-smart-campaign-actions}
 
 与其他Marketo时刻卡一样，您可以点按任何Smart Campaign卡或详细信息卡上的三个圆点，以便：
@@ -145,4 +143,4 @@ ht-degree: 1%
 
 ## 快速删除智能营销活动信息卡 {#quickly-delete-a-smart-campaign-card}
 
-如果您拥有不再需要的卡，或者您用于测试的卡，则可以通过向左或向右快速滑动将其删除。
+如果您拥有不再需要的卡（可能是用于测试的卡），则可以通过向左或向右快速滑动将其删除。

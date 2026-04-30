@@ -4,16 +4,16 @@ description: 了解如何在设置视图和轮换后启动营销日历演示。 
 title: 启动演示
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 5%
+source-wordcount: '113'
+ht-degree: 6%
 
 ---
 
 # 启动演示 {#launch-a-presentation}
 
-设置演示文稿的视图和旋转频率后，就到了开始播放的时候了！
+设置视图和旋转频率后，即可启动演示。
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->确保在启动之前&#x200B;_预览演示_。
+>在启动之前预览演示。
 
 1. 单击 **[!UICONTROL Launch]**。
 

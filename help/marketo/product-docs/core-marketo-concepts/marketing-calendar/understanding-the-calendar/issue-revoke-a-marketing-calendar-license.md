@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147255
 description: 了解如何为用户颁发或撤销Marketing Calendar许可证。 授予或移除日历访问权限。
-title: 发放/撤销营销日程表许可证
+title: 颁发或撤销营销日历许可证
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 18%
+source-wordcount: '99'
+ht-degree: 4%
 
 ---
 
-# 发放/撤销营销日程表许可证 {#issue-revoke-a-marketing-calendar-license}
+# 颁发或撤销营销日历许可证 {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**需要管理员权限**
 
-若要使用您的[营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}名额，您需要向需要访问的用户颁发许可证。 操作方法如下：
+若要使用您的[营销日历](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}名额，您需要向需要访问的用户颁发许可证。
 
 1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;部分。
 
@@ -39,10 +39,10 @@ ht-degree: 18%
 
    >[!NOTE]
    >
-   >许可证数量限制为5个。 如果您需要更多资源，请与您的销售代表联系。
+   >许可证数量限制为5个。 如果需要更多，请与您的销售代表联系。
 
    ![](assets/4.png)
 
-   做得好！ 查看“[!UICONTROL Calendar]？”下的绿色复选标记
+   绿色复选标记现在应显示在“[!UICONTROL Calendar]”下。
 
    ![](assets/5.png)

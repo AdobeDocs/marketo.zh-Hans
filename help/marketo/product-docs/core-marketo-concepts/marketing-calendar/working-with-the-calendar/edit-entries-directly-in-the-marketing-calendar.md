@@ -4,16 +4,16 @@ description: 了解如何直接在营销日历中编辑条目。 使用项目集
 title: 在营销日程表中直接编辑条目
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 9%
+source-wordcount: '180'
+ht-degree: 7%
 
 ---
 
 # 在营销日程表中直接编辑条目 {#edit-entries-directly-in-the-marketing-calendar}
 
-进入程序焦点模式后，您可以快速更改日历条目。 操作方法如下：
+进入程序焦点模式后，您可以快速更改日历条目。
 
 ## 启用项目群 {#enable-program-focus}
 
@@ -27,7 +27,7 @@ ht-degree: 9%
 
 ## 重新计划条目 {#reschedule-entry}
 
-1. 只需拖放一个条目即可对其进行重新计划。
+1. 拖放条目以对其进行重新计划。
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -63,7 +63,7 @@ ht-degree: 9%
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-操作完成！如您所见，您可以直接从营销日历中执行许多操作。
+您可以直接从营销日历执行许多操作。
 
 >[!MORELIKETHIS]
 >

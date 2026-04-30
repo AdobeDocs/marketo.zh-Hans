@@ -3,9 +3,9 @@ description: 了解用于将客户从平板电脑签入的事件签入。 使用
 title: 活动签到概述
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '314'
 ht-degree: 4%
 
 ---
@@ -22,15 +22,13 @@ ht-degree: 4%
 
 有些活动在活动之前发生，例如创建新角色和邀请与会者。 在活动期间会发生一些情况，例如登记与会者。 事件后，您会与Marketo同步数据，并更新人员的状态。
 
-祝您活动愉快！
-
 ## 为活动做准备
 
 在事件之前：
 
-* [为事件的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}或[!DNL iPad]用户创建新的Marketo角色[!DNL Android]
+* [为事件的[!DNL iPad]或[!DNL Android]用户创建新的Marketo角色](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}
 * [邀请新Tablet用户参加活动](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}，并为他们分配新角色
-* [创建新的Marketo活动计划](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+* [创建新的Marketo活动项目](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * 指定事件日期
 * 将人员添加到您的活动
 

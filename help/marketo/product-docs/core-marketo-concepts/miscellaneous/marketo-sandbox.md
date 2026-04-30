@@ -3,10 +3,10 @@ unique-page-id: 11386358
 description: 了解用于生产前测试的Marketo Engage沙盒。 使用沙盒实例在不影响生产的情况下进行测试。
 title: Marketo 沙盒
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 
@@ -33,8 +33,8 @@ Marketo Engage沙盒是在生产环境中实施之前用于测试目的的附加
 
 ## 实例复制 {#instance-copy}
 
-您可以提交支持案例，请求一次性实例副本以填充沙盒。 但是，实例副本不会带来&#x200B;_所有_。 有关详细信息，请参阅[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。
+您可以提交支持案例，请求一次性实例副本以填充沙盒。 但是，实例副本不会带来&#x200B;_所有_。 有关详细信息，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 >[!NOTE]
 >
->如果您更改本机CRM，则需要新的Marketo实例，并且无法将实例复制到新的Marketo实例。 请改为与Marketo支持部门合作，探索导入程序功能。
+>如果您更改本机CRM，则需要新的Marketo实例，并且无法将实例复制到新的Marketo实例。 相反，请与Marketo支持人员一起探索导入程序功能。

@@ -4,16 +4,14 @@ description: 了解如何在营销日历中查看条目详细信息。 选择一
 title: 查看条目详情
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 
 # 查看条目详情 {#view-entry-details}
-
-在营销日历中查看条目详细信息时，您可以看到有关条目的各种有趣内容。
 
 1. 从日历中选择一个条目。
 
@@ -25,4 +23,4 @@ ht-degree: 6%
 
 >[!TIP]
 >
->请尝试右键单击右侧的详细信息。 您可以看到用于导航或弹出编辑器的菜单。 很好，对吧？
+>右键单击详细信息面板可访问导航菜单或打开编辑器。

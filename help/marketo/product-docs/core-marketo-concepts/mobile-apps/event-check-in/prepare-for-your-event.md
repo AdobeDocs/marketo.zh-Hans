@@ -4,9 +4,9 @@ description: 了解如何使用活动签入为活动做好准备。 在与会者
 title: 为活动做准备
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '417'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 ## 创建新的Marketo角色 {#create-a-new-marketo-role}
 
-Marketo具有事件签入应用程序的特殊用户角色。 [为](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)或[!DNL iPad]个用户创建新的Marketo角色[!DNL Android]，这些用户具有访问移动设备应用程序的权限。
+Marketo具有事件签入应用程序的特殊用户角色。 [为[!DNL iPad]或[!DNL Android]个用户创建新的Marketo角色](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)，这些用户具有访问移动设备应用程序的权限。
 
 ## 邀请新Tablet用户参加活动 {#invite-new-tablet-users-to-the-event}
 
@@ -33,7 +33,7 @@ Marketo具有事件签入应用程序的特殊用户角色。 [为](/help/market
 
 ## 指定事件日期 {#specify-the-event-dates}
 
-设置活动日期非常方便。
+设置事件日期非常简单。
 
 1. 单击计划中的事件，并设置开始和结束日期和时间。
 
@@ -49,7 +49,7 @@ Marketo具有事件签入应用程序的特殊用户角色。 [为](/help/market
 
 ## 将人员添加到您的活动 {#add-people-to-your-event}
 
-现在您已经知道了&#x200B;_when_，该添加&#x200B;_who_&#x200B;了。
+现在您已经知道&#x200B;_when_，现在该添加&#x200B;_who_&#x200B;了。
 
 1. 如果您已经有一个人员列表，请在“我的Marketo”中单击&#x200B;**[!UICONTROL Database]**&#x200B;拼贴。
 

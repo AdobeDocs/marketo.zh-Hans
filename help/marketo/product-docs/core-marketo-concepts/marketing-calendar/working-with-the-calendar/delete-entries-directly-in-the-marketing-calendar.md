@@ -4,16 +4,16 @@ description: 了解如何直接从营销日历中删除条目。
 title: 在营销日程表中直接删除条目
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 19%
+source-wordcount: '76'
+ht-degree: 18%
 
 ---
 
 # 在营销日程表中直接删除条目 {#delete-entries-directly-in-the-marketing-calendar}
 
-除了[创建](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}和[编辑](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}条目之外，您还可以直接在营销日历中删除它们。 操作方法如下：
+除了[创建](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}和[编辑](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}条目之外，您还可以直接在营销日历中删除它们。
 
 1. 单击&#x200B;**MU**&#x200B;磁贴。
 
@@ -27,7 +27,7 @@ ht-degree: 19%
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
-根据条目，您可能需要确认删除。 但就是这样！
+根据条目，您可能需要确认删除。
 
 >[!MORELIKETHIS]
 >

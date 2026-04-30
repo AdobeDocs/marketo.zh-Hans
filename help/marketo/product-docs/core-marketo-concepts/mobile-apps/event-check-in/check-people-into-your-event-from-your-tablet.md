@@ -4,9 +4,9 @@ description: 了解如何通过平板电脑将访客登记到您的事件中。 
 title: 通过平板电脑为活动签到
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '863'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->如果某人受邀但未注册，则可以通过单击“搜索”框正下方的&#x200B;**[!UICONTROL Search on Server]**&#x200B;来搜索该名称。 事件的“已邀请”状态更改为&#x200B;**[!UICONTROL Attended]**。
+>如果有人被邀请但未注册，则可通过单击“搜索”框下方的&#x200B;**[!UICONTROL Search on Server]**&#x200B;来搜索该姓名。 事件的“已邀请”状态更改为&#x200B;**[!UICONTROL Attended]**。
 
 ## 在平板电脑上创建新人员 {#create-a-new-person-on-the-tablet}
 
@@ -103,7 +103,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >您只能使用现有字段。 无法创建自定义筛选条件。
+   >只有现有字段可用。 无法创建自定义字段。
 
    >[!CAUTION]
    >
@@ -119,11 +119,10 @@ ht-degree: 2%
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
-   全部修复！
 
 ## 在登记入住时编辑人员记录 {#edit-a-person-record-at-check-in}
 
-您可以在活动期间添加和修改来宾信息！
+您可以在活动中添加和修改来宾信息。
 
 1. 点按人员列表中的名称，然后点按&#x200B;**[!UICONTROL Edit]**。
 
@@ -141,7 +140,7 @@ ht-degree: 2%
 
 ## 将应用程序与Marketo同步 {#sync-the-app-with-marketo}
 
-在将活动同步回Marketo数据库之前，Marketo Events应用程序可独立工作。 最好在上次签到后尽快同步。 平板电脑必须连接到Internet。
+在将活动同步回Marketo数据库之前，Marketo Events应用程序可独立工作。 最好在上次签入后尽快同步。 平板电脑必须连接到Internet。
 
 >[!CAUTION]
 >
@@ -153,11 +152,11 @@ ht-degree: 2%
 
    您的事件将通过Marketo数据库中的新签入进行更新。 “同步”按钮上的红色计数器将清除，直到您签入其他人。
 
-   出于安全原因，您应在完成同步后退出Marketo Events应用程序。
+   出于安全原因，您应在完成同步后退出Marketo事件应用程序。
 
 ## 使用有限的Internet访问 {#working-with-limited-internet-access}
 
-有些场馆的网络连接很差。 您需要良好的连接才能执行以下操作：
+有些场馆的互联网连接较差。 您需要良好的连接才能执行以下操作：
 
 * 下载并安装应用程序
 * 登录
@@ -168,7 +167,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->如果您没有Internet连接，您仍然可以为签入人员创建一个新人员。 当您同步应用程序时，它将与现有人员保持一致。
+>如果没有Internet连接，则仍然可以为签入人员创建新人员。 当您同步应用程序时，它将会与现有人员协调。
 
 >[!NOTE]
 >

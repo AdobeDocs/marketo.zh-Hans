@@ -4,16 +4,16 @@ description: 了解如何删除营销日历演示。 删除旧演示文稿，为
 title: 删除演示
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 17%
+source-wordcount: '42'
+ht-degree: 21%
 
 ---
 
 # 删除演示 {#delete-a-presentation}
 
-有时候，你也会有太多好事。 删除旧演示文稿，为新演示文稿腾出空间！
+删除旧演示文稿，为新演示文稿腾出空间。
 
 1. 选择演示。
 
