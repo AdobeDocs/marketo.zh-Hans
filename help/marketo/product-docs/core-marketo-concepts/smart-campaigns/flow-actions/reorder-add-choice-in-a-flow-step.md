@@ -4,9 +4,9 @@ description: 了解如何在流程步骤中重新排序添加选项选项。 更
 title: 重新排序流程步骤中的添加选项
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >重新排序时，您可以&#x200B;**[!UICONTROL Move Up]**、**[!UICONTROL Move Down]**&#x200B;或&#x200B;**[!UICONTROL Move To]**。
 
-   做得好！ 现在您知道如何按单增量上下移动选项了。
+   您可以按单个增量上移或下移一个选项。
 
    ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
@@ -35,4 +35,3 @@ ht-degree: 0%
 
 ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
-可以轻松重新组织流程步骤选择的顺序。

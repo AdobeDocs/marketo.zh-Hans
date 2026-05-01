@@ -4,7 +4,7 @@ description: 了解如何在流程步骤中创建有趣的时刻。 记录用于
 title: 重要时刻
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 3%
@@ -27,7 +27,7 @@ ht-degree: 3%
 
    >[!TIP]
    >
-   >_更少_。 与您的销售团队合作，确保有趣的时刻确实有趣。
+   >_更少_。 与您的销售团队合作，确认有趣的时刻实际上很有趣。
 
 您还可以在有趣的时刻使用[令牌](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}来做出真正有用的动态描述。
 

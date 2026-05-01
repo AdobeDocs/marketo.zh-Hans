@@ -4,20 +4,20 @@ description: 了解如何创建和更改列表和智能列表的视图。 自定
 title: 为列表或智能列表创建和更改视图
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 9%
+source-wordcount: '214'
+ht-degree: 8%
 
 ---
 
 # 为列表或智能列表创建和更改视图 {#create-and-change-views-for-lists-and-smart-list}
 
-智能列表显示一组默认列。 你知道你可以把这些栏编辑成你心中的内容吗？ 操作方法如下：
+智能列表显示一组默认列。 可以自定义这些列。
 
 ## 创建视图 {#create-a-view}
 
-1. 转到列表或智能列表，单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL Create View]**&#x200B;下拉列表下的&#x200B;**[!UICONTROL View]**。
+1. 转到列表或智能列表，单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL View]**&#x200B;下拉列表下的&#x200B;**[!UICONTROL Create View]**。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 9%
 
 ## 编辑视图 {#edit-a-view}
 
-1. 确保在&#x200B;**[!UICONTROL View]**&#x200B;下拉菜单中选择要编辑的视图。
+1. 确认在&#x200B;**[!UICONTROL View]**&#x200B;下拉列表中选择了要编辑的视图。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
@@ -59,7 +59,7 @@ ht-degree: 9%
 
 ## 删除视图 {#delete-a-view}
 
-1. 从&#x200B;**[!UICONTROL Edit]**&#x200B;下拉列表中选择要删除的视图的&#x200B;**[!UICONTROL View]**&#x200B;选项。
+1. 从&#x200B;**[!UICONTROL View]**&#x200B;下拉列表中选择要删除的视图的&#x200B;**[!UICONTROL Edit]**&#x200B;选项。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 

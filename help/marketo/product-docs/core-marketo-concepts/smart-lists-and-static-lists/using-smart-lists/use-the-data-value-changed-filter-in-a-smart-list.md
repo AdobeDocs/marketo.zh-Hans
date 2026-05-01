@@ -4,16 +4,16 @@ description: 了解如何在智能列表中使用数据值更改过滤器。 在
 title: 在智能列表中使用数据值更改过滤器
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 17%
+source-wordcount: '143'
+ht-degree: 16%
 
 ---
 
 # 在智能列表中使用数据值更改过滤器 {#use-the-data-value-changed-filter-in-a-smart-list}
 
-Marketo数据库中的值会不断更改和更新。 有时，您会希望查找价值发生更改的人员，而不是查找特定的值。 操作方法如下：
+Marketo数据库中的值会不断更改和更新。 有时，您会希望查找价值发生更改的人员，而不是查找特定的值。
 
 >[!PREREQUISITES]
 >

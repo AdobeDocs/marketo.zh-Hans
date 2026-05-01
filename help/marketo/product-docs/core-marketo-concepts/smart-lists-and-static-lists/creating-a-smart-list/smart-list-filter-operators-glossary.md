@@ -4,9 +4,9 @@ description: 获取有关智能列表筛选器运算符的帮助。 了解用于
 title: 智能列表过滤器运算符术语表
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '601'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 运算符是智能列表的一部分，可帮助您获取特定内容。 它可让您以直截了当的语言描述过滤器或触发器。 每种类型的字段的可用运算符各不相同。
 
-以下是一组术语表，用于描述每组运算符。
+此术语表描述了每组运算符。
 
 ## 日期字段 {#date-fields}
 
@@ -102,7 +102,7 @@ ht-degree: 15%
   </tr>
 </tbody></table>
 
-**&#42;**&#x200B;自然语言输入很酷。 以下是您可以输入的一些模式：
+**&#42;**&#x200B;自然语言输入使用以下模式：
 
 * 1 小时
 * 82 天
@@ -110,7 +110,7 @@ ht-degree: 15%
 * 14 个月
 * 1 年
 
-只要输入数字和单位就行了！
+同时键入数字和单位。
 
 >[!NOTE]
 >
@@ -236,4 +236,4 @@ ht-degree: 15%
 </tbody>
 </table>
 
-如您所见，这些操作员可以轻松地说流利的Marketo语！
+如您所见，这些操作员可以轻松地说流利的Marketo语。

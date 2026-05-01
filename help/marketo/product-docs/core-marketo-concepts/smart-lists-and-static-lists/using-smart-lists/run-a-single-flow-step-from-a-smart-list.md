@@ -4,9 +4,9 @@ description: 了解如何从智能列表运行单个流步骤。 为列表中选
 title: 从智能列表运行单个流程步骤
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '224'
 ht-degree: 10%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 10%
    >
    >如果结果跨越多个页面，则单击&#x200B;**[!UICONTROL Select All]**&#x200B;将选择所有页面上的所有人员。
 
-1. 在&#x200B;**[!UICONTROL Person Actions]**&#x200B;下，选择您选择的流程步骤。 在此示例中，我们将使用[更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}。
+1. 在&#x200B;**[!UICONTROL Person Actions]**&#x200B;下，选择您选择的流程步骤。 此示例使用[更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
@@ -55,7 +55,7 @@ ht-degree: 10%
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
-做得很棒！ 您将在右上角看到单流程步骤的状态。
+单流程步骤的状态将显示在右上角。
 
 ![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 

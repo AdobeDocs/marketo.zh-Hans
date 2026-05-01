@@ -4,10 +4,10 @@ description: 了解用于在Marketo中查找拥有筛选器的人员组的智能
 title: 了解智能列表
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 2%
 创建智能列表的主要步骤包括：
 
 1. [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
-1. [查找筛选器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
-1. [定义智能列表筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+1. [查找并向智能列表添加过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+1. [定义智能列表过滤器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 以下是智能列表的外观示例。
 
@@ -43,8 +43,6 @@ ht-degree: 2%
 您添加并定义筛选器以在[!UICONTROL People]选项卡中查看特定用户组。
 
 ![](assets/understanding-smart-lists-3.png)
-
-好，我们开始吧！
 
 >[!MORELIKETHIS]
 >

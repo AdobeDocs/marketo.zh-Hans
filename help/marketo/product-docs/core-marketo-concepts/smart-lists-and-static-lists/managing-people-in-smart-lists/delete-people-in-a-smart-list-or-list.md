@@ -4,16 +4,16 @@ description: 了解如何从智能列表或静态列表中删除人员。 从列
 title: 从智能列表或列表中删除人员
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '274'
 ht-degree: 7%
 
 ---
 
 # 从智能列表或列表中删除人员 {#delete-people-in-a-smart-list-or-list}
 
-您可以快速轻松地删除列表或智能列表中的部分/所有人员。
+您可以删除列表或智能列表中的部分或全部人员。
 
 >[!PREREQUISITES]
 >
@@ -67,4 +67,4 @@ ht-degree: 7%
    >
    >要查看批量删除的结果，请单击屏幕右上角的“单流量操作”弹出框中的&#x200B;**[!UICONTROL View Results]**。 删除时间可能会大不相同，具体取决于多个因素。
 
-   这是一个绝佳的功能，使用它时要小心！
+   使用此功能时请务必谨慎。

@@ -4,9 +4,9 @@ description: 了解如何移动智能营销活动。 将营销活动重新定位
 title: 移动智能营销活动
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '149'
 ht-degree: 7%
 
 ---
@@ -33,8 +33,8 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >在本例中，我们将Smart Campaign移动到另一个项目，但您也可以将其移动到Campaign文件夹。
+   >在此示例中，Smart Campaign将移至其他项目，但您也可以将其移至Campaign文件夹。
 
-做得好！ 已移动Smart Campaign。
+已移动Smart Campaign。
 
 ![](assets/move-a-smart-campaign-4.png)

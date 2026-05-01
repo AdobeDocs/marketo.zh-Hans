@@ -4,16 +4,16 @@ description: 了解如何在流程步骤中将数据附加到字段。 将文本
 title: 向字段追加数据
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 
 # 向字段追加数据 {#append-data-to-a-field}
 
-将数据附加到字段有一种简单的方法。 操作方法如下：
+将数据附加到字段非常简单。
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ ht-degree: 12%
 
    ![](assets/append-data-to-a-field-4.png)
 
-操作完成！您可以进行创作并在其中添加多个令牌。
+您可以在同一字段中添加多个令牌。

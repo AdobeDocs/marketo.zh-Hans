@@ -4,9 +4,9 @@ description: 了解如何在流程步骤中更改人员分区。 在工作区或
 title: 更改人员分区
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '55'
 ht-degree: 10%
 
 ---
@@ -21,4 +21,3 @@ ht-degree: 10%
 
 ![](assets/change-person-partition-2.png)
 
-这太简单了！

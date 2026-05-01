@@ -4,9 +4,9 @@ description: 了解如何向智能列表筛选器添加限制。 使用其他条
 title: 为智能列表过滤器添加约束条件
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 创建智能列表时，某些过滤器具有称为“约束”的高级选项。 这些是可添加到筛选器和触发器的额外条件，有助于进一步缩小搜索范围。
 
-在此示例中，我们将一些约束添加到&#x200B;**[数据值已更改](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}**&#x200B;筛选器以查找状态从MQL更改为SQL的人员。
+在此示例中，将一些约束添加到&#x200B;**[数据值已更改](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}**&#x200B;筛选器以查找状态从MQL更改为SQL的人员。
 
 >[!PREREQUISITES]
 >
@@ -46,4 +46,4 @@ ht-degree: 10%
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. 做得好！ 单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡可查看过去30天内具有从“MQL”更改为“SQL”状态的所有人员。
+1. 单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡可查看过去30天内具有从“MQL”更改为“SQL”状态的所有人员。

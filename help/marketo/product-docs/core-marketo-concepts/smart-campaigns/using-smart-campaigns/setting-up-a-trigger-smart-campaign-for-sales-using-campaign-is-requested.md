@@ -4,10 +4,10 @@ description: 了解如何使用Campaign is Requested为销售设置触发器Smar
 title: 使用“请求营销活动”设置销售触发型智能营销活动
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 10%
+source-wordcount: '282'
+ht-degree: 11%
 
 ---
 
@@ -19,10 +19,10 @@ Marketo最酷的功能之一是允许销售人员参与营销工作。 他们站
 >
 >要请求的智能营销活动示例：
 >
->1. **长期培养** — 当他们今年没有预算，而您只是希望关注时
+>1. **长期培养** — 当他们今年没有预算，而您希望保持关注时
 >1. **有效的销售周期** — 当销售人员不希望向该人员发送除他们自己之外的任何消息时。 （使用营销活动暂停标记可临时取消订阅这些页面）
 >
->发挥创造力。 销售人员希望实现什么自动化？ 只要问问他们，然后把它接上去！
+>询问销售团队他们希望实现什么自动化并进行设置。
 
 1. 创建智能营销活动。
 
@@ -32,13 +32,13 @@ Marketo最酷的功能之一是允许销售人员参与营销工作。 他们站
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. 源选择指示将接受哪种请求。 对于Salesforce功能，请确保选择&#x200B;**[!UICONTROL Sales Insight]**。
+1. 源选择指示将接受哪种请求。 对于Salesforce功能，请选择&#x200B;**[!UICONTROL Sales Insight]**。
 
    >[!TIP]
    >
    >源操作符用于安全目的。 您可以将营销活动限制为仅由特定来源（如其他智能营销活动或开发人员）发出的请求。 如果要允许来自所有源的请求，请在第一个框中选择&#x200B;**[!UICONTROL Is Any]**。
    >
-   >_请记住_，选择Sales Insight后，它将会神奇地显示在销售盒中。 不要做得过火。 太多的人会被他们忽视。
+   >_请记住_，选择Sales Insight后，它将会神奇地显示在销售盒中。 避免添加太多，因为它们将被忽略。
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
@@ -46,4 +46,4 @@ Marketo最酷的功能之一是允许销售人员参与营销工作。 他们站
 
 >[!TIP]
 >
->不要忘记为您的智能营销活动指明清楚的名称。 它们将在Sales Insight中完全按照您的命名方式显示。
+>清楚地命名您的智能营销活动。 它们将在Sales Insight中完全按照您的命名方式显示。

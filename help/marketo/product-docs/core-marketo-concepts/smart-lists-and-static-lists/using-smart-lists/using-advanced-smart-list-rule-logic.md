@@ -4,16 +4,16 @@ description: 了解如何使用高级智能列表规则逻辑。 将过滤器与
 title: 使用高级智能列表规则逻辑
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # 使用高级智能列表规则逻辑 {#using-advanced-smart-list-rule-logic}
 
-通过将智能列表规则逻辑应用于智能列表中的多个筛选器，您可以找到所需的确切人员。 操作方法如下：
+通过将智能列表规则逻辑应用于智能列表中的多个筛选器，您可以找到所需的确切人员。
 
 >[!PREREQUISITES]
 >

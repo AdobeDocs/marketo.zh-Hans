@@ -4,9 +4,9 @@ description: 了解如何在项目计划视图中创建自定义叠加图。 添
 title: 在项目计划视图中创建自定义覆盖层
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 18%
 
 ---
@@ -31,6 +31,6 @@ ht-degree: 18%
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
-   太棒了。 现在，您的叠加将仅显示您定义的条目。
+   现在，您的叠加将仅显示您定义的条目。
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)

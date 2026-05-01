@@ -4,16 +4,16 @@ description: 了解如何使用自定义逻辑查找重复的人员。 构建智
 title: 使用自定义逻辑查找重复人员
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 18%
+source-wordcount: '135'
+ht-degree: 17%
 
 ---
 
 # 使用自定义逻辑查找重复人员 {#find-duplicate-people-with-custom-logic}
 
-Marketo Engage具有系统智能列表，可通过匹配重复人员的电子邮件地址来查找重复人员。 如果要使用其他字段查找重复项，请按照以下步骤操作。
+Marketo Engage具有系统智能列表，可通过匹配重复人员的电子邮件地址来查找重复人员。 如果要使用其他字段查找重复项，请执行以下步骤。
 
 >[!PREREQUISITES]
 >
@@ -44,4 +44,4 @@ Marketo Engage具有系统智能列表，可通过匹配重复人员的电子邮
 
    ![](assets/four-2.png)
 
-   完成！ 运行智能列表以查找具有先前所选字段中的相同值的人员。
+   运行智能列表以查找具有先前所选字段中的相同值的人员。

@@ -4,9 +4,9 @@ description: 了解如何跨工作区引用列表或智能列表。 在一个工
 title: 跨工作区引用列表或智能列表
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '179'
 ht-degree: 12%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 12%
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
-   太棒了！ 现在，此列表在两个工作区中均可用。
+   现在，此列表在两个工作区中均可用。
 
    >[!NOTE]
    >

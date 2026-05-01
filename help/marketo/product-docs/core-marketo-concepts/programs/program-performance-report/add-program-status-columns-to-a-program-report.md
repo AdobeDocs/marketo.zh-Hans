@@ -4,10 +4,10 @@ description: 了解如何将项目群状态列添加到项目群报表。 在报
 title: 向项目报告添加项目状态列
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 12%
+source-wordcount: '130'
+ht-degree: 13%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 12%
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. 你做到了！ 单击[!UICONTROL Report]选项卡可查看您的报表以及项目状态列。
+1. 单击[!UICONTROL Report]选项卡可查看您的报表以及项目状态列。
 
    ![](assets/programreport.jpg)
 

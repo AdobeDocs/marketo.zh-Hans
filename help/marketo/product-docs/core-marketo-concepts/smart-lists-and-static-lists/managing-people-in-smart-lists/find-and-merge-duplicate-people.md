@@ -4,16 +4,16 @@ description: 了解如何查找和合并重复的人员。 将重复记录合并
 title: 查找并合并重复人员
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '428'
 ht-degree: 3%
 
 ---
 
 # 查找并合并重复人员 {#find-and-merge-duplicate-people}
 
-当新用户进入系统时，Marketo Engage会自动删除重复项。 但是，您的CRM最初可能通过重复项发送。 下面是如何将它们合并的。
+当新用户进入系统时，Marketo Engage会自动删除重复项。 但是，您的CRM最初可能通过重复项发送。
 
 >[!CAUTION]
 >
@@ -35,7 +35,7 @@ ht-degree: 3%
 
    >[!CAUTION]
    >
-   >如果您使用[!DNL Salesforce]人员帐户，在Marketo中合并人员可能无法工作。 如果可能，请合并[!DNL Salesforce]中的记录。
+   >如果您使用[!DNL Salesforce]人员帐户，在Marketo中合并人员可能无法工作。 如果可能，合并[!DNL Salesforce]中的记录。
 
 1. 选择&#x200B;**[!UICONTROL Possible Duplicates]**&#x200B;系统智能列表，然后单击&#x200B;**[!UICONTROL People]**&#x200B;选项卡。
 
@@ -49,7 +49,7 @@ ht-degree: 3%
 
 >[!CAUTION]
 >
->在合并人员时，如果落选人员具有Marketo自定义对象，则将&#x200B;_不_&#x200B;与入选人员重新关联。 在执行合并之前，请重新为自定义对象添加父级。
+>在合并人员时，如果落选人员具有Marketo自定义对象，则将&#x200B;_不_&#x200B;与入选人员重新关联。 在执行合并之前，重新父级自定义对象。
 
 1. 按住Ctrl/Cmd并单击，然后单击&#x200B;**[!UICONTROL Merge People]**&#x200B;以选择重复项。
 
@@ -59,7 +59,7 @@ ht-degree: 3%
    >
    >您可以为同一人员创建两个或多个重复项 — 一次选择所有重复项。
 
-1. 出现不匹配的记录之间的值。 _为每个字段选择要保留的值_。 完成后单击&#x200B;**[!UICONTROL Merge]**。 如果您不需要这两个值，可以选中&#x200B;**[!UICONTROL Custom]**&#x200B;并输入您选择的值。
+1. 出现不匹配的记录之间的值。 _为每个字段选择要保留的值_。 完成后，单击 **[!UICONTROL Merge]**。 如果您不需要这两个值，可以选中&#x200B;**[!UICONTROL Custom]**&#x200B;并输入您选择的值。
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
@@ -82,8 +82,8 @@ ht-degree: 3%
 
 有关合并潜在客户或联系人时Salesforce行为的详细信息，请检查以下[!DNL Salesforce]文档：
 
-* [正在合并重复的潜在客户](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
-* [正在合并重复的联系人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
+* [合并重复的潜在客户](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [合并重复的联系人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## 批量合并 {#bulk-merging}
 

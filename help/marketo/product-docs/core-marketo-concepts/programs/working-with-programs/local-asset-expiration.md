@@ -3,9 +3,9 @@ description: 了解项目中的本地资产过期情况。 设置项目中的本
 title: 本地资源过期
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '251'
 ht-degree: 6%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 6%
 
    ![](assets/local-asset-expiration-4.png)
 
-1. 选中要为其设置到期日期的资产，然后单击&#x200B;**[!UICONTROL Set expiration]**。
+1. 选中要为其设置到期日期的资源，然后单击&#x200B;**[!UICONTROL Set expiration]**。
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -48,7 +48,7 @@ ht-degree: 6%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 设置时间。 您必须计划一个至少为将来15分钟的时间（不要忘记输入上午/下午）。 完成后，单击 **[!UICONTROL Confirm]**。
+1. 设置时间。 您必须计划一个至少为将来15分钟的时间（请记得输入AM/PM）。 完成后，单击 **[!UICONTROL Confirm]**。
 
    ![](assets/local-asset-expiration-7.png)
 

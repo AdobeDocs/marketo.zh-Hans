@@ -4,9 +4,9 @@ description: 了解如何将人员添加到阻止列表。 防止将电子邮件
 title: 将人员添加到阻止列表
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '162'
 ht-degree: 9%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 9%
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. 选择您刚刚创建的智能列表。
+1. 选择您创建的智能列表。
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. 单击 **[!UICONTROL Flow]** 选项卡。拖放&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流量操作。
+1. 单击 **[!UICONTROL Flow]** 选项卡。 拖放&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流量操作。
 
    ![](assets/add-person-to-blocklist-10.png)
 
@@ -81,4 +81,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->使用[更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}创建一个&#x200B;**触发器营销活动**，其中列出的&#x200B;**块为true**，适用于将来具有可阻止列表属性的所有人员。
+>使用&#x200B;**更改数据值**&#x200B;创建一个[触发器营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}，其中列出的&#x200B;**块为true**，适用于将来具有可阻止列表属性的所有人员。

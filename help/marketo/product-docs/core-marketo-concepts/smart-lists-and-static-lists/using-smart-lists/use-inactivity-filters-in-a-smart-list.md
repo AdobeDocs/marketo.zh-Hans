@@ -4,16 +4,16 @@ description: 了解如何在智能列表中使用非活动筛选器。 查找在
 title: 在智能列表中使用不活跃过滤器
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '125'
 ht-degree: 12%
 
 ---
 
 # 在智能列表中使用不活跃过滤器 {#use-inactivity-filters-in-a-smart-list}
 
-您是否知道可以在智能列表中查找那些&#x200B;_没有_&#x200B;执行任何操作的人员？ 查看这些非活动筛选器。
+使用非活动筛选器查找智能列表中未执行任何操作的人员。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -23,7 +23,7 @@ ht-degree: 12%
 
    ![](assets/use-inactivity-filters-in-a-smart-list-2.png)
 
-1. 查找您选择的非活动筛选器并将其拖到画布中。 例如，我们查找尚未访问过您任何页面的人员。
+1. 查找您选择的非活动筛选器并将其拖到画布中。 例如，此示例查找尚未访问您任何页面的人员。
 
    ![](assets/use-inactivity-filters-in-a-smart-list-3.png)
 

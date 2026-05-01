@@ -4,16 +4,16 @@ description: 了解如何取消计划的定期批处理营销活动运行。 停
 title: 取消已计划的定期批处理营销活动运行
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 13%
+source-wordcount: '122'
+ht-degree: 12%
 
 ---
 
 # 取消已计划的定期批处理营销活动运行 {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-如果您有循环的批处理市场活动，并且不再需要它，则可以取消将来的运行。 操作方法如下：
+如果您不再需要循环的批处理活动，则可以取消将来的运行。
 
 1. 选择Smart Campaign并单击&#x200B;**计划**&#x200B;选项卡。
 

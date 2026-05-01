@@ -4,7 +4,7 @@ description: 了解如何在流程步骤中使用添加选择。 使用选择逻
 title: 在流程步骤中使用“添加选择”
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 6%
@@ -49,9 +49,9 @@ ht-degree: 6%
 
    >[!CAUTION]
    >
-   >仅第一个匹配选择应用于流程步骤。 了解如何在流程操作[中](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}重新排序“添加选择”。
+   >仅第一个匹配选择应用于流程步骤。 了解如何在流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}中[重新排序“添加选择”。
 
-   太棒了！ 您现在可以创建具有流程步骤选择的单个智能营销活动，而不是为每个选择创建多个智能营销活动。
+   您现在可以创建具有流程步骤选择的单个智能营销活动，而不是为每个选择创建多个智能营销活动。
 
    >[!MORELIKETHIS]
    >

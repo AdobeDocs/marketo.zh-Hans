@@ -3,9 +3,9 @@ description: 了解如何使用执行活动流程步骤。 当有人完成此步
 title: 执行营销活动
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '718'
 ht-degree: 1%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 1%
 
 **API交互**
 
-在API[中使用计划或请求营销活动](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)时，两者都允许您传递“我的令牌”的值，这会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
+在API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用计划或请求营销活动[时，两者都允许您传递“我的令牌”的值，这将会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
 
 ## 注意事项 {#things-to-note}
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 >[!CAUTION]
 >
->切勿使可执行营销活动的智能列表无效，否则&#x200B;_没有人_&#x200B;有资格参与活动。 最佳实践是创建单独的智能列表资产，完整定义这些资产并确保其有效。 然后，使用可执行活动中的“智能列表的成员”过滤器，以便交换智能列表定义。
+>切勿使可执行营销活动的智能列表无效，否则&#x200B;_没有人_&#x200B;有资格参与活动。 最佳实践是创建单独的智能列表资源，完整定义这些资源并确认其有效。 然后，使用可执行活动中的“智能列表的成员”过滤器，以便交换智能列表定义。
 
 ## 令牌继承示例 {#token-inheritance-example}
 

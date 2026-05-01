@@ -4,9 +4,9 @@ description: 了解如何在流程步骤中使用令牌。 将动态值插入流
 title: 在流程步骤中使用令牌
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 10%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 10%
    >
    >项目群成员自定义字段令牌可用于：创建任务、在Microsoft中创建任务、有趣的时刻、更改数据值流程操作和Webhook。
 
-   酷！ 运行Smart Campaign时，将从令牌中提取数据。
+   运行Smart Campaign时，将从令牌中提取数据。
 
    >[!MORELIKETHIS]
    >

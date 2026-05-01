@@ -4,9 +4,9 @@ description: 了解如何中止智能营销活动。 停止正在运行的批处
 title: 中止智能营销活动
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 8%
 >
 >仅供紧急使用
 
-有时，您启动智能营销活动后，会立即意识到这是一个错误。 以下是如何在Smart Campaign中途拉动紧急刹车并阻止它的。
+有时，您启动智能营销活动后，会立即意识到这是一个错误。 执行以下步骤以停止Smart Campaign中期运行。
 
 1. 选择所需的Smart Campaign并单击&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡。
 
@@ -33,7 +33,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >中止不会撤消已完成的步骤，它只会阻止发生更多事件（例如：无法取消投放电子邮件）。
+   >中止不会撤消已完成的步骤，它还会阻止发生更多情况（例如：无法取消发送电子邮件）。
 
    ![](assets/abort-a-smart-campaign-4.png)
 

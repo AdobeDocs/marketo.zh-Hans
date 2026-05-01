@@ -4,16 +4,16 @@ description: 了解如何为批量智能营销活动定义智能列表。 选择
 title: 为智能营销活动定义智能列表 | 批处理
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 4%
+source-wordcount: '272'
+ht-degree: 5%
 
 ---
 
 # 为智能营销活动定义智能列表 | 批处理 {#define-smart-list-for-smart-campaign-batch}
 
-智能列表是整个Marketo Engage中用于定义要包括的“人员”（哪些人员）的机制，无论是报表、列表还是智能营销活动。 以下是如何为批处理营销活动定义智能列表。
+智能列表是整个Marketo Engage中用于定义“人员”（哪些人员）的机制，包括报表、列表或智能营销活动。
 
 >[!CAUTION]
 >
@@ -51,9 +51,9 @@ ht-degree: 4%
    >
    >默认情况下，满足所有智能列表规则的用户是符合条件的。 您可以根据营销策划需求对此进行修改。 请查看复杂逻辑的[智能列表规则](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}以了解更多信息。
 
-   要在实时事件上触发一次一个人，了解如何[为Smart Campaign定义智能列表|触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}。
+   要在实时事件中一次触发一个人，了解如何[为Smart Campaign定义智能列表 |触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}。
 
    >[!MORELIKETHIS]
    >
-   >* [为Smart Campaign定义智能列表|触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [为智能营销活动定义智能列表 |触发器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
    >* [向智能营销活动添加流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

@@ -4,16 +4,16 @@ description: 了解如何重命名智能营销活动。 从营销活动设置或
 title: 重命名智能营销活动
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 12%
+source-wordcount: '93'
+ht-degree: 10%
 
 ---
 
 # 重命名智能营销活动 {#rename-a-smart-campaign}
 
-您可以更改现有Smart Campaign的名称。 操作方法如下：
+您可以更改现有Smart Campaign的名称。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -35,4 +35,4 @@ ht-degree: 12%
    >
    >旧名称在选项卡中可见，并在保存时更改。
 
-快速而轻松！ 在引用Smart Campaign的任何位置，也会发生更改。
+在引用Smart Campaign的任何位置，也会更新。

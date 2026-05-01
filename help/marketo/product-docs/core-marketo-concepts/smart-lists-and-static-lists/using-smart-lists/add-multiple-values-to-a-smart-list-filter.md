@@ -4,9 +4,9 @@ description: 了解如何将多个值添加到智能列表筛选器。 在一个
 title: 为智能列表过滤器添加多个值
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '132'
 ht-degree: 13%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 13%
 >* [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [查找筛选器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-假设您希望找到加利福尼亚的所有人，但您可能同时将“加利福尼亚”和“CA”存储在数据库中。 要包含所有适用的人员，您可以使用两个[!UICONTROL State]过滤器，但使用其中一个更容易。
+假设您要查找加利福尼亚的所有人，但可能在数据库中同时存储“加利福尼亚”和“CA”。 要包含所有适用的人员，您可以使用两个[!UICONTROL State]筛选器，但使用其中一个筛选器会更容易。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -32,11 +32,10 @@ ht-degree: 13%
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
-1. 您可以从左侧选择值，或者只需在右侧键入值，然后单击&#x200B;**[!UICONTROL OK]**。
+1. 您可以从左侧选择值或在右侧键入值，然后单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 
-快速工作！
 
 >[!MORELIKETHIS]
 >

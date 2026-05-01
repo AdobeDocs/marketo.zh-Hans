@@ -4,9 +4,9 @@ description: 了解如何从Smart Campaign流程步骤调用webhook。 当有人
 title: 调用 Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '98'
 ht-degree: 4%
 
 ---
@@ -23,13 +23,13 @@ Webhook允许您与第三方服务进行交互。 通过在智能营销活动流
 
 >[!NOTE]
 >
->了解[Webhooks](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以为您做许多有趣的事情。
+>了解[Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以为您做许多有趣的事情。
 
 1. 从下拉列表中选择Webhook。
 
 ![](assets/call-webhook-2.png)
 
-仅此而已！ 现在，每当用户输入智能营销活动流时，都会调用您的webhook。
+现在，每当用户输入智能营销活动流时，都会调用您的webhook。
 
 >[!MORELIKETHIS]
 >

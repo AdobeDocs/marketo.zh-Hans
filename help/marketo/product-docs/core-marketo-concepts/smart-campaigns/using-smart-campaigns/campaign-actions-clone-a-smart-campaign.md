@@ -4,9 +4,9 @@ description: 了解如何克隆智能营销活动。 创建营销策划的副本
 title: 活动操作 — 克隆智能活动
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 6%
 
 ---
@@ -26,5 +26,3 @@ ht-degree: 6%
 1. 选择&#x200B;**[!UICONTROL Program]**。 输入&#x200B;**[!UICONTROL Campaign Name]**&#x200B;并单击&#x200B;**[!UICONTROL Clone]**。
 
    ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
-
-完成了！

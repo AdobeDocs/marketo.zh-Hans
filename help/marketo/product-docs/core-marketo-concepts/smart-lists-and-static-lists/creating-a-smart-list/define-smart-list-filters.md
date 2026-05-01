@@ -4,10 +4,10 @@ description: 了解如何定义智能列表筛选器。 设置过滤器约束和
 title: 定义智能列表过滤器
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 6%
 >* [创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [查找筛选器并将其添加到智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-现在您已[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}并在其中添加了[筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}，接下来让我们定义筛选器。 操作方法如下：
+现在您已[创建智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}并在其中添加了[筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}，请按照以下方式定义筛选器。
 
-继续我们的示例，让我们定义这些过滤器以查找得分超过50分的加利福尼亚州所有人员。
+继续此示例，定义这些过滤器以查找得分超过50分的加利福尼亚州所有人员。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

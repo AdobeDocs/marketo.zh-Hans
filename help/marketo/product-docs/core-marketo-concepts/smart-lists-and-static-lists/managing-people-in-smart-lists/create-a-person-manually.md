@@ -4,16 +4,16 @@ description: 了解如何在数据库中手动创建人员。 使用电子邮件
 title: 手动创建人员
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '68'
 ht-degree: 11%
 
 ---
 
 # 手动创建人员 {#create-a-person-manually}
 
-可以通过多种方式将人员导入Marketo Engage。 如果您需要手动创建一个，请使用以下操作说明。
+可以通过多种方式将人员导入Marketo Engage。 要手动创建一个，请执行以下步骤。
 
 >[!CAUTION]
 >

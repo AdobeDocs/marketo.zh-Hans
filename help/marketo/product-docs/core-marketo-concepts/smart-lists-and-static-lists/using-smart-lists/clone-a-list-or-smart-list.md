@@ -4,16 +4,16 @@ description: 了解如何克隆列表或智能列表。 创建副本以用作新
 title: 克隆列表或智能列表
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '79'
+ht-degree: 17%
 
 ---
 
 # 克隆列表或智能列表 {#clone-a-list-or-smart-list}
 
-不要从头开始创建智能列表，请克隆类似的智能列表并进行更改以节省一些时间。 操作方法如下：
+不要从头开始创建智能列表，请克隆类似的智能列表并进行更改以节省一些时间。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -27,4 +27,4 @@ ht-degree: 19%
 
    ![](assets/clone-a-list-or-smart-list-3.png)
 
-做得好！ 您也可以按相同方式克隆常规列表。
+您也可以按相同方式克隆常规列表。

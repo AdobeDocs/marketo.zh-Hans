@@ -4,16 +4,16 @@ description: 了解如何立即从“计划”选项卡运行批量Smart Campaig
 title: 立即运行批处理智能营销活动 | 计划选项卡
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 15%
+source-wordcount: '98'
+ht-degree: 16%
 
 ---
 
 # 立即运行批处理智能营销活动 | 计划选项卡 {#run-a-batch-smart-campaign-now-schedule-tab}
 
-构建完批处理营销活动后，您可以选择立即运行或稍后运行。 下面是如何立即运行它的。
+构建完批处理营销活动后，您可以选择立即运行或稍后运行。
 
 1. 选择批次营销活动，转到&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL Run Once]**。
 
@@ -27,7 +27,7 @@ ht-degree: 15%
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   轻松点！ 您也可以[安排稍后](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}运行（如果您愿意）。
+   您也可以[安排稍后](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}运行（如果您愿意）。
 
    >[!NOTE]
    >

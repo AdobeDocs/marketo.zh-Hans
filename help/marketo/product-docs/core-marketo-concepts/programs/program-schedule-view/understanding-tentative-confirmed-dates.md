@@ -4,9 +4,9 @@ description: 在计划日程表视图中了解暂定日期和确认日期。 了
 title: 了解暂定/已确认日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '207'
 ht-degree: 4%
 
 ---
@@ -47,8 +47,8 @@ ht-degree: 4%
 
 ## 已完成  {#finished}
 
-已运行完成的条目。 它们只能是过去（显然）。 一旦某个条目运行并且为&#x200B;**[!UICONTROL Finished]**，您就无法移动它或将其设为暂定。 （不会改变现实和破坏时间流连续体。 ）
+已运行完成的条目。 他们只能是过去。 一旦某个条目运行并且为&#x200B;**[!UICONTROL Finished]**，您就无法移动它或将其设为暂定。
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-这些状态是强大的工具。 当您克隆项目时，所有智能营销活动和电子邮件项目日期都将是暂定日期。 它们都可以从计划视图中确认。 很酷吧？
+这些状态是强大的工具。 当您克隆项目时，所有智能营销活动和电子邮件项目日期都将是暂定日期。 它们都可以从计划视图中确认。

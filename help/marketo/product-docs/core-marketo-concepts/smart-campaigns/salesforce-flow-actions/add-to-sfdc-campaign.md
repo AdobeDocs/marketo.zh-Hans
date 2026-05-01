@@ -4,9 +4,9 @@ description: 了解如何使用流程步骤将人员添加到Salesforce营销活
 title: 添加到 SFDC 营销活动
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 4%
    >
    >如果在营销活动列表中看不到Salesforce营销活动：
    >
-   > 1. 确保已启用[营销活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}。
+   > 1. 验证是否已启用[营销活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}。
    > 1. 确认您的[Marketo同步用户](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}是Salesforce中的[营销用户](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"}。
 
    >[!TIP]

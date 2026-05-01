@@ -4,9 +4,9 @@ description: 了解如何在流程步骤中更改参与计划流。 在参与计
 title: 更改参与项目流
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
@@ -28,5 +28,3 @@ ht-degree: 7%
 1. 选择要将您的人员添加到的流。
 
    ![](assets/change-engagement-program-stream-3.png)
-
-就是这样！

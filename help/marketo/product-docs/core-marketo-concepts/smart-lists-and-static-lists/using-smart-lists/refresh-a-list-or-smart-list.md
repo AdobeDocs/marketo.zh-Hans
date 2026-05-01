@@ -4,9 +4,9 @@ description: 了解如何刷新列表或智能列表。 更新列表中的人员
 title: 刷新列表或智能列表
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '148'
 ht-degree: 8%
 
 ---

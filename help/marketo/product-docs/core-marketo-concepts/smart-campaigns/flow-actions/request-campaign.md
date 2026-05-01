@@ -4,9 +4,9 @@ description: 了解如何使用请求营销活动流程步骤。 有人完成此
 title: 请求营销活动
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '115'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->您要将人员放置到其中的营销活动必须处于活动状态，并且具有[已请求营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}触发器。
+>要向其发送人员的营销活动必须处于活动状态，并且具有[请求营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}触发器。
 
 1. 在&#x200B;**[!UICONTROL Database]**&#x200B;中，查找并选择所需的人员。
 
@@ -38,8 +38,6 @@ ht-degree: 4%
    您的人员现在位于请求的营销活动中。
 
    ![](assets/request-campaign-5.png)
-
-   做得很棒！
 
 >[!TIP]
 >

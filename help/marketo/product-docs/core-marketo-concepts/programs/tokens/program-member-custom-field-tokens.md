@@ -4,9 +4,9 @@ description: 了解项目群成员自定义字段令牌。 使用令牌将成员
 title: 项目成员自定义字段令牌
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '423'
 ht-degree: 5%
 
 ---
@@ -51,7 +51,7 @@ PMCF令牌将在令牌家族的成员域下受支持。
 
 >[!NOTE]
 >
->别忘了批准您的电子邮件。
+>请记住批准您的电子邮件。
 
 **登陆页面**
 
