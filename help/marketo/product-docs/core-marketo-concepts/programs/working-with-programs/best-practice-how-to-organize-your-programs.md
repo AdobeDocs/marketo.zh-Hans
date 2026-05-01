@@ -121,4 +121,4 @@ Marketo中最有用的功能之一是克隆程序的功能。 这意味着您可
 
 ## 摘要 {#summary}
 
-如你所见，Marketo权力很大。 此处介绍了基础知识，但请考虑由[Marketo Engage专家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}提供的其他服务，以进行微调并为获得成功做好准备。
+如你所见，Marketo权力很大。 此处介绍了基础知识，但请考虑由[Marketo Engage专家](https://business.adobe.com/cn/products/marketo/services-support.html){target="_blank"}提供的其他服务，以进行微调并为获得成功做好准备。
