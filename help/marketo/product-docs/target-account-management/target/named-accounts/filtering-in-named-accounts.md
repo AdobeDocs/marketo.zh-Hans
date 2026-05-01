@@ -4,10 +4,10 @@ description: 了解如何过滤指定帐户以快速缩小数据范围。 在筛
 title: 在命名帐户中进行筛选
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '131'
+ht-degree: 12%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 10%
 
    ![](assets/four-2.png)
 
-   就是这样！ 过滤的结果将显示在屏幕的左侧。
+   过滤的结果将显示在屏幕的左侧。
 
    >[!NOTE]
    >

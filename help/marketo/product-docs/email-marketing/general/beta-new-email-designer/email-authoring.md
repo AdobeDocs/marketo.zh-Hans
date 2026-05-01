@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '1497'
-ht-degree: 4%
+source-wordcount: '1531'
+ht-degree: 5%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 4%
 
    ![](assets/create-an-email-4.png)
 
-就是这样。 现在该设计您的电子邮件了。
+现在该设计您的电子邮件了。
 
 ## 选择您的内容类型 {#choose-your-content-type}
 
@@ -84,11 +84,11 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->具体的 .zip 文件结构没有任何限制。但是，引用必须是相对的，并且适合.zip文件夹的树结构。
+>具体的 .zip 文件结构没有任何限制。 但是，引用必须是相对的，并且适合.zip文件夹的树结构。
 
 1. 在“设计模板”页面中，选择&#x200B;**导入HTML**。
 
-1. 拖放所需的 ip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
+1. 拖放所需的ip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
    ![](assets/authoring-import-your-html-1.png)
 
@@ -188,13 +188,13 @@ ht-degree: 4%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
    * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
@@ -231,7 +231,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >“回退文本”是适用于默认值的新编辑器术语。 示例： ``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
+   >“回退文本”是适用于默认值的新编辑器术语。 示例：``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
 
 1. 设置您的回退文本，然后单击&#x200B;**添加**。
 
@@ -315,9 +315,9 @@ ht-degree: 4%
 
 在新编辑器中创建电子邮件后，您可以在智能营销活动和/或智能列表中引用该电子邮件，就像您在处理任何其他电子邮件时所做的那样。
 
-* 按照常规步骤[，](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)在智能列表中引用它。
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，[在智能列表中引用它。
 
-* 按照常规步骤[，](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)在Smart Campaign中引用它。
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，[在Smart Campaign中引用它。
 
 >[!NOTE]
 >

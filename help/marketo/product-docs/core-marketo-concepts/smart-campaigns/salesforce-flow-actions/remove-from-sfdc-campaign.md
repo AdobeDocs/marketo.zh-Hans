@@ -4,10 +4,10 @@ description: 了解如何通过流程步骤从Salesforce营销活动中删除人
 title: 从 SFDC 营销活动中移除
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 8%
    >
    >如果人员或商机不是您选择的营销活动的成员，则将跳过这些人员。
 
-操作完成！当人员或潜在客户流动时，他们将从您选择的[!DNL Salesforce]营销活动中移除。
+当人员或潜在客户流动时，他们将从您选择的[!DNL Salesforce]营销活动中移除。

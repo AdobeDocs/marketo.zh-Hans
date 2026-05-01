@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096400
-description: 了解如何在电子邮件编辑器2.0中创建电子邮件模板。构建包含模块和可编辑部分的可重用模板。
+description: 了解如何在电子邮件编辑器2.0中创建电子邮件模板。 构建包含模块和可编辑部分的可重用模板。
 title: 创建电子邮件模板
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
@@ -65,11 +65,9 @@ ht-degree: 16%
 
    ![](assets/five-1.png)
 
-   就是这样！
-
    >[!CAUTION]
    >
-   >将电子邮件保存为模板时，变量值不会一并保留。变量将继续使用底层模板中指定的默认值。除非已将电子邮件中的可用模块插入电子邮件正文中，否则它们也不会延续。
+   >将电子邮件保存为模板时，变量值不会一并保留。 变量将继续使用底层模板中指定的默认值。 除非已将电子邮件中的可用模块插入电子邮件正文中，否则它们也不会延续。
 
 要自定义您的电子邮件模板，请查看以下文章。
 

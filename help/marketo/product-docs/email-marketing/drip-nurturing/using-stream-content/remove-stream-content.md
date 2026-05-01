@@ -4,10 +4,10 @@ description: 了解如何在不需要保留历史记录时删除流内容。
 title: 移除流内容
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 8%
+source-wordcount: '121'
+ht-degree: 6%
 
 ---
 
@@ -31,4 +31,4 @@ ht-degree: 8%
    >
    >仅当您不在乎历史记录时才删除内容。 如果要保留历史记录，请改为将[存档](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)。
 
-   操作完成！现在您知道如何删除一段内容了。
+   现在您知道如何删除一段内容了。

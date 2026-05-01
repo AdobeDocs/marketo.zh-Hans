@@ -4,9 +4,9 @@ description: 了解如何在Facebook中从Marketo创建自定义受众。 将Mar
 title: 在 Facebook 中创建自定义受众
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '236'
 ht-degree: 6%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* 在“管理员”部分中[添加 [!DNL Facebook] 自定义受众作为LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}。
->* 在您的[帐户中 [!DNL Facebook]接受](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}的自定义受众条件[!DNL Facebook]。
+>* 在您的[!DNL Facebook]帐户中[接受 [!DNL Facebook]的自定义受众条件](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}。
 
 >[!TIP]
 >
->详细了解[&#x200B; [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自定义受众。
+>详细了解 [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}中的[自定义受众。
 
 1. 查找并选择智能或静态列表，其中包含要从中创建受众的潜在客户。
 
@@ -58,7 +58,7 @@ ht-degree: 6%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   就是这样！ 在Facebook中，您将在&#x200B;**广告管理器** > **受众**&#x200B;中看到新受众。
+   在Facebook中，您将在&#x200B;**广告管理器** > **受众**&#x200B;中看到新受众。
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -68,4 +68,4 @@ ht-degree: 6%
 
    >[!MORELIKETHIS]
    >
-   >在[中 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)向自定义受众添加潜在客户
+   >在 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)中[向自定义受众添加潜在客户

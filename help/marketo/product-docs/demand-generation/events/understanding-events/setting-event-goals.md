@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '113'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 7%
 
    ![](assets/setting-event-goals-3.png)
 
-1. 通过单击[!UICONTROL Registered]输入&#x200B;**[!UICONTROL Set a goal]**&#x200B;的目标。 在中键入数字，然后按Enter。
+1. 通过单击&#x200B;**[!UICONTROL Set a goal]**&#x200B;输入[!UICONTROL Registered]的目标。 在中键入数字，然后按Enter。
 
    ![](assets/setting-event-goals-4.png)
 
@@ -46,4 +46,4 @@ ht-degree: 7%
 >
 >事件开始后，您无法设置事件的目标。
 
-就是这样！ 单击[!UICONTROL Reports]选项卡以检查您的事件目标状态。
+单击[!UICONTROL Reports]选项卡以检查您的事件目标状态。

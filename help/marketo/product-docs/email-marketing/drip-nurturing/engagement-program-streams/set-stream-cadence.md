@@ -4,9 +4,9 @@ description: 了解如何设置参与计划的流频率。 安排每周或每月
 title: 设置流发送节奏
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '362'
 ht-degree: 3%
 
 ---
@@ -68,8 +68,6 @@ ht-degree: 3%
    >[!NOTE]
    >
    >在此示例中，电子邮件将在星期四发出。 然后，我们跳过一周，在下周的周二、周三和周四再次发送。 然后我们又循环了。
-
-操作完成！如果您希望设置每月频率，请继续阅读。
 
 ## 每月 {#monthly}
 

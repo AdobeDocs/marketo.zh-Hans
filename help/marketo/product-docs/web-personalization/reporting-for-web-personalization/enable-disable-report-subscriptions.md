@@ -4,10 +4,10 @@ description: 了解如何启用或禁用Web Personalization电子邮件报表的
 title: 启用/禁用报告订阅
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 13%
+source-wordcount: '78'
+ht-degree: 11%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 13%
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. 选择要订阅的报告及其频率。 单击 **[!UICONTROL Save]**。
+1. 选择要订阅的报表及其频率。 单击 **[!UICONTROL Save]**。
 
    ![](assets/email-settings.png)
 
-   操作完成！要取消订阅报告，只需取消选中并单击&#x200B;**[!UICONTROL Save]**&#x200B;即可。
+   要取消订阅报告，请取消选中并单击&#x200B;**[!UICONTROL Save]**。

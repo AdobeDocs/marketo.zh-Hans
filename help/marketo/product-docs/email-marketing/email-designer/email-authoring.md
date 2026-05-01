@@ -4,10 +4,10 @@ title: 电子邮件创作
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '1764'
-ht-degree: 3%
+source-wordcount: '1800'
+ht-degree: 4%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 3%
 
 >[!ENDTABS]
 
-就是这样。 现在该设计您的电子邮件了。
+现在该设计您的电子邮件了。
 
 ## 选择您的内容类型 {#choose-your-content-type}
 
@@ -113,11 +113,11 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->具体的 .zip 文件结构没有任何限制。但是，引用必须是相对的，并且适合.zip文件夹的树结构。
+>具体的 .zip 文件结构没有任何限制。 但是，引用必须是相对的，并且适合.zip文件夹的树结构。
 
 1. 在“设计模板”页面中，选择&#x200B;**导入HTML**。
 
-1. 拖放所需的 ip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
+1. 拖放所需的ip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
    ![](assets/authoring-import-your-html-1.png)
 
@@ -201,7 +201,7 @@ ht-degree: 3%
 >
 >如果希望片段占据电子邮件中的整个水平布局，请添加1:1列结构，然后将片段拖放到其中。
 
-保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_&#x200B;选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
+保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
 
 ### 添加Assets {#add-assets}
 
@@ -233,13 +233,13 @@ ht-degree: 3%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
    * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
@@ -276,7 +276,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >“回退文本”是适用于默认值的新编辑器术语。 示例： ``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
+   >“回退文本”是适用于默认值的新编辑器术语。 示例：``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
 
 1. 设置您的回退文本，然后单击&#x200B;**添加**。
 
@@ -360,9 +360,9 @@ ht-degree: 3%
 
 电子邮件Designer电子邮件可通过电子邮件、参与、默认和事件程序（交互式网络研讨会程序除外）访问。 如果您在Design Studio中创建了电子邮件，则可以从智能营销活动和/或智能列表中引用该电子邮件，就像使用任何其他电子邮件一样。
 
-* 按照常规步骤[，](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)在智能列表中引用它。
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，[在智能列表中引用它。
 
-* 按照常规步骤[，](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)在Smart Campaign中引用它。
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，[在Smart Campaign中引用它。
 
 >[!NOTE]
 >

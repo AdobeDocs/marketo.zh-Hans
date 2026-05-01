@@ -4,14 +4,14 @@ description: 了解如何在Microsoft Dynamics 2011中安装和配置Marketo Sal
 title: 在 Microsoft Dynamics 2011 中安装和配置 Marketo Sales Insight
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 6%
 
 ---
 
-# 在[!DNL Marketo Sales Insight]中安装和配置[!DNL Microsoft Dynamics 2011] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# 在[!DNL Microsoft Dynamics 2011]中安装和配置[!DNL Marketo Sales Insight] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight]是您销售团队的绝佳工具。 以下分步说明如何在[!DNL Microsoft Dynamics 2011]内部部署中安装和配置它。
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >完成Marketo-Microsoft集成。
 >
->[为您的](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) CRM版本下载正确的解决方案[!DNL Microsoft Dynamics]。
+>[为您的[!DNL Microsoft Dynamics] CRM版本下载正确的解决方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
 ## 导入解决方案 {#import-solution}
 
@@ -39,7 +39,7 @@ ht-degree: 6%
    >
    >在继续之前，您应该已经安装并配置了[Marketo解决方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)。
 
-1. 单击 **[!UICONTROL Browse]**。 选择您[!DNL Marketo Sales Insight]下载的[解决方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。 单击 **[!UICONTROL Next]**。
+1. 单击 **[!UICONTROL Browse]**。 选择您[下载的[!DNL Marketo Sales Insight]解决方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -94,7 +94,7 @@ ht-degree: 6%
    >以下字段必须与Marketo同步，_潜在客户和联系人_&#x200B;才能使Sales Insight正常工作：
    >
    >* 优先级
-   >* 紧急
+   >* 紧迫性
    >* 相对分数
    >
    >如果缺少这些字段中的任何一个，您将在Marketo中看到一条错误消息，其中包含缺少的字段的名称。 若要解决此问题，请执行[此过程](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
@@ -143,11 +143,9 @@ ht-degree: 6%
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   就是这样！ 现在，所有具有访问权限的用户都可以在潜在客户/联系人详细信息视图中看到sales insight部分。
+   现在，所有有权访问的用户都可以在潜在客户/联系人详细信息视图中看到sales insight部分。
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
-
-   恭喜！ 您现在已释放[!DNL Marketo Sales Insight]的力量。
 
 >[!MORELIKETHIS]
 >

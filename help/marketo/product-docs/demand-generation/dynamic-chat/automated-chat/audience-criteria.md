@@ -3,9 +3,9 @@ description: 了解用于定位可看到Dynamic Chat对话框的受众标准。 
 title: 受众标准
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 ## 优先级 {#priority}
 
-优先级确定在符合多个对话框资格的情况下，潜在客户将收到哪个对话框。 它是您首次[创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}时创建的。 您可以通过打开现有对话框并转到“受众条件”选项卡中的&#x200B;**[!UICONTROL Dialogue Details]**&#x200B;来更改其优先级。
+优先级确定在符合多个对话框资格的情况下，潜在客户将收到哪个对话框。 它是您首次[创建对话框](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}时建立的。 您可以通过打开现有对话框并转到“受众条件”选项卡中的&#x200B;**[!UICONTROL Dialogue Details]**&#x200B;来更改其优先级。
 
 ![](assets/audience-criteria-1.png)
 
@@ -65,8 +65,6 @@ ht-degree: 1%
 1. 键入50并单击屏幕上的其他位置进行保存。
 
    ![](assets/audience-criteria-11.png)
-
-就是这样！
 
 **匿名人员**
 

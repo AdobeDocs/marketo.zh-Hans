@@ -3,9 +3,9 @@ description: 了解如何将静态列表发送到LinkedIn、Facebook或Google。
 title: 将列表发送到广告网络
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '216'
 ht-degree: 7%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 7%
    >
    >如果您选择“[!UICONTROL Enable continuous audience sync]”，Marketo会在您的Marketo实例中的列表更改时，使所选广告网络中的列表保持最新。 如果从静态列表中添加/删除了受众中的人员，则我们将同时添加&#x200B;**和**。
 
-1. 就是这样！ 单击&#x200B;**[!UICONTROL OK]**&#x200B;退出。
+1. 单击&#x200B;**[!UICONTROL OK]**&#x200B;退出。
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

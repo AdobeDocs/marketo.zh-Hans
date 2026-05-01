@@ -4,9 +4,9 @@ description: 了解如何创建帐户智能列表以识别高价值帐户。 定
 title: 帐户智能列表
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '444'
 ht-degree: 2%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 2%
 >
 >创建过滤器容器将创建一个“and”规则，这意味着该规则将仅返回所有合并的结果。 在本例中，客户属于医疗保健行业，并且位于加利福尼亚&#x200B;_和_，而某人被列为CFO。 如果您不想使用容器，只需将过滤器拖放到现有过滤器的下方/上方。
 
-就是这样！ 查看以下部分，了解如何利用[!UICONTROL Account Smart List]。
+查看以下部分以了解如何利用您的[!UICONTROL Account Smart List]。
 
 >[!TIP]
 >
@@ -93,7 +93,7 @@ ht-degree: 2%
 
 **[!UICONTROL Send to Ad Network]**：将列表作为新匹配的受众发送到[!DNL LinkedIn]。
 
-您还可以使用[!UICONTROL Account Smart List]筛选器在标准智能营销活动/列表中引用&#x200B;_[!UICONTROL People Member of Account Smart List]_。
+您还可以使用&#x200B;_[!UICONTROL People Member of Account Smart List]_筛选器在标准智能营销活动/列表中引用[!UICONTROL Account Smart List]。
 
 ![](assets/account-smart-lists-12.png)
 
@@ -105,4 +105,4 @@ ht-degree: 2%
 >
 >**定义**
 >
->**[!UICONTROL People Member of Account Smart List]**：在此例中，“会员”一词是指帐户本身，因此“人员会员”是指这些帐户中的实际人员(Marketo记录)。
+>**[!UICONTROL People Member of Account Smart List]**：在此例中，“会员”一词是指帐户本身，因此“人员会员”是指这些帐户中的实际人员（Marketo记录）。

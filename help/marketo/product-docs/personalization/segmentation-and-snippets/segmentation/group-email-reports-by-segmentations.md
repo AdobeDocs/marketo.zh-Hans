@@ -4,10 +4,10 @@ description: 了解如何按分段对电子邮件性能报表进行分组。 使
 title: 按分段对电子邮件报告进行分组
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 13%
+source-wordcount: '117'
+ht-degree: 11%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 13%
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. 操作完成！单击 **[!UICONTROL Report]** 选项卡。如果使用一种分段，则报表会为每个区段显示一行。
+1. 单击 **[!UICONTROL Report]** 选项卡。 如果使用一种分段，则报表会为每个区段显示一行。
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
