@@ -23,7 +23,7 @@ ht-degree: 2%
 >
 >如果您遇到速度变慢的问题，请尝试下面的提示。 如果问题仍然存在，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
 
-1. **限制历史记录 —**&#x200B;历史记录筛选器（也称为活动筛选器）是资源最密集、最耗时的操作之一。 如果必须使用它们，请尝试将日期范围限制在尽可能短的时间，这会减少可搜索的数据集。 此外，日期范围不会取代保留期。 例如：如果您查询的活动具有90天的保留期，并且您选择“过去100天”，则仅返回过去90天的结果。 可以在此处](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}找到活动保留期[。
+1. **限制历史记录 —**&#x200B;历史记录筛选器（也称为活动筛选器）是资源最密集、最耗时的操作之一。 如果必须使用它们，请尝试将日期范围限制在尽可能短的时间，这会减少可搜索的数据集。 此外，日期范围不会取代保留期。 例如：如果您查询的活动具有90天的保留期，并且您选择“过去100天”，则仅返回过去90天的结果。 可以在此处[&#128279;](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}找到活动保留期。
 1. **限制嵌套智能列表 —**&#x200B;创建新智能列表时，请限制使用的“智能列表成员”过滤器的数量。 这称为嵌套智能列表，引用的每个智能列表都将增加处理时间。 请改为引用静态列表或利用[分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}。
 1. **使用正运算符而非负运算符 —**&#x200B;虽然“不”筛选器可用，但它们必须搜索实例中的整个数据集，这可能非常耗时。 积极的“is”过滤器能够利用更有效的搜索算法。
 1. **避免“包含” —**&#x200B;如果您只有部分数据，则“开头为”限定符产生的结果将比“包含”快得多。 “是”的运行速度会更快。 请避免将“包含”与多值一起使用；这两种情况结合使用可能会进一步降低营销活动的速度。
