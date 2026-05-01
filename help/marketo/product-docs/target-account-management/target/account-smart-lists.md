@@ -93,7 +93,7 @@ ht-degree: 2%
 
 **[!UICONTROL Send to Ad Network]**：将列表作为新匹配的受众发送到[!DNL LinkedIn]。
 
-您还可以使用&#x200B;_[!UICONTROL People Member of Account Smart List]_筛选器在标准智能营销活动/列表中引用[!UICONTROL Account Smart List]。
+您还可以使用&#x200B;_[!UICONTROL People Member of Account Smart List]_&#x200B;筛选器在标准智能营销活动/列表中引用[!UICONTROL Account Smart List]。
 
 ![](assets/account-smart-lists-12.png)
 
