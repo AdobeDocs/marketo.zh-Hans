@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9236'
 ht-degree: 99%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 99%
       + [订阅系统状态通知](getting-started/things-to-know/system-status-notifications.md)
       + [产品知识AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [营销国家社区](getting-started/things-to-know/community.md)
+      + [AWS迁移](getting-started/things-to-know/aws-migration.md)
    + 快速上手 {#quick-wins}
       + [完成设置并添加人员](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [发送电子邮件](getting-started/quick-wins/send-an-email.md)
@@ -121,7 +122,7 @@ ht-degree: 99%
          + [为智能营销活动启用人员限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [在营销活动级别启用电子邮件打开跟踪](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [过滤电子邮件机器人活动](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [移除取消订阅文本](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [移除取消订阅文本](product-docs/administration/email-setup/remove-unsubscribe-text.md)
       + 字段管理 {#field-management}
          + [在从不受信任来源导入列表时阻止字段更新](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [阻止字段更新](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -819,7 +820,7 @@ ht-degree: 99%
             + [使现有自由格式登录页面模板兼容移动端](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [了解引导式模板中的元素和变量](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
             + [引导式登录页面模板列表](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
-            + 引导式登陆页面模板  {#guided-landing-page-templates}
+            + 引导式登陆页面模板 {#guided-landing-page-templates}
                + [模板 1A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1a.md)
                + [模板 1B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1b.md)
                + [模板 1C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1c.md)
@@ -996,7 +997,7 @@ ht-degree: 99%
             + [个性化您的品牌](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
             + [品牌一致性](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [概述](product-docs/email-marketing/email-designer/overview.md)
-         + [功能对比 &#x200B;](product-docs/email-marketing/email-designer/feature-comparison.md)
+         + [功能对比](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
          + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
          + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
@@ -1260,7 +1261,7 @@ ht-degree: 99%
          + [内容和文件附件常见问题](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect 是否有 iPhone 或 Android 应用程序？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [如何在服务器上将 Sales Connect 加入允许列表？](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [我的帐户被锁定了。我该怎么办？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [我的帐户被锁定了。 我该怎么办？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect 与 Salesforce Lightning 兼容吗？](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Sales Connect 的服务条款是什么？](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [Sales Connect 与 Highspot 的集成是什么？](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
@@ -1306,22 +1307,13 @@ ht-degree: 99%
          + [提醒任务与 Salesforce 同步](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [首次将 Sales Connect 任务与 Salesforce 同步](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + 模板 {#templates}
-         + [为模板添加自动取消订阅功能](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [管理模板](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [添加超链接文本](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [存档模板](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [创建新类别](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
-         + [创建新模板](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-         + [自定义模板视图](product-docs/marketo-sales-connect/templates/customize-template-view.md)
-         + [删除模板类别](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
-         + [删除模板](product-docs/marketo-sales-connect/templates/delete-a-template.md)
-         + [编辑模板类别](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [收藏模板](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
-         + [合并和删除重复类别](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [推荐模板](product-docs/marketo-sales-connect/templates/recommended-templates.md)
-         + [共享模板](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [模板互动情况](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [使用 HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [以其他用户身份查看模板列表](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
+         + [管理模板类别](product-docs/marketo-sales-connect/templates/manage-template-categories.md)
          + 动态字段 {#dynamic-fields}
             + [创建自定义动态字段](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [动态字段术语表](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1425,7 +1417,7 @@ ht-degree: 99%
             + [如何修复连接到 Salesforce 时出现的“无法验证您的请求”错误？](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [如何防止自我查看？](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置跟踪是如何工作的？](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-            + [我的帐户被锁定了。我该怎么办？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+            + [我的帐户被锁定了。 我该怎么办？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Sales Insight Actions 是否与 Salesforce Lightning 兼容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Sales Insight Actions 支持哪些浏览器？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [Sales Insight Actions 的服务条款是什么？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
@@ -1488,7 +1480,7 @@ ht-degree: 99%
                + [最佳推荐](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
                + [电子邮件活动](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
                + [网络活动](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
-         + 安装  {#installing}
+         + 安装 {#installing}
             + [下载适用于 Microsoft Dynamics 的 Marketo Sales Insight 解决方案](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [在 Microsoft Dynamics 2011 中安装和配置 Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
             + [在 Microsoft Dynamics 2013 中安装和配置 Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
@@ -1500,7 +1492,7 @@ ht-degree: 99%
             + [同步 Marketo 与 Dynamics 所需的字段](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
             + [从 Microsoft Dynamics 发送 Marketo 销售电子邮件](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [为潜在客户/联系人记录设置星级和火焰标识](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
-         + 卸载  {#uninstalling}
+         + 卸载 {#uninstalling}
             + [禁用全局 MS Dynamics 同步](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [从您的 MS Dynamics 实例中卸载 MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + 更新中 {#updating}
@@ -1668,7 +1660,7 @@ ht-degree: 99%
          + [编辑推荐栏的预测性内容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
    + 报告 {#reporting}
       + [报告概述](product-docs/reporting/reporting-overview.md)
-      + 基础报告  {#basic-reporting}
+      + 基础报告 {#basic-reporting}
          + 创建报告 {#creating-reports}
             + [在项目中创建报告](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
             + [浏览 Analytics 主页](product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)
