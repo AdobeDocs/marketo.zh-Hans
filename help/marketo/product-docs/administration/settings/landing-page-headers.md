@@ -3,9 +3,9 @@ description: 如何自定义登陆页面域的HTTP标头，包括严格传输安
 title: 登陆页面标头
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '134'
 ht-degree: 5%
 
 ---
@@ -37,10 +37,10 @@ ht-degree: 5%
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>用于定义是否可以在外部网页中嵌入Marketo Engage托管的资源</td>
+  <td>允许您定义是否可以在外部网页中嵌入Marketo Engage托管的资源</td>
  </tr>
 </table>
 
 >[!CAUTION]
 >
->务必与IT团队一起查看这些设置，以确定贵组织的策略应设置为什么内容。 不正确的设置可能会阻止某些访客访问您的登陆页面。
+>务必与IT团队一起查看这些设置，以确定应将组织的策略设置为什么内容。 不正确的设置可能会阻止某些访客访问您的登陆页面。

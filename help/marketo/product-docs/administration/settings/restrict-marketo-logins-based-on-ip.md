@@ -4,16 +4,16 @@ description: 了解如何允许或阻止Marketo按IP地址登录。
 title: 根据 IP 限制 Marketo 登录
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 10%
+source-wordcount: '233'
+ht-degree: 9%
 
 ---
 
 # 根据 IP 限制 Marketo 登录 {#restrict-marketo-logins-based-on-ip}
 
-您可以根据用户的IP地址限制或允许用户访问Marketo。 操作方法如下：
+您可以根据用户的IP地址限制或允许用户访问Marketo。 请按照以下步骤操作。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 10%
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC)支持[基于IP的访问控制](https://helpx.adobe.com/cn/enterprise/using/ip-based-access.html){target="_blank"}。 为确保顺利过渡，现有Marketo Engage IP限制将激活，包括已启用2027年第1季度此功能的Adobe ID用户订阅。
+>Adobe Admin Console (AAC)支持[基于IP的访问控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}。 为确保顺利过渡，现有Marketo Engage IP限制将激活，包括已启用2027年第1季度此功能的Adobe ID用户订阅。
 >
 >* 您可以随时配置基于IP的AAC访问。
 >* AAC和Marketo Engage限制可以同时运行。 使用相同的IP允许列表实现兼容性。
@@ -40,7 +40,7 @@ ht-degree: 10%
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. 选择您要&#x200B;**允许**&#x200B;还是&#x200B;**阻止**&#x200B;特定地址，请输入地址，然后单击&#x200B;**[!UICONTROL Save]**。
+1. 选择要&#x200B;**允许**&#x200B;还是&#x200B;**阻止**&#x200B;特定地址，请输入一个或多个地址，然后单击&#x200B;**[!UICONTROL Save]**。
 
    >[!NOTE]
    >
@@ -52,6 +52,6 @@ ht-degree: 10%
 
    >[!NOTE]
    >
-   >您可以添加多个限制，但只能全部允许或全部阻止。 不能混合和匹配允许和阻止。
+   >您可以添加多个限制，但只能全部允许或全部阻止。 您不能合并允许的地址和阻止的地址。
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)

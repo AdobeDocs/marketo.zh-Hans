@@ -3,16 +3,16 @@ description: 添加到Marketo Engage后，Adobe系统管理员的初始设置步
 title: 管理员设置
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '246'
 ht-degree: 4%
 
 ---
 
 # 管理员设置 {#admin-setup}
 
-在Adobe组织中将您添加为Marketo Engage的Adobe系统管理员后，您需要执行一些步骤才能完成初始设置。
+将您作为Adobe系统管理员添加到Adobe组织中的Marketo Engage后，您需要执行一些步骤才能完成初始设置。
 
 ## 初始设置 {#initial-setup}
 
@@ -20,13 +20,13 @@ ht-degree: 4%
 
    ![](assets/admin-setup-1.png)
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/admin-setup-2.png)
 
 ## 创建产品轮廓 {#create-a-product-profile}
 
-在系统管理员访问Admin Console后，便可创建产品配置文件。 这是用户/管理员访问Marketo Engage的方式。
+在系统管理员访问Admin Console后，便可创建产品配置文件。 这是您的用户和管理员访问Marketo Engage的方式。
 
 1. 在&#x200B;**[!UICONTROL Overview]**&#x200B;页面的&#x200B;**[!UICONTROL Products and Services]**&#x200B;下，单击&#x200B;**Marketo Engage**。
 

@@ -4,16 +4,16 @@ description: 如何为人员详细信息页面创建自定义布局。
 title: 为人员详情页创建自定义选项卡
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 18%
+source-wordcount: '131'
+ht-degree: 19%
 
 ---
 
 # 为人员详情页创建自定义选项卡 {#creating-a-custom-tab-for-the-person-detail-page}
 
-如果您发现自己需要在人员详细信息中反复查找一组特定的字段，请考虑创建自定义布局以简化操作。
+如果您经常需要访问人员详细信息页面中的一组特定字段，请考虑创建自定义布局。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 
@@ -43,6 +43,6 @@ ht-degree: 18%
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   做得很棒！ 现在，当您加载人员详细信息时，可以使用自定义布局访问对您而言非常重要的信息。
+   加载人员详细信息时，您可以使用自定义布局访问对您而言非常重要的信息。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

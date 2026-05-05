@@ -4,7 +4,7 @@ description: 如何打开或关闭“宝藏箱”实验特征。
 title: 启用或禁用藏宝箱功能
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 25%
@@ -13,7 +13,7 @@ ht-degree: 25%
 
 # 启用或禁用藏宝箱功能 {#enable-or-disable-treasure-chest-features}
 
-Treasure Check提供了一些有趣的实验性功能，但这些功能并未得到完全支持。
+宝藏箱包含未完全支持的实验功能。
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ Treasure Check提供了一些有趣的实验性功能，但这些功能并未得
 
    >[!TIP]
    >
-   >您可能需要先注销，然后再重新登录到Marketo，才能使更改生效。
+   >您可能需要注销并重新登录Marketo才能使更改生效。
