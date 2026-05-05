@@ -4,9 +4,9 @@ description: 审核记录概述，以及它如何捕获您的Marketo实例中六
 title: 审核记录概述
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '354'
 ht-degree: 2%
 
 ---
@@ -25,15 +25,15 @@ ht-degree: 2%
 
 审核记录可实时捕获在Marketo订阅中发生的操作和事件的全面列表。 该工具包功能包括自助式访问长达六个月的数据历史，帮助回答以下问题：
 
-此资源或设置发生了什么变化，谁最后更新了它？
+“此资源或设置发生了什么情况，谁最后进行了更新？”
 
-用户X最近做了什么？
+“用户X最近进行了哪些操作？”
 
-谁正在登录我们的帐户？
+“谁登录了我们的帐户？”
 
 ## 我们审核的内容 {#what-we-audit}
 
-Marketo将审核以下对象的[创建、编辑和删除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)操作：
+Marketo审核以下对象的[创建、编辑和删除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)操作：
 
 * Design Studio资产
 * 所有Marketo项目
@@ -62,11 +62,11 @@ Marketo将审核以下对象的[创建、编辑和删除](/help/marketo/product-
 
 **3) [用户登录历史记录](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-查看哪些用户登录了您的订阅以及登录时间。 还包括失败的登录尝试。
+查看哪些人一直在登录您的订阅，以及何时登录（还包括失败的登录尝试）。
 
 >[!TIP]
 >
->您可以使用审核记录审核的内容太多，请务必利用[筛选](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)！
+>由于您可以使用审核记录审核的内容太多，因此[筛选](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)可以节省大量时间。
 
 ## 导出数据 {#exporting-data}
 
@@ -78,7 +78,7 @@ Marketo将审核以下对象的[创建、编辑和删除](/help/marketo/product-
 >
 >**定义**
 >
->**未知：**&#x200B;在[!DNL Webhook]中，您可能会看到用户名称和电子邮件被列为“未知”。 当您在CRM中更改选择列表值时，会发生这种情况。 这些值显示在Marketo表单和登陆页中。 在CRM端执行此更新将自动草稿引用表单的登陆页面。 在[!DNL Webhook]中，我们将捕获登陆页面已草稿，但用户的名称和电子邮件将显示为“未知”，因为无法从CRM端捕获用户信息。
+>**未知：**&#x200B;在[!DNL Webhook]中，您可能会看到用户名称和电子邮件被列为“未知”。 当您在CRM中更改选择列表值时，会发生这种情况。 这些值显示在Marketo表单和登陆页中。 在CRM端执行此更新将自动草稿引用表单的登陆页面。 在[!DNL Webhook]中，Marketo捕获了已草稿的登陆页面，但用户的名称和电子邮件将显示为“未知”，因为Marketo无法从CRM端捕获用户信息。
 
 >[!MORELIKETHIS]
 >
