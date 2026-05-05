@@ -4,9 +4,9 @@ description: 了解如何在Sales Connect模板中创建自定义动态字段。
 title: 创建自定义动态字段
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 3%
 
 使用上述方法存储自定义字段后，您就可以在模板中引用它们。
 
-1. [创建模板](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)，然后像往常一样单击&#x200B;**[!UICONTROL Dynamic Fields]**&#x200B;按钮。
+1. [创建模板](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md#create-a-template)，然后像往常一样单击&#x200B;**[!UICONTROL Dynamic Fields]**&#x200B;按钮。
 
 1. 从出现的下拉列表中选择&#x200B;**[!UICONTROL Custom Fields]**。
 
