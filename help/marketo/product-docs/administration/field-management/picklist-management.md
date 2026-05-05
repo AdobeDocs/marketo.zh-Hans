@@ -1,13 +1,13 @@
 ---
-description: 此处提供描述。
+description: 了解如何为字段定义一组固定的值，以简化数据和工作流管理。
 title: 选取列表管理
 hide: true
 hidefromtoc: true
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ![](assets/picklist-management-3.png)
 
-每个选取列表条目都有一个“显示值”和一个“已提交值”。 显示值是构建智能列表、智能营销活动或表单时向用户建议的值，而提交的值是存储的值。 例如，您的“地区代码”用例可能在存储双字母代码(AB)时建议地区的全名（例如Alberta）。
+每个选取列表条目都有一个“显示值”和一个“已提交值”。 显示值是构建智能列表、智能营销活动或表单时向用户建议的值，而提交的值是存储的值。 例如，地区代码用例可能在存储双字母代码(AB)时建议地区的全名（例如Alberta）。
 
 ## 自动建议 {#autosuggest}
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ### 在受管选取列表和非受管选取列表之间切换 {#switching}
 
-大多数Marketo Engage订阅都包含引入托管选择列表之前的数据。 要在智能列表中使用值或来自此非托管版本选择列表（例如，来自数据库中记录存在的完整值集）的流程步骤，请切换智能列表或营销活动视图中的托管选择列表设置。 打开时，仅显示受管理的选取列表值。 关闭时，会使用非托管选取列表，并根据数据库中的现有值自动建议值。
+大多数Marketo Engage订阅都包含引入托管选择列表之前的数据。 要在智能列表中使用值，或从此非托管版本的选取列表（例如，数据库中记录存在的完整值集）中执行流程步骤，请切换智能列表或营销活动视图中的托管选取列表设置。 打开时，仅显示受管理的选取列表值。 关闭时，会使用非托管选取列表，并根据数据库中的现有值自动建议值。
 
 ## 表单选择列表（选择类型字段） {#form-picklists}
 

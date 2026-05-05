@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360293
-description: 在删除自定义字段在表单、智能列表和营销活动中的全部用法后，在Marketo中重命名该字段的步骤。
+description: 在删除自定义字段在表单、智能列表和营销活动中的全部使用后，在Marketo中重命名该字段的步骤。
 title: 重命名字段
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 10%
+source-wordcount: '125'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->您可以在Marketo中重命名自定义字段，但存在一个问题：在执行此操作之前，必须删除系统中使用该字段的所有内容。 这包括表单、智能列表和智能营销活动。
+>您可以在Marketo中重命名自定义字段。 但是，在这样做之前，必须将其在系统中的所有使用移除。 这包括表单、智能列表和智能营销活动。
 
 >[!NOTE]
 >
@@ -41,8 +41,8 @@ ht-degree: 10%
 
    ![](assets/rename-a-field-4.png)
 
-做得好！ 您现在知道如何在Marketo中重命名字段了。
+您现在知道如何在Marketo中重命名字段了。
 
 >[!CAUTION]
 >
->如果您在[!DNL Salesforce]中重命名API名称，Marketo将创建一个全新的字段并将旧字段留下！
+>如果您在[!DNL Salesforce]中重命名API名称，Marketo将创建一个全新的字段并保留旧字段。

@@ -4,16 +4,16 @@ description: 不再需要时从Marketo UI中隐藏字段，或取消隐藏以再
 title: 隐藏和取消隐藏字段
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '161'
 ht-degree: 16%
 
 ---
 
 # 隐藏和取消隐藏字段 {#hide-and-unhide-a-field}
 
-如果您不再使用Marketo Engage中的字段，则可以从UI中隐藏该字段，以便它不再显示在应用程序中。
+如果您在Marketo Engage中不再需要某个字段，则可以从UI中隐藏该字段，以便它不再显示在应用程序中。
 
 ## 隐藏字段 {#hide-a-field}
 
@@ -35,7 +35,7 @@ ht-degree: 16%
 
    >[!NOTE]
    >
-   >* 要隐藏字段，该字段不得与任何其他资产（包括已存档的资产）关联。 在隐藏之前，请确保从所有智能列表、流程步骤选择、表单、电子邮件等中删除该字段。
+   >* 为了隐藏字段，不得将其与任何其他资产（包括已存档的资产）关联。 在隐藏之前，从所有智能列表、流程步骤选择、表单、电子邮件等中删除字段。
    >* 您不能隐藏标准（系统）字段。
    >* 无法隐藏机会信息字段。
 
@@ -43,7 +43,7 @@ ht-degree: 16%
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
-   做得不错！现在您知道如何从Marketo用户界面隐藏字段了。
+   现在您知道如何从Marketo用户界面隐藏字段了。
 
    ![](assets/hide-and-unhide-a-field-5.png)
 
@@ -61,4 +61,4 @@ ht-degree: 16%
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   做得好！ 现在您知道如何取消隐藏字段并使它们再次可见。
+   现在您知道如何取消隐藏字段并使它们再次可见。
