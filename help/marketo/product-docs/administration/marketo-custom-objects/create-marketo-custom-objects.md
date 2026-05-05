@@ -4,16 +4,16 @@ description: 为一对多或多对多结构创建Marketo自定义对象的步骤
 title: 创建 Marketo 自定义对象
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 5%
+source-wordcount: '687'
+ht-degree: 7%
 
 ---
 
 # 创建 Marketo 自定义对象 {#create-marketo-custom-objects}
 
-使用Marketo中的自定义对象来跟踪特定于您的业务的量度。 这可以是汽车、课程 — 您希望在Marketo中建模以执行营销活动的任何内容。
+使用Marketo中的自定义对象来跟踪特定于您的业务的量度。 这可能包括从汽车到课程的任何内容 — 无论您希望在Marketo中建模以运行营销活动，都可以这样做。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 5%
 
 ## 创建一对多结构的自定义对象 {#create-a-custom-object-for-a-one-to-many-structure}
 
-此示例显示了一个Car自定义对象，用于一对多结构。 之后，您将创建一个课程自定义对象和一个中间对象，以在多对多结构中使用。
+此示例显示了一个Car自定义对象，用于一对多结构。 然后，将创建课程自定义对象和中间对象，以在多对多结构中使用。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 
@@ -67,11 +67,11 @@ ht-degree: 5%
 
 ## 为多对多结构创建自定义对象 {#create-a-custom-object-for-a-many-to-many-structure}
 
-此示例显示了一个课程自定义对象，您将使用该对象在人员/公司和课程之间创建多对多关系。 完成后，您将创建一个中间对象以将其连接到数据库中的人员或公司。
+此示例显示了一个课程自定义对象，您将使用该对象在人员或公司和课程之间创建多对多关系。 完成后，您将创建一个中间对象以将其连接到数据库中的人员或公司。
 
 >[!NOTE]
 >
->对于多对多关系，您不需要在自定义对象中创建链接。 您而是会为中间对象添加两个链接（见下文）。
+>对于多对多关系，您不需要在自定义对象中创建链接。 而是将中间对象添加两个链接（见下文）。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 
@@ -105,7 +105,7 @@ ht-degree: 5%
    >
    >您只能通过列表导入或[API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)填充Marketo自定义对象。
 
-下一步是创建中间对象（见下文）。 但在之前，您需要创建一个字段以链接到它。
+下一步是创建中间对象（见下文）。 在此之前，您需要创建一个字段以链接到它。
 
 ## 创建中间对象 {#create-an-intermediary-object}
 
@@ -135,13 +135,13 @@ ht-degree: 5%
    >
    >您可以在创建这些字段时对其进行编辑，但在保存这些字段后，您只能编辑[!UICONTROL Plural Name]字段和[!UICONTROL Show in Lead Detail]滑块。
 
-1. 如果要查看“数据库”页面上的自定义对象数据，请将&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块拉到其上以显示&#x200B;**显示**。 单击&#x200B;**保存**。
+1. 如果要查看“数据库”页面上的自定义对象数据，请将&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑块拉到上面以显示&#x200B;**[!UICONTROL Show]**。 单击 **[!UICONTROL Save]**。
 
    ![](assets/create-marketo-custom-objects-17.png)
 
 1. 自定义对象信息显示您输入的内容。 请注意，它处于&#x200B;**[!UICONTROL Draft]**&#x200B;状态。
 
-   下一步是您[添加链接字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)，以将中间对象连接到人员/公司和自定义对象。
+   下一步是您[添加链接字段](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)，以将中间对象连接到人员或公司和自定义对象。
 
 >[!MORELIKETHIS]
 >

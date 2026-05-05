@@ -4,9 +4,9 @@ description: 编辑或删除自定义对象的步骤。
 title: 编辑和删除 Marketo 自定义对象
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '236'
 ht-degree: 10%
 
 ---
@@ -41,11 +41,11 @@ ht-degree: 10%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. 确保批准[编辑的对象](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)。
+1. 批准[编辑的对象](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)。
 
 ## 删除自定义对象 {#delete-a-custom-object}
 
-删除自定义对象很容易，但您需要小心。 自定义对象可以连接到其他对象或智能列表。 因此，Marketo会在允许您单击&#x200B;**[!UICONTROL Delete]**&#x200B;之前警告您。
+删除自定义对象时需要小心。 自定义对象可以连接到其他对象或智能列表。 Marketo会在允许您单击&#x200B;**[!UICONTROL Delete]**&#x200B;之前警告您。
 
 >[!CAUTION]
 >
@@ -75,7 +75,7 @@ ht-degree: 10%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. 如果该自定义对象已被批准，则将其删除的风险更大。 所以你会得到更严厉的警告。 输入&#x200B;**[!UICONTROL I understand]**，选中&#x200B;**[!UICONTROL Cannot Undo]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL Delete]**。
+1. 如果该自定义对象已被批准，则将其删除的风险更大。 所以，你会得到更严厉的警告。 输入&#x200B;**[!UICONTROL I understand]**，选中&#x200B;**[!UICONTROL Cannot Undo]**&#x200B;复选框，然后单击&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

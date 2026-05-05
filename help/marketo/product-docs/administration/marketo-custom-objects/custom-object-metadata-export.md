@@ -3,16 +3,16 @@ description: 如何导出自定义对象元数据架构以供SOAP或Munchkin API
 title: 导出自定义对象元数据
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 17%
 
 ---
 
 # 导出自定义对象元数据 {#custom-object-metadata-export}
 
-如果您使用我们的SOAP API或[!DNL Munchkin] API，则可以导出自定义对象元数据架构。 下面是如何获取它。
+如果您使用SOAP API或[!DNL Munchkin] API，则可以导出自定义对象元数据架构。 请按照以下步骤操作。
 
 >[!AVAILABILITY]
 >

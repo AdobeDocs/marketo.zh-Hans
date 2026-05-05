@@ -4,10 +4,10 @@ description: 如何在智能营销活动智能列表中为Marketo自定义对象
 title: 基于自定义对象更改触发
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 6%
+source-wordcount: '199'
+ht-degree: 9%
 
 ---
 
@@ -18,9 +18,10 @@ ht-degree: 6%
 >此功能仅可用：
 >
 >* 仅用于Marketo自定义对象，而不用于通过本机[!DNL Salesforce]或[!DNL Microsoft Dynamics]集成同步的自定义对象
+>
 >* 作为触发器，而不是过滤器
 >
->请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)以启用自定义对象更改触发器。
+>联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)以启用自定义对象更改触发器。
 
 在智能营销活动的智能列表中，您可以在将自定义对象添加到人员或公司时触发流量操作。 您还可以创建一个在自定义对象中使用&#x200B;_change_&#x200B;作为触发器的智能列表。 例如，使用它可在课程名称更新时发送电子邮件。
 
@@ -48,7 +49,7 @@ ht-degree: 6%
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. 你就在那儿。 更改将自动保存。
+1. 更改将自动保存。
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 
