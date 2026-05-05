@@ -4,9 +4,9 @@ description: 当Sales Connect中的收件人位置不正确时，获取帮助。
 title: 收件人位置不正确
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '125'
 ht-degree: 4%
 
 ---

@@ -3,10 +3,10 @@ description: 了解如何导出自定义活动元数据架构。
 title: 导出自定义活动元数据
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 19%
+source-wordcount: '74'
+ht-degree: 20%
 
 ---
 

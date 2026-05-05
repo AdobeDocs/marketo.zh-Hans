@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100275
 description: 如何在自定义活动上添加、编辑或删除字段。
-title: 添加/编辑/删除 Marketo 自定义活动字段
+title: 添加、编辑或删除Marketo自定义活动字段
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 14%
+source-wordcount: '246'
+ht-degree: 7%
 
 ---
 
-# 添加/编辑/删除 Marketo 自定义活动字段 {#add-edit-delete-marketo-custom-activity-fields}
+# 添加、编辑或删除Marketo自定义活动字段 {#add-edit-delete-marketo-custom-activity-fields}
 
-您可能需要添加、更改甚至删除自定义活动字段。 操作方法如下：
+了解如何添加、更改或删除自定义活动字段。
 
 ## 添加自定义活动字段 {#add-a-custom-activity-field}
 
@@ -43,13 +43,13 @@ ht-degree: 14%
 
    >[!TIP]
    >
-   >不确定要选择什么？ 我们为您提供保障！ 所有可用的数据类型均在[此文章](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)中定义。
+   >有关所有可用数据类型的定义，请参阅[本文](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
 
-1. 命名字段。 Api名称会自动填充。 完成后，单击&#x200B;**[!UICONTROL Save]**。
+1. 命名字段。 [!UICONTROL API Name]自动填充。 完成后，单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   操作完成！已添加您的新字段。
+   已添加您的新字段。
 
 ## 编辑自定义活动字段 {#edit-a-custom-activity-field}
 
@@ -73,27 +73,27 @@ ht-degree: 14%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   出现&#x200B;**[!UICONTROL Edit Field]**&#x200B;弹出窗口。 在此示例中，让我们更改字段的名称。
+   出现&#x200B;**[!UICONTROL Edit Field]**&#x200B;弹出窗口。 在此示例中，字段名称正在更改。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. 输入新的名称和Api名称，然后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入新名称和[!UICONTROL API Name]，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
-   >编辑字段时不会自动填充[!UICONTROL Api Name]。 虽然字段[!UICONTROL Name]和[!UICONTROL Api Name]不必匹配，但我们建议他们匹配。
+   >编辑字段时不会自动填充[!UICONTROL API Name]。 虽然字段[!UICONTROL Name]和[!UICONTROL API Name]不必匹配，但Marketo建议二者匹配。
 
    >[!CAUTION]
    >
-   >如果自定义活动从未发布，则只能编辑API名称或将字段更改为“主要”。
+   >如果自定义活动从未发布，则只能编辑[!UICONTROL API Name]或将字段更改为“主要”。
 
    >[!NOTE]
    >
    >如果要更改哪个字段是主字段，必须先取消选择现有字段。
 
-您的字段现已编辑！
+字段已更新。
 
 ## 删除自定义活动字段 {#delete-a-custom-activity-field}
 

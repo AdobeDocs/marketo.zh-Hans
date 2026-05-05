@@ -4,9 +4,9 @@ description: 了解Marketo ON24适配器以及它如何将ON24网络研讨会连
 title: 了解 Marketo On24 适配器事件
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 6%
 
 ---
