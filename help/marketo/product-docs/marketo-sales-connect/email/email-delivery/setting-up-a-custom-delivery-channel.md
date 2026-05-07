@@ -95,4 +95,4 @@ ht-degree: 4%
    >
    >* Gmail用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >
-   >*  [!DNL Outlook] 用户](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的[电子邮件连接
+   >*  [!DNL Outlook] 用户[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的电子邮件连接

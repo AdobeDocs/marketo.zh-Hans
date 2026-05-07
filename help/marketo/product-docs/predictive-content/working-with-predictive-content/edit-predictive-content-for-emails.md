@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->[!UICONTROL All Content]页面上的预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为[批准。
+>[!UICONTROL All Content]页面上的预测内容[&#128279;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为批准。
 
 1. 在[!UICONTROL Predictive Content]页面上，单击标题以打开编辑器。
 

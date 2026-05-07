@@ -54,6 +54,6 @@ Marketo电子邮件服务器未与[!DNL Sales Connect]集成。 Marketo服务器
 >[!MORELIKETHIS]
 >
 >* Gmail用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->*  [!DNL Outlook] 用户](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的[电子邮件连接
+>*  [!DNL Outlook] 用户[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的电子邮件连接
 >* [设置自定义投放渠道](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [电子邮件连接限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

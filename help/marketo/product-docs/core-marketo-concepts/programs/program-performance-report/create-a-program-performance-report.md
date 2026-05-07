@@ -23,7 +23,7 @@ ht-degree: 12%
 
 >[!TIP]
 >
->例如，要查找每次成功成本最低&#x200B;*的程序*，请在该列上对您的报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}进行排序，然后选择&#x200B;**[!UICONTROL Sort Ascending]**。[
+>例如，要查找每次成功成本最低&#x200B;*的程序*，请在该列上对您的报表[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}进行排序，然后选择&#x200B;**[!UICONTROL Sort Ascending]**。
 
 “方案执行情况”报表中的列包括：
 

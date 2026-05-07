@@ -43,7 +43,7 @@ ht-degree: 5%
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. 在新窗口中，单击&#x200B;**[!UICONTROL Browse]**。 选择您在步骤1](#msi)中下载的[Marketo Sales Insight解决方案。 单击 **[!UICONTROL Next]**。
+1. 在新窗口中，单击&#x200B;**[!UICONTROL Browse]**。 选择您在步骤1[&#128279;](#msi)中下载的Marketo Sales Insight解决方案。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 

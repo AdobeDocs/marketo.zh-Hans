@@ -77,4 +77,4 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >保存帐户后，您可以使用 [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上的[匹配受众来定位这些帐户。
+   >保存帐户后，您可以使用 [!DNL LinkedIn][&#128279;](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上的匹配受众来定位这些帐户。

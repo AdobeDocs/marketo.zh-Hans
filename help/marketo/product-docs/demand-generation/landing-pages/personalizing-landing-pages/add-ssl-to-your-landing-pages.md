@@ -65,7 +65,7 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 
 按照以下步骤为现有域别名启用SSL。
 
-1. 从&#x200B;_[!UICONTROL Admin]_区域，展开左侧导航中的&#x200B;**[!UICONTROL Integration]**并选择&#x200B;**[!UICONTROL Landing Pages]**。
+1. 从&#x200B;_[!UICONTROL Admin]_&#x200B;区域，展开左侧导航中的&#x200B;**[!UICONTROL Integration]**&#x200B;并选择&#x200B;**[!UICONTROL Landing Pages]**。
 
 1. 在页面上，选择顶部的&#x200B;**[!UICONTROL Rules]**&#x200B;选项卡。
 
