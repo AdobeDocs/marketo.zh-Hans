@@ -4,16 +4,16 @@ description: 设置每天和每7天的电子邮件限制以防止与您的人员
 title: 启用通信限制
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 12%
+source-wordcount: '159'
+ht-degree: 11%
 
 ---
 
 # 启用通信限制 {#enable-communication-limits}
 
-不要与你的员工过度交流，这一点非常重要。 设置通信限制将有助于防止您的组织发送过多电子邮件。
+不要与您的员工过度沟通，这一点很重要。 设置通信限制将有助于防止您的组织发送过多电子邮件。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 12%
    >
    >[!UICONTROL Per Day]基于订阅时区的日历日（午夜 — 午夜）。
 
-1. 单击&#x200B;**[!UICONTROL Per Day]**&#x200B;下拉列表并选择所需的限制。 在本例中，我们选择1。
+1. 单击&#x200B;**[!UICONTROL Per Day]**&#x200B;下拉列表并选择所需的限制。 在此示例中，使用1。
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 12%
    >
    >如果预设选项都不适合您，您也可以选择&#x200B;**[!UICONTROL Custom]**。
 
-1. 单击&#x200B;**[!UICONTROL Per 7 Days]**&#x200B;下拉列表并选择所需的限制。 在本例中，我们选择5个。
+1. 单击&#x200B;**[!UICONTROL Per 7 Days]**&#x200B;下拉列表并选择所需的限制。 在此示例中，使用5。
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -63,7 +63,7 @@ ht-degree: 12%
    >
    >**示例**
    >
-   >上述设置意味着在任何七天期间&#x200B;**内，用户每天收到的电子邮件不会超过**&#x200B;封&#x200B;**或超过** 5封。
+   >上述设置意味着在任何七天期间&#x200B;**内，用户每天收到的电子邮件不会超过** 1封&#x200B;**或超过** 5封。
 
    >[!NOTE]
    >

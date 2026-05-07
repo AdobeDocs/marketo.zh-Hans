@@ -4,9 +4,9 @@ description: 发行说明 — 2020年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2020年1月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '842'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->目前，仅在Firefox中完全支持AEM资产选择器。 Safari不支持它，并且它可能不适用于最新版本的Chrome (v. 80)，具体取决于您的SameSite Cookie设置。
+>目前，仅在Firefox中完全支持AEM资产选择器。 它在Safari中不受支持，并且可能在最新版本的Chrome (v. 80)，具体取决于您的SameSite Cookie设置。
 
 * **[!DNL Microsoft Dynamics]— 将潜在客户实时同步到CRM**：在Marketo Engage和[!DNL Microsoft Dynamics]之间实时同步潜在客户和联系人。 创建潜在客户或联系人，然后立即在[!DNL Microsoft Dynamics]中通过“将人员同步到Microsoft”流程操作查看它们。
 * **[!DNL LinkedIn]潜在客户Gen Forms附加字段映射**：从[!DNL LinkedIn]潜在客户Gen Forms中捕获潜在客户数据，以便为销售和营销接触点创建更相关的体验。 将隐藏字段、同意字段和测试潜在客户字段拉入Marketo Engage。
@@ -57,12 +57,12 @@ ht-degree: 1%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=zh-Hans#design-studio)：无需离开Adobe即可访问Marketo Engage的编辑功能。 这项新功能允许您轻松地直接在[!UICONTROL Design Studio]中增强、裁切文本并将其添加到图像。
+* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：无需离开Adobe即可访问Marketo Engage的编辑功能。 这项新功能允许您轻松地直接在[!UICONTROL Design Studio]中增强、裁切文本并将其添加到图像。
 
 ## [!DNL Sales Insight] {#sales-insight}
 
 * **[!DNL Salesforce Lightning]批量操作**：提高销售效率并使购买者能够持续参与，从而向营销活动添加最多200个联系人/潜在客户，并批量向他们发送带有[!DNL Salesforce Lightning]的Marketo Engage电子邮件。
-* **针对[!DNL Salesforce1]**&#x200B;的移动支持：您现在可以在[!DNL Sales Insight]应用程序中移动访问所有[!DNL Salesforce1]功能，如“有趣的时刻”和“Web活动和电子邮件”。
+* **针对[!DNL Salesforce1]**&#x200B;的移动支持：您现在可以在[!DNL Salesforce1]应用程序中移动访问所有[!DNL Sales Insight]功能，如“有趣的时刻”和“Web活动和电子邮件”。
 * **UI增强**：更新了界面，增强了可读性，并提供了与我们[!DNL Marketo Sky]体验一致的设计。
 
 ## [!DNL Sales Connect] {#sales-connect}
@@ -76,4 +76,4 @@ ht-degree: 1%
 >
 >* **ITP 2.1+ [!DNL Munchkin]更新**：由于对[!DNL Safari]的Cookie策略进行了更改，[!DNL Munchkin]在同一域上跨会话跟踪用户的能力将被ITP限制为1天或7天，具体取决于访客使用的浏览器和浏览器版本。 为此，我们正在实施一项新的Web服务，以允许通过HTTP响应使用Set-Cookie标头设置Munchkin Cookie。 有关如何实施此新服务的详细信息，可在[此处](https://nation.marketo.com/docs/DOC-7351)找到。
 
-**_产品发布网络研讨会_** [于3月3日（太平洋时间11](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) / 2:00AM ET）加入我们:00PM，参加我们产品团队举办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。
+**_产品发布网络研讨会_** [于3月3日（太平洋时间11:00AM / 2:00PM ET）加入我们](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，参加我们产品团队举办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。

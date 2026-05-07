@@ -4,10 +4,10 @@ description: 在Marketo中使用工作区时，将通用品牌策略域更改为
 title: 使用工作区编辑默认品牌域名
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 13%
+source-wordcount: '138'
+ht-degree: 14%
 
 ---
 
@@ -28,8 +28,6 @@ ht-degree: 13%
    >[!NOTE]
    >
    >在您编辑通用域之前，**[!UICONTROL Add]**&#x200B;不起作用。 在添加第二个域之前，**[!UICONTROL Delete]**&#x200B;不起作用。
-   >
-   >在首次编辑通用域之前，您无法添加其他域。
 
 1. 输入默认域的名称，然后单击&#x200B;**[!UICONTROL Next]**。
 
@@ -41,6 +39,6 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->添加其他品牌域时，您可以选择将此域设置为一个或多个工作区的主域，所有现有未发送电子邮件均设置为“默认”，所有新创建的电子邮件均默认为主域。 您可以逐封电子邮件覆盖此项。
+>添加其他品牌域时，您可以选择将此域设置为一个或多个工作区的主域，并且所有设置为“默认”的现有未发送电子邮件和所有新创建的电子邮件都将默认为主域。 您可以逐封电子邮件覆盖此项。
 
 现在，您可以[添加工作区所需的其他品牌推广域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)。

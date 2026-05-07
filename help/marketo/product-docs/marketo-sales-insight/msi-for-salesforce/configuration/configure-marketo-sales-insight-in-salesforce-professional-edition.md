@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571743
 description: 了解如何在Marketo Professional Edition中配置Salesforce Sales Insight。
-title: 在Marketo Professional Edition中配置Salesforce Sales Insight
+title: 在 Salesforce 专业版中配置 Marketo Sales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 1%
+source-wordcount: '688'
+ht-degree: 3%
 
 ---
 
-# 在[!DNL Marketo Sales Insight] Professional Edition中配置[!DNL Salesforce] {#configure-marketo-sales-insight-in-salesforce-professional-edition}
+# 在[!DNL Salesforce] Professional Edition中配置[!DNL Marketo Sales Insight] {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
 完成以下步骤以配置Salesforce Professional Edition中的Marketo Sales Insight 。
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 >
 >* 在[!DNL Salesforce] Professional Edition中安装Marketo。
 >
->* 在[AppExchange [!DNL Marketo Sales Insight] 中 [!DNL Salesforce] 安装](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}包
+>* 在 [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}中[安装 [!DNL Marketo Sales Insight] 包
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ ht-degree: 1%
    >
    >您的API密钥与组织的密码类似，应当是安全的。
 
-1. 要填充凭据，请单击&#x200B;**[!UICONTROL View]**&#x200B;面板中的&#x200B;_[!UICONTROL Rest API Configuration]_。
+1. 要填充凭据，请单击&#x200B;_[!UICONTROL Rest API Configuration]_面板中的&#x200B;**[!UICONTROL View]**。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
@@ -67,7 +67,7 @@ ht-degree: 1%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中“Soap API配置”面板中的您的Marketo主机URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
+1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中“Soap API配置”面板中的您的Marketo主机URL。 单击 **[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
-1. 输入远程站点名称（可以是“MarketoRestAPI”之类的名称）。 输入远程站点URL，它是您在Marketo的Rest API配置面板中的API URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
+1. 输入远程站点名称（可以是“MarketoRestAPI”之类的名称）。 输入远程站点URL，它是您在Marketo的Rest API配置面板中的API URL。 单击 **[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
 
 ## 授予Sales Insight用户配置文件对标准Salesforce对象的访问权限 {#grant-sales-insight-users-profile-access}
 
@@ -97,7 +97,7 @@ ht-degree: 1%
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. 搜索“页面布局”并选择&#x200B;**[!UICONTROL Page Layout]**&#x200B;下的&#x200B;**[!UICONTROL Leads]**。
+1. 搜索“页面布局”并选择&#x200B;**[!UICONTROL Leads]**&#x200B;下的&#x200B;**[!UICONTROL Page Layout]**。
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
@@ -105,7 +105,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. 输入“Marketo Sales Insight”作为&#x200B;**[!UICONTROL Section Name]**。 选择&#x200B;**[!UICONTROL 1-Column]**&#x200B;并单击&#x200B;**[!UICONTROL OK]**。
+1. 输入“Marketo Sales Insight”作为&#x200B;**[!UICONTROL Section Name]**。 选择 **[!UICONTROL 1-Column]** 并点击 **[!UICONTROL OK]**。
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
@@ -163,7 +163,7 @@ Marketo人员字段必须映射到Salesforce联系人字段，以确保转换正
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. 在搜索栏中搜索“字段”，然后单击&#x200B;**[!UICONTROL Fields]**&#x200B;下的&#x200B;**[!UICONTROL Leads]**。
+1. 在搜索栏中搜索“字段”，然后单击&#x200B;**[!UICONTROL Leads]**&#x200B;下的&#x200B;**[!UICONTROL Fields]**。
 
    ![](assets/image2015-6-1-9-3a54-3a50-1.png)
 
@@ -203,7 +203,7 @@ Marketo人员字段必须映射到Salesforce联系人字段，以确保转换正
 
 1. 从[Marketo的Sales Insight Admin页](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}中的Soap API面板复制凭据，并将其粘贴到Salesforce Sales Insight配置页的Soap API部分中。
 
-1. 从&#x200B;**[!UICONTROL Rest API]** Marketo的Sales Insight管理页面[中的](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}面板复制凭据，并将其粘贴到Salesforce Sales Insight配置页面的Rest API部分。
+1. 从[Marketo的Sales Insight管理页面](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}中的&#x200B;**[!UICONTROL Rest API]**&#x200B;面板复制凭据，并将其粘贴到Salesforce Sales Insight配置页面的Rest API部分。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
