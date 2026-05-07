@@ -4,18 +4,18 @@ description: 发行计划 - Marketo 文档 - 产品文档
 title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 39ea33ddb4827d1c0824ef871956a4357f0c9fa3
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 90%
+source-wordcount: '160'
+ht-degree: 79%
 
 ---
 
 # 发行计划 {#release-schedule}
 
-**版本**：每次发布的月份/年份。一旦发布，可在下方表格中查看发行说明的链接。
+**版本**：每次发布的月份/年份。 一旦发布，可在下方表格中查看发行说明的链接。
 
-**发布日期**：通常在发布周的星期二开始推送，主要升级将在星期五晚间进行。所列日期为星期五更新的时间。
+**发布日期**：通常在发布周的星期二开始推送，主要升级将在星期五晚间进行。 所列日期为星期五更新的时间。
 
 **状态**：
 
@@ -45,11 +45,11 @@ _发布日期/功能可能会有所变更_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">3 月 26 日</td>
    <td>2026 年 3 月 27 日</td>
-   <td>进行中</td>
+   <td>完成</td>
   </tr>
   <tr>
   <td>5 月 26 日</td>
-   <td>2026年5月15日</td>
+   <td>2026年5月22日</td>
    <td>按计划进行</td>
   </tr>
   <tr>
@@ -58,22 +58,22 @@ _发布日期/功能可能会有所变更_
    <td>按计划进行</td>
   </tr>
   <tr>
-  <td>7 月 26 日</td>
+  <td>’26年7月</td>
    <td>2026年7月31日</td>
    <td>按计划进行</td>
   </tr>
   <tr>
-  <td>8 月 26 日</td>
+  <td>’26年8月</td>
    <td>2026年8月28日</td>
    <td>按计划进行</td>
   </tr>
   <tr>
-  <td>9 月 26 日</td>
+  <td>’26年9月</td>
    <td>2026年9月25日</td>
    <td>按计划进行</td>
   </tr>
   <tr>
-  <td>10 月 26 日</td>
+  <td>’26年10月</td>
    <td>2026年10月30日</td>
    <td>按计划进行</td>
   </tr>

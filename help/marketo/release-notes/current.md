@@ -3,14 +3,14 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 24%
+source-wordcount: '462'
+ht-degree: 23%
 
 ---
 
-# 发行说明：2026 年 3 月 {#release-notes-mar-26}
+# 发行说明：2026年3月 {#release-notes-mar-26}
 
 在下方，您会找到2026年3月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
@@ -18,7 +18,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2026年3月27日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2026年3月27日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -60,9 +60,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer - Brand Quality Checker</strong>：评估一般内容质量，以识别可读性、内容一致性和有效性方面的潜在问题，而不依赖于您的品牌指南。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td><strong>发送电子邮件至Designer - Brand Score Checker</strong>：评估总体内容质量，确定可读性、内容一致性和有效性方面的潜在问题，这与您的品牌指南无关。</td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-score.md" target="_blank">品牌得分</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -70,21 +70,10 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Picklist管理</strong>：您现在可以指定可以在Marketo Engage的字段中使用的值。
+   <td><strong>推送通知</strong>：在推送通知消息中配置的重定向URI现在支持Marketo Engage令牌（仅适用于<i>启动应用程序URL</i>）。
    </td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>推送通知</strong>：在推送通知消息中配置的重定向URL现在支持Marketo Engage令牌（仅适用于<i>启动应用程序URL</i>）。
-   </td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-uris">重定向URI</a></td>
   </tr>
   </tbody>
 </table>
@@ -92,7 +81,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hans){target="_blank"}。
+* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API合并潜在客户限制**：从2026年3月31日开始，在合并潜在客户API调用的leadIds参数中包含超过25个ID的调用将导致1080错误代码，并且将跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
 
