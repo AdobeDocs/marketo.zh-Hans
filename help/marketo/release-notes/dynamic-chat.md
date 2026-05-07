@@ -20,11 +20,11 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 ### 访客等待时间限制 {#visitor-wait-time}
 
-设置访客在收到回退消息之前等待连接到实时代理的最长时间（10到500秒之间）。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+设置访客在收到回退消息之前等待连接到实时代理的最长时间（10到500秒之间）。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### 下载文字记录 {#download-transcript}
 
-实时聊天结束后，您现在可以下载聊天记录的.txt文件。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+实时聊天结束后，您现在可以下载聊天记录的.txt文件。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025 年 6 月版 {#june-2025-release}
 

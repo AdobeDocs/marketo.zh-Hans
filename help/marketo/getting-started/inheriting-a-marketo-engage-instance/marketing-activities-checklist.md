@@ -141,7 +141,7 @@ ht-degree: 2%
   <tr>
    <td>隐私和合规性</td>
    <td><li>您是否有确保遵守数据隐私和垃圾邮件法律的程序？
-   <br/>考虑<a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、CASL、CAN-SPAM、CCPA等</li>
+   <br/>考虑<a href="https://business.adobe.com/cn/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、CASL、CAN-SPAM、CCPA等</li>
 <p><img src="assets/tip-icon.png" alt="提示图标">提示：请记住在这些问题上始终咨询您的法律团队。 在作出任何更改之前，请咨询您的团队了解以前的计划以保持法规遵从性。</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ ht-degree: 2%
   </tr>
   <tr>
    <td>订阅/偏好设置中心</td>
-   <td><li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">订阅/首选项中心</a>？ 它是否按预期运行？</li></td>
+   <td><li>是否已设置<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=zh-Hans" target="_blank">订阅/首选项中心</a>？ 它是否按预期运行？</li></td>
   </tr>
   <tr>
    <td>有趣的时刻（如果适用）</td>

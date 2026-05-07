@@ -48,7 +48,7 @@ ht-degree: 1%
 
 在[识别您的数据中心和pod/server](#identify)后，请按照以下步骤创建订阅。
 
-1. 在[status.adobe.com](https://status.adobe.com)上，单击&#x200B;**管理订阅**。
+1. 在[status.adobe.com](https://status.adobe.com/zh-cn)上，单击&#x200B;**管理订阅**。
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 

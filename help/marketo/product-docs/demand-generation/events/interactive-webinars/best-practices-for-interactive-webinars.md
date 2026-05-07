@@ -85,7 +85,7 @@ ht-degree: 0%
 
 * **Q&amp;A面板**：提交问题的参与者的姓名以及回答问题的主持人/演示者的姓名都可以隐藏。 取消选中“房间首选项”中“Q&amp;A Pod”部分下的隐私选项，即可实现此目的。
 
-* **聊天面板**：聊天面板是一个聊天区域，它不属于会话录制。 因此，如果您不希望聊天显示在录制中，请使用“聊天面板”而不是“聊天面板”。 [单击此处](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}了解有关使用聊天面板的更多信息。
+* **聊天面板**：聊天面板是一个聊天区域，它不属于会话录制。 因此，如果您不希望聊天显示在录制中，请使用“聊天面板”而不是“聊天面板”。 [单击此处](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}了解有关使用聊天面板的更多信息。
 
 * **私人聊天**：关闭私人聊天以防止参与者ping其他参与者。 可以通过取消选中“房间首选项”中“聊天”部分下的“允许参与者私下聊天”来实现此目的。
 
