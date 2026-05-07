@@ -4,9 +4,9 @@ description: 了解如何在Salesforce营销活动中通过流程步骤更改状
 title: 更改 SFDC 营销活动中的状态
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 9%
 
 ---

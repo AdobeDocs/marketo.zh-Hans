@@ -4,16 +4,16 @@ description: 发送电子邮件 - Marketo 文档 - 产品文档
 title: 发送电子邮件
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 100%
+source-wordcount: '363'
+ht-degree: 95%
 
 ---
 
 # 发送电子邮件 {#send-an-email}
 
-这是大家最想做的第一件事。让我们从 Marketo 发送一封邮件吧！
+这是每个人都想做的第一件事。 让我们从 Marketo 发送一封邮件吧！
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ ht-degree: 100%
 
    ![](assets/send-an-email-1.png)
 
-1. 选择您的 **[!UICONTROL Learning]** 文件夹。点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL New Program]**。
+1. 选择您的 **[!UICONTROL Learning]** 文件夹。 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL New Program]**。
 
    ![](assets/send-an-email-2.png)
 
@@ -71,7 +71,7 @@ ht-degree: 100%
 
    ![](assets/send-an-email-8.png)
 
-   您应该会看到人员数量增加到 1。那就是您！
+   您应该会看到人员数量增加到 1。 那就是您！
 
 ## 创建电子邮件 {#create-an-email}
 
@@ -83,7 +83,7 @@ ht-degree: 100%
 
    ![](assets/send-an-email-10.png)
 
-1. 电子邮件编辑器窗口将打开。输入主题（建议不超过 50 个字符）。
+1. 电子邮件编辑器窗口将打开。 输入主题（建议不超过 50 个字符）。
 
    ![](assets/send-an-email-11.png)
 
@@ -105,7 +105,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >想在发布前快速发送样本邮件给自己查看效果吗？在上方菜单中选择 **[!UICONTROL Send Sample]**，或点击 **[!UICONTROL Email Actions]**，然后选择 [**[!UICONTROL Send Sample]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}。
+   >想在发布前快速发送样本邮件给自己查看效果吗？ 在上方菜单中选择 **[!UICONTROL Send Sample]**，或点击 **[!UICONTROL Email Actions]**，然后选择 [**[!UICONTROL Send Sample]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}。
 
 1. 在左侧树状结构中选择电子邮件项目。
 
@@ -125,9 +125,9 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >默认时区不是您的时区吗？了解如何[在此更新它](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}。
+   >默认时区不是您的时区吗？ 了解如何[在此更新它](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}。
 
-1. 在 [!UICONTROL Approval] 模块下点击 **[!UICONTROL Approve Program]**，即可完成！
+1. 单击[!UICONTROL Approval]拼贴下的&#x200B;**[!UICONTROL Approve Program]**，操作即完成！
 
    ![](assets/send-an-email-18.png)
 

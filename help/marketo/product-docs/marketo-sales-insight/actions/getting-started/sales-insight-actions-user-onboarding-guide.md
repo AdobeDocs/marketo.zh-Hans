@@ -3,9 +3,9 @@ description: 了解如何作为新的Sales Insight Actions用户入门。 完成
 title: Sales Insight Actions 用户快速入门
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 5%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 5%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
-1. 如果您已登录[!DNL Salesforce]帐户，系统会自动将您导向到下一个屏幕。 如果您未登录，请立即登录。
+1. 如果您已登录[!DNL Salesforce]帐户，系统会自动将您导向下一个屏幕。 如果您未登录，请立即登录。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-3.png)
 

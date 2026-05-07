@@ -4,20 +4,20 @@ description: 了解如何在Marketo Enterprise/Unlimited版本中配置Salesforc
 title: 在 Salesforce 企业版/无限制版中配置 Marketo Sales Insight
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '822'
 ht-degree: 2%
 
 ---
 
-# 在[!DNL Marketo Sales Insight] Enterprise/Unlimited中配置[!DNL Salesforce] {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
+# 在[!DNL Salesforce] Enterprise/Unlimited中配置[!DNL Marketo Sales Insight] {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
 完成以下步骤，在Marketo Enterprise/Unlimited版本中配置Salesforce Sales Insight 。
 
 >[!PREREQUISITES]
 >
->在[AppExchange [!DNL Marketo Sales Insight] 中 [!DNL Salesforce] 安装](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)包
+>在 [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)中[安装 [!DNL Marketo Sales Insight] 包
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 2%
    >
    >您的API密钥与组织的密码类似，应当是安全的。
 
-1. 要填充凭据，请单击&#x200B;**[!UICONTROL View]**&#x200B;面板中的&#x200B;_[!UICONTROL Rest API Configuration]_。
+1. 要填充凭据，请单击&#x200B;_[!UICONTROL Rest API Configuration]_面板中的&#x200B;**[!UICONTROL View]**。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
@@ -67,7 +67,7 @@ ht-degree: 2%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5c.png)
 
-## 在[!DNL Sales Insight]中配置[!DNL Salesforce] {#configure-sales-insight-in-salesforce}
+## 在[!DNL Salesforce]中配置[!DNL Sales Insight] {#configure-sales-insight-in-salesforce}
 
 1. 在Salesforce中，单击&#x200B;**[!UICONTROL Setup]**。
 
@@ -81,7 +81,7 @@ ht-degree: 2%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Soap API Configuration]_&#x200B;面板的Marketo主机URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
+1. 输入远程站点名称（它可以类似于`MarketoSoapAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Soap API Configuration]_面板的Marketo主机URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Soap API创建了远程站点设置。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -89,7 +89,7 @@ ht-degree: 2%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 输入远程站点名称（它可以类似于`MarketoAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Rest API Configuration]_&#x200B;面板的API URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
+1. 输入远程站点名称（它可以类似于`MarketoAPI`）。 输入远程站点URL，它是Marketo Engage中&#x200B;_[!UICONTROL Rest API Configuration]_面板的API URL。 单击&#x200B;**[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ ht-degree: 2%
 
 1. 单击Salesforce用户正在使用的配置文件旁边的&#x200B;**[!UICONTROL Edit]**。
 
-1. 在&#x200B;_[!UICONTROL Standard Object Permission]_&#x200B;部分下，启用以下对象的&#x200B;**[!UICONTROL Read]**&#x200B;访问权限： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
+1. 在&#x200B;_[!UICONTROL Standard Object Permission]_部分下，启用以下对象的&#x200B;**[!UICONTROL Read]**访问权限： [!UICONTROL Lead]、[!UICONTROL Contact]、[!UICONTROL Account]和[!UICONTROL Opportunity]。
 
 1. 单击 **[!UICONTROL Save]**。
 
@@ -115,11 +115,11 @@ ht-degree: 2%
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. 搜索“页面布局”并选择&#x200B;**[!UICONTROL Page Layout]**&#x200B;下的&#x200B;**[!UICONTROL Leads]**。
+1. 搜索“页面布局”并选择&#x200B;**[!UICONTROL Leads]**&#x200B;下的&#x200B;**[!UICONTROL Page Layout]**。
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 单击左侧的&#x200B;**[!UICONTROL Visualforce Pages]**。 将&#x200B;**[!UICONTROL Section]**&#x200B;拖到&#x200B;_[!UICONTROL Custom Links]_&#x200B;分区下的布局。
+1. 单击左侧的&#x200B;**[!UICONTROL Visualforce Pages]**。 将&#x200B;**[!UICONTROL Section]**&#x200B;拖到&#x200B;_[!UICONTROL Custom Links]_分区下的布局。
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -167,7 +167,7 @@ ht-degree: 2%
    * MSI联系人ID
    * 相对分数
    * 相对得分值
-   * 紧急
+   * 紧迫性
    * 紧急值
    * 在Marketo中查看
 
@@ -201,7 +201,7 @@ Marketo人员字段必须映射到Salesforce联系人字段，以确保转换正
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. 在搜索栏中搜索“字段”，然后单击&#x200B;**[!UICONTROL Fields]**&#x200B;下的&#x200B;**[!UICONTROL Leads]**。
+1. 在搜索栏中搜索“字段”，然后单击&#x200B;**[!UICONTROL Leads]**&#x200B;下的&#x200B;**[!UICONTROL Fields]**。
 
    ![](assets/image2015-6-1-9-3a54-3a50.png)
 

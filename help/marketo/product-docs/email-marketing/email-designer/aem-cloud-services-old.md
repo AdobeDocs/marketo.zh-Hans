@@ -5,10 +5,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 1%
+source-wordcount: '218'
+ht-degree: 8%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 屏幕快照
 
-1. 单击&#x200B;**Adobe Experience Manager云服务**&#x200B;旁边的&#x200B;_编辑_。
+1. 单击&#x200B;_Adobe Experience Manager云服务_&#x200B;旁边的&#x200B;**编辑**。
 
 屏幕快照
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 
 屏幕快照
 
-1. 配置的存储库以及状态和到期如下所示。 单击省略号按钮(**...**)以查看证书。 否则，你就完蛋了。
+1. 配置的存储库以及状态和到期如下所示。 单击省略号按钮(**...**) 以查看证书。 否则，您已完成。
 
 屏幕快照
 

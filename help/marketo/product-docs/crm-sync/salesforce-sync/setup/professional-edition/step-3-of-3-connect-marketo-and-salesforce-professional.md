@@ -4,9 +4,9 @@ description: 了解如何在专业版的最后一步中连接Marketo和Salesforc
 title: 第3步（共3步） — 连接Marketo和Salesforce（专业）
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在单击[之前，请确保向同步用户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}隐藏Marketo中所有不需要的字段&#x200B;**[!UICONTROL Sync Fields]**。 单击“同步字段”后，该用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
+   >在单击&#x200B;**[!UICONTROL Sync Fields]**&#x200B;之前，请确保向同步用户[隐藏Marketo中所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}。 单击“同步字段”后，该用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
 
 1. 输入在Salesforce配置第2部分中创建的Salesforce同步用户凭据([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)， [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))，然后单击&#x200B;**[!UICONTROL Sync Fields]**。
 

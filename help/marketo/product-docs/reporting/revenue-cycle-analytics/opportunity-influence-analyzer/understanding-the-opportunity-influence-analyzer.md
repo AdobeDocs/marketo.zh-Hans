@@ -4,9 +4,9 @@ description: 了解如何了解Marketo Engage中的opportunity influence analyze
 title: 了解商机影响分析器
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '268'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 每个机会都是一个故事。 你在哪里遇见领头人？ 在营销/销售过程中，哪些营销机会对他们产生了影响？
 
-Opportunity Influence Analyzer允许您查看整个故事。 甚至可以在Sales Insight中使用！
+Opportunity Influence Analyzer允许您查看整个故事。 它甚至可以在Sales Insight中使用！
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 

@@ -4,9 +4,9 @@ description: 了解如何从您的CRM或Marketo公司发现潜在的目标帐户
 title: 发现帐户
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '520'
 ht-degree: 1%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 1%
    >
    >在[!UICONTROL Discover Marketo Companies]和发现CRM中，Marketo自动：
    >
-   >* 从您的Marketo数据库中查找将其公司列入其记录的人员。 如果您看到某些属性（例如“行业”）的多个值，这是因为Marketo发现为这些单独人员列出的值不同。 命中次数最多的属性将获胜
+   >* 从您的Marketo数据库中查找将其公司列入其记录的人员。 如果您看到某些属性（例如“行业”）的多个值，这是因为Marketo发现了为这些人列出的不同值。 命中次数最多的属性将获胜
    >
    >在&#x200B;**仅发现CRM**&#x200B;中，Marketo自动：
    >
@@ -73,7 +73,7 @@ ht-degree: 1%
    >
    >仅在&#x200B;**[!UICONTROL Discover Marketo Companies]**&#x200B;中，Marketo自动：
    >
-   >* 将大多数Internet服务提供商和公共域(例如yahoo.com、gmail.com)过滤为公司名称
+   >* 将大多数Internet服务提供商和公共域（例如yahoo.com、gmail.com）过滤为公司名称
    >
    >* 对CRM帐户进行重复数据删除。 如果您有一条记录中包含“Acme”和“Acme Inc”（或以下任一后缀： Co， Corp， Corporation， Gmbh， Inc， Incorporated， LLC， LLP， LP， Ltd， PA， PC， PLC， PLLC），我们将在TAM中将它们合并为“Acme”
 
@@ -101,7 +101,7 @@ ht-degree: 1%
 
    ![](assets/disc-comp-seven.png)
 
-   做得好！
+   做得不错！
 
    ![](assets/disc-co-six.png)
 

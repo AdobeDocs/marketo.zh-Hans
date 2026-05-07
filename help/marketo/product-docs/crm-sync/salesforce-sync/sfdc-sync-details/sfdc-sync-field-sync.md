@@ -4,9 +4,9 @@ description: 了解哪些Salesforce字段同步到Marketo，以及SFDC Type和is
 title: SFDC同步 — 字段同步
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo从[!DNL Salesforce]同步字段信息。 详情如下。
 
 ## 如何确定Marketo中的记录是[!DNL Salesforce]中的潜在客户还是联系人？ {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
-Marketo中有一个名为“SFDC类型”的字段。 它有三个可能的值：潜在客户、联系人或为空。 如果为空，则意味着此Marketo潜在客户在SFDC中不存在。
+Marketo中有一个名为“SFDC类型”的字段。 它具有三个可能的值：潜在客户、联系人或为空。 如果为空，则意味着此Marketo潜在客户在SFDC中不存在。
 
 ## 如何确定是否在SFDC中删除了潜在客户或联系人？ {#how-do-you-determine-if-a-lead-or-contact-is-deleted-in-sfdc}
 

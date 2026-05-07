@@ -3,9 +3,9 @@ description: 了解如何在Analytics内容选项卡中查看模板参与。 请
 title: 模板互动情况
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '195'
 ht-degree: 2%
 
 ---
@@ -28,4 +28,4 @@ ht-degree: 2%
 
    **最低参与度** — 需要对其参与率进行某些重新修改的模板（此模板可以在团队间共享或取消共享）
 
-   从该位置，向下滚动，查看您的团队根据该选定日期范围内的查看率创建的所有模板。 在单个模板级别上，您可以看到：创建者、是否共享、使用它的电子邮件数量，以及跟踪数据（查看、点击、回复）。
+   从该位置，向下滚动，查看您的团队根据该选定日期范围内的查看率创建的所有模板。 在单个模板级别上，您可以看到：创建者，是否共享，使用该模板的电子邮件数量，以及跟踪数据（查看次数、点击次数、回复次数）。

@@ -3,9 +3,9 @@ description: 了解如何为用于Dynamics同步的客户端ID和应用程序注
 title: 授予客户端 ID 和应用程序注册的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '284'
 ht-degree: 7%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 7%
 
 ## 为同步用户授予委派的用户权限 {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. 使用干净的文本程序(Windows的“记事本”，Mac的“文本编辑”)通过粘贴以下文本并替换`client_id`、`redirect_uri`和`state`值来创建用于授权的统一资源标识符(URI)。
+1. 使用干净的文本程序（Windows的“记事本”，Mac的“文本编辑”）通过粘贴以下文本并替换`client_id`、`redirect_uri`和`state`值来创建用于授权的统一资源标识符(URI)。
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -46,7 +46,7 @@ ht-degree: 7%
      </tr>
      <tr>
       <td><strong>状态值</strong></td>
-      <td>可以是任何ID(例如，12345)</td>
+      <td>可以是任何ID（例如，12345）</td>
      </tr>
     </tbody>
    </table>
@@ -63,7 +63,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >如果您已在其他选项卡中以管理员身份登录Azure，则需要使用其他浏览器或无痕模式以同步用户的身份登录。
+   >如果您已在其他选项卡中以管理员身份登录Azure，则需要使用其他浏览器或无痕模式才能以“同步用户”身份登录。
 
 1. 单击 **[!UICONTROL Accept]**。
 

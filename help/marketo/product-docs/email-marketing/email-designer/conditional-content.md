@@ -6,9 +6,9 @@ description: 了解按收件人显示不同内容的条件内容。 使用电子
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 979ef9db-920f-466f-8c7d-e9de1ee4cf00
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->已创建至少一个分段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已创建至少一个分段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)并批准[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 添加条件内容 {#add-conditional-content}
 

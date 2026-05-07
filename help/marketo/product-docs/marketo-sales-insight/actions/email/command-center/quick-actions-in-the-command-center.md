@@ -3,9 +3,9 @@ description: 了解销售电子邮件和任务命令中心中的快速操作。 
 title: 指挥中心中的快速操作
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '309'
 ht-degree: 4%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td>
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>不能删除作为营销活动的一部分发送的电子邮件。</p></td>
   </tr>
  </tbody>
 </table>
@@ -58,7 +58,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td>
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>不能删除作为营销活动的一部分发送的电子邮件。</p></td>
   </tr>
  </tbody>
 </table>
@@ -77,7 +77,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td>
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>不能删除作为营销活动的一部分发送的电子邮件。</p></td>
   </tr>
  </tbody>
 </table>

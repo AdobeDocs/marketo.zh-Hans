@@ -4,9 +4,9 @@ title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '670'
 ht-degree: 1%
 
 ---
@@ -71,7 +71,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    >[!NOTE]
    >
-   >文本和数字字段需要长度，但日期/时间字段不需要。说明是可选的。
+   >文本和数字字段需要长度，但日期/时间字段不需要。 说明是可选的。
 
 1. 单击“下一步”。
 
@@ -92,7 +92,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    屏幕快照
 
-1. 单击保存并新建以返回并创建其他两个自定义字段。 单击“保存” ，您已完成这三项。
+1. 单击保存并新建以返回并创建其他两个自定义字段。 单击“保存”，您将完成这三项。
 
    屏幕快照
 
@@ -104,7 +104,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
   >[!NOTE]
   >
-  >创建新字段后，Marketo自动分配的字段中的值将无法立即在Salesforce中使用。 下次更新任一系统上的记录时(即，更新在Salesforce和Marketo之间同步的任何字段)，Marketo都会将数据同步到Salesforce。
+  >创建新字段后，Marketo自动分配的字段中的值将无法立即在Salesforce中使用。 下次更新任一系统上的记录时（即，更新在Salesforce和Marketo之间同步的任何字段），Marketo都会将数据同步到Salesforce。
 
 ## 映射用于转换的自定义字段 {#map-custom-fields-for-conversions}
 

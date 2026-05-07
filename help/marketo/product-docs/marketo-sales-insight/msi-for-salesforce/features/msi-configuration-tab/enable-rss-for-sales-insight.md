@@ -4,10 +4,10 @@ description: 了解如何为Marketo Sales Insight启用RSS。 允许用户通过
 title: 为 Sales Insight 启用 RSS
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 10%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 >
 >**需要管理员权限**
 
-如果Marketo用户希望不仅在[!DNL Salesforce]中查看其潜在客户信息源，还希望在RSS信息源中查看其潜在客户信息源，则必须先由Marketo管理员启用它。 操作十分简单。
+如果Marketo用户希望不仅在[!DNL Salesforce]中查看其潜在客户信息源，还希望在RSS信息源中查看其潜在客户信息源，则必须先由Marketo管理员启用它。 这很容易。
 
 1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!DNL Sales Insight]**。
 

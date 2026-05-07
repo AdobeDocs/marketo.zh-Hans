@@ -4,10 +4,10 @@ description: 了解项目群成员自定义字段。 为项目中的每个人存
 title: 项目成员自定义字段
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 4%
+source-wordcount: '423'
+ht-degree: 6%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 4%
 |---|---|
 | 公司 | 与人员关联的公司的名称。 |
 | 机会 | 商机可以与个人或帐户关联，作为潜在的未来销售。 他们通常通过CRM或API进入Marketo。 |
-| 人员 | 通过营销活动与之接触的Marketo数据库中的个人。 |
+| 人员 | Marketo数据库中通过营销活动与之接触的个人。 |
 | 计划成员 | 同时还是项目群成员的人员 |
 
 ## 触发器和过滤器 {#triggers-and-filters}

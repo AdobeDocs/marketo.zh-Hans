@@ -4,7 +4,7 @@ description: 了解如何在最终的Enterprise或Unlimited步骤中连接Market
 title: 第3步（共3步） — 连接Marketo和Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 0%
@@ -48,9 +48,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在单击[之前，请确保向同步用户](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)隐藏Marketo中所有不需要的字段&#x200B;**[!UICONTROL Sync Fields]**。 单击[!UICONTROL Sync Fields]后，将在Marketo中永久创建该用户可以查看的所有字段且无法将其删除。
+   >在单击&#x200B;**[!UICONTROL Sync Fields]**&#x200B;之前，请确保向同步用户[隐藏Marketo中所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)。 单击[!UICONTROL Sync Fields]后，将在Marketo中永久创建该用户可以查看的所有字段且无法将其删除。
 
-1. 输入在[!DNL Salesforce]配置的第2部分中创建的[!DNL Salesforce]同步用户凭据（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)或[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)），然后单击&#x200B;**[!UICONTROL Sync Fields]**(仅当您将Marketo沙盒同步到&#x200B;**[!UICONTROL Sandbox]**&#x200B;沙盒时才选中[!DNL Salesforce])。
+1. 输入在[!DNL Salesforce]配置的第2部分中创建的[!DNL Salesforce]同步用户凭据（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)或[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)），然后单击&#x200B;**[!UICONTROL Sync Fields]**（仅当您将Marketo沙盒同步到[!DNL Salesforce]沙盒时才选中&#x200B;**[!UICONTROL Sandbox]**）。
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 

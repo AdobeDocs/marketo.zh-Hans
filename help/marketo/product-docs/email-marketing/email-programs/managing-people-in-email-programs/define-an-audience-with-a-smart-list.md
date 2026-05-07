@@ -4,9 +4,9 @@ description: 了解如何使用智能列表定义电子邮件计划受众。 使
 title: 使用智能列表定义受众
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '267'
 ht-degree: 8%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 8%
 
    ![](assets/login-marketing-activities.png)
 
-1. 选择您的电子邮件程序，然后单击&#x200B;**[!UICONTROL Edit Smart List]**&#x200B;图块下的&#x200B;**[!UICONTROL Audience]**。
+1. 选择您的电子邮件程序，然后单击&#x200B;**[!UICONTROL Audience]**&#x200B;图块下的&#x200B;**[!UICONTROL Edit Smart List]**。
 
    ![](assets/2017-05-22-09-46-37.png)
 
@@ -63,7 +63,7 @@ ht-degree: 8%
 >
 >单击此号码可获取阻止发送邮件的人员的详细列表。 **请注意：**&#x200B;操作电子邮件仍会发送给标记为已取消订阅和营销已暂停的人员。
 >
->使用![磁贴上的](assets/image2014-10-23-16-3a32-3a36.png)—**[!UICONTROL Audience]**&#x200B;按钮查看有多少人会收到电子邮件。
+>使用&#x200B;**[!UICONTROL Audience]**&#x200B;磁贴上的![—](assets/image2014-10-23-16-3a32-3a36.png)按钮查看有多少人会收到电子邮件。
 
 >[!MORELIKETHIS]
 >

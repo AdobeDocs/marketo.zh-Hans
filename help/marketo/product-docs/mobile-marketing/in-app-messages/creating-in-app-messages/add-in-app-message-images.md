@@ -4,10 +4,10 @@ description: 了解如何在应用程序内消息中添加和自定义图像。 
 title: 添加应用程序内消息图像
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 2%
+source-wordcount: '361'
+ht-degree: 3%
 
 ---
 

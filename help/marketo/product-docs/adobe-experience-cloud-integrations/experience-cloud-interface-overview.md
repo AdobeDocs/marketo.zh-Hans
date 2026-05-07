@@ -3,32 +3,32 @@ description: 了解在单个实例中提供Marketo Engage的Adobe Experience Clo
 title: Adobe Experience Cloud 界面概述
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 89%
+source-wordcount: '312'
+ht-degree: 55%
 
 ---
 
 # Adobe Experience Cloud 界面概述 {#adobe-experience-cloud-interface-overview}
 
-Adobe Experience Cloud 界面在外观和体验上与 Adobe Experience Cloud 的应用程序与服务保持一致。但它不仅仅是全新的设计，更是一款单页应用程序，可在单一实例中提供完整的用户体验。
+Adobe Experience Cloud 界面在外观和体验上与 Adobe Experience Cloud 的应用程序与服务保持一致。 但是，它不仅仅是一种新设计。 它是一个单页应用程序，可在单个实例中提供用户体验。
 
 ## 用户流程 {#user-flow}
 
-如果您尚未登录任何 Adobe Experience Cloud 产品，请直接访问此处登录 [!DNL Marketo Engage]：[https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage)。
+如果您尚未登录Adobe Experience Cloud产品，请在此处直接登录[!DNL Marketo Engage]： [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage)。
 
-如果您&#x200B;_已经_&#x200B;登录 Adobe Experience Cloud 产品，只需单击菜单图标并选择 **[!DNL Marketo Engage]**。
+如果您&#x200B;_是_&#x200B;已登录Adobe Experience Cloud产品，请单击菜单图标并选择&#x200B;**[!DNL Marketo Engage]**。
 
 ![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
->下拉菜单的显示可能会因您订阅的 Adobe Experience Cloud 产品不同而有所差异。
+>您的下拉菜单可能会因您订阅的Adobe Experience Cloud产品而异。
 
 ## 新增功能 {#new-features}
 
-除了全新的外观与体验外，您还将看到以下功能：
+除了更新的外观和感觉外，还提供以下功能：
 
 **集成帮助中心**
 
@@ -56,9 +56,9 @@ Adobe Experience Cloud 界面在外观和体验上与 Adobe Experience Cloud 的
 
 ## 常见问题解答 {#faq}
 
-**我无法通过 Experience Cloud 界面登录 [!DNL Marketo Engage]。可能存在什么问题？**
+**我无法通过Experience Cloud界面登录到[!DNL Marketo Engage]。 可能存在什么问题？**
 
-如果您可以登录 Adobe Experience Cloud，但随后出现“页面加载失败”错误，则问题可能出在 [!DNL Marketo Engage] 端。请联系 [Marketo 支持](https://nation.marketo.com/t5/support/ct-p/Support)以获取帮助。
+如果您可以登录 Adobe Experience Cloud，但随后出现“页面加载失败”错误，则问题可能出在 [!DNL Marketo Engage] 端。 请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support)以获取帮助。
 
 **用户历史记录、全局搜索、Marketo 通知和任务栏到哪里去了？**
 

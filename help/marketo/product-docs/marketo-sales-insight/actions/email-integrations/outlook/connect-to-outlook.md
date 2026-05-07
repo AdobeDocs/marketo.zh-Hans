@@ -2,10 +2,10 @@
 description: 了解如何将Outlook连接到Sales Insight操作。 通过Actions集成，从Outlook发送和跟踪销售电子邮件。
 title: 连接到 Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 3%
+source-wordcount: '577'
+ht-degree: 2%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 3%
 
    ![](assets/connect-to-outlook-5.png)
 
-1. 选择您正在使用的Outlook版本，然后单击&#x200B;**下一步**。 在本例中，我们选择Outlook Online。
+1. 选择正在使用的Outlook版本，然后单击&#x200B;**下一步**。 在本例中，我们选择Outlook Online。
 
    ![](assets/connect-to-outlook-6.png)
 
@@ -66,7 +66,7 @@ ht-degree: 3%
 
    ![](assets/connect-to-outlook-7.png)
 
-1. 如果未登录Outlook，请输入登录信息，然后单击&#x200B;**下一步**。 如果是，请选择要连接的帐户，然后单击&#x200B;**下一步**。 在本例中，我们已登录。
+1. 如果您未登录Outlook，请输入您的登录信息，然后单击&#x200B;**下一步**。 如果是，请选择要连接的帐户，然后单击&#x200B;**下一步**。 在本例中，我们已登录。
 
    ![](assets/connect-to-outlook-8.png)
 
@@ -104,7 +104,7 @@ ht-degree: 3%
 
    ![](assets/connect-to-outlook-14.png)
 
-1. 选择您正在使用的Outlook版本，然后单击&#x200B;**下一步**。 在此示例中，我们选择了Exchange On-premise。
+1. 选择正在使用的Outlook版本，然后单击&#x200B;**下一步**。 在此示例中，我们选择了Exchange On-premise。
 
    ![](assets/connect-to-outlook-15.png)
 
@@ -143,7 +143,7 @@ ht-degree: 3%
 >
 >告知管理Microsoft 365帐户的IT团队，需要访问的应用程序是“Marketo Sales Connect”。
 
-根据您的IT团队的偏好和当前配置，最好向他们咨询如何授予访问权限。 下面是一些有助于指导对话的文章。
+根据您的IT团队的偏好和当前配置，最好咨询他们如何授予访问权限。 下面是一些有助于指导对话的文章。
 
 * 全局同意： [适用于Microsoft 365管理员的集成应用程序和Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
 * 用户同意： [配置用户如何同意应用程序](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}

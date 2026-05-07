@@ -2,10 +2,10 @@
 description: 了解如何设置Sales Insight Actions沙盒以进行测试。 请求配置、激活您的实例并连接到Salesforce沙盒。
 title: 设置 Sales Insight Actions 沙盒
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 2%
+source-wordcount: '693'
+ht-degree: 3%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 2%
 
 1. 将登录设置更新为“所有登录方法”，以便您可以根据需要使用用户名和密码登录。 如果首选，可在配置所有内容后将其切换回“仅限Salesforce”。 [请参阅此处](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}以了解如何执行此操作。
 
-1. 断开与Salesforce生产环境的连接，并连接到您的Salesforce沙盒。 [查看如何在此连接](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}。 对于步骤3，选择“沙盒”而不是“Salesforce”。 如果您已经连接，您应该会在Salesforce的“连接和自定义”选项卡上看到断开连接的选项。
+1. 断开与Salesforce生产环境的连接，并连接到您的Salesforce沙盒。 [查看如何在此连接](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}。 对于步骤3，选择“沙盒”而不是“Salesforce”。 如果您已连接，则应在Salesforce的“连接和自定义”选项卡上看到断开连接的选项。
 
 >[!NOTE]
 >

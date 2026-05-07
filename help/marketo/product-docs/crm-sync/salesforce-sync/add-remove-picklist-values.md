@@ -4,9 +4,9 @@ description: 了解添加和删除Salesforce选取列表值以及它们对Market
 title: 添加/移除选择列表值
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '244'
 ht-degree: 3%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 3%
 如果[!DNL Salesforce]中的潜在客户字段和联系人字段的值不同：
 
 1. 在SFDC中为选择列表添加其他值将会收到通知。
-1. 通知会告诉您它在何处使用。 如果需要，您现在可以将此新值添加为表单上的选项。
+1. 通知将告知您它被用在何处。 如果需要，您现在可以将此新值添加为表单上的选项。
 
 如果SFDC商机的选择列表与SFDC联系人的选择列表的值不同，则通用值将用作表单中的默认值选项。
 

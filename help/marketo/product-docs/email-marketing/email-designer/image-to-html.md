@@ -6,9 +6,9 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1289'
+source-wordcount: '1336'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 2%
 >[!PREREQUISITES]
 >
 >* 您必须首先同意[核心Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在Email Designer中使用Gen-AI功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
->* 您必须拥有&#x200B;_访问电子邮件模板_&#x200B;以及&#x200B;_编辑/生成电子邮件模板_&#x200B;权限，这些权限已在您的Marketo角色中启用[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
+>* 您必须拥有&#x200B;_访问电子邮件模板_&#x200B;以及&#x200B;_编辑/生成电子邮件模板_&#x200B;权限，这些权限已在您的Marketo角色中启用[](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
 
 ## 转换图像 {#convert-an-image}
 
@@ -106,7 +106,7 @@ ht-degree: 2%
 * **Web安全字体**：使用常见Web安全字体设计将具有更好的保真度。
 * **避免元素重叠**：将设计元素明确分开，以便更好地识别结构。
 
-转换后&#x200B;**&#x200B;**
+转换后&#x200B;****
 
 * **查看草稿**：转换完成后，模板将自动另存为草稿。 请花些时间仔细审查生成的HTML的准确性。
 * **彻底测试**：跨不同的电子邮件客户端和设备测试电子邮件。 为了获得更快的结果，请利用[Litmus集成](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)。
@@ -155,7 +155,7 @@ ht-degree: 2%
 
 +++我可以编辑生成的模板吗？
 
-可以！此时将在Email Designer中打开生成的HTML模板，该模板具有完全编辑功能。 您可以修改模板的所有方面，包括文本、图像、样式、布局和结构。
+可以！ 此时将在Email Designer中打开生成的HTML模板，该模板具有完全编辑功能。 您可以修改模板的所有方面，包括文本、图像、样式、布局和结构。
 
 +++
 
@@ -173,6 +173,6 @@ AI会尽最大努力准确地解释您的设计，但可能需要手动进行一
 
 +++我是否可以在多个电子邮件营销活动中重复使用转换后的模板？
 
-可以！使用图像到HTML转换器创建的模板会自动保存到您的&#x200B;_电子邮件模板_&#x200B;库。 您可以在未来任何电子邮件中访问和重复使用它们。
+可以！ 使用图像到HTML转换器创建的模板会自动保存到您的&#x200B;_电子邮件模板_&#x200B;库。 您可以在未来任何电子邮件中访问和重复使用它们。
 
 +++

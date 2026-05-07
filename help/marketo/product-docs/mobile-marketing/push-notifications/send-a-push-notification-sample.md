@@ -4,9 +4,9 @@ description: 了解如何发送推送通知示例以验证其是否有效。 选
 title: 发送推送通知示例
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '267'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->确保将示例发送到的设备上已安装应用程序。
+>确保在要将示例发送到的设备上安装了应用程序。
 
 1. 可通过三种方式发送示例：
 

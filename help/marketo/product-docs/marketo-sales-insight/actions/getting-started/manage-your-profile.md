@@ -1,10 +1,10 @@
 ---
 description: 了解如何管理Sales Insight操作配置文件。 在“设置”中更新名称、电子邮件、签名和通知首选项。
 title: 管理您的轮廓
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 2%
+source-wordcount: '279'
+ht-degree: 4%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->如果您将Exchange On Prem与Marketo Sales一起使用，它将不会更新投放渠道（第1行项目）或回复跟踪（第2行项目）集成运行状况检查。 我们正努力在未来的版本中支持此功能。
+>如果您正在将Exchange On Prem与Marketo Sales一起使用，它将不会更新投放渠道（第1行项目）或回复跟踪（第2行项目）集成运行状况检查。 我们正努力在未来的版本中支持此功能。
 
 ## 时区 {#time-zone}
 

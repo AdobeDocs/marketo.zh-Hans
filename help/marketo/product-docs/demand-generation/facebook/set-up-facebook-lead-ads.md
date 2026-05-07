@@ -4,10 +4,10 @@ description: 了解如何使用Marketo设置Facebook潜在客户广告。 连接
 title: 设置 Facebook 潜在客户广告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 4%
+source-wordcount: '354'
+ht-degree: 3%
 
 ---
 

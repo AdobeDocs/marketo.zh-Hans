@@ -4,9 +4,9 @@ description: 了解如何通过拖放来排列流内容的优先级。 内容在
 title: 优先处理流内容
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '118'
 ht-degree: 6%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 6%
    >
    >在转换时，优先级将始终从上到下读取。
 
-   这太简单了！ 现在您知道如何区分流内容的优先级了。
+   就是这么简单！ 现在您知道如何区分流内容的优先级了。

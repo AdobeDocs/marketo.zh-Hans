@@ -3,10 +3,10 @@ description: 了解如何将您的Sales Insight Actions帐户连接到Salesforce
 title: 将您的 Sales Insight Actions 帐户连接到 Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 9%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 9%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. 如果您已登录Salesforce，则会与您建立连接。 否则，系统将要求您登录。
+1. 如果您已登录Salesforce，则会与他人建立连接。 否则，系统将要求您登录。
 
 ## 如何以非管理员身份连接 {#how-to-connect-as-a-non-admin}
 
@@ -50,4 +50,4 @@ ht-degree: 9%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. 如果您已登录Salesforce，则会与您建立连接。 否则，系统将要求您登录。
+1. 如果您已登录Salesforce，则会与他人建立连接。 否则，系统将要求您登录。

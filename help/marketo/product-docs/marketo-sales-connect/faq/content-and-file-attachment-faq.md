@@ -4,9 +4,9 @@ description: 在Sales Connect中获取有关内容和文件附件问题的答案
 title: 内容和文件附件常见问题
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '273'
 ht-degree: 3%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 3%
 
 **文件附件**&#x200B;就像您在常规电子邮件客户端中使用的文件附件。
 
-**内容**&#x200B;是我们用于描述您希望[!DNL Sales Connect]跟踪的任何文件（PPT、PDF、Word文档等）的内容。
+**内容**&#x200B;是我们用于描述任何文件（PPT、PDF、Word文档等）的内容 您希望由[!DNL Sales Connect]跟踪的内容。
 
-单击该按钮后，您可以选择已上传的文件，也可以上传要跟踪的新文件。 我们随后会在您使用的电子邮件或模板中插入链接。
+单击该按钮后，您可以选择已上传的文件，也可以上传要跟踪的新文件。 然后，我们会在您使用的电子邮件或模板中插入链接。
 
 在接收端，收件人单击链接，系统将在浏览器中填充内容。 这样，我们就可以跟踪每个页面查看并向实时信息源中的[!DNL Sales Connect]用户报告它们。
 

@@ -3,9 +3,9 @@ description: 了解如何使用ROPC连接设置Marketo解决方案。 在Dynamic
 title: 第2步（共4步） — 使用资源所有者密码控制连接设置Marketo解决方案
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '416'
 ht-degree: 1%
 
 ---
@@ -100,13 +100,13 @@ ht-degree: 1%
 
 快到了！ 我们只剩下通知Marketo解决方案所创建的新用户。
 
-1. 返回[!UICONTROL Advanced Settings]部分并单击![](assets/image2015-5-13-15-3a49-3a19.png)旁边的[!UICONTROL Settings]图标，然后选择&#x200B;**[!UICONTROL Marketo Config]**。
+1. 返回[!UICONTROL Advanced Settings]部分并单击[!UICONTROL Settings]旁边的![](assets/image2015-5-13-15-3a49-3a19.png)图标，然后选择&#x200B;**[!UICONTROL Marketo Config]**。
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >如果在&#x200B;**[!UICONTROL Marketo Config]**&#x200B;菜单中看不到[!UICONTROL Settings]，请刷新页面。 如果仍无效，请尝试[再次发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)，或者注销并重新登录。
+   >如果在[!UICONTROL Settings]菜单中看不到&#x200B;**[!UICONTROL Marketo Config]**，请刷新页面。 如果仍无效，请尝试[再次发布Marketo解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)，或者注销并重新登录。
 
 1. 单击 **[!UICONTROL Default]**。
 
@@ -124,7 +124,7 @@ ht-degree: 1%
 
    ![](assets/seventeen.png)
 
-1. 单击![](assets/image2015-5-13-15-3a49-3a19-1.png)旁边的[!UICONTROL Settings]图标，然后选择&#x200B;**[!UICONTROL Solutions]**。
+1. 单击[!UICONTROL Settings]旁边的![](assets/image2015-5-13-15-3a49-3a19-1.png)图标，然后选择&#x200B;**[!UICONTROL Solutions]**。
 
    ![](assets/eighteen.png)
 

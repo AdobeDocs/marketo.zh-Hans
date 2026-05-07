@@ -3,9 +3,9 @@ description: 发行说明 — 2023年7月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 7 月
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '664'
 ht-degree: 16%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 16%
 
 >[!AVAILABILITY]
 >
->带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。 请联系您的 Marketo Engage 代表了解更多信息。
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2023年7月21日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请检查每个功能下方的状态。
+以下功能属于标准发行周期，将于&#x200B;**2023年7月21日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请检查每个功能下方的状态。
 
 </br>
 

@@ -4,9 +4,9 @@ description: 了解如何计划您的电子邮件计划。 设置投放日期和
 title: 安排电子邮件项目
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 8%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 8%
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   这有多容易？ 剩下的一件事就是[批准电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)，没有发现问题。
+   这有多容易？ 剩下的一件事就是[批准电子邮件程序](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)，您可以开始了。
 
 >[!MORELIKETHIS]
 >

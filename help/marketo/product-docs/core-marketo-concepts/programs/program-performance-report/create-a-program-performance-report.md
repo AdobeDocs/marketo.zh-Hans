@@ -4,10 +4,10 @@ description: 了解如何创建计划绩效报表。 生成报告以查看项目
 title: 创建项目性能报告
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 14%
+source-wordcount: '131'
+ht-degree: 12%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 14%
 
 1. [在程序中创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"}并选择&#x200B;**[!UICONTROL Program Performance]** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}。
 1. 单击 **[!UICONTROL Report]** 选项卡。
-1. 完成了！浏览您的报表，查看您程序的运行情况。
+1. 你在那儿！ 浏览您的报表，查看您程序的运行情况。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->例如，要查找每次成功成本最低&#x200B;*的程序*，请在该列上对您的报表[进行排序，然后选择](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}。**[!UICONTROL Sort Ascending]**
+>例如，要查找每次成功成本最低&#x200B;*的程序*，请在该列上对您的报表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}进行排序，然后选择&#x200B;**[!UICONTROL Sort Ascending]**。[
 
 “方案执行情况”报表中的列包括：
 

@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 91%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 100%
 
 ## 什么是 Adobe Marketo Engage {#what-is-marketo-engage}
 
-您想知道什么是 Marketo Engage 吗？好问题！
+您想知道什么是 Marketo Engage 吗？ 好问题！
 
-[了解 Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[了解Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## 开始设置 {#get-set-up}
 
@@ -125,6 +125,6 @@ ht-degree: 100%
 </tr>
 </table>
 
-## 步骤 4 恭喜！您已准备好加入 Marketing Nation 社区  {#congrats-youre-ready-for-the-nation}
+## 步骤 4 恭喜！ 你准备好迎接国家了  {#congrats-youre-ready-for-the-nation}
 
 查看 [Marketing Nation](https://nation.marketo.com){target="_blank"} 社区！

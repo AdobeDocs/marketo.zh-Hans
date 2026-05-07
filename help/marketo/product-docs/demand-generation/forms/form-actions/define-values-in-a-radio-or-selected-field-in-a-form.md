@@ -4,9 +4,9 @@ description: 了解如何在Marketo表单的无线电或下拉字段中定义值
 title: 定义表单中单选或选定字段的值
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '181'
 ht-degree: 15%
 
 ---
@@ -63,4 +63,4 @@ ht-degree: 15%
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-做得好！ 你做得很好。
+做得好！ 你做得非常好。

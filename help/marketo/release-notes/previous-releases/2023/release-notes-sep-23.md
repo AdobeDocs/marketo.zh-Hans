@@ -3,10 +3,10 @@ description: 发行说明 — 2023年9月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 9 月
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '922'
-ht-degree: 11%
+source-wordcount: '972'
+ht-degree: 10%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 11%
 
 >[!AVAILABILITY]
 >
->带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。 请联系您的 Marketo Engage 代表了解更多信息。
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2023年9月8日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2023年9月8日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -50,7 +50,7 @@ ht-degree: 11%
    <td> </td>
   </tr>
    <tr>
-   <td><strong>Design Studio的Tab增强功能使用Assets</strong>：“Used By增强功能”选项卡提供了有关资源的类型和名称及其使用位置的更详细视图。 这适用于“电子邮件详细信息”和“图像和文件详细信息”。</td>
+   <td><strong>Design Studio的Tab增强功能使用Assets</strong>：“Used By增强功能”选项卡提供了有关资源类型和名称及其使用位置的更详细视图。 这适用于“电子邮件详细信息”和“图像和文件详细信息”。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -91,7 +91,7 @@ ht-degree: 11%
   <tr>
    <td><strong>Marketo + Workfront集成</strong>：对于拥有Marketo和Workfront的用户，现在可以使用Workfront Fusion Templates集成这两个产品并解锁新的自动化工作流以简化活动执行。</td>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=zh-Hans" target="_blank">审阅和批准Blueprint</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">审阅和批准Blueprint</a></td>
   </tr>
  </tbody>
 </table>

@@ -4,16 +4,16 @@ description: 了解如何在Marketo Engage中设置Adobe组织映射，以便与
 title: 设置 Adobe 组织映射
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
 
 # 设置 Adobe 组织映射 {#set-up-adobe-organization-mapping}
 
-要与Adobe应用程序(如Audience Manager、B2B CDP Marketo连接器、[!DNL Dynamic Chat]等)同步，您必须首先在Marketo Engage中输入Adobe IMS组织凭据。
+要与Adobe应用程序（如Audience Manager、B2B CDP Marketo连接器、[!DNL Dynamic Chat]等）同步，您必须首先在Marketo Engage中输入Adobe IMS组织凭据。
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ ht-degree: 5%
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. 输入您的Adobe IMS组织ID（在[此处](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans){target="_blank"}了解如何查找该ID），然后单击&#x200B;**[!UICONTROL OK]**。
+1. 输入您的[Adobe IMS组织ID](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}，然后单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -52,6 +52,6 @@ ht-degree: 5%
    >
    >出于安全原因，您必须是要映射到的Adobe组织的组织管理员。 否则，操作将失败。 此外，Adobe用户和Marketo用户必须在登录时使用相同的电子邮件地址。
 
-1. 如果您&#x200B;_不是_&#x200B;已登录，则会在新选项卡/窗口中显示弹出窗口。 登录到您的Adobe组织（此操作验证组织访问权限）。
+1. 如果您&#x200B;_不是_&#x200B;已登录，则会在新选项卡或窗口中显示弹出窗口。 登录到您的Adobe组织（此操作验证组织访问权限）。
 
 您现在可以[将受众数据](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}共享到，或从Adobe Experience Cloud[同步受众](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}。

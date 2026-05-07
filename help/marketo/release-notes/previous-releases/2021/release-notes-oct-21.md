@@ -3,9 +3,9 @@ description: 发行说明 — 2021年10月 — Marketo文档 — 产品文档
 title: 发行说明 - 2021 年 10 月
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1110'
 ht-degree: 2%
 
 ---
@@ -50,13 +50,13 @@ ht-degree: 2%
 
 ![（星形）](assets/yellow-star.png)
 
-**[!DNL Sales Insight]销售额[!DNL Microsoft Dynamics 365]的**
+[!DNL Microsoft Dynamics 365]销售额&#x200B;**的**[!DNL Sales Insight]
 
-* **[!UICONTROL Best Bets]增强功能**： [!UICONTROL Best Bets]中的[!DNL Sales Insight]选项卡为销售人员提供按质量和紧迫性排定优先顺序的最热门联系人和潜在客户的实时视图。 我们增加了销售代表执行操作的功能，例如：直接从[!DNL Best Bets]页面查看人员得分、发送电子邮件或将潜在客户添加到指定的Marketo Engage营销活动，从而提高效率并加快响应时间。
+* **[!UICONTROL Best Bets]增强功能**： [!DNL Sales Insight]中的[!UICONTROL Best Bets]选项卡为销售人员提供按质量和紧迫性排定优先顺序的最热门联系人和潜在客户的实时视图。 我们增加了销售代表执行操作的功能，例如：直接从[!DNL Best Bets]页面查看人员得分、发送电子邮件或将潜在客户添加到指定的Marketo Engage营销活动，从而提高效率并加快响应时间。
 
 * **新电子邮件、Web活动、匿名Web活动仪表板**：我们添加了新销售仪表板，以便通知销售商有关其潜在客户和联系人最近电子邮件和Web活动的信息。 通过新的筛选功能，功能板现在可将insight用于电子邮件打开、点击和网页访问，以获取完整的帐户列表或特定帐户。 Marketo Engage会跟踪所有Web活动，并为销售人员提供关键信息，从而将匿名流量转化为潜在客户。 销售人员能够个性化参与并更快地将潜在客户转化为销售人员，因为他们能够更好地了解潜在客户行为，并根据所有接触点的相关性行事。
 
-**[!DNL Sales Insight]的[!DNL Salesforce]**
+[!DNL Salesforce]**的**[!DNL Sales Insight]
 
 * **帐户和机会级别[!UICONTROL Best Bets]**： [!DNL Sales Insight]现在允许销售代表查看他们拥有的帐户或机会的所有联系人的最佳匹配，即使联系人已分配给其他团队成员。 这可以让客户和机会所有者全面了解相关联系人的活动，并有助于他们基于对客户或机会的更全面的了解而采取行动。
 
@@ -66,7 +66,7 @@ ht-degree: 2%
 
 * **增强的销售活动分析**：新的电子邮件回复跟踪活动“已回复的销售电子邮件”跟踪收件人与自动与Marketo Engage同步的电子邮件的交互。 此外， Source属性已从“Tout”更新为“Sales App”。 此活动可以通过Marketo Engage REST API或批量导出导出进行导出和报告，并可在筛选器和触发器上用作智能列表的附加限制，从而扩展智能营销活动中的个性化选项。
 
-* **简化的用户体验**：此更新引入了基于Adobe Spectrum设计系统的[!DNL Sales Connect]的新字体、颜色、按钮和模式。 通过这些更新，我们正在提供更加高效的体验，让销售者能够在需要时专注于所需的内容。
+* **简化的用户体验**：此更新引入了基于Adobe Spectrum设计系统的[!DNL Sales Connect]的新字体、颜色、按钮和模式。 通过这些更新，我们正在提供更加高效的体验，让销售商可以在需要时专注于所需的内容。
 
 ## [!DNL Bizible] {#bizible}
 

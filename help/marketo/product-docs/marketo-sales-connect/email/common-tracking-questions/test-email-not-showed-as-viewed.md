@@ -4,10 +4,10 @@ description: 当测试电子邮件未在Sales Connect中显示为已查看时，
 title: 测试电子邮件未显示为已查看
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 8%
+source-wordcount: '153'
+ht-degree: 7%
 
 ---
 

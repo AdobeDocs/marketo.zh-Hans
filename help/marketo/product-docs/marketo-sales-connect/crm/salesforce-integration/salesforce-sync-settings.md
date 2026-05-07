@@ -4,10 +4,10 @@ description: 了解Sales Connect的Salesforce同步设置。 配置Sales Connect
 title: Salesforce 同步设置
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 8%
+source-wordcount: '378'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 8%
 
    ![](assets/four-1.png)
 
-1. 单击 **[!UICONTROL Salesforce API]** 选项卡。在此信息卡中，您可以设置用于将信息记录到[!DNL Salesforce]的首选项。 完成后，单击 **[!UICONTROL Save]**。
+1. 单击 **[!UICONTROL Salesforce API]** 选项卡。 在此信息卡中，您可以设置用于将信息记录到[!DNL Salesforce]的首选项。 完成后，单击 **[!UICONTROL Save]**。
 
    ![](assets/five.png)
 

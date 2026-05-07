@@ -6,9 +6,9 @@ exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '238'
 ht-degree: 7%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >**[!UICONTROL Create New]**&#x200B;功能仅在[!UICONTROL Marketing Activities]中显示；在[!UICONTROL Design Studio]中不可用。 Design Studio中只有已创建的视频可用。 但是，您可以通过选择&#x200B;_>_&#x200B;在程序&#x200B;**[!UICONTROL New]**&#x200B;中创建视频共享&#x200B;**[!UICONTROL New Local Asset]**。 然后，您可以从下拉列表中选择它，如下所示。
+   >**[!UICONTROL Create New]**&#x200B;功能仅在[!UICONTROL Marketing Activities]中显示；在[!UICONTROL Design Studio]中不可用。 Design Studio中只有已创建的视频可用。 但是，您可以通过选择&#x200B;**[!UICONTROL New]** > **[!UICONTROL New Local Asset]**&#x200B;在程序&#x200B;_中创建视频共享_。 然后，您可以从下拉列表中选择它，如下所示。
 
 1. 输入YouTube视频的URL，然后为您的视频命名。 在&#x200B;**[!UICONTROL Clone From]**&#x200B;下拉列表中选择&#x200B;**[!UICONTROL None]**，然后单击&#x200B;**[!UICONTROL Insert]**。
 
@@ -45,7 +45,7 @@ ht-degree: 7%
 >
 >为了节省时间，您可以使用&#x200B;**[!UICONTROL Clone From]**&#x200B;选项从现有视频共享复制所有设置。
 
-恭喜！您已将视频共享添加到自由格式登陆页面。 批准登陆页面，并且您的视频共享已上线。 您还可以[将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或&#x200B;_将视频共享放在您的网站上_。
+恭喜！ 您已将视频共享添加到自由格式登陆页面。 批准登陆页面，并且您的视频共享已上线。 您还可以[将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或&#x200B;_将视频共享放在您的网站上_。
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: 了解如何使用Marketo设置LinkedIn潜在客户Gen Forms。 连
 title: 设置 LinkedIn 潜在客户收集表单
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '499'
 ht-degree: 4%
 
 ---

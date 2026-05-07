@@ -4,9 +4,9 @@ description: 了解如何设置帐户团队并将CRM帐户角色映射到TAM。 
 title: 帐户团队设置
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '187'
 ht-degree: 5%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >您无法选择[!UICONTROL Account Owner]。 默认情况下，这是从您的CRM中的帐户级别选择的。
+   >您无法选择[!UICONTROL Account Owner]。 默认情况下，这是从CRM中的帐户级别选择的。
 
 1. 完成后，单击 **[!UICONTROL Save]**。
 

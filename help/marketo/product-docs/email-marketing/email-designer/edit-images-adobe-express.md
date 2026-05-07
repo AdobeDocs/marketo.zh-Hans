@@ -6,9 +6,9 @@ description: 了解如何使用Adobe Express在Email Designer中编辑图像。 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '823'
 ht-degree: 2%
 
 ---

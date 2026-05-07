@@ -3,9 +3,9 @@ description: 使用Sales Insight Actions用户入门核对清单开始操作。 
 title: Sales Insight Actions 用户入门检查清单
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '133'
 ht-degree: 9%
 
 ---

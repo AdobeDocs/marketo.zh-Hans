@@ -4,16 +4,16 @@ description: 了解如何在管理字段管理中查看哪些 [!DNL Salesforce] 
 title: 查看Marketo和 [!DNL Salesforce]之间的字段映射
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 8%
 
 ---
 
 # 查看Marketo和[!DNL Salesforce]之间的字段映射 {#view-field-mappings-between-marketo-and-salesforce}
 
-您可能想知道特定Marketo字段与哪些[!DNL Salesforce]字段关联。 下面是检查方法。
+您可能想知道特定Marketo字段映射到哪些[!DNL Salesforce]字段。 请按照以下步骤操作。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->这显示的是[!DNL Salesforce] API名称，而不是标签名称。
+>这会显示[!DNL Salesforce] API名称，而不是标签名称。
 
 >[!IMPORTANT]
 >

@@ -4,10 +4,10 @@ description: 导入人员列表 - Marketo 文档 - 产品文档
 title: 导入人员列表
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '541'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '553'
+ht-degree: 95%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >导入的所有日期/时间字段将视为中部时间（Central Time）。如果您的日期/时间字段为其他时区，可以使用 Excel 公式将其转换为中部时间（美国/芝加哥）。
+   >导入的所有日期/时间字段将视为中部时间（Central Time）。 如果您的日期/时间字段为其他时区，可以使用 Excel 公式将其转换为中部时间（美国/芝加哥）。
 
-1. 添加您的名字、姓氏、真实电子邮件地址（以便在下一任务中接收您发送的培养邮件）和职位名称。将文件保存在您的计算机上。
+1. 添加您的名字、姓氏、真实电子邮件地址（以便在下一任务中接收您发送的培养邮件）和职位名称。 将文件保存在您的计算机上。
 
    ![](assets/import-a-list-of-people-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 100%
    >
    >* Marketo **不**&#x200B;支持包含表情符号的电子邮件地址。
    >
-   >* 通过 CSV 导入 `NULL` 值时，_即使这些字段为空_，也可能会在人员的[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}中生成“更改数据值”的记录。如果您有任何使用“数据值已更改”过滤器或“数据值更改”触发器的[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}，即使数据实际上没有更改，也可能会使人员满足这些营销活动的条件。您可以使用[约束条件](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}，确保在导入时无人符合这些营销活动的条件。
+   >* 通过 CSV 导入 `NULL` 值时，_即使这些字段为空_，也可能会在人员的[活动日志](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}中生成“更改数据值”的记录。 如果您有任何使用“数据值已更改”过滤器或“数据值更改”触发器的[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}，即使数据实际上没有更改，也可能会使人员满足这些营销活动的条件。 您可以使用[约束条件](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}，确保在导入时无人符合这些营销活动的条件。
 
 ## 步骤 2：创建项目 {#step-create-a-program}
 
@@ -67,7 +67,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->活动项目会在特定日期进行。了解更多关于&#x200B;[**活动**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;的信息。
+>活动项目会在特定日期进行。 了解更多关于&#x200B;[**活动**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;的信息。
 
 ## 步骤 3：将电子表格导入 Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -101,7 +101,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >在列表导入模式中，选择 **[!UICONTROL Skip new people and updates]** 意味着不会影响现有人员记录或记录任何活动。如果您需要一个经过预筛选的现有人员静态列表用于营销活动，请使用此模式。选择此模式将会：
+   >在列表导入模式中，选择 **[!UICONTROL Skip new people and updates]** 意味着不会影响现有人员记录或记录任何活动。 如果您需要一个经过预筛选的现有人员静态列表用于营销活动，请使用此模式。 选择此模式将会：
    >
    > * 跳过新人员创建
    > * 跳过人员字段更新
@@ -113,7 +113,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >列标题应与字段完全匹配（区分大小写），以获得最佳自动映射结果。如果您使用的是自定义字段且未在下拉列表中看到它们，请返回并[创建自定义字段](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}，这样它们才会显示为可选项。
+   >列标题应与字段完全匹配（区分大小写），以获得最佳自动映射结果。 如果您使用自定义字段但未在下拉列表中看到它们，请返回并[创建它们](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}，以便它们可以成为选项。
 
    >[!NOTE]
    >
@@ -127,13 +127,13 @@ ht-degree: 100%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. 返回&#x200B;**我的展会项目**，点击 **[!UICONTROL Members]** 选项卡。您将看到刚导入的所有人员。
+1. 返回&#x200B;**我的展会项目**，点击 **[!UICONTROL Members]** 选项卡。 您将看到刚导入的所有人员。
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->您可以通过跟踪项目成员来分析项目的成功情况。进一步了解&#x200B;[**项目**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}。
+>您可以通过跟踪项目成员来分析项目的成功情况。 进一步了解&#x200B;[**项目**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}。
 
 ## 任务完成 {#mission-complete}
 

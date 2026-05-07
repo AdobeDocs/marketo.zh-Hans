@@ -4,9 +4,9 @@ description: 发行说明 — 2016年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Marketo REST API现在支持对Marketo登陆页面、登陆页面模板和表单
 
 ## [友好实例名称](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-如今，很难区分Marketo实例，例如沙盒实例和生产实例。 此功能可让您知道您当前正在处理哪些实例。
+现在，很难区分Marketo实例，例如沙盒实例和生产实例。 此功能可让您知道您当前正在处理哪些实例。
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 

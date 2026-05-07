@@ -3,9 +3,9 @@ description: 了解交互式网络研讨会的用户和许可证管理。 分配
 title: 用户与许可证管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '734'
 ht-degree: 2%
 
 ---

@@ -4,14 +4,14 @@ description: 了解如何在Microsoft Dynamics Online中安装和配置Marketo S
 title: 在 Microsoft Dynamics Online 中安装和配置 Marketo Sales Insight
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '415'
 ht-degree: 6%
 
 ---
 
-# 在[!DNL Marketo Sales Insight]中安装和配置[!DNL Microsoft Dynamics Online] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
+# 在[!DNL Microsoft Dynamics Online]中安装和配置[!DNL Marketo Sales Insight] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 
 [!DNL Marketo Sales Insight]是一个非常棒的工具，可为您的销售团队提供一个了解营销团队所拥有大量数据的“窗口”。 以下是如何在[!DNL Microsoft Dynamics Online]中安装和配置它。
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >完成Marketo-Microsoft集成。
 >
->[为您的](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)版本下载正确的解决方案[!DNL Microsoft Dynamics CRM]。
+>[为您的[!DNL Microsoft Dynamics CRM]版本下载正确的解决方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
 ## 导入解决方案 {#import-solution}
 
@@ -69,7 +69,7 @@ ht-degree: 6%
 
    ![](assets/image2014-12-12-9-3a6-3a29-1.png)
 
-1. 太棒了！ 您现在应该看到解决方案。 如果不存在，请刷新屏幕。
+1. 太棒了！ 您现在应该看到解决方案。 如果不在那里，请刷新屏幕。
 
    ![](assets/eleven.png)
 
@@ -81,7 +81,7 @@ ht-degree: 6%
 
 ## 连接Marketo和[!DNL Sales Insight] {#connect-marketo-and-sales-insight}
 
-让我们在[!DNL Sales Insight]中将您的Marketo实例关联到[!DNL Dynamics]。 以下是具体操作方法：
+让我们在[!DNL Dynamics]中将您的Marketo实例关联到[!DNL Sales Insight]。 以下是具体操作方法：
 
 >[!NOTE]
 >
@@ -108,7 +108,7 @@ ht-degree: 6%
    >以下字段必须与Marketo同步，_潜在客户和联系人_&#x200B;才能使[!DNL Sales Insight]正常工作：
    >
    >* 优先级
-   >* 紧急
+   >* 紧迫性
    >* 相对分数
    >
    >如果缺少这些字段中的任何一个，您将在Marketo中看到一条错误消息，其中包含缺少的字段的名称。 若要解决此问题，请执行[此过程](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
@@ -143,7 +143,7 @@ ht-degree: 6%
 
    ![](assets/enable-three.png)
 
-1. 单击&#x200B;**[!UICONTROL Edit]**&#x200B;旁边的[!UICONTROL Field Sync Details]。
+1. 单击[!UICONTROL Field Sync Details]旁边的&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/enable-four.png)
 
@@ -175,7 +175,7 @@ ht-degree: 6%
 
    ![](assets/image2014-12-12-9-3a9-3a22-1.png)
 
-   你应该都做完了！ 最后，要进行测试，请以有权访问[!DNL Dynamics]的用户身份登录[!DNL Marketo Sales Insight]并查看潜在客户或联系人。
+   你应该都做完了！ 最后，要进行测试，请以有权访问[!DNL Marketo Sales Insight]的用户身份登录[!DNL Dynamics]并查看潜在客户或联系人。
 
    ![](assets/image2015-4-29-15-3a2-3a27-1.png)
 

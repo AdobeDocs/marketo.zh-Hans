@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900558
-description: 了解如何在电子邮件编辑器2.0中编辑电子邮件中的元素。修改电子邮件布局中的文本、图像和其他模块。
+description: 了解如何在电子邮件编辑器2.0中编辑电子邮件中的元素。 修改电子邮件布局中的文本、图像和其他模块。
 title: 编辑电子邮件中的元素
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '490'
 ht-degree: 2%
 
 ---

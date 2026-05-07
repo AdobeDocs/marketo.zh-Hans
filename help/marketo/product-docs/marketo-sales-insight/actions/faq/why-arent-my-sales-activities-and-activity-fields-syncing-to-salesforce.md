@@ -2,9 +2,9 @@
 description: 排除销售活动和字段无法同步到Salesforce的问题。 检查API日志记录、自定义字段和权限。
 title: 为什么我的销售活动和活动字段没有同步到 Salesforce？
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '339'
 ht-degree: 6%
 
 ---

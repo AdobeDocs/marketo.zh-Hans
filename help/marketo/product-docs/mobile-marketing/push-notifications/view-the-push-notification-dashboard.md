@@ -4,16 +4,16 @@ description: 了解如何查看推送通知仪表板。 查看推送营销活动
 title: 查看推送通知仪表板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 10%
 
 ---
 
 # 查看推送通知仪表板 {#view-the-push-notification-dashboard}
 
-很容易看到您的推送通知的执行情况。
+很容易看到推送通知的效果。
 
 1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 
@@ -33,7 +33,7 @@ ht-degree: 10%
 
    >[!NOTE]
    >
-   >_Sent_&#x200B;量度反映的发送数量可能超过推送通知发送对象的确切人数。 这是因为它是根据符合接收推送条件的设备&#x200B;_数量_&#x200B;计算得出的。 例如，如果一个人拥有三台设备，则仪表板会记录三次发送，而不是一次。
+   >_Sent_&#x200B;量度反映的发送数量可能超过推送通知发送对象的确切人数。 这是因为它是根据符合接收推送资格的&#x200B;_设备_&#x200B;数计算的。 例如，如果一个人拥有三台设备，则仪表板会记录三次发送，而不是一次。
 
    >[!MORELIKETHIS]
    >

@@ -4,7 +4,7 @@ description: 了解如何将Marketo字段添加到Salesforce Enterprise或Unlimi
 title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '728'
 ht-degree: 8%
@@ -104,7 +104,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 >[!NOTE]
 >
->文本和数字字段需要长度，但日期/时间字段不需要。说明是可选的。
+>文本和数字字段需要长度，但日期/时间字段不需要。 说明是可选的。
 
 1. 单击 **[!UICONTROL Next]**。
 
@@ -125,7 +125,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. 单击&#x200B;**[!UICONTROL Save & New]**&#x200B;返回并创建其他两个自定义字段。 完成全部三个操作后，单击&#x200B;**[!UICONTROL Save]**。
+1. 单击&#x200B;**[!UICONTROL Save & New]**&#x200B;返回并创建其他两个自定义字段。 单击&#x200B;**[!UICONTROL Save]**&#x200B;您已全部完成这三项。
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -238,7 +238,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 >[!NOTE]
 >
->创建新字段后，Marketo自动分配的字段中的值将不能立即在[!DNL Salesforce]中使用。 下次更新任一系统上的记录时(即更新Marketo与[!DNL Salesforce]之间同步的任何字段)，Marketo会将数据同步到[!DNL Salesforce]。
+>创建新字段后，Marketo自动分配的字段中的值将不能立即在[!DNL Salesforce]中使用。 下次更新任一系统上的记录时（即更新Marketo与[!DNL Salesforce]之间同步的任何字段），Marketo会将数据同步到[!DNL Salesforce]。
 
 ## 映射用于转换的自定义字段 {#map-custom-fields-for-conversions}
 
@@ -248,7 +248,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. 在导航搜索中键入“Fields”，而不按Enter。 字段显示在不同的对象下；单击&#x200B;**[!UICONTROL Fields]**&#x200B;下的[!UICONTROL Leads]。
+1. 在导航搜索中键入“Fields”，而不按Enter。 字段显示在不同的对象下；单击[!UICONTROL Leads]下的&#x200B;**[!UICONTROL Fields]**。
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 

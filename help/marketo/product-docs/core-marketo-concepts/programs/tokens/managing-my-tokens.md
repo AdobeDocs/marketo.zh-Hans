@@ -4,9 +4,9 @@ description: 了解如何在程序中管理我的令牌。 创建并使用令牌
 title: 管理我的令牌
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '211'
 ht-degree: 5%
 
 ---
@@ -79,7 +79,7 @@ ht-degree: 5%
 
 >[!CAUTION]
 >
->删除“我的令牌”时，请确保该令牌当前未在任何资产中引用。 如果删除，则被引用的任何位置将显示一个空格。
+>删除“我的令牌”时，请确保该令牌当前未在任何资产中引用。 如果删除，则被引用的任何位置都会显示空白。
 
 1. 选择要删除的令牌并单击&#x200B;**[!UICONTROL Delete Token]**。
 

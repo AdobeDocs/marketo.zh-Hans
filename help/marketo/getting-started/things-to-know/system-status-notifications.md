@@ -3,9 +3,9 @@ description: 订阅系统状态通知 — Marketo Engage文档 — 产品文档
 title: 订阅系统状态通知
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 1%
 
 在[识别您的数据中心和pod/server](#identify)后，请按照以下步骤创建订阅。
 
-1. 在[status.adobe.com](https://status.adobe.com/zh-cn)上，单击&#x200B;**管理订阅**。
+1. 在[status.adobe.com](https://status.adobe.com)上，单击&#x200B;**管理订阅**。
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
@@ -60,7 +60,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. 单击![Experience Cloud](assets/icon-plus-sign.png)旁边的&#x200B;_加号图标_&#x200B;图标展开菜单。 对&#x200B;_Adobe Marketo Engage_&#x200B;执行相同操作。
+1. 单击&#x200B;_Experience Cloud_&#x200B;旁边的![加号图标](assets/icon-plus-sign.png)图标展开菜单。 对&#x200B;_Adobe Marketo Engage_&#x200B;执行相同操作。
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 

@@ -4,7 +4,7 @@ description: 了解如何将资源从Adobe Experience Manager导入Marketo Desig
 title: 使用 Adobe Experience Manager 导入资源
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 6%
@@ -21,7 +21,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->确保您已执行[AEM配置](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)。
+>确保已执行[AEM配置](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)。
 
 >[!IMPORTANT]
 >
@@ -55,7 +55,7 @@ ht-degree: 6%
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   就是这样！ 单击&#x200B;**[!UICONTROL Close]**&#x200B;以返回设计工作室。
+   单击&#x200B;**[!UICONTROL Close]**&#x200B;以返回设计工作室。
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -63,6 +63,6 @@ ht-degree: 6%
 
 * Marketo当前支持Adobe Experience Manager版本6.4和6.5。
 
-* 实例中的所有用户都将能够查看/访问您导入的图像。
+* 实例中的所有用户都将能够查看和访问您导入的图像。
 
 * 图像不会自动更新。 如果导入到Marketo [!DNL Design Studio]中的图像在AEM中更新，则必须手动将其重新导入到Marketo中。

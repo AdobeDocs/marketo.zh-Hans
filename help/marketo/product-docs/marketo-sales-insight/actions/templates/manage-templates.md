@@ -3,9 +3,9 @@ description: 了解如何在Sales Insight Actions中管理电子邮件模板。 
 title: 管理模板
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 5%
 
    ![](assets/manage-templates-3.png)
 
-1. 在模板编辑器中，为电子邮件创建主题行并键入所需的消息。 使用编辑工具（字体、文本大小等）自定义外观。 单击&#x200B;**[!UICONTROL Save]**&#x200B;以完成更改。
+1. 在模板编辑器中，为电子邮件创建主题行并键入所需的消息。 使用编辑工具（字体、文本大小等） 定制外观。 单击&#x200B;**[!UICONTROL Save]**&#x200B;以完成更改。
 
    ![](assets/manage-templates-4.png)
 
@@ -77,7 +77,7 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >与您共享的模板将显示在&#x200B;**[!UICONTROL Team Templates]**&#x200B;页面左侧的[!UICONTROL Templates]标题下。 团队仅适用于Premium用户。
+   >与您共享的模板将显示在[!UICONTROL Templates]页面左侧的&#x200B;**[!UICONTROL Team Templates]**&#x200B;标题下。 团队仅适用于Premium用户。
 
 1. 单击[!UICONTROL Share With]下拉列表并选择要与之共享的团队。
 
@@ -99,7 +99,7 @@ ht-degree: 5%
 
    ![](assets/manage-templates-11.png)
 
-   被收藏后，这颗星星就会留下来。
+   被收藏后，这颗星星将留下来。
 
    ![](assets/manage-templates-12.png)
 

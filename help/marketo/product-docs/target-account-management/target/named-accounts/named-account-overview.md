@@ -4,16 +4,16 @@ description: 了解指定帐户以及它们如何托管目标公司的人员。 
 title: '[!UICONTROL Named Account] 概述'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '244'
 ht-degree: 6%
 
 ---
 
 # [!UICONTROL Named Account] 概述 {#named-account-overview}
 
-[!UICONTROL Named Accounts]包含您定位的公司的人员。 仪表板为所有指定帐户提供每个属性的当前数据。
+[!UICONTROL Named Accounts]包含您正在定位的公司的人员。 仪表板为所有指定帐户提供每个属性的当前数据。
 
 ## [!UICONTROL Named Accounts]仪表板 {#named-accounts-dashboard}
 
@@ -53,7 +53,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td><strong><span class="uicontrol">域</span></strong></td>
-   <td>命名帐户的域(例如marketo.com)</td>
+   <td>命名帐户的域（例如marketo.com）</td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">行业</span></strong></td>

@@ -3,9 +3,9 @@ description: 了解如何为任务主题字段配置Salesforce活动详细信息
 title: 配置 Salesforce 活动详情自定义
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '677'
+source-wordcount: '681'
 ht-degree: 2%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 2%
 >* Salesforce和Sales Insight操作[必须连接](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* 必须启用通过API [记录电子邮件活动](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
-活动详细信息自定义允许管理员配置在将活动/提醒任务同步到[!DNL Salesforce]时，将记录到[!DNL Sales Insight Actions]任务 — 主题字段的信息。[!DNL Salesforce]
+活动详细信息自定义允许管理员配置在将活动/提醒任务同步到[!DNL Salesforce]时，将记录到[!DNL Salesforce]任务 — 主题字段的信息。[!DNL Sales Insight Actions]
 
 >[!NOTE]
 >
->* 如果您在活动详细信息自定义中使用[!DNL Sales Insight Actions]动态字段，对提醒任务[!DNL Salesforce]中的主题字段所做的更新将反映在对应`{{activity_subject}}`任务的主题字段中。
+>* 如果您在活动详细信息自定义中使用`{{activity_subject}}`动态字段，对提醒任务[!DNL Sales Insight Actions]中的主题字段所做的更新将反映在对应[!DNL Salesforce]任务的主题字段中。
 >* 将信息记录到[!DNL Salesforce]主题字段时不支持换行符。 更新销售任务主题时，将删除活动详细信息自定义编辑器中的任何换行符。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -52,7 +52,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->如果您将电子邮件回复作为活动记录到[!DNL Salesforce]，则它们不会使用[!DNL Salesforce]活动详细信息自定义设置。 相反，他们将记录为“回复：电子邮件主题”。
+>如果将电子邮件回复作为活动记录到[!DNL Salesforce]，则它们不会使用[!DNL Salesforce]活动详细信息自定义设置。 相反，他们将记录为“回复：电子邮件主题”。
 
 ## 支持的活动动态字段 {#activity-dynamic-fields-supported}
 
@@ -125,7 +125,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >尽管不是必需的，但将添加的文本换行到直括号中可以让某些人在数据填充到[!DNL Salesforce]中的主题字段时更容易识别这些数据。 示例：`[Sales Insight Actions] - {{Activity_type}}`
+   >尽管不是必需的，但将添加的文本换行到直括号中可以让某些人在将数据填充到[!DNL Salesforce]中的主题字段时更容易识别这些数据。 示例：`[Sales Insight Actions] - {{Activity_type}}`
 
 1. 通过单击&#x200B;**[!UICONTROL Add Dynamic Field]**&#x200B;按钮，添加您想要的任何其他动态字段。
 

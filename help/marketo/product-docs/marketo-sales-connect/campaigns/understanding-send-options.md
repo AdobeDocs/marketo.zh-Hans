@@ -4,9 +4,9 @@ description: 了解Sales Connect中促销活动电子邮件步骤的发送选项
 title: 了解发送选项
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '617'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 在创建营销活动时，对于如何在[!DNL Sales Connect]中创建电子邮件步骤，您有多个选项。 而且，根据电子邮件在Campaign中的位置，您的选项也会有所不同。
 
-如果这是您的第一步并且是促销活动的第一天，您将可以选择以下选项：
+如果这是您的第一步以及营销活动中的第一天，您将可以选择以下选项：
 
 ![](assets/image2019-10-25-10-43-19.png)
 

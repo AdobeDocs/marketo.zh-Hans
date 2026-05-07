@@ -5,24 +5,24 @@ exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 hide: true
 hidefromtoc: true
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 89%
+source-wordcount: '292'
+ht-degree: 86%
 
 ---
 
 # 切换开关 {#toggle-switch}
 
-切换开关可让您在 Marketo 经典界面与现代化用户体验（Modern UX）之间切换。它在下列高亮显示的区域均可用。
+切换开关可让您在 Marketo 经典界面与现代化用户体验（Modern UX）之间切换。 它适用于下面所有强调的区域。
 
 >[!NOTE]
 >
->当选择切换开关时，UI 切换前会自动保存所有现有工作流。如果有操作正在进行中（例如：资源正在审批），您将收到错误提示，建议在操作完成后重试。
+>当选择切换开关时，UI 切换前会自动保存所有现有工作流。 如果有操作正在进行中（例如：资源正在审批），您将收到错误提示，建议在操作完成后重试。
 
 ## 为单个角色启用切换开关 {#enable-the-toggle-switch-for-individual-roles}
 
-可为单个角色或所有角色启用切换开关。操作方法如下：
+可为单个角色或所有角色启用切换开关。 操作方法如下：
 
 1. 在 Marketo Engage 中，单击 **[!UICONTROL Admin]**。
 

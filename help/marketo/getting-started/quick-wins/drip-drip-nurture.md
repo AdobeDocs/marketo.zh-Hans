@@ -4,9 +4,9 @@ description: Drip， Drip， Nurture - Marketo文档 — 产品文档
 title: 滴灌式培养
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '422'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 7%
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. 输入&#x200B;**[!UICONTROL Name]**&#x200B;并为&#x200B;**[!UICONTROL Engagement]**&#x200B;选择&#x200B;**[!UICONTROL Program Type]**。
+1. 输入&#x200B;**[!UICONTROL Name]**&#x200B;并为&#x200B;**[!UICONTROL Program Type]**&#x200B;选择&#x200B;**[!UICONTROL Engagement]**。
 
    ![](assets/drip-drip-nurture-3.png)
 
@@ -86,7 +86,7 @@ ht-degree: 7%
 
 ## 步骤3：将内容添加到流 {#step-add-content-to-your-stream}
 
-现在该使用您创建的电子邮件为您的参与计划创建内容流了。
+现在可以使用您创建的电子邮件为您的参与计划创建内容流了。
 
 1. 选择您的参与计划并单击&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
@@ -130,7 +130,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >测试人员负责检查您的参与计划，以在发送给客户之前测试其是否正确。
+   >测试人员负责检查您的参与计划，以在发送给客户之前测试该计划是否正确。
 
 ## 步骤6：将测试人员添加到参与计划 {#step-add-a-test-person-to-your-engagement-program}
 

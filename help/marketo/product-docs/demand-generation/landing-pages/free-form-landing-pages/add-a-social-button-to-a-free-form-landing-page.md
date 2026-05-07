@@ -6,10 +6,10 @@ exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 8%
+source-wordcount: '241'
+ht-degree: 9%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 8%
    >
    >您还可以通过选择&#x200B;**[!UICONTROL New]** > **[!UICONTROL New Local Asset]**&#x200B;在项目中创建社交按钮。
 
-1. 命名您的社交按钮，从&#x200B;**[!UICONTROL None]**&#x200B;中选择&#x200B;**[!UICONTROL Clone From]**，然后单击&#x200B;**[!UICONTROL Insert]**。
+1. 命名您的社交按钮，从&#x200B;**[!UICONTROL Clone From]**&#x200B;中选择&#x200B;**[!UICONTROL None]**，然后单击&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
@@ -53,7 +53,7 @@ ht-degree: 8%
 
    [将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _将社交按钮放在您的网站上_
 
-恭喜！您已将社交按钮添加到登陆页面。 确保批准登陆页面。
+恭喜！ 您已将社交按钮添加到登陆页面。 确保批准登陆页面。
 
 >[!MORELIKETHIS]
 >

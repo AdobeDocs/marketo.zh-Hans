@@ -3,9 +3,9 @@ description: 了解交互式网络研讨会的会议室管理。 创建和管理
 title: 会议室管理
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 0%
 您可以从此集中式界面执行以下操作：
 
 * 单击“启动文件室”图标启动并进入文件室。
-* 使用搜索栏查找您要查找的房间（将仅搜索您创建的房间）。
+* 使用搜索栏查找您要查找的文件室（将仅搜索您创建的文件室）。
 * 单击“删除文件室”图标可移除文件室。 这样做将删除与文件室相关的所有录制和文件。
 
 选择文件室后，您可以查看该文件室中可用的内容或录制。 在此屏幕上，信息在两个选项卡中可用：**Content**&#x200B;选项卡和&#x200B;**Recordings**&#x200B;选项卡。

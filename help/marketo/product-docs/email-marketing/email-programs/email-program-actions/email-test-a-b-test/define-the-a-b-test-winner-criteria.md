@@ -4,10 +4,10 @@ description: 了解如何定义A/B测试入选者标准。 设置用于确定哪
 title: 定义 A/B 测试获胜标准
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 20%
+source-wordcount: '443'
+ht-degree: 23%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 20%
    <table>
    <tr>
    <td><b>[!UICONTROL Opens]</b></td>
-   <td>当图像下载到电子邮件中时，打开注册表。 即使不包含图像，默认情况下Marketo也会在所有HTML电子邮件中插入一个跟踪像素。</td>
+   <td>当图像下载到电子邮件中时，打开注册表。 即使您未包含图像，Marketo 默认也会在所有 HTML 邮件中插入一个跟踪像素。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Clicks]</b></td>
@@ -36,11 +36,11 @@ ht-degree: 20%
    </tr>
    <tr>
    <td><b>[!UICONTROL Click to Open] %</b></td>
-   <td>被打开且点击了电子邮件中链接的邮件所占百分比。通过唯一点击次数除以唯一打开次数再乘以 100 计算百分比，以衡量电子邮件的相关性和内容契合度。</td>
+   <td>被打开且点击了电子邮件中链接的邮件所占百分比。 通过唯一点击次数除以唯一打开次数再乘以 100 计算百分比，以衡量电子邮件的相关性和内容契合度。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=zh-Hans" target="_blank">参与度分数</a>可帮助您确定内容的有效性。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">参与度分数</a>可帮助您确定内容的有效性。</td>
    </tr>
    </table>
 

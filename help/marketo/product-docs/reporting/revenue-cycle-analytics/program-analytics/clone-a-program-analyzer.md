@@ -4,16 +4,16 @@ description: 了解如何使用克隆程序分析器clone-a-program-analyzer在M
 title: 克隆项目分析器
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '121'
 ht-degree: 6%
 
 ---
 
 # 克隆项目分析器 {#clone-a-program-analyzer}
 
-保存分析器后，可以轻松地对其进行克隆以创建新的分析器。 然后，如果新页面需要更改，则进入并编辑它。
+保存分析器后，可以轻松地对其进行克隆以创建新分析器。 然后，如果新页面需要更改，则进入并编辑它。
 
 1. 单击&#x200B;**[!UICONTROL Analytics]**&#x200B;磁贴。
 

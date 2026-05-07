@@ -1,9 +1,9 @@
 ---
 description: 了解如何计划销售电子邮件以便稍后发送。 在Sales Insight Actions或收件箱中撰写时设置日期和时间。
 title: 安排电子邮件发送
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '148'
 ht-degree: 4%
 
 ---

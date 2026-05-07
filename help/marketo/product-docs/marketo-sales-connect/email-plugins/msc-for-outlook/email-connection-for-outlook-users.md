@@ -4,9 +4,9 @@ description: 了解Sales Connect中Outlook用户的电子邮件连接。 连接O
 title: 为 Outlook 用户设置电子邮件连接
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '284'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->每个用户都需要从其[!DNL Outlook]帐户连接到[!DNL Sales Connect]。
+>每个用户都需要从其[!DNL Sales Connect]帐户连接到[!DNL Outlook]。
 
 ## 正在联机连接到[!DNL Outlook] {#connecting-to-outlook-online}
 
@@ -68,7 +68,7 @@ ht-degree: 8%
 
    ![](assets/seven-a.png)
 
-1. 如果您未登录[!DNL Outlook]，请输入您的登录信息并单击&#x200B;**[!UICONTROL Next]**。 如果是，请选择要连接的帐户，然后单击&#x200B;**[!UICONTROL Next]**。 在本例中，我们已登录。
+1. 如果您未登录到[!DNL Outlook]，请输入您的登录信息并单击&#x200B;**[!UICONTROL Next]**。 如果是，请选择要连接的帐户，然后单击&#x200B;**[!UICONTROL Next]**。 在本例中，我们已登录。
 
    ![](assets/eight-a.png)
 

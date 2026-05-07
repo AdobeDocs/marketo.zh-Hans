@@ -4,10 +4,10 @@ description: 了解如何从Web应用程序、“人员”页面或Gmail和Outlo
 title: 将人员添加到您的营销活动
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 5%
+source-wordcount: '201'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 可通过多种方式将某人添加到营销策划。
 
-如果您开始与潜在客户或客户通信，则可以从我们的Web应用程序的任何页面或Salesforce中使用“添加到Campaign” 。
+如果您开始与潜在客户或客户通信，则可以从Web应用程序中的任意页面或Salesforce使用“添加到Campaign” 。
 
 此流程允许您预览、编辑和计划活动中的第一封电子邮件；如果您的活动以任务开始，这些任务将在Web应用程序和Salesforce的“任务”列表中排队等候。
 

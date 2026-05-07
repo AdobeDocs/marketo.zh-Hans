@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 badge: Beta 版
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 2%
+source-wordcount: '433'
+ht-degree: 4%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
 ## 访问品牌 {#access}
 
-若要访问&#x200B;**[!UICONTROL brands]**&#x200B;中的[!DNL Adobe Marketo Engage]菜单，需要向用户授予相关权限。
+若要访问[!DNL Adobe Marketo Engage]中的&#x200B;**[!UICONTROL brands]**&#x200B;菜单，需要向用户授予相关权限。
 
 +++  了解如何分配品牌相关权限
 
@@ -84,7 +84,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >这会在编辑模式下创建一个临时副本，在发布活动版本后替换活动版本。
+   >这会在编辑模式下创建一个临时副本，并在发布活动版本后替换活动版本。
 
    ![](assets/create-and-manage-brands-11.png)
 

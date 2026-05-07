@@ -3,9 +3,9 @@ description: 了解如何启用Marketo AI权限、配置组织规则以及管理
 title: 设置和设置
 badge: Beta 版
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->此功能处于公开Beta测试阶段，当前在接下来的几个月内分阶段推出。 当您在“我的Marketo”屏幕上看到带有AI的&#x200B;_Build_&#x200B;拼贴时，便知道您的订阅何时启用了它。
+>此功能处于公开Beta测试阶段，当前在接下来的几个月内分阶段推出。 当您在“我的Marketo”屏幕上看到&#x200B;_带有AI的Build_&#x200B;拼贴时，便知道您的订阅是否已启用此功能。
 
 ## 权限和角色 {#permission-and-role}
 
@@ -77,7 +77,7 @@ ht-degree: 2%
 
 ### 自定义角色 {#custom-role}
 
-您还可以选择[创建新角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_使用AI访问Build_&#x200B;以及您需要的任何其他内容，并[将该角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
+您还可以选择[创建新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_使用AI访问Build_&#x200B;以及您需要的任何其他内容，并[将该角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
 
 ## 设置 {#settings}
 

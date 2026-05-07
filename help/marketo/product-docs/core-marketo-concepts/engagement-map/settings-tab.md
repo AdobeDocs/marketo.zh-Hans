@@ -2,9 +2,9 @@
 description: 了解Smart Campaign资格规则、运行和循环的设置选项卡。 设置人员通过您的营销活动流程的频率。
 title: 设置选项卡
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '324'
 ht-degree: 2%
 
 ---
@@ -35,11 +35,11 @@ ht-degree: 2%
 
 >[!TIP]
 >
->如果您计划了一系列营销活动，则可以更轻松地使用循环模式。
+>如果您计划了一系列营销活动，则使用周期性模式会更轻松。
 
 ![](assets/settings-tab-3.png)
 
-重复模式包括按天、每周或每月设置重复计划的功能。 设置后，您将在“设置”选项卡中看到接下来的三次运行。
+重复模式包括按天、每周或每月设置重复计划的功能。 设置后，您将在Settings选项卡中看到接下来的三次运行。
 
 ![](assets/settings-tab-4.png)
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->如果单击帮助图标后您看到“需要其他权限”，请联系您的Marketo管理员。
+>如果单击帮助图标后看到“需要其他权限”，请联系Adobe客户团队（您的客户经理）。
 
 ![](assets/settings-tab-5.png)
 

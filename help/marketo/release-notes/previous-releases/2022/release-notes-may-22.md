@@ -2,9 +2,9 @@
 description: 发行说明 — 2022年5月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 5 月
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '828'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。 请联系您的 Marketo Engage 代表了解更多信息。
 
 **_季度发布_**
 
@@ -65,7 +65,7 @@ ht-degree: 4%
 
 使用&quot;[!UICONTROL Login in Invite User Dialog]&quot;功能订阅的电子邮件验证或只有一封电子邮件与多个用户关联的订阅的电子邮件验证将与5月版本一致。 如果订阅只有一个与多个用户关联的电子邮件，则会启用电子邮件验证，并将要求这些用户解决冲突并为每个用户使用唯一的电子邮件。 启用“在邀请用户对话框中登录”功能后，通过此功能邀请的用户将需要具有唯一的电子邮件地址。 对于通过此功能邀请的仅API用户，电子邮件地址不需要是唯一的。
 
-**存档文件夹行为更改**：在此版本中，将无法再从树上下文菜单中使用在存档文件夹中创建新资源的功能。 用于创建新资产的菜单选项将对所有资产隐藏。 [在此了解详情](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}。
+**存档文件夹行为更改**：在此版本中，将无法再从树上下文菜单中使用在存档文件夹中创建新资源的功能。 用于创建新资产的菜单选项将对所有资产隐藏。 [在此处了解详情](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}。
 
 **_产品发布网络研讨会_**
 

@@ -1,12 +1,12 @@
 ---
-description: 了解如何使用OAuth 2.0连接Marketo和Salesforce。在Salesforce中设置外部客户端应用程序，并授权Marketo在不共享凭据的情况下安全同步。
+description: 了解如何使用OAuth 2.0连接Marketo和Salesforce。 在Salesforce中设置外部客户端应用程序，并授权Marketo在不共享凭据的情况下安全同步。
 title: 使用 OAuth 2.0 登录
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 2%
+source-wordcount: '646'
+ht-degree: 3%
 
 ---
 
@@ -60,7 +60,7 @@ Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OA
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. 单击&#x200B;**使用者密钥和密码**&#x200B;按钮，提示打开一个新选项卡。 复制并保存这两个数字(稍后您将需要它们以在Marketo Engage中使用)。
+1. 单击&#x200B;**使用者密钥和密码**&#x200B;按钮，提示打开一个新选项卡。 复制并保存这两个数字（稍后您将需要它们以在Marketo Engage中使用）。
 
    ![](assets/log-in-using-oauth-10.png)
 
@@ -68,7 +68,7 @@ Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OA
 
 >[!PREREQUISITES]
 >
->* 必须为Salesforce同步用户启用API访问权限(如果您是Salesforce Professional Edition用户，则默认情况下无法访问该权限 — 请联系您的Salesforce帐户管理员)。
+>* 必须为Salesforce同步用户启用API访问权限（如果您是Salesforce Professional Edition用户，则默认情况下无法访问该权限 — 请联系您的Salesforce帐户管理员）。
 >* 必须在Salesforce中创建Marketo同步用户。
 >* 对于现有客户，在客户的订阅上启用了“为SFDC同步启用OAuth”功能。
 >* 禁用了弹出窗口阻止程序。
@@ -98,7 +98,7 @@ Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OA
 
    ![](assets/log-in-using-oauth-14.png)
 
-1. 输入您通过电子邮件收到的验证码(由Salesforce发送)，然后单击&#x200B;**[!UICONTROL Verify]**。
+1. 输入您通过电子邮件收到的验证码（由Salesforce发送），然后单击&#x200B;**[!UICONTROL Verify]**。
 
    ![](assets/log-in-using-oauth-15.png)
 

@@ -4,9 +4,9 @@ description: 了解如何在Marketo中使用CNAME自定义登陆页面URL。 使
 title: 使用 CNAME 自定义登录页面 URL
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 9%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 9%
 
 ## 选择一个CNAME {#choose-a-cname}
 
-为您的登陆页面选择一个URL开头的单词。 只有一个词，应该相对较短。 示例：
+为您的登陆页面选择一个URL开头的单词。 它只是一个词，应该相对较短。 示例：
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html

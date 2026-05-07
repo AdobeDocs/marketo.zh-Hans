@@ -3,28 +3,28 @@ description: Dynamic Chat 发行说明 - Marketo 文档 - 产品文档
 title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '3474'
-ht-degree: 98%
+source-wordcount: '3551'
+ht-degree: 94%
 
 ---
 
 # Dynamic Chat 发行说明 {#dynamic-chat-release}
 
-Adobe Dynamic Chat 发布采用持续交付模式，使功能部署更具可扩展性。有时一个月内会发布多个版本，请定期查看以获取最新信息。
+Adobe Dynamic Chat 发布采用持续交付模式，使功能部署更具可扩展性。 有时一个月内会发布多个版本，请定期查看以获取最新信息。
 
 Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/release-notes/current.md){target="_blank"}。
 
-## 2026 年 3 月版 {#march-2026-release}
+## 2026年3月版 {#march-2026-release}
 
 ### 访客等待时间限制 {#visitor-wait-time}
 
-设置访客在收到回退消息之前等待连接到实时代理的最长时间（10到500秒之间）。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+设置访客在收到回退消息之前等待连接到实时代理的最长时间（10到500秒之间）。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### 下载文字记录 {#download-transcript}
 
-实时聊天结束后，您现在可以下载聊天记录的.txt文件。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+实时聊天结束后，您现在可以下载聊天记录的.txt文件。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025 年 6 月版 {#june-2025-release}
 
@@ -32,7 +32,7 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 ### 路由逻辑改造 {#routing-logic-revamp}
 
-我们改进了 Dynamic Chat 中的实时聊天路由逻辑，以确保在所有路由类型（帐户、自定义、团队和轮询）中提供更智能且可预测的互动行为。新的逻辑简化了路由流程，并改进了在代理不可用时的回退处理。
+我们改进了 Dynamic Chat 中的实时聊天路由逻辑，以确保在所有路由类型（帐户、自定义、团队和轮询）中提供更智能且可预测的互动行为。 新的逻辑简化了路由流程，并改进了在代理不可用时的回退处理。
 
 #### 路由行为的主要改进
 
@@ -58,7 +58,8 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 * 而是会：
 
-   * 显示该代理的会议日程表（若已启用）
+   * 显示映射座席的会议日历（如果启用），
+ — 或 — 
    * 退回到默认消息（最坏情况）。
 
 仅当帐户路由不适用（无匹配域名或代理）时，才会考虑卡片级路由规则（例如团队、自定义）。
@@ -73,8 +74,8 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 如果两位代理均未参与：
 
-* 系统将显示首次尝试联系的代理日程表（如果已启用），
--或-
+* 系统将显示第一个尝试的座席日历（如果已启用），
+ — 或 — 
 * 显示默认回退消息。
 
 ##### —轮询路由—
@@ -103,8 +104,8 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 * 如果未能成功联系任何代理，则应用回退逻辑：
 
-   * 显示日程表回退（如果已启用）
--或-
+   * 日历回退（如果启用），
+ — 或 — 
    * 显示默认消息。
 
 轮询回退仅在主要路由规则未找到任何符合条件的代理时才会考虑，而不是在单个代理未响应时触发。
@@ -113,7 +114,7 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 <p>
 
-_&#x200B;**帐户路由**&#x200B;_
+_**帐户路由**_
 
 <table><thead>
   <tr>
@@ -139,7 +140,7 @@ _&#x200B;**帐户路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**自定义路由**&#x200B;_
+_**自定义路由**_
 
 <table><thead>
   <tr>
@@ -165,7 +166,7 @@ _&#x200B;**自定义路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**团队路由**&#x200B;_
+_**团队路由**_
 
 <table><thead>
   <tr>
@@ -191,7 +192,7 @@ _&#x200B;**团队路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**轮询路由**&#x200B;_
+_**轮询路由**_
 
 <table><thead>
   <tr>
@@ -219,7 +220,7 @@ _&#x200B;**轮询路由**&#x200B;_
 
 ### Pulse 通知 {#pulse-notification}
 
-当访客请求与代理连接时，我们会向代理提供应用程序内和浏览器通知。但有时代理会错过这些聊天请求。
+当访客请求与代理连接时，我们会向代理提供应用程序内和浏览器通知。 但有时代理会错过这些聊天请求。
 
 本版本中，当有新访客想要聊天时，在线代理可以收到电子邮件、Slack、应用程序内及浏览器通知。
 
@@ -239,7 +240,7 @@ _&#x200B;**轮询路由**&#x200B;_
 
 ### 消息通知声音 {#message-notification-sound}
 
-现在，您可以选择在会话中每次触发聊天机器人时为访客启用提示音，并可从多种声音中进行选择。
+现在，您可以选择在会话中每次触发聊天机器人时为访客启用提示音， 并可从多种声音中进行选择。
 
 ### 在移动端启用 Poke 消息 {#enable-poke-messages-on-mobile}
 
@@ -275,7 +276,7 @@ Analytics 功能板进行了多项增强，包括：
 
 ### 对话评分 {#conversation-scoring}
 
-根据聊天互动的质量为潜在客户打分，并将该量度用作 Marketo Engage 智能活动中的触发器/过滤器。在以下活动中使用新的&#x200B;_对话评分_&#x200B;属性：
+根据聊天互动的质量为潜在客户打分，并将该量度用作 Marketo Engage 智能活动中的触发器/过滤器。 在以下活动中使用新的&#x200B;_对话评分_&#x200B;属性：
 
 * 参与了对话
 * 参与了会话流
@@ -341,7 +342,7 @@ Analytics 功能板进行了多项增强，包括：
     <td>已知人员</td>
     <td>abc</td>
     <td>与现有人员不同</td>
-    <td>如果已存在已知人员，则转移 Cookie 并解析该人员的轮廓。如果没有与该电子邮件对应的人员，则创建新的人员记录并转移 Cookie。</td>
+    <td>如果已存在已知人员，则转移 Cookie 并解析该人员的轮廓。 如果没有与该电子邮件对应的人员，则创建新的人员记录并转移 Cookie。</td>
   </tr>
   <tr>
     <td>已知人员</td>
@@ -353,19 +354,19 @@ Analytics 功能板进行了多项增强，包括：
     <td>已知人员</td>
     <td>xyz</td>
     <td>与现有人员不同</td>
-    <td>此场景不可行，因为如果是新的 Cookie，则默认会被视为新的匿名轮廓</td>
+    <td>这种情况不可能发生，就像默认情况下是新的Cookie被视为新的匿名配置文件一样</td>
   </tr>
 </tbody></table>
 
 ### 继承字体选项 {#option-to-inherit-font}
 
-您现在可以启用聊天机器人直接继承其所在网页的字体，而无需在 Dynamic Chat 中管理品牌字体。启用此选项后，聊天机器人将使用页面 `<body>` 标记中定义的字体。
+您现在可以启用聊天机器人直接从托管该聊天机器人的网页中继承字体，而不是在Dynamic Chat中管理品牌字体。 启用此选项后，聊天机器人将使用页面 `<body>` 标记中定义的字体。
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Demandbase 与 Dynamic Chat 集成 {#demandbase-integration-with-dynamic-chat}
 
-Demandbase 用户可以使用自己的 Demandbase 许可并启用该集成。可使用 Demandbase 人员属性进行对话定向、条件化品牌展示以及自定义路由。
+Demandbase 用户可以使用自己的 Demandbase 许可并启用该集成。 可使用 Demandbase 人员属性进行对话定向、条件化品牌展示以及自定义路由。
 
 这些属性值将实时解析到对应的人员，并存储在其个人轮廓中。
 
@@ -393,7 +394,7 @@ Demandbase 用户可以使用自己的 Demandbase 许可并启用该集成。可
 
 ### 聊天机器人滚动到底部 {#chatbot-scroll-to-bottom}
 
-聊天机器人中新增了一个图标，方便 web 访客一键跳转到最后一条消息。这有助于访客在浏览长消息时快速返回对话内容。
+聊天机器人中新增了一个图标，方便 web 访客一键跳转到最后一条消息。 这有助于访客在浏览长消息时快速返回对话内容。
 
 ![](assets/dynamic-chat-aug-2024-release-2.png)
 
@@ -405,7 +406,7 @@ Demandbase 用户可以使用自己的 Demandbase 许可并启用该集成。可
 
 ### 支持多会话 {#support-for-multiple-conversations}
 
-聊天机器人现在支持多个会话。网站访客可以同时在不同页面参与不同对话，并可在它们之间切换。
+聊天机器人现在支持多个会话。 网站访客可以同时在不同页面参与不同对话，并可在它们之间切换。
 
 ![](assets/dynamic-chat-aug-2024-release-4.png)
 
@@ -415,31 +416,31 @@ Demandbase 用户可以使用自己的 Demandbase 许可并启用该集成。可
 
 ### 实时潜在客户识别 {#real-time-lead-resolution}
 
-当与匿名潜在客户对话并提供电子邮件 ID 时，系统会实时判断该邮箱 ID 是否对应已知潜在客户，并使用该记录进行个性化。如果发现多个记录，会实时合并。此行为适用于对话模式和会话流。
+当与匿名潜在客户对话并提供电子邮件 ID 时，系统会实时判断该邮箱 ID 是否对应已知潜在客户，并使用该记录进行个性化。 如果发现多个记录，会实时合并。 此行为适用于对话模式和会话流。
 
 ### 从 Marketo Engage 同步无 Cookie 的潜在客户 {#syncing-leads-without-cookies}
 
-此前，启用 Marketo Engage 同步时，Dynamic Chat 仅会同步具有一个或多个 Marketo Engage Cookie ID 的已知潜在客户。现在，所有已知潜在客户（无论是否有 Cookie ID）都会同步到 Dynamic Chat，并可用于对话个性化。
+此前，启用 Marketo Engage 同步时，Dynamic Chat 仅会同步具有一个或多个 Marketo Engage Cookie ID 的已知潜在客户。 现在，所有已知潜在客户（无论是否有 Cookie ID）都会同步到 Dynamic Chat，并可用于对话个性化。
 
 ### 向会话流传递额外访客数据 {#pass-additional-visitor-data}
 
-如果您通过表单或登录等其他渠道采集访客信息，现在可以将这些信息直接传递给 Dynamic Chat。
+如果您通过表单或登录等其他渠道捕获访客信息，则现在可以直接将此信息传递到Dynamic Chat。
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
 ### 推断数据更新 {#refreshed-inferred-data}
 
-网站上的大部分对话发生在匿名访客之间。您仍可通过基于访客 IP 的推断数据来定向他们。我们更新了 IP 数据库及相关推断数据，现在可支持的 IP 数量增加了四倍。
+网站上的大部分对话发生在匿名访客之间。 您仍可通过基于访客 IP 的推断数据来定向他们。 我们更新了 IP 数据库及相关推断数据，现在可支持的 IP 数量增加了四倍。
 
 ### 为代理浏览器通知添加声音提示 {#sound-added-to-agent-browser-notification}
 
-当实时聊天分配给代理时，会向其发送浏览器通知。但有时代理会错过这些通知。我们新增了[通知提示音](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"}，以帮助减少未来错过通知的情况。
+当实时聊天分配给代理时，会向其发送浏览器通知。 但有时代理会错过这些通知。 我们新增了[通知提示音](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"}，以帮助减少未来错过通知的情况。
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
 ### 实时聊天中更新潜在客户轮廓的能力 {#update-lead-profile-during-live-chat}
 
-在实时聊天过程中，代理可以采集访客信息并更新相应的客户轮廓。现在新增了更新潜在客户和公司对象属性值的选项。
+在实时聊天过程中，代理可以采集访客信息并更新相应的客户轮廓。 现在新增了更新潜在客户和公司对象属性值的选项。
 
 ![](assets/dynamic-chat-aug-2024-release-7.png)
 
@@ -451,7 +452,7 @@ Demandbase 用户可以使用自己的 Demandbase 许可并启用该集成。可
 
 通过使用会话流卡片，您可以简化会话流中的多个步骤。
 
-示例：如果您的目标是通过多个对话推动网络研讨会注册，过去您需要在每个具有该目标的对话中重复创建相同流程。并且如果需要更新任何细节，则必须逐一编辑每个对话。现在借助会话流卡片，您无需再如此繁琐。
+示例：如果您的目标是通过多个对话推动网络研讨会注册，过去您需要在每个具有该目标的对话中重复创建相同流程。 并且如果需要更新任何细节，则必须逐一编辑每个对话。 现在借助会话流卡片，您无需再如此繁琐。
 
 除了可以在多个对话中复用流程外，您还可以使用相同的转化流程通过其他渠道触发，例如表单和登录页面。
 
@@ -509,15 +510,15 @@ Demandbase 用户可以使用自己的 Demandbase 许可并启用该集成。可
 
 使用对话表单让您的表单和登录页面更加互动化，并在表单提交后立即允许符合条件的潜在客户预约会议或与销售聊天，从而缩短销售漏斗。该功能现已全面&#42;向所有 Dynamic Chat 用户开放。
 
-_&#42;此前作为试用功能提供，限 100 次存留期互动。会话流互动现在将计入 Select 套餐用户每月 250 次互动会话的限制中。_
+_&#42;此前作为试用功能提供，限 100 次存留期互动。 会话流互动现在将计入 Select 套餐用户每月 250 次互动会话的限制中。_
 
 ### 回调函数 {#callback-functions}
 
-[回调函数](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"}允许您在访客与 Dynamic Chat 对话时，将 Dynamic Chat 分析事件收集到外部系统，例如 Adobe Analytics 或 Google Analytics。您可以通过在 API 中注册回调来启用 Dynamic Chat 分析事件，以监听这些事件。这样，您就可以在结合其他关键数据（如网站流量）的情况下，更全面地了解 Dynamic Chat 的互动表现。
+[回调函数](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"}允许您在访客与 Dynamic Chat 对话时，将 Dynamic Chat 分析事件收集到外部系统，例如 Adobe Analytics 或 Google Analytics。 您可以通过在 API 中注册回调来启用 Dynamic Chat 分析事件，以监听这些事件。 这样，您就可以在结合其他关键数据（如网站流量）的情况下，更全面地了解 Dynamic Chat 的互动表现。
 
 ### 在条件分支中新增实时代理可用性条件 {#live-agent-availability-conditional-branching}
 
-除了原生和自定义的 Marketo Engage 字段外，您现在还可以根据代理可用性使用条件分支创建分支路径。如果您只希望在有实时代理可用时才向访客提供与其交谈的选项，这一功能非常实用。
+除了原生和自定义的 Marketo Engage 字段外，您现在还可以根据代理可用性使用条件分支创建分支路径。 如果您只希望在有实时代理可用时才向访客提供与其交谈的选项，这一功能非常实用。
 
 ![](assets/dynamic-chat-release-1.png)
 
@@ -529,11 +530,11 @@ _&#42;此前作为试用功能提供，限 100 次存留期互动。会话流互
 
 ### 会话流的条件分支 {#conditional-branching-for-conversational-flows}
 
-我们今年早些时候为对话模式推出了条件分支功能，现在您也可以在会话流中使用条件分支！条件分支允许您根据不同条件在流程中创建分支路径。
+我们今年早些时候为对话模式推出了条件分支功能，现在您也可以在会话流中使用条件分支！ 条件分支允许您根据不同条件在流程中创建分支路径。
 
 ### 会话流的实时聊天功能 {#live-chat-for-conversational-flows}
 
-我们在 2023 年为对话模式推出了实时聊天功能，现在您也可以将实时聊天互动添加到会话流中。如果您将会话流与 Marketo Engage 表单结合使用，现在可以在表单提交后立即允许符合条件的访客与实时代理进行聊天！
+我们在 2023 年为对话模式推出了实时聊天功能，现在您也可以将实时聊天互动添加到会话流中。 如果您在Marketo Engage表单中使用对话流程，您现在可以允许符合条件的访客在提交表单后立即与实时代理聊天！
 
 ### 代理收件箱中的最新 Marketo Engage 活动 {#recent-marketo-engage-activities-in-agent-inbox}
 
@@ -548,7 +549,7 @@ _&#42;此前作为试用功能提供，限 100 次存留期互动。会话流互
 
 ### 代理管理中的日程表连接状态 {#calendar-connection-status-in-agent-management}
 
-管理员现在可以轻松查看哪些拥有会议预约权限的代理已在 Dynamic Chat 中连接了他们的日程表。这样您就可以确保整个销售团队已连接并准备好接收来自 Dynamic Chat 的会议请求。
+管理员现在可以轻松查看哪些拥有会议预约权限的代理已在 Dynamic Chat 中连接了他们的日程表。 这样您就可以确保整个销售团队已连接并准备好接收来自 Dynamic Chat 的会议请求。
 
 ![](assets/dynamic-chat-release-4.png)
 
@@ -568,7 +569,7 @@ _&#42;此前作为试用功能提供，限 100 次存留期互动。会话流互
 
 ### 会话级报告性能提升 {#improved-conversation-level-report-performance}
 
-单个对话和会话流级别的报告现在性能更高、准确性更强。以前，对话报告可能需要几秒钟才能加载，并且数据有时与全局性能报告不一致。现在，您的单个对话报告几乎瞬间加载，且数据将始终与全局报告数据保持一致。
+单个对话和会话流级别的报告现在性能更高、准确性更强。 以前，对话报告可能需要几秒钟才能加载，并且数据有时与全局性能报告不一致。 现在，您的单个对话报告几乎瞬间加载，且数据将始终与全局报告数据保持一致。
 
 ![](assets/dynamic-chat-release-6.png)
 
@@ -596,9 +597,9 @@ _&#42;此前作为试用功能提供，限 100 次存留期互动。会话流互
 
 ### 轮询页面已移除 {#round-robin-page-removed}
 
-请放心！轮询路由功能仍然可用，并且与以往一样运行。我们只是移除了显示轮询路由队列中代理列表及其顺序的页面，因为该页面经常不准确。
+请放心！ 轮询路由功能仍然可用，并且与以往一样运行。 我们只是移除了显示轮询路由队列中代理列表及其顺序的页面，因为该页面经常不准确。
 
-在 2022 年发布 Dynamic Chat 时，我们尚未支持实时聊天，仅支持会议预约，因此轮询路由页面的设计仅针对会议预约。随着去年引入实时聊天功能，该页面已无法准确反映同时拥有会议预约和实时聊天权限的代理间更复杂的轮询逻辑。我们曾探索过几种替代方案，但最终决定彻底移除该页面以最大程度减少混淆。
+在 2022 年发布 Dynamic Chat 时，我们尚未支持实时聊天，仅支持会议预约，因此轮询路由页面的设计仅针对会议预约。 随着去年引入实时聊天功能，该页面已无法准确反映同时拥有会议预约和实时聊天权限的代理间更复杂的轮询逻辑。 我们曾探索过几种替代方案，但最终决定彻底移除该页面以最大程度减少混淆。
 
 ![](assets/dynamic-chat-release-9.png)
 
@@ -614,11 +615,11 @@ _&#42;此前作为试用功能提供，限 100 次存留期互动。会话流互
 
 ### 全局仪表板日期范围从 90 天扩展至 24 个月 {#date-range-in-global-dashboard}
 
-根据您的反馈，我们进行了改进。现在，您可以在所有 Analytics 功能板中查看长达两年的 Dynamic Chat 互动数据。
+根据您的反馈，我们进行了改进。 现在，您可以在所有 Analytics 功能板中查看长达两年的 Dynamic Chat 互动数据。
 
 ### 对话中的条件分支 {#conditional-branching-in-dialogues}
 
-条件分支允许您根据不同条件在会话流中创建分支。现在，您可以基于 Marketo Engage 中的潜在客户和公司属性，在同一对话中向不同对象呈现不同的内容。
+条件分支允许您根据不同条件在会话流中创建分支。 现在，您可以基于 Marketo Engage 中的潜在客户和公司属性，在同一对话中向不同对象呈现不同的内容。
 
 ## 2024 年 1 月版 {#january-release}
 
@@ -626,6 +627,6 @@ _&#42;此前作为试用功能提供，限 100 次存留期互动。会话流互
 
 ### 代理管理中的并发实时聊天限制设置 {#Concurrent-live-chat-limit-setting}
 
-默认情况下，实例中的每位实时聊天代理可同时进行最多 5 场实时聊天。我们在代理管理中引入了一个新设置，允许您将此限制调整为 1 至 10。
+默认情况下，实例中的每位实时聊天代理可同时进行最多 5 场实时聊天。 我们在代理管理中引入了一个新设置，允许您将此限制调整为 1 至 10。
 
 ![](assets/dynamic-chat-release-11.png)

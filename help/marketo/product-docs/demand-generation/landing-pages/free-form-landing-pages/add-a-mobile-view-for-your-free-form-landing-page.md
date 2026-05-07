@@ -4,20 +4,20 @@ description: 了解如何在Marketo中为自由格式登陆页面添加移动视
 title: 为您的自由格式登录页面添加移动端视图
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '143'
 ht-degree: 19%
 
 ---
 
 # 为您的自由格式登录页面添加移动端视图 {#add-a-mobile-view-for-your-free-form-landing-page}
 
-在智能手机上，您可以轻松让自由格式的登陆页面看起来很棒。
+在智能手机上，很容易让您的自由格式登陆页面看起来很棒。
 
 >[!NOTE]
 >
->移动设备视图适用于宽度为480px（或更小）的屏幕。 换言之，就是智能手机。 以下是关于设备分辨率[的更多](https://www.mydevice.io/)信息。
+>移动设备视图适用于宽度为480px（或更小）的屏幕。 换言之，就是智能手机。 以下是关于设备分辨率](https://www.mydevice.io/)的更多[信息。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

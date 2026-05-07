@@ -4,9 +4,9 @@ description: 了解如何与测试人员一起测试参与流。 使用“程序
 title: 测试参与流
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '160'
 ht-degree: 6%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >如果您要查找的测试人员不存在，请使用&#x200B;**[!UICONTROL Create Person]**&#x200B;选项动态创建测试人员。
+   >如果您要查找的测试人员不存在，请使用&#x200B;**[!UICONTROL Create Person]**&#x200B;选项即时创建一个。
 
    单击&#x200B;**[!UICONTROL Initial Stream]**，选择要测试的流，然后单击&#x200B;**[!UICONTROL Run Cast]**。
    ![](assets/five-rubiks.png)

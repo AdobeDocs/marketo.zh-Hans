@@ -4,14 +4,14 @@ description: 了解如何在Marketo Mobile (Salesforce1)中安装和配置Salesf
 title: 在 Salesforce1 中安装和配置 Marketo Sales Insight
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 7%
 
 ---
 
-# 在[!DNL Marketo Sales Insight]中安装和配置[!DNL Salesforce1] {#install-and-configure-marketo-sales-insight-in-salesforce}
+# 在[!DNL Salesforce1]中安装和配置[!DNL Marketo Sales Insight] {#install-and-configure-marketo-sales-insight-in-salesforce}
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 7%
 >* [第1步（共3步）：将Marketo字段添加到 [!DNL Salesforce] (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [第2步（共3步）：为Marketo (Enterprise/Unlimited)创建 [!DNL Salesforce] 用户](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [第3步（共3步）：连接Marketo和 [!DNL Salesforce] (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
->* [在 [!DNL Marketo Sales Insight] Enterprise/Unlimited [!DNL Salesforce] 中配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [在 [!DNL Salesforce] Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)中配置 [!DNL Marketo Sales Insight] 
 >
 >如果您拥有Salesforce Professional：
 >
@@ -33,7 +33,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNL B最佳匹配]、潜在客户提要、有趣的时刻以及添加到Marketo营销活动。
+>[!DNL Salesforce1]中的[!DNL Marketo Sales Insight]包括：[!DNLB最佳匹配]、潜在客户提要、有趣的时刻以及添加到Marketo营销活动。
 
 ## 启用[!DNL Salesforce1]移动应用 {#enable-the-salesforce1-mobile-app}
 
@@ -65,7 +65,7 @@ ht-degree: 7%
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. 选择&#x200B;**[!UICONTROL Marketo]**&#x200B;并将其添加到&#x200B;**[!UICONTROL Add]**&#x200B;菜单项&#x200B;**[!UICONTROL Selected]**。
+1. 选择&#x200B;**[!UICONTROL Marketo]**&#x200B;并将其添加到&#x200B;**[!UICONTROL Selected]**&#x200B;菜单项&#x200B;**[!UICONTROL Add]**。
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
@@ -131,7 +131,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >对您的组织用于Contact 、 Account和Opportunity对象的每个Page Layout （营销、销售等）重复这些步骤。
+   >对您的组织使用的每个页面布局（营销、销售等）重复这些步骤 对于Contact 、 Account和Opportunity对象。
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
@@ -159,7 +159,7 @@ ht-degree: 7%
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-噢！ 您终于完成了[!DNL Marketo Sales Insight]的[!DNL Salesforce1]的安装！ 请拍拍自己的后背。
+噢！ 您终于完成了[!DNL Salesforce1]的[!DNL Marketo Sales Insight]的安装！ 请拍拍自己的后背。
 
 >[!MORELIKETHIS]
 >

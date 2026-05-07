@@ -4,9 +4,9 @@ description: 了解如何通过导入列表来定义电子邮件计划受众。 
 title: 通过导入列表定义受众
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '376'
 ht-degree: 15%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 15%
 >
 >仅当电子邮件程序未获批准时，定义受众才能正常工作。
 >
->导入的所有日期/时间字段将视为中部时间（Central Time）。如果您的日期/时间字段为其他时区，可以使用 Excel 公式将其转换为中部时间（美国/芝加哥）。
+>导入的所有日期/时间字段将视为中部时间（Central Time）。 如果您的日期/时间字段为其他时区，可以使用 Excel 公式将其转换为中部时间（美国/芝加哥）。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 选择您的电子邮件程序，然后单击&#x200B;**[!UICONTROL Import List]**&#x200B;图块下的&#x200B;**[!UICONTROL Audience]**。
+1. 选择您的电子邮件程序，然后单击&#x200B;**[!UICONTROL Audience]**&#x200B;图块下的&#x200B;**[!UICONTROL Import List]**。
 
    ![](assets/importlist.png)
 
@@ -71,7 +71,7 @@ ht-degree: 15%
 >
 >单击此号码可获取阻止发送邮件的人员的详细列表。
 >
->使用![磁贴上的](assets/image2014-10-23-16-3a32-3a36-1.png)—**[!UICONTROL Audience]**&#x200B;按钮查看有多少人有资格根据智能列表条件接收电子邮件。 从人员编号中减去阻止的编号，即可获得接收电子邮件的总人数。
+>使用&#x200B;**[!UICONTROL Audience]**&#x200B;磁贴上的![—](assets/image2014-10-23-16-3a32-3a36-1.png)按钮查看有多少人有资格根据智能列表条件接收电子邮件。 从人员编号中减去阻止的编号，即可获得接收电子邮件的总人数。
 
 >[!TIP]
 >

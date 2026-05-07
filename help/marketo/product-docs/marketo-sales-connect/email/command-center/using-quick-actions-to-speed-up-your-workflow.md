@@ -4,7 +4,7 @@ description: 了解如何使用Sales Connect中的快速操作来加快您的工
 title: 使用快速操作加快工作流程
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 6%
@@ -40,7 +40,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td>
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>不能删除作为营销活动的一部分发送的电子邮件。</p></td>
   </tr>
  </tbody>
 </table>
@@ -59,7 +59,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td>
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>不能删除作为营销活动的一部分发送的电子邮件。</p></td>
   </tr>
  </tbody>
 </table>
@@ -78,7 +78,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>将删除电子邮件。<br><strong>注意：</strong>无法删除作为营销活动的一部分发送的电子邮件。</p></td>
+   <td><p>将删除电子邮件。<br><strong>注意：</strong>不能删除作为营销活动的一部分发送的电子邮件。</p></td>
   </tr>
  </tbody>
 </table>

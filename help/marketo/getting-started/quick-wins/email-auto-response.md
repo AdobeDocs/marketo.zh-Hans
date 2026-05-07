@@ -4,10 +4,10 @@ description: 电子邮件自动回复 - Marketo 文档 - 产品文档
 title: 电子邮件自动回复
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '340'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '351'
+ht-degree: 97%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/email-auto-response-4.png)
 
-   邮件编辑器将会在新窗口或选项卡中打开。如果弹出窗口被阻止，请在资产摘要页面点击 **[!UICONTROL Edit Draft]** 以访问该电子邮件。
+   邮件编辑器将会在新窗口或选项卡中打开。 如果弹出窗口被阻止，请在资产摘要页面点击 **[!UICONTROL Edit Draft]** 以访问该电子邮件。
 
 1. 输入主题行，然后双击电子邮件中的可编辑区域。
 
@@ -78,7 +78,7 @@ ht-degree: 100%
 
    ![](assets/email-auto-response-12.png)
 
-1. 在下拉菜单中选择 **[!UICONTROL My Form]**。单击 **[!UICONTROL Flow]** 选项卡。
+1. 在下拉菜单中选择 **[!UICONTROL My Form]**。 单击 **[!UICONTROL Flow]** 选项卡。
 
    ![](assets/email-auto-response-13.png)
 
@@ -86,11 +86,11 @@ ht-degree: 100%
 
    ![](assets/email-auto-response-14.png)
 
-1. 选择您的&#x200B;**自动回复电子邮件**。然后点击 **[!UICONTROL Schedule]** 选项卡。
+1. 选择您的&#x200B;**自动回复电子邮件**。 然后点击 **[!UICONTROL Schedule]** 选项卡。
 
    ![](assets/email-auto-response-15.png)
 
-1. 点击 **[!UICONTROL Edit]**。
+1. 单击 **[!UICONTROL Edit]**。
 
    ![](assets/email-auto-response-16.png)
 
@@ -98,7 +98,7 @@ ht-degree: 100%
 
    ![](assets/email-auto-response-17.png)
 
-1. 点击 **[!UICONTROL Activate]**。
+1. 单击 **[!UICONTROL Activate]**。
 
    ![](assets/email-auto-response-18.png)
 
@@ -108,7 +108,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->激活后，该营销活动将在每次有人填写指定表单时运行。该营销活动将持续运行，直到被停用。
+>激活后，该营销活动将在每次有人填写指定表单时运行。 该营销活动将一直运行，直到被停用。
 
 ## 步骤 3：填写表单 {#step-fill-out-the-form}
 

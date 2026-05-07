@@ -4,9 +4,9 @@ description: 了解如何编辑电子邮件的文本版本。 更新用于辅助
 title: 编辑电子邮件的文本版本
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '244'
 ht-degree: 5%
 
 ---
@@ -41,4 +41,4 @@ ht-degree: 5%
 
 >[!CAUTION]
 >
->选择&#x200B;**从HTML复制**，或重新选择&#x200B;**在包含动态内容的电子邮件中自动从HTML复制**，将会在电子邮件的HTML和文本版本中，为所有区段将“已审阅”标志设置为&#x200B;_true_（生成绿色复选标记指示已审阅该区段）。 如果执行上述任一操作，请确保在发送之前仔细检查您的内容。
+>选择&#x200B;**从HTML复制**，或重新选择&#x200B;**在包含动态内容的电子邮件中自动从HTML复制**，将会在电子邮件的HTML版本和文本版本中，为所有区段（生成绿色复选标记指示已审阅该区段）将“已审阅”标志设置为&#x200B;_true_。 如果执行上述任一操作，请确保在发送之前仔细检查您的内容。

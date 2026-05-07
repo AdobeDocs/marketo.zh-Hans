@@ -3,10 +3,10 @@ description: 了解如何在Dynamic Chat中创建新对话流程。 选择模板
 title: 创建会话流
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 9%
+source-wordcount: '101'
+ht-degree: 8%
 
 ---
 

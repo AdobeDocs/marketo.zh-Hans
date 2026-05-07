@@ -2,9 +2,9 @@
 description: 了解如何从Salesforce发送批量销售电子邮件。 在列表视图中选择潜在客户或联系人，然后使用Lightning或Classic中的“发送销售电子邮件”按钮。
 title: 在 Salesforce 中批量发送销售电子邮件
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '618'
 ht-degree: 2%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >您可以创建新视图，方法是单击创建新视图并配置可用过滤器，以缩小要添加到促销活动中的人员列表。
+   >您可以通过单击创建新视图并配置可用过滤器来缩小要添加到促销活动的人员的列表来创建新视图。
 
 1. 选择所需的潜在客户或联系人列表，然后单击&#x200B;**发送销售电子邮件**&#x200B;按钮。
 

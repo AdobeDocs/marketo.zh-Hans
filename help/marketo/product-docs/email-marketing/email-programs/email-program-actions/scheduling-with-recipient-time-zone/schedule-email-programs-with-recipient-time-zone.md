@@ -4,9 +4,9 @@ description: 了解如何使用收件人时区计划电子邮件程序。 设置
 title: 按收件人时区安排电子邮件项目
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '807'
 ht-degree: 1%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 1%
 
 在启用收件人时区的情况下计划电子邮件程序时，可能会出现以下两种情况：
 
-1. 正在安排程序在接下来的25小时内运行&#x200B;**&#x200B;**
+1. 正在安排程序在接下来的25小时内运行&#x200B;****
 1. 计划程序在未来25小时（即下周）内运行&#x200B;**个以上**
 
 ## 场景1:25小时内 {#scenario-within-hours}
 
 假设您批准启用了收件人时区的电子邮件计划，并计划在未来25小时内完成投放。 您的智能列表中可能包含居住在已过计划时间的时区的人员。
 
-在此场景中，我们允许您决定如何处理此合格人员的子集。 单击电子邮件程序&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;拼贴中&#x200B;**[!UICONTROL Schedule]**&#x200B;旁边的齿轮图标。
+在此场景中，我们允许您决定如何处理此合格人员的子集。 单击电子邮件程序&#x200B;**[!UICONTROL Schedule]**&#x200B;拼贴中&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;旁边的齿轮图标。
 
 ![](assets/image2017-12-5-10-3a46-3a42.png)
 
@@ -42,7 +42,7 @@ ht-degree: 1%
 >
 >[了解有关Marketo如何计算收件人时区的更多信息](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone)。
 
-让我们更详细地考虑此方案。 假设您位于San Francisco，计划发送一封电子邮件（地址为7:00am）**9:00am**。 您的智能列表中包含来自以下区域的人员：
+让我们更详细地考虑此方案。 假设您位于旧金山，计划发送一封电子邮件（地址为7:00am）**9:00am**。 您的智能列表中包含来自以下区域的人员：
 
 * 旧金山
 * 得克萨斯州
@@ -71,9 +71,9 @@ ht-degree: 1%
 
 **头开始**
 
-现在，让我们讨论[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何与&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;一起使用。 我们现有的先发制人功能要求项目至少提前12小时计划。 那么这对收件人时区意味着什么？ 请记住，启用收件人时区后，我们将在最早时区(UTC +14:00)的计划时间开始运行电子邮件程序。 因此，要同时启用&#x200B;**&#x200B;**&#x200B;开头和收件人时区，电子邮件程序需要在UTC +14 **的预定时间之前:00至少提前12小时计划。**
+现在，让我们讨论[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何与&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;一起使用。 我们现有的先发制人功能要求项目至少提前12小时计划。 那么这对收件人时区意味着什么？ 请记住，启用收件人时区后，我们将在最早时区(UTC +14:00)的计划时间开始运行电子邮件程序。 因此，要同时启用&#x200B;****&#x200B;开头和收件人时区，电子邮件程序需要在UTC +14:00的预定时间之前&#x200B;**至少提前12小时计划。**
 
-这意味着如果您在美国/洛杉矶并且想要同时启用开头和收件人时区，则需要提前&#x200B;**34小时**&#x200B;计划该计划。 我们怎么找到这个号码的？
+这意味着如果您在美国/洛杉矶并且想要启用开头和收件人时区，则需要提前&#x200B;**34小时**&#x200B;计划该计划。 我们怎么找到这个号码的？
 
 ![](assets/image2017-12-5-13-3a11-3a38.png)
 

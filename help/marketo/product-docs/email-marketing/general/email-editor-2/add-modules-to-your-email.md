@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11371065
-description: 了解如何在Email Editor 2.0中将模块添加到电子邮件。插入并排列内容模块以构建布局。
+description: 了解如何在Email Editor 2.0中将模块添加到电子邮件。 插入并排列内容模块以构建布局。
 title: 向电子邮件添加模块
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 5%
+source-wordcount: '257'
+ht-degree: 7%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
 移动模块的方法有两种。
 
-1. 确定您要移动的模块。 如果您不确定其名称，请将鼠标悬停在其上方，它将在右侧突出显示。
+1. 确定您要移动的模块。 如果您不确定它叫什么名称，请将鼠标悬停在该名称上，它将在右侧突出显示。
 
    ![](assets/six-2.png)
 
@@ -63,7 +63,7 @@ ht-degree: 5%
 
    ![](assets/ten-2.png)
 
-就这么多。
+以上就是所有步骤。
 
 >[!MORELIKETHIS]
 >

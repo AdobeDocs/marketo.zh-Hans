@@ -3,9 +3,9 @@ description: 了解如何将受众从Adobe Experience Cloud同步到Marketo Enga
 title: 从 Adobe Experience Cloud 同步受众
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '280'
 ht-degree: 8%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 8%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. 对于目标，您可以选择现有列表，也可以键入新列表的名称。 在本例中，我们将创建一个新版本。 完成后，单击 **[!UICONTROL Sync]**。
+1. 对于目标，您可以选择现有列表，也可以键入新列表的名称。 在此示例中，将创建一个新列表。 完成后，单击 **[!UICONTROL Sync]**。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -56,7 +56,7 @@ ht-degree: 8%
 
 **为什么Marketo中的列表大小与Adobe中的列表大小不同？**
 
-如果我们无法将ECID Cookie ID绑定到Marketo中的已知人员，则人员也不会进行同步。
+如果ECID Cookie ID无法与Marketo中的已知人员绑定，则人员也不会同步。
 
 **这是一次性同步吗？**
 

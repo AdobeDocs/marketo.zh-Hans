@@ -3,10 +3,10 @@ description: 了解如何发送应用程序内消息。 创建项目，使用控
 title: 发送您的应用程序内消息
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 7%
+source-wordcount: '174'
+ht-degree: 8%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 7%
 
    ![图像三](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
-1. 使用[!UICONTROL Control Panel]定义应用程序内消息的人员、内容和时间，以及在完成后，批准该消息。 每个步骤都有一篇单独的文章。
+1. 使用[!UICONTROL Control Panel]定义应用程序内消息的人员、内容和时间，并在完成后批准该消息。 每个步骤都有一篇单独的文章。
 
    ![图像四](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 

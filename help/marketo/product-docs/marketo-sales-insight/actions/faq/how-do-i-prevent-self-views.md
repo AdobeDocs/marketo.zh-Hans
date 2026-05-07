@@ -3,9 +3,9 @@ description: 了解如何防止在电子邮件跟踪中计入自检次数。 避
 title: 如何防止出现自我观点
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '290'
 ht-degree: 2%
 
 ---
@@ -46,11 +46,11 @@ ht-degree: 2%
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. 在&#x200B;**[!UICONTROL OK]**&#x200B;对话框中单击[!UICONTROL Trust Center]。
+1. 在[!UICONTROL Trust Center]对话框中单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. 在&#x200B;**[!UICONTROL OK]**&#x200B;选项对话框中单击[!DNL Outlook]。
+1. 在[!DNL Outlook]选项对话框中单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 

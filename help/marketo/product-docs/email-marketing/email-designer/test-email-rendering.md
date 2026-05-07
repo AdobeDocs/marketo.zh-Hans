@@ -6,10 +6,10 @@ description: 了解如何使用Litmus测试跨客户端的电子邮件渲染。 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 2%
+source-wordcount: '395'
+ht-degree: 3%
 
 ---
 
@@ -61,7 +61,7 @@ ht-degree: 2%
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**可选步骤**：如果您决定更改电子邮件，在单击&#x200B;**渲染电子邮件**&#x200B;查看更改后，请务必也单击Litmus **电子邮件预览**&#x200B;屏幕右上角的&#x200B;_重新测试_&#x200B;按钮。
+**可选步骤**：如果您决定更改电子邮件，在单击&#x200B;**渲染电子邮件**&#x200B;查看更改后，请务必也单击Litmus _电子邮件预览_&#x200B;屏幕右上角的&#x200B;**重新测试**&#x200B;按钮。
 
 ![](assets/test-email-rendering-with-litmus-7.png)
 
@@ -69,7 +69,7 @@ ht-degree: 2%
 
 以下步骤适用于[Litmus核心计划](https://www.litmus.com/pricing/){target="_blank"}中的用户。
 
-1. 在您的Litmus帐户中，单击&#x200B;**测试**&#x200B;屏幕中的&#x200B;_复制测试地址_&#x200B;按钮以检索测试电子邮件地址。
+1. 在您的Litmus帐户中，单击&#x200B;_测试_&#x200B;屏幕中的&#x200B;**复制测试地址**&#x200B;按钮以检索测试电子邮件地址。
 
    ![](assets/test-email-rendering-with-litmus-8.png){width="800" zoomable="yes"}
 

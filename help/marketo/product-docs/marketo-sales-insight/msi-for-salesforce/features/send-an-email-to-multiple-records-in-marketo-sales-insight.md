@@ -4,9 +4,9 @@ description: 了解如何在Salesforce中从Marketo Sales Insight向多个记录
 title: 在 Marketo Sales Insight 中向多个记录发送电子邮件
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '135'
 ht-degree: 9%
 
 ---

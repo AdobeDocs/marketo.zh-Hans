@@ -4,10 +4,10 @@ description: 了解如何在Marketo中设置Facebook离线转化。 将转化数
 title: 设置 Facebook 离线转化
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 4%
+source-wordcount: '314'
+ht-degree: 3%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 4%
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   真贴心！ 您已经完成启用[!DNL Facebook]离线转换。 让我们跳转到收入周期Modeler以映射阶段。
+   真贴心！ 您已经完成启用[!DNL Facebook]离线转换的半过程。 让我们跳转到收入周期Modeler以映射阶段。
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -87,7 +87,7 @@ ht-degree: 4%
 
    ![](assets/2.png)
 
-1. 批准您的模型即告完成！
+1. 批准模型并完成！
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 

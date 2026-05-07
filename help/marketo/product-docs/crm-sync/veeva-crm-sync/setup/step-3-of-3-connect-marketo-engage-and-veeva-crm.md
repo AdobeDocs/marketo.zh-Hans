@@ -3,9 +3,9 @@ description: 了解如何在最终设置步骤中将Marketo Engage连接到Veeva
 title: 第3步（共3步） — 连接Marketo Engage和 [!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >如果您正在将Marketo沙盒同步到[!UICONTROL Sandbox] CRM沙盒，请选中[!DNL Veeva]。
+   >如果您正在将Marketo沙盒同步到[!DNL Veeva] CRM沙盒，请选中[!UICONTROL Sandbox]。
 
 1. 单击 **[!UICONTROL Confirm Credentials]**。
 

@@ -4,9 +4,9 @@ description: 了解如何创建应用程序内消息文本和样式。 编辑主
 title: 创建应用程序内消息文本
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '387'
 ht-degree: 2%
 
 ---

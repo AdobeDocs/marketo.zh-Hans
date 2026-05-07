@@ -3,9 +3,9 @@ description: 了解如何使用中的过滤器删除的合并记录在Marketo En
 title: 过滤电子邮件报表中的合并/删除记录
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 6%
 
 ---
@@ -34,4 +34,4 @@ ht-degree: 6%
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-4.png)
 
-你完了！ 单击报告选项卡，可查看已过滤的报告。
+完成了！ 单击报告选项卡，可查看已过滤的报告。
