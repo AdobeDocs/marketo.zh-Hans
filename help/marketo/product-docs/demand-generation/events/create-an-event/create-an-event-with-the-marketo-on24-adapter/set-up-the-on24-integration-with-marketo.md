@@ -64,7 +64,7 @@ ht-degree: 10%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 选择[!UICONTROL display name]。 点击 **[!UICONTROL Service]** 下拉菜单，并选择 **[!UICONTROL Custom]**。 输入[!UICONTROL description]。 单击[!UICONTROL API Only User]下拉列表，然后选择在上述步骤](#create-a-new-user)中创建[的用户。 单击 **[!UICONTROL Create]**。
+1. 选择[!UICONTROL display name]。 点击 **[!UICONTROL Service]** 下拉菜单，并选择 **[!UICONTROL Custom]**。 输入[!UICONTROL description]。 单击[!UICONTROL API Only User]下拉列表，然后选择在上述步骤[&#128279;](#create-a-new-user)中创建的用户。 单击 **[!UICONTROL Create]**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

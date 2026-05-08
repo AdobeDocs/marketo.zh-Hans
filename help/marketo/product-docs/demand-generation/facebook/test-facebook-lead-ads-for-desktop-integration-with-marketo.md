@@ -41,7 +41,7 @@ ht-degree: 5%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. 提交表单后，在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中生成智能列表，作为程序的一部分或在使用“已填写[!DNL Facebook]潜在客户广告表单”过滤器的数据库中生成。 [插入您提交的表单的潜在客户广告表单名称。
+1. 提交表单后，在Marketo[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中生成智能列表，作为程序的一部分或在使用“已填写[!DNL Facebook]潜在客户广告表单”过滤器的数据库中生成。 插入您提交的表单的潜在客户广告表单名称。
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 

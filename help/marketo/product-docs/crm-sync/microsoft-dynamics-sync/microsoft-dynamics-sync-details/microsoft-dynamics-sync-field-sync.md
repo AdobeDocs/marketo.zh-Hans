@@ -31,7 +31,7 @@ Marketo与[!DNL Dynamics]的同步功能强大。 详情如下。
 
 ## 我在[!DNL Dynamics]中创建了一个字段。 能否将其同步到Marketo？ {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-可以，只要您的同步用户在[!DNL Dynamics]中拥有对字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)的访问权限，您就可以[同步该字段。
+可以，只要您的同步用户在[!DNL Dynamics]中拥有对字段[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)的访问权限，您就可以同步该字段。
 
 ## 哪些字段将同步到Marketo？ {#what-fields-will-sync-to-marketo}
 

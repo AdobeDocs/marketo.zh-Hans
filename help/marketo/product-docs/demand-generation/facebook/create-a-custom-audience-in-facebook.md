@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->详细了解 [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}中的[自定义受众。
+>详细了解 [!DNL Facebook][&#128279;](https://www.facebook.com/help/341425252616329){target="_blank"}中的自定义受众。
 
 1. 查找并选择智能或静态列表，其中包含要从中创建受众的潜在客户。
 
@@ -68,4 +68,4 @@ ht-degree: 6%
 
    >[!MORELIKETHIS]
    >
-   >在 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)中[向自定义受众添加潜在客户
+   >在 [!DNL Facebook][&#128279;](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)中向自定义受众添加潜在客户

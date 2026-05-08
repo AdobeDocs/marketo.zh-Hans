@@ -37,7 +37,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->参数是技术性的。 一旦你了解它们，它们就会变得强大。 查询字符串](https://en.wikipedia.org/wiki/Query_string)上的此[Wikipedia页面有些帮助。
+>参数是技术性的。 一旦你了解它们，它们就会变得强大。 查询字符串[&#128279;](https://en.wikipedia.org/wiki/Query_string)上的此Wikipedia页面有些帮助。
 
 1. 为&#x200B;**[!UICONTROL Get Value Type]**&#x200B;选择&#x200B;**[!UICONTROL URL Parameter]**。
 

@@ -19,7 +19,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->您在Marketo中为 [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)输入的[凭据用于同步数据。 只有这些凭据有权限访问的数据才会得到同步。
+>您在Marketo中为 [!DNL Salesforce][&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)输入的凭据用于同步数据。 只有这些凭据有权限访问的数据才会得到同步。
 
 ## 我可以启动Opportunity同步吗？ {#can-i-initiate-an-opportunity-sync}
 
