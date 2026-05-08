@@ -4,9 +4,9 @@ description: 了解如何在Facebook中从Marketo创建自定义受众。 将Mar
 title: 在 Facebook 中创建自定义受众
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->详细了解 [!DNL Facebook][&#128279;](https://www.facebook.com/help/341425252616329){target="_blank"}中的自定义受众。
+>详细了解 [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}中的[自定义受众。
 
 1. 查找并选择智能或静态列表，其中包含要从中创建受众的潜在客户。
 
@@ -52,7 +52,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >是否要将新受众与当前与广告集或组关联的现有受众进行交换？ 选中&#x200B;**[!UICONTROL Replace an existing audience]**&#x200B;复选框。 执行此操作将&#x200B;**不**&#x200B;删除要替换的受众。
+   >要将新受众与当前与广告集或组关联的现有受众进行交换，请选中&#x200B;**[!UICONTROL Replace an existing audience]**&#x200B;复选框。 执行此操作将&#x200B;**不**&#x200B;删除要替换的受众。
 
 1. 完成后，状态对话框将更新。
 
@@ -68,4 +68,4 @@ ht-degree: 6%
 
    >[!MORELIKETHIS]
    >
-   >在 [!DNL Facebook][&#128279;](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)中向自定义受众添加潜在客户
+   >在 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)中[向自定义受众添加潜在客户

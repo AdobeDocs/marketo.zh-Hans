@@ -3,9 +3,9 @@ description: 了解如何使用OAuth 2.0连接Marketo和Salesforce。 在Salesfo
 title: 使用 OAuth 2.0 登录
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '641'
 ht-degree: 3%
 
 ---
@@ -72,11 +72,11 @@ Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OA
 >* 必须在Salesforce中创建Marketo同步用户。
 >* 对于现有客户，在客户的订阅上启用了“为SFDC同步启用OAuth”功能。
 >* 禁用了弹出窗口阻止程序。
->* 已创建连接的应用程序，并且我们有[!UICONTROL Consumer Key]和[!UICONTROL Consumer Secret]可供使用。
+>* 已创建连接的应用程序，[!UICONTROL Consumer Key]和[!UICONTROL Consumer Secret]可供使用。
 
 >[!CAUTION]
 >
->在单击&#x200B;**[!UICONTROL Sync Fields]**&#x200B;之前，请确保向同步用户隐藏Marketo中不需要的所有字段。 单击“同步字段”后，用户在SFDC中可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
+>在单击&#x200B;**[!UICONTROL Sync Fields]**&#x200B;之前，向同步用户隐藏Marketo中所有不需要的字段。 单击“同步字段”后，用户在SFDC中可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
 
 1. 在“Marketo管理员”部分中，单击&#x200B;**[!UICONTROL CRM]**，然后单击&#x200B;**[!UICONTROL Sync with Salesforce]**。
 

@@ -3,10 +3,10 @@ description: 了解如何在Dynamic Chat中路由会议和实时聊天。 设置
 title: 路由
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 0%
+source-wordcount: '360'
+ht-degree: 1%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 创建自定义规则 {#create-a-custom-rule}
 
-在此示例中，我们将所有推断的状态（CA、OR和WA）的会议发送给John座席。
+在此示例中，从CA、OR和WA推断状态的所有会议都将路由到John座席。
 
 1. 在配置下，单击&#x200B;**路由规则**。
 
@@ -86,11 +86,11 @@ ht-degree: 0%
 
    ![](assets/routing-12.png)
 
-1. 单击![配置](assets/icon-routing-edit.png)旁边的编辑图标（_编辑图标_）。
+1. 单击&#x200B;_配置_&#x200B;旁边的编辑图标（![编辑图标](assets/icon-routing-edit.png)）。
 
    ![](assets/routing-13.png)
 
-1. 单击&#x200B;**查看帐户路由**&#x200B;旁边的&#x200B;_+_&#x200B;号。
+1. 单击&#x200B;_查看帐户路由_&#x200B;旁边的&#x200B;**+**&#x200B;号。
 
    ![](assets/routing-14.png){width="600" zoomable="yes"}
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
 ### 添加帐户 {#add-an-account}
 
-在本例中，我们将把所有员工从乐高直接转给史蒂芬探员。
+在本例中，乐高的所有员工都直接被转接给代理史蒂文。
 
 1. 在“帐户路由”选项卡中，单击&#x200B;**+添加帐户**。
 

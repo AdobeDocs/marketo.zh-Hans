@@ -3,9 +3,9 @@ description: 了解Admin Console中的Dynamic Chat权限和产品配置文件。
 title: 权限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '737'
 ht-degree: 4%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 4%
 
    ![](assets/permissions-1.png)
 
-1. 在&#x200B;**产品配置文件**&#x200B;选项卡中，选择要编辑的配置文件。 在此示例中，我们选择&#x200B;**实时代理**。
+1. 在&#x200B;**产品配置文件**&#x200B;选项卡中，选择要编辑的配置文件。 在此示例中，已选择&#x200B;**实时代理**。
 
    ![](assets/permissions-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 4%
 
    ![](assets/permissions-3.png)
 
-1. 选择要编辑的配置文件的区域。 在本例中，我们选择“实时聊天”。 单击铅笔图标。
+1. 选择要编辑的配置文件的区域。 在此示例中，已选择&#x200B;**实时聊天**。 单击铅笔图标。
 
    ![](assets/permissions-4.png)
 

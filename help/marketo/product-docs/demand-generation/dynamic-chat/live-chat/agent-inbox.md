@@ -3,9 +3,9 @@ description: 了解实时聊天代理进行现场对话的代理收件箱。 查
 title: 代理收件箱
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '596'
 ht-degree: 1%
 
 ---
@@ -62,7 +62,7 @@ ht-degree: 1%
 >
 >此功能属于创作AI，可通过Dynamic Chat Prime订阅获取。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-由创作AI [响应库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)提供的快捷方式是在与访客聊天时快速获取帮助的好方法。 只需在文本框中键入正斜杠(`/`)并选择`ask`或`search`即可。
+由创作AI [响应库](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)提供支持的快捷方式是在与访客聊天时获取帮助的有效方式。 在文本框中键入正斜杠(`/`)，然后选择`ask`或`search`。
 
 ![](assets/agent-inbox-7.png)
 
@@ -90,7 +90,7 @@ ht-degree: 1%
 
    ![](assets/agent-inbox-12.png)
 
-## 活动记录 {#activity-history}
+## 活动历史记录 {#activity-history}
 
 访客信息下面是活动历史记录。 查看活动类型和日期，甚至查看聊天记录。
 

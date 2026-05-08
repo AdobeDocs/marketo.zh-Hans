@@ -4,9 +4,9 @@ description: 了解如何在首次Salesforce同步之前编辑初始字段映射
 title: 编辑初始字段映射
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 3%
 
 ---
@@ -59,13 +59,13 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   太好了！ 初始同步即将完成。
+   初始同步即将完成。
 
 ## 重置架构 {#reset-schema}
 
 1. 如果在处理映射时对Salesforce中的架构进行了一些更改，则可以通过单击&#x200B;**[!UICONTROL Reset Schema]**&#x200B;来提取更改。
 
-   * 将重置所有映射更改！
+   * 将重置所有映射更改。
    * 重置架构只会添加字段，而不会删除字段（即使您对同步用户隐藏了字段）。
 
    ![](assets/image2014-12-9-13-3a32-3a8.png)

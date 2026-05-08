@@ -3,10 +3,10 @@ description: 了解如何使用源URL和主题为Dynamic Chat生成问题。 创
 title: 问题生成
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 3%
+source-wordcount: '307'
+ht-degree: 4%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 3%
 
    ![](assets/question-generation-7.png)
 
-1. 在Excel文件中，**[!DNL Task details]**&#x200B;仅显示该任务的各种详细信息，包括有关如何添加/编辑问题和/或响应的说明。
+1. 在Excel文件中，**[!DNL Task details]**&#x200B;显示有关该任务的各种详细信息，包括有关如何添加或编辑问题和响应的说明。
 
    ![](assets/question-generation-8.png)
 
@@ -74,7 +74,7 @@ ht-degree: 3%
 
 ## 要允许列表的IP地址 {#ip-addresses-to-allowlist}
 
-为了能够在生成问题和响应期间从Web URL提取内容，请在下面找到您所在的区域，并确保与其关联的IP地址由您的Web团队列入允许列表。
+为了在生成问题和响应期间从Web URL提取内容，请在下面找到您所在的区域，并验证与其关联的IP地址是否由您的Web团队列入允许列表。
 
 <table width="450">
 <thead>

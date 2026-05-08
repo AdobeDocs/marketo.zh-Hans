@@ -4,9 +4,9 @@ description: 了解如何将LinkedIn匹配的受众添加为LaunchPoint服务。
 title: 将 [!DNL LinkedIn] 匹配的受众添加为 [!DNL LaunchPoint] 服务
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '211'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 2%
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   太棒了！ 现在，您将在“已安装的服务”选项卡中看到[!DNL LinkedIn]个匹配受众作为[!DNL LaunchPoint]服务列出。
+   [!DNL LinkedIn]个匹配的受众现在作为[!DNL LaunchPoint]服务列在Installed Services选项卡中。
 
    ![](assets/bartholomew2.png)
 

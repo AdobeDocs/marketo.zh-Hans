@@ -3,16 +3,16 @@ description: 了解如何通过ROPC连接将Marketo解决方案连接到Dynamics
 title: 第4步（共4步） — 将Marketo解决方案与资源所有者密码控制连接连接
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '388'
 ht-degree: 2%
 
 ---
 
 # 第4步（共4步）：连接Marketo解决方案与资源所有者密码控制连接 {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-这是同步的最后一步。 你快到了！
+这是同步的最后一步。
 
 >[!PREREQUISITES]
 >
@@ -48,7 +48,7 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >请确保您的组织URL正确，因为提交后我们无法还原后续架构更改。 如果使用的组织URL不正确，您将必须获取新的Marketo订阅。 如果您不知道该URL，[请在此处了解如何查找该URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
+   >验证您的组织URL是否正确。 提交后无法还原后续架构更改。 如果使用的组织URL不正确，则需要新的Marketo订阅。 如果您不知道该URL，[请在此处了解如何查找该URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
    >[!NOTE]
    >
@@ -78,7 +78,7 @@ ht-degree: 2%
 
 ## 同步自定义筛选器的字段 {#sync-fields-for-a-custom-filter}
 
-如果已创建自定义筛选器，请确保进入并选择要与Marketo同步的新字段。
+如果已创建自定义过滤器，请进入并选择要与Marketo同步的新字段。
 
 1. 转到[!UICONTROL Admin]并选择&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 

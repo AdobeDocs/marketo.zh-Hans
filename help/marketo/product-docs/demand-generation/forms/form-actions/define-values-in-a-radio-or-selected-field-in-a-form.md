@@ -4,10 +4,10 @@ description: 了解如何在Marketo表单的无线电或下拉字段中定义值
 title: 定义表单中单选或选定字段的值
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 15%
+source-wordcount: '174'
+ht-degree: 16%
 
 ---
 
@@ -62,5 +62,3 @@ ht-degree: 15%
 1. 单击 **[!UICONTROL Approve and Close]**。
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
-
-做得好！ 你做得非常好。

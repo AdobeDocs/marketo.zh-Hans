@@ -3,16 +3,16 @@ description: 了解如何在Dynamic Chat中创建新对话流程。 选择模板
 title: 创建会话流
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 8%
+source-wordcount: '94'
+ht-degree: 9%
 
 ---
 
 # 创建会话流 {#create-a-conversational-flow}
 
-下面是如何创建新的对话流程。
+按照以下步骤创建新的对话流程。
 
 1. 在[!UICONTROL Automated Chat]下，单击&#x200B;**[!UICONTROL Conversational Flows]**。
 
@@ -30,7 +30,7 @@ ht-degree: 8%
    >
    >这将仅更改系统文本的语言。 您负责翻译内容。
 
-1. 就像在“对话框”中一样，此时需要[创建流](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}。
+1. 与对话框一样，[创建流](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: 了解如何运行验证同步工具以验证您的Microsoft Dynami
 title: 验证 [!DNL Microsoft Dynamics] 同步
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '261'
 ht-degree: 5%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 5%
 
 >[!CAUTION]
 >
->如果您为[!DNL Dynamics]同步启用了多重身份验证(MFA)，则必须禁用它才能使[!DNL Dynamics]与Marketo正确同步。 有关详细信息，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。
+>如果您为[!DNL Dynamics]同步启用了多重身份验证(MFA)，则必须禁用它才能使[!DNL Dynamics]与Marketo正确同步。 有关其他信息，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 ## 在Marketo中运行验证同步 {#run-validate-sync-in-marketo}
 
-运行验证同步工具是非常重要的，以确保在它们之间建立最终连接之前，您的[!DNL Microsoft Dynamics]与Marketo的同步设置正确。 该流程会生成一个包含七个设置步骤的核对表，以查明存在哪些问题。 验证这些操作是否正确可节省大量时间。
+运行验证同步工具非常重要，以确保在它们之间建立最终连接之前，已正确设置与Marketo的[!DNL Microsoft Dynamics]同步。 该流程会生成一个包含七个设置步骤的核对表，以查明存在哪些问题。 验证这些操作是否正确可节省大量时间。
 
 1. 单击集成区域中的&#x200B;**[!UICONTROL Admin]**&#x200B;选项卡，然后单击&#x200B;**[!DNL Microsoft Dynamics]**&#x200B;链接。
 

@@ -3,9 +3,9 @@ description: 了解交互式网络研讨会参与仪表板。 在网络研讨会
 title: 互动仪表板
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1736'
+source-wordcount: '1738'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 在交互式网络研讨会中查看以下类型会议的参与情况。
 
 * **实时会话**：实时在线会话，参与者可以在此会话中主动相互交流。
-* **按需会话**：实时活动的录制已作为自己的活动提供。 新受邀者可以注册并观看录音。 在注册之后，他们将收到一个事件加入链接，该链接会在活动结束后将它们带入事件的录制。 注册参加现场活动的参与者还可以使用相同的加入链接查看录制。
+* **按需会话**：实时活动的录制已作为自己的活动提供。 新受邀者可以注册并观看录音。 在注册之后，他们将收到一个事件加入链接，该链接会在活动结束后将它们带到事件的记录中。 注册参加现场活动的参与者还可以使用相同的加入链接查看录制。
 
 ## 查看仪表板 {#view-the-dashboard}
 

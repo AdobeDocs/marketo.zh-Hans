@@ -3,9 +3,9 @@ description: 了解Dynamic Chat中的代理管理。 查看座席、管理团队
 title: 代理管理
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->没有看到您&#x200B;_只添加了_&#x200B;的代理？ 在Adobe Admin Console中添加它们后，它们最多可能需要两个小时才能显示在此处。
+>如果此处未显示最近添加的代理，则在Adobe Admin Console中添加该代理后最多可能需要两个小时。
 
 ## 团队 {#teams}
 
@@ -76,7 +76,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->创建自定义消息时，您可以设置字体样式，使用链接，甚至插入表情符号！`:)`
+>创建自定义消息时，您可以设置字体样式，使用链接，甚至插入表情符号。
 
 ## 设置 {#settings}
 

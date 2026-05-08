@@ -4,9 +4,9 @@ description: 了解如何将Marketo字段添加到Salesforce Enterprise或Unlimi
 title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '726'
 ht-degree: 8%
 
 ---
@@ -268,7 +268,6 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 1. 完成后，单击&#x200B;**[!UICONTROL Save]**。
 
-   够简单了吧？
 
 >[!MORELIKETHIS]
 >

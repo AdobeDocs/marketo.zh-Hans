@@ -4,16 +4,16 @@ description: 了解如何在Microsoft Dynamics和Marketo中为自定义实体启
 title: 为自定义实体启用同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '310'
 ht-degree: 4%
 
 ---
 
 # 为自定义实体启用同步 {#enable-sync-for-a-custom-entity}
 
-如果您需要来自[!DNL Dynamics]的自定义实体数据才能在Marketo Engage中使用，以下是如何为其启用同步。
+如果您需要来自[!DNL Dynamics]的自定义实体数据才能在Marketo Engage中使用，请执行以下步骤。
 
 >[!PREREQUISITES]
 >
@@ -64,7 +64,7 @@ ht-degree: 4%
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
-1. 不要忘记重新启用全局同步！
+1. 重新启用全局同步。
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
 

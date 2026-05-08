@@ -4,9 +4,9 @@ description: 了解如何使用Marketo设置Facebook潜在客户广告。 连接
 title: 设置 Facebook 潜在客户广告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '351'
 ht-degree: 3%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 3%
 >
 >* **需要管理员权限**
 >
->* 创建Facebook潜在客户广告表单时，请确保表单名称不包含数字字符。 表单名称必须为字母或字母数字。
+>* 创建Facebook潜在客户广告表单时，请验证表单名称是否只包含数字字符。 表单名称必须为字母或字母数字。
 
 >[!AVAILABILITY]
 >
->要将Facebook潜在客户广告添加到您的实例，请联系Adobe客户团队（您的客户经理）。
+>要将Facebook潜在客户广告添加到实例，请联系Adobe客户团队（您的客户经理）。
 
 1. 在Marketo Engage中，转到&#x200B;**管理员**&#x200B;区域。
 
@@ -53,7 +53,7 @@ ht-degree: 3%
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. 您会发现您现在已获得授权。 单击 **[!UICONTROL Next]**。
+1. 您会注意到您现在已获得授权。 单击 **[!UICONTROL Next]**。
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
@@ -65,7 +65,7 @@ ht-degree: 3%
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. 要接受默认的[!DNL Facebook]到Marketo字段映射，只需单击&#x200B;**[!UICONTROL Create]**&#x200B;即可。
+1. 要接受默认的[!DNL Facebook]到Marketo字段映射，请单击&#x200B;**[!UICONTROL Create]**。
 
    >[!TIP]
    >
@@ -77,7 +77,7 @@ ht-degree: 3%
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   做得好！ 当您成功运行[!DNL Facebook]个潜在客户广告营销活动时，潜在客户将开始流入Marketo。
+   当您成功运行[!DNL Facebook]个潜在客户广告营销活动时，潜在客户将开始流入Marketo。
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

@@ -4,9 +4,9 @@ description: 了解如何向Marketo中的表单字段添加工具提示说明。
 title: 向表单字段添加工具提示说明
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '121'
 ht-degree: 14%
 
 ---
@@ -45,8 +45,8 @@ ht-degree: 14%
 
    >[!NOTE]
    >
-   >不要忘记[批准由表单更改创建的登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+   >请记住[批准由表单更改创建的登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-做得很棒！ 当访客将鼠标悬停在该字段上时，将显示工具提示。
+当访客将鼠标悬停在该字段上时，将显示工具提示。

@@ -4,16 +4,16 @@ description: 了解Microsoft Dynamics和Marketo之间联系同步的工作方式
 title: Microsoft Dynamics同步 — 联系人同步
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
 # [!DNL Microsoft Dynamics]同步：联系人同步 {#microsoft-dynamics-sync-contact-sync}
 
-您是否知道Marketo将您的整个数据库与[!DNL Dynamics]同步？ 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何专门处理[!DNL Dynamics]联系人的一些详细信息。
+Marketo将整个数据库与[!DNL Dynamics]同步。 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何专门处理[!DNL Dynamics]联系人的一些详细信息。
 
 ## 两个系统之间的详细信息如何保持同步？ {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 我可以使用Marketo创建联系人吗？ {#can-i-create-a-contact-using-marketo}
 
-可以。[下面是操作方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}。
+可以。 [了解如何操作](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}。
 
 >[!NOTE]
 >

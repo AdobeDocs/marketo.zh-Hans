@@ -3,10 +3,10 @@ description: 了解如何在Adobe Admin Console中添加或删除Dynamic Chat用
 title: 添加或移除聊天用户
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 12%
+source-wordcount: '260'
+ht-degree: 16%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 12%
 
 ## 将Dynamic Chat访问权限添加到Marketo角色 {#add-dynamic-chat-access-to-marketo-role}
 
-如果新添加的聊天用户的Marketo角色还没有[!DNL Dynamic Chat]权限，请参阅以下添加方法。
+如果新添加的聊天用户的Marketo角色还没有[!DNL Dynamic Chat]权限，请按照以下步骤添加该角色。
 
 1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**&#x200B;并选择&#x200B;**[!UICONTROL Users & Roles]**。
 

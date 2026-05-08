@@ -4,10 +4,10 @@ description: 了解如何在Marketo的Lightbox中使用表单。 在登陆页面
 title: 在 Lightbox 中使用表单
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 14%
+source-wordcount: '106'
+ht-degree: 15%
 
 ---
 
@@ -40,5 +40,3 @@ Lightbox是一种技术，可在您想要显示内容时在其前面打开表单
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
 将代码交给您的Web开发人员，让他们将其添加到您的网站。
-
-做得好！

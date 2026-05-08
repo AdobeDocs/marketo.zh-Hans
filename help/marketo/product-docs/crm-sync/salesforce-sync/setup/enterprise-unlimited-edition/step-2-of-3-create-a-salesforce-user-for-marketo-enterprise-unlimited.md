@@ -4,9 +4,9 @@ description: 了解如何为Marketo创建具有Enterprise或Unlimited版本的Sa
 title: 第2步（共3步） — 为Marketo创建Salesforce用户(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '359'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 2%
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. 在&#x200B;**[!UICONTROL Administrative Permissions]**&#x200B;部分下，确保选中以下复选框：
+1. 在&#x200B;**[!UICONTROL Administrative Permissions]**&#x200B;部分下，验证是否选中了以下复选框：
 
    * [!UICONTROL API Enabled]
    * [!UICONTROL Edit HTML Templates]
@@ -58,9 +58,9 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >请务必选中&#x200B;**[!UICONTROL Password Never Expires]**&#x200B;框。
+   >选中&#x200B;**[!UICONTROL Password Never Expires]**&#x200B;框。
 
-1. 在[!UICONTROL General User Permissions]部分下，确保选中以下复选框：
+1. 在[!UICONTROL General User Permissions]部分下，验证是否选中了以下复选框：
 
    * [!UICONTROL Convert Leads]
    * [!UICONTROL Edit Events]
@@ -68,7 +68,7 @@ ht-degree: 2%
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. 在[!UICONTROL Standard Object Permissions]部分下，确保检查[!UICONTROL Read, Create, Edit, and Delete]权限：
+1. 在[!UICONTROL Standard Object Permissions]部分下，验证是否已检查[!UICONTROL Read, Create, Edit, and Delete]权限：
 
    * [!UICONTROL Accounts]
    * [!UICONTROL Campaigns]
@@ -111,7 +111,7 @@ ht-degree: 2%
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 找到不需要的字段，确保取消选中&#x200B;**[!UICONTROL Read Access]**&#x200B;和&#x200B;**[!UICONTROL Edit Access]**。 完成后，单击&#x200B;**[!UICONTROL Save]**。
+1. 找到不需要的字段，验证是否已取消选中&#x200B;**[!UICONTROL Read Access]**&#x200B;和&#x200B;**[!UICONTROL Edit Access]**。 完成后，单击&#x200B;**[!UICONTROL Save]**。
 
    >[!NOTE]
    >

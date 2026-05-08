@@ -3,7 +3,7 @@ description: 了解如何设置ON24与Marketo的集成。 连接您的ON24帐户
 title: 设置 ON24 与 Marketo 的集成
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 10%
@@ -12,7 +12,7 @@ ht-degree: 10%
 
 # 设置 ON24 与 Marketo 的集成{#set-up-the-on24-integration-with-marketo}
 
-下面是如何设置您的ON24事件集成。
+按照以下步骤设置您的ON24事件集成。
 
 ## 创建仅API角色 {#create-an-api-only-role}
 
@@ -42,7 +42,7 @@ ht-degree: 10%
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 选择您刚刚创建的[!UICONTROL ON24 API Only Role (all workspaces)]。 选中&#x200B;**[!UICONTROL API Only]**&#x200B;复选框。 单击 **[!UICONTROL Next]**。
+1. 选择您创建的[!UICONTROL ON24 API Only Role (all workspaces)]。 选中&#x200B;**[!UICONTROL API Only]**&#x200B;复选框。 单击 **[!UICONTROL Next]**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -64,11 +64,11 @@ ht-degree: 10%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 选择[!UICONTROL display name]。 点击 **[!UICONTROL Service]** 下拉菜单，并选择 **[!UICONTROL Custom]**。 输入[!UICONTROL description]。 单击[!UICONTROL API Only User]下拉列表，然后选择在上述步骤[&#128279;](#create-a-new-user)中创建的用户。 单击 **[!UICONTROL Create]**。
+1. 选择[!UICONTROL display name]。 点击 **[!UICONTROL Service]** 下拉菜单，并选择 **[!UICONTROL Custom]**。 输入[!UICONTROL description]。 单击[!UICONTROL API Only User]下拉列表，然后选择在上述步骤](#create-a-new-user)中创建[的用户。 单击 **[!UICONTROL Create]**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. 查找您刚刚创建的自定义[!DNL LaunchPoint]服务，然后单击[!UICONTROL View Details]。
+1. 查找您创建的自定义[!DNL LaunchPoint]服务，然后单击[!UICONTROL View Details]。
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 

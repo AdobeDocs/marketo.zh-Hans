@@ -3,16 +3,16 @@ description: 了解如何在Dynamic Chat中为文档卡设置Adobe PDF Embed API
 title: Adobe PDF 嵌入式 API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '149'
 ht-degree: 6%
 
 ---
 
 # Adobe PDF 嵌入式 API {#adobe-pdf-embed-api}
 
-“文档”卡允许将PDF文档嵌入对话框并跟踪访客的文档参与活动。 下面是设置方法。
+“文档”卡允许将PDF文档嵌入对话框并跟踪访客的文档参与活动。 按照以下步骤进行设置。
 
 1. 导航到[Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}。
 
@@ -30,7 +30,7 @@ ht-degree: 6%
 
    >[!IMPORTANT]
    >
-   >您需要使用将在其上托管聊天机器人的域（例如，如果您在mycompany.com上托管该聊天机器人，请确保在步骤4中输入）。
+   >您需要使用将在其上托管聊天机器人的域（例如，如果您在mycompany.com上托管该聊天机器人，请在步骤4中输入该域）。
 
 1. 单击&#x200B;**[!UICONTROL Copy]**&#x200B;以复制您的客户端ID。
 
@@ -44,4 +44,4 @@ ht-degree: 6%
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-您现在可以在对话框的[流Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}中使用文档信息卡！
+您现在可以在对话框的[流Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}中使用文档信息卡。

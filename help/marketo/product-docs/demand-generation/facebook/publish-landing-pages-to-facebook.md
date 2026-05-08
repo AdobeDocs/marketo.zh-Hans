@@ -4,9 +4,9 @@ description: 了解如何将Marketo登陆页面发布到Facebook。 将登陆页
 title: 将登陆页面发布到 Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ ht-degree: 1%
    >
    >要替换您之前发布到[!DNL Facebook]的Marketo登陆页面，请选择&#x200B;**[!UICONTROL Replace Existing Tab]**，然后从下拉列表中选择要替换的选项卡。 请注意，这不会替换非Marketo选项卡。
 
-1. 潜在客户现在可以直接在您的[!DNL Facebook]页面上访问您的登陆页面。 只需单击“封面”图像下的选项卡名称。
+1. 潜在客户现在可以直接在您的[!DNL Facebook]页面上访问您的登陆页面。 单击“Cover（封面）”图像下的选项卡名称。
 
    ![](assets/image2015-4-22-18-3a42-3a15.png)
 

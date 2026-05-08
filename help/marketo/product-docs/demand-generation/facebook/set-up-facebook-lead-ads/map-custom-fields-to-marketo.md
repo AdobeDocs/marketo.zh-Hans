@@ -4,20 +4,20 @@ description: 了解如何将Facebook潜在客户广告自定义字段映射到Ma
 title: 将自定义字段映射到 Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '255'
 ht-degree: 6%
 
 ---
 
 # 将自定义字段映射到 Marketo {#map-custom-fields-to-marketo}
 
-默认情况下，您可能希望收集到的信息比[!DNL Facebook]存储的标准信息多，例如某人使用您的在线交付服务的频率。 您可以通过在[潜在客户广告中](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)创建自定义问题[!DNL Facebook]来完成此操作。
+默认情况下，您可能希望收集到的信息比[!DNL Facebook]存储的标准信息多，例如某人使用您的在线交付服务的频率。 您可以通过在[!DNL Facebook]潜在客户广告中[创建自定义问题](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)来完成此操作。
 
 但是，**Marketo不会自动开始收集此数据**。 为了让Marketo开始捕获自定义字段值，您&#x200B;**必须**&#x200B;将这些自定义字段映射到Marketo中的字段。
 
-以下是在“管理”的LaunchPoint区域中设置此步骤的方法。
+按照以下步骤在“管理”的LaunchPoint区域设置此设置。
 
 >[!NOTE]
 >
@@ -31,15 +31,15 @@ ht-degree: 6%
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. 将授权帐户保持原样 — 请&#x200B;**不**&#x200B;进行任何更改。 单击 **[!UICONTROL Next]**。
+1. 将授权帐户保持原样，请&#x200B;**不**&#x200B;进行任何更改。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. 与以前一样，将所选页面保持不变 — 请&#x200B;**不**&#x200B;进行任何更改。 单击 **[!UICONTROL Next]**。
+1. 与以前一样，将所选页面保持不变，**不**&#x200B;进行任何更改。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. 在这里，您可以将自定义[!DNL Facebook]字段映射到您的Marketo字段。 单击&#x200B;**[!UICONTROL Add].**
+1. 将自定义[!DNL Facebook]字段映射到您的Marketo字段。 单击&#x200B;**[!UICONTROL Add].**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 

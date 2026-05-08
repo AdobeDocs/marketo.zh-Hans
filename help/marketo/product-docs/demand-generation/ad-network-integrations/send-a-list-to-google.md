@@ -3,10 +3,10 @@ description: 了解如何将Marketo静态列表发送到Google以进行客户匹
 title: 将列表发送至 Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 5%
+source-wordcount: '239'
+ht-degree: 7%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >* 选择&#x200B;**使受众成员资格保持同步**&#x200B;可使列表在实例中更改时保持最新。 我们在将人员添加到静态列表/从静态列表中移除人员后，从受众中添加/移除人员。
+   >* 选择&#x200B;**使受众成员资格保持同步**&#x200B;可使列表在实例中更改时保持最新。 将人员添加到静态列表或从静态列表中移除后，会更新受众成员资格。
    >
    >* 选中底部的复选框会将发送到Google Ads的用户数据的同意状态发送为GRANTED，以进行广告和广告个性化。 将其保留为未选中将发送同意状态为未指定。 对于计划为欧洲经济区(EEA)用户上传数据的用户，Google已汇总了[常见问题解答](https://support.google.com/google-ads/answer/14310715){target="_blank"}的列表，以及概述了[欧盟用户同意政策](https://www.google.com/about/company/user-consent-policy/){target="_blank"}的其他详细信息。
 

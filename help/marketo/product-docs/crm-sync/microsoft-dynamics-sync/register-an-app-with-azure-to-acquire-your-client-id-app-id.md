@@ -4,9 +4,9 @@ description: 了解如何在Azure中注册应用程序，以获取用于Dynamics
 title: 在 Azure 上注册应用程序以获取客户端 ID/应用程序 ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '318'
 ht-degree: 8%
 
 ---
@@ -84,6 +84,5 @@ Azure Active Directory将您的本地目录扩展到云中，为具有本地ADFS
 
    ![](assets/fourteen.png)
 
-   你完蛋了！
 
    ![](assets/fifteen.png)

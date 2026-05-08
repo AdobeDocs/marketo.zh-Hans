@@ -3,7 +3,7 @@ description: 了解如何先在Marketo中编辑要同步的字段，然后再在
 title: 在 Dynamics 中删除字段之前先编辑要同步的字段
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 5%
@@ -28,7 +28,7 @@ ht-degree: 5%
 
 1. 在浏览器的新选项卡中，登录到[!DNL Dynamics]并删除所需的字段。
 
-1. 返回Marketo中的[!DNL Microsoft Dynamics]下，单击“**[!UICONTROL Edit]**”旁边的[!UICONTROL Step 2: Select Fields to Sync]。
+1. 返回Marketo中的[!DNL Microsoft Dynamics]下，单击“[!UICONTROL Step 2: Select Fields to Sync]”旁边的&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/sync-before-deleting-them-in-dynamics-4.png)
 
@@ -44,4 +44,4 @@ ht-degree: 5%
 >
 >如果在删除[!DNL Dynamics]中的字段之前未停止同步，则同步可能会遇到错误。 如果出现这种情况，同步将停止。 在恢复之前，Marketo管理员需要查看“[!UICONTROL Select Fields to Sync]”（如上所述）并单击&#x200B;**[!UICONTROL Save]**，以便同步接受架构更改。
 
-保存更改后，请记得启用同步！
+请记住，在保存更改后启用同步。

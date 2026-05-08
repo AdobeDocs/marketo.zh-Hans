@@ -3,10 +3,10 @@ description: 了解Dynamic Chat中的Generative AI以提高代理工作效率和
 title: Dynamic Chat中的创新型人工智能
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 2%
+source-wordcount: '472'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 ## 权限 {#permissions}
 
-若要使用创作AI，请确保向所需用户授予适当的[权限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)。
+为了使用创作AI，请授予所需用户适当的[权限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)。
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -40,7 +40,7 @@ ht-degree: 2%
 
 ## 问题生成 {#question-generation}
 
-使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验[。](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
+使用经过销售、营销和产品知识培训的界面，通过人工智能辅助对话提升访客的入站体验](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)。[
 
 ![](assets/generative-ai-overview-5.png)
 
@@ -70,7 +70,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->使用创作AI时，您必须遵守[Adobe Experience Cloud创作AI用户准则](https://www.adobe.com/cn/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，以便我们能够确保以安全负责的方式使用包含创作AI的Adobe Experience Cloud功能。
+>使用创作AI时，必须遵守[Adobe Experience Cloud创作AI用户准则](https://www.adobe.com/cn/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，以确保以安全和负责任的方式使用包含创作AI的Adobe Experience Cloud功能。
 
 ## 常见问题解答 {#faq}
 
@@ -80,7 +80,7 @@ ht-degree: 2%
 
 **我可以生成的问题和答案的数量是否存在限制？**
 
-可以。此时的生命周期限制为1000。
+可以。 此时的生命周期限制为1000。
 
 **生成AI中有哪些语言？**
 

@@ -4,16 +4,16 @@ description: 了解如何测试Facebook Lead Ads与Marketo的移动集成。 验
 title: 测试 Facebook 潜在客户广告与 Marketo 的移动端集成
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 4%
+source-wordcount: '192'
+ht-degree: 5%
 
 ---
 
 # 测试[!DNL Facebook]潜在客户广告以与Marketo进行移动设备集成 {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
-在创建潜在客户广告后，您应该对其进行测试！
+在创建潜在客户广告后，您应该对其进行测试。
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ ht-degree: 4%
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. 在移动设备上，点按&#x200B;**[!UICONTROL Notifications]**&#x200B;移动设备应用程序中的[!DNL Facebook]。
+1. 在移动设备上，点按[!DNL Facebook]移动设备应用程序中的&#x200B;**[!UICONTROL Notifications]**。
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
@@ -43,9 +43,9 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >这只是一个示例，使用了了解详情Call to action。 您的潜在客户广告单元Call to action可能不同。
+   >这是一个使用了解详情Call to action的示例。 您的潜在客户广告单元Call to action可能不同。
 
-1. 这就是魔法发生的地方！ 提交表单后，在Marketo[中作为程序的一部分或在使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)过滤器的潜在客户数据库中生成智能列表。 **[!UICONTROL Filled Out Facebook Lead Ads Form]**&#x200B;插入您刚刚提交的表单的潜在客户广告表单名称。
+1. 在提交表单后，作为程序的一部分或使用&#x200B;**[!UICONTROL Filled Out Facebook Lead Ads Form]**&#x200B;筛选器的潜在客户数据库的[在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中构建智能列表。 插入您提交的表单的潜在客户广告表单名称。
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -53,8 +53,6 @@ ht-degree: 4%
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-这很酷还是什么？
-
 >[!NOTE]
 >
->[启用/禁用[!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[设置[!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

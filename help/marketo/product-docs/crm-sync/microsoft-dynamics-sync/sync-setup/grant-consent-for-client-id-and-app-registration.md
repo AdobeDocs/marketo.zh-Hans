@@ -3,16 +3,16 @@ description: 了解如何为用于Dynamics同步的客户端ID和应用程序注
 title: 授予客户端 ID 和应用程序注册的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '285'
 ht-degree: 7%
 
 ---
 
 # 授予客户端 ID 和应用程序注册的同意 {#grant-consent-for-client-id-and-app-registration}
 
-请按照以下步骤了解如何授予必要的同意/权限。
+请按照以下步骤了解如何授予必要的同意和权限。
 
 ## 为同步用户授予委派的用户权限 {#grant-delegated-user-permissions-for-the-sync-user}
 

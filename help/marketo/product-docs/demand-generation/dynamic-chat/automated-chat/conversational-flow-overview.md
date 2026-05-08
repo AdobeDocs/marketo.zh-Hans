@@ -3,9 +3,9 @@ description: 了解对话流以及它们与对话框的区别。 设计由访客
 title: 会话流概述
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '370'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 3%
    <th style="width:50%">会话流</th>
   </tr>
   <tr>
-   <td>对话框具有针对性 — 您可以根据实施的参数为特定页面和受众设计对话。</td>
+   <td>对话框具有针对性：您可以根据实施的参数，为特定页面和受众设计对话。</td>
    <td>触发对话流 — 您设计可以根据访客的操作（如填写表单、单击链接等）触发的对话。</td>
   </tr>
    <tr>
@@ -82,7 +82,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->查看[对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=zh-Hans){target="_blank"}正在执行中！
+>查看[对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在执行中！
 
 >[!MORELIKETHIS]
 >

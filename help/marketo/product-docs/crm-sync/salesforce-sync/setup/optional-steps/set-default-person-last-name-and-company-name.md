@@ -4,9 +4,9 @@ description: 了解如何为Salesforce同步设置默认人员姓氏和公司名
 title: 设置默认人员姓氏和公司名称
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '137'
 ht-degree: 12%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 12%
    >
    >仅当最初将记录同步到Salesforce时，并且仅当任一必填字段为空时，Marketo Engage才会分配默认值。
 
-就是这样！ 每次人员缺少姓氏和/或公司名称时，Marketo都会在记录同步过程中添加默认值。
+每次人员缺少姓氏或公司名称时，Marketo都会在同步记录时添加默认值。

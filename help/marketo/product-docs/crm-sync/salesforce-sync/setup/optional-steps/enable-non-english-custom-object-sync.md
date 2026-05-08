@@ -4,10 +4,10 @@ description: 了解如何在Marketo同步用户使用非英语语言时启用自
 title: 启用非英语自定义对象同步
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 7%
+source-wordcount: '158'
+ht-degree: 8%
 
 ---
 
@@ -61,4 +61,4 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->不要忘记最后一次刷新架构以用您的语言拉回对象。
+>最后一次刷新模式以用您的语言拉回对象。

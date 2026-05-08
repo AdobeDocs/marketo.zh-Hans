@@ -3,7 +3,7 @@ description: 了解用于定位可看到Dynamic Chat对话框的受众标准。 
 title: 受众标准
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ## 事件 {#events}
 
-事件允许您根据访客滚动多少或他们在您的页面/网站上的时间长短来定位访客。 在以下示例中，我们的定位是在特定页面上停留超过20秒的访客。
+通过事件，可根据访客滚动多少或他们在您的页面或网站上的时间长短来定位访客。 在以下示例中，配置将定位在特定页面上停留超过20秒的访客。
 
 1. 抓取&#x200B;**[!UICONTROL Time on Page]**&#x200B;事件并将其拖动到右侧。
 
@@ -40,7 +40,7 @@ ht-degree: 1%
 
 **已知人员**
 
-有&#x200B;_多个_&#x200B;属性组合可供选择。 在下面的示例中，我们定位了在加利福尼亚州一家拥有50名以上员工的公司工作的所有已知人员。
+有&#x200B;_多个_&#x200B;属性组合可供选择。 在下面的示例中，该配置将目标锁定在加利福尼亚州一家拥有50名以上员工的公司工作的所有已知人员。
 
 1. 获取&#x200B;**[!UICONTROL Person State]**&#x200B;属性并将其拖动到右侧。
 
@@ -68,7 +68,7 @@ ht-degree: 1%
 
 **匿名人员**
 
-有一种简便的方法可以专门定向尚未出现在数据库中的用户。 在此示例中，我们定位了位于纽约区域的所有匿名人员。
+以下对象为数据库中尚未包含的人员。 在本例中，该配置将定向位于New York区域的所有匿名人员。
 
 1. 获取&#x200B;**[!UICONTROL Person Email]**&#x200B;属性并将其拖动到右侧。
 
@@ -84,7 +84,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >当有人访问您的网站时，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}会对其进行Cookie并将其放入系统中。 我们在一个特殊的数据库中查找他们的IP，并推断出各种好的信息。
+   >当有人访问您的网站时，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}会对其进行Cookie并将其放入系统中。 在特殊数据库中查找IP地址以推断位置和其他信息。
 
 1. 默认情况下已设置&#x200B;_[!UICONTROL Is]_。 在选择值字段中，键入NY （您还可以单击下拉菜单并从列表中选择）。
 

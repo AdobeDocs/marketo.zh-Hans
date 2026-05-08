@@ -4,10 +4,10 @@ description: 了解如何将Facebook自定义受众添加为LaunchPoint服务。
 title: 将 [!DNL Facebook] 自定义受众添加为 [!DNL LaunchPoint] 服务
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 2%
+source-wordcount: '294'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 2%
 >
 >**需要管理员权限**
 
-通过此集成，您可以将受众数据从Marketo静态列表和智能列表发送到[!DNL Facebook]，以在[!DNL Facebook]广告营销活动中用作自定义受众。 下面是设置方法。
+通过此集成，您可以将受众数据从Marketo静态列表和智能列表发送到[!DNL Facebook]，以在[!DNL Facebook]广告营销活动中用作自定义受众。 按照以下步骤进行设置。
 
 1. 转到Marketo **[!UICONTROL Admin]**。
 
@@ -59,11 +59,11 @@ ht-degree: 2%
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   做得好！ 您现在可以转到Marketo中的任何静态列表或智能列表，并将受众数据发送到[!DNL Facebook]。
+   您现在可以转到Marketo中的任何静态列表或智能列表，并将受众数据发送到[!DNL Facebook]。
 
    >[!CAUTION]
    >
-   >哦，开始之前，请确保在您的[!DNL Facebook]帐户中[接受 [!DNL Facebook]的自定义受众条款](https://www.facebook.com/ads/manage/customaudiences/tos.php)！ 否则，受众更新将失败。
+   >在使用集成之前，请在您的[!DNL Facebook]帐户中[接受 [!DNL Facebook]的自定义受众条款](https://www.facebook.com/ads/manage/customaudiences/tos.php)！ 否则，受众更新将失败。
 
 >[!MORELIKETHIS]
 >

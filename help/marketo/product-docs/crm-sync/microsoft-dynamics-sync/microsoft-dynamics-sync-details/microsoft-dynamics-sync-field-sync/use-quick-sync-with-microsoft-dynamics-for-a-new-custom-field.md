@@ -4,9 +4,9 @@ description: 了解如何在添加新自定义字段时将快速同步与Microso
 title: 使用 Microsoft Dynamics 快速同步新的自定义字段
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '341'
 ht-degree: 4%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 4%
 
 市场营销或销售人员需要一个新领域。 或者，也许你在初始字段选择中忘记了一个。 或者说，你的需求改变了。 在任何情况下，您都可以使用快速同步来重新同步特定字段。
 
-通常，您将使用快速同步添加新字段并刷新值。 但是，在某些情况下，您可能希望同步现有字段。 您可以根据更新或创建的日期范围限制字段同步。 有关详细信息，请参阅下面的[高级同步选项](#Advanced_Sync_Options)。
+通常，快速同步用于添加新字段并刷新值。 但是，在某些情况下，您可能希望同步现有字段。 您可以根据更新或创建的日期范围限制字段同步。 有关详细信息，请参阅下面的[高级同步选项](#Advanced_Sync_Options)。
 
 快速同步可以同步null值。 例如，如果您使用值A和B，并将[!DNL Dynamics]中的B值更改为null，则会将null值同步到Marketo。
 
 ## 快速同步所有记录 {#quick-sync-for-all-records}
-
-以下是如何使用快速同步为新字段重新同步。
 
 1. 在Marketo中，单击&#x200B;**[!UICONTROL Admin]**。
 
@@ -53,7 +51,7 @@ ht-degree: 4%
 
 ## 高级同步选项 {#advanced-sync-options}
 
-如果要同步现有字段，但只针对有限的数据集执行同步操作，该怎么办？ 操作方法如下：
+如果要同步现有字段，但只针对有限的数据集执行同步操作，该怎么办？
 
 1. 清除现有字段的复选框。 单击 **[!UICONTROL Save]**。
 
@@ -75,7 +73,7 @@ ht-degree: 4%
 
 ## 修复不同步的字段 {#fixing-out-of-sync-fields}
 
-在极少数情况下，[!DNL Dynamics]和Marketo字段不同步，可以通过快速轻松地重新同步它们。
+在极少数情况下，[!DNL Dynamics]和Marketo字段不同步，可以快速重新同步它们。
 
 1. 取消选择该字段并单击&#x200B;**[!UICONTROL Save]**。
 

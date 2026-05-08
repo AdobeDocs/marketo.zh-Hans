@@ -4,9 +4,9 @@ description: 了解哪些Salesforce字段同步到Marketo，以及SFDC Type和is
 title: SFDC同步 — 字段同步
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Marketo中有一个名为“SFDC isDeleted”的字段。 如果该值为true，
 
 ## 如果我在SFDC中更改字段类型，该怎么办？ {#what-if-i-change-a-field-type-in-sfdc}
 
-在更改字段类型时，如果字段中的数据不匹配，Marketo会删除这些字段中的数据（但首先显示警告）。 要保留数据，请确保在更改字段类型后导出数据并重新导入数据。
+在更改字段类型时，如果字段中的数据不匹配，Marketo会删除这些字段中的数据（但首先显示警告）。 要保留数据，请在更改字段类型后导出并重新导入数据。
 
 ## 如果我在SFDC中更改API名称，该怎么办？ {#what-if-i-change-an-api-name-in-sfdc}
 

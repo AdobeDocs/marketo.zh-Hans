@@ -3,16 +3,16 @@ description: 了解如何为Dynamics 2016或Dynamics 365内部部署设置Market
 title: 安装Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365本地步骤2/3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '493'
 ht-degree: 1%
 
 ---
 
 # 步骤3中的2为[!DNL Dynamics]设置Marketo（2016内部部署/[!DNL Dynamics] 365内部部署）{#step-of-set-up-for-marketo-on-premises-2016}
 
-出色完成了前面的步骤。 让我们继续讨论这个问题。
+前面的步骤已完成。
 
 >[!PREREQUISITES]
 >
@@ -66,7 +66,7 @@ ht-degree: 1%
 
 ## 分配同步用户角色 {#assign-sync-user-role}
 
-仅将Marketo同步用户角色分配给Marketo同步用户。 您无需将其分配给任何其他用户。
+仅将Marketo同步用户角色分配给Marketo同步用户。 它无需分配给任何其他用户。
 
 >[!NOTE]
 >
@@ -98,7 +98,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >如果未看到该角色，请返回3[的](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)步骤1并导入解决方案。
+   >如果未看到该角色，请返回3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)的[步骤1并导入解决方案。
 
    >[!NOTE]
    >
@@ -106,7 +106,7 @@ ht-degree: 1%
 
 ## 配置Marketo解决方案 {#configure-marketo-solution}
 
-快完成了！ 在转到下一篇文章之前，我们仅做了最后几段配置。
+在转到下一篇文章之前，将保留一些最终配置。
 
 1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;下，单击&#x200B;**[!UICONTROL Marketo Config]**。
 

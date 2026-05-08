@@ -4,9 +4,9 @@ description: 了解如何更新适用于Microsoft Dynamics的Marketo解决方案
 title: 更新 [!DNL Microsoft Dynamics]的Marketo解决方案
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '169'
 ht-degree: 5%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 5%
 
    ![](assets/msd-online.png)
 
-   太棒了！ 解决方案的zip文件现在将下载到您的设备。 如果您不熟悉安装步骤，请联系您的[!UICONTROL Dynamics]管理员。
+   解决方案的zip文件现在将下载到您的设备。 如果您不熟悉安装步骤，请联系您的[!UICONTROL Dynamics]管理员。
 
 ## 执行更新 {#performing-the-update}
 
@@ -51,4 +51,4 @@ ht-degree: 5%
 
 >[!CAUTION]
 >
->选择“升级”而不是“更新”可能会导致[!DNL Dynamics]环境中的数据损坏。 **请确保在[!UICONTROL Import Options]下选择“更新”**。
+>选择“升级”而不是“更新”可能会导致[!DNL Dynamics]环境中的数据损坏。 在[!UICONTROL Import Options]下选择&#x200B;**更新**。

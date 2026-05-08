@@ -4,9 +4,9 @@ description: 了解商机和帐户所有者字段如何从Salesforce同步到Mar
 title: SFDC同步 — 潜在客户/帐户所有者同步
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '218'
 ht-degree: 2%
 
 ---
@@ -48,4 +48,3 @@ ht-degree: 2%
 * Marketo中的分配（和重新分配）规则
 * 在[更改所有者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}、[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}和[创建任务](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}流程操作中使用它们
 
-Marketo确实拥有出色的[!DNL Salesforce]同步。 没有人能做得这么好！

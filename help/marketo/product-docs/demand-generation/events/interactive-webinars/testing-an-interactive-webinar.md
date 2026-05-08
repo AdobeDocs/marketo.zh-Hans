@@ -3,9 +3,9 @@ description: 了解如何在上线之前测试交互式网络研讨会。 验证
 title: 测试交互式网络研讨会
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '384'
 ht-degree: 2%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 2%
 
 任何交互式网络研讨会都可以用作测试网络研讨会。 测试可以通过添加不超过10位主持人和演示者（参与者）来执行。
 
-创建测试网络研讨会的工作流程与创建任何其他网络研讨会[的交互式网络研讨会事件程序相同。 &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)建议将选定的交货日期设在遥远的将来。
+创建测试网络研讨会的工作流程与创建任何其他网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)的交互式网络研讨会事件程序相同。 [建议将选定的交货日期设在遥远的将来。
 
 >[!CAUTION]
 >
 >如果您将测试网络研讨会的日期和时间设置得太近，并且该日期/时间已过，则交互式网络研讨会会考虑已交付的网络研讨会，并且会从您的许可证中扣除一个点数。
 
-一个点数将被阻止用于测试网络研讨会，但可以通过重新计划程序以与实际网络研讨会结合使用或者只是删除测试网络研讨会程序来利用它。
+一个点数将被阻止用于测试网络研讨会，但可以通过重新计划程序以用于实际的网络研讨会或删除测试网络研讨会程序来利用它。
 
 创建和设计网络研讨会后，主持人、共同主持人和/或演示者可以加入以排练投放。 此外，还可以将外部受邀者添加为联合主持人，以便能够参加测试。 测试可以通过与网络研讨会相同的方式执行，因此评估人员可以了解网络研讨会在实际受众面前是如何举办的。 实时网络研讨会中的所有功能也可在测试网络研讨会中使用。 此操作最多可至网络研讨会开始时间前15分钟执行。
 

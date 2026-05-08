@@ -3,16 +3,16 @@ description: 了解如何在交互式网络研讨会中创建和实施模板。 
 title: 交互式网络研讨会模板
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '310'
 ht-degree: 6%
 
 ---
 
 # 交互式网络研讨会模板 {#templates-for-interactive-webinars}
 
-在交互式网络研讨会中创建易于使用的模板，以便在团队中工作时更快地制作内容并符合品牌准则。
+在交互式网络研讨会上创建可重复使用的模板，以便在团队中工作时更快地制作内容并符合品牌准则。
 
 ## 授予权限 {#grant-permissions}
 
@@ -26,7 +26,7 @@ ht-degree: 6%
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
-1. 双击要添加权限的角色。
+1. 双击要向其添加权限的角色。
 
    ![](assets/templates-for-interactive-webinars-3.png)
 
@@ -68,7 +68,7 @@ ht-degree: 6%
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. 此时将打开一个新选项卡。 要编辑/保存模板，您必须进入文件室。 由于这不是实际的网络研讨会室，因此无需进行音频/视频选择。 单击&#x200B;**进入会议室**。
+1. 此时将打开一个新选项卡。 要编辑或保存模板，必须进入文件室。 由于这不是实际的网络研讨会室，因此无需进行音频/视频选择。 单击&#x200B;**进入会议室**。
 
    ![](assets/templates-for-interactive-webinars-12.png)
 
@@ -106,7 +106,7 @@ ht-degree: 6%
 
    ![](assets/templates-for-interactive-webinars-19.png)
 
-1. 此时将打开一个新选项卡。 要编辑您的模板，您必须进入文件室。 由于这不是实际的网络研讨会室，因此无需进行音频/视频选择。 单击&#x200B;**进入会议室**。
+1. 此时将打开一个新选项卡。 要编辑模板，必须进入文件室。 由于这不是实际的网络研讨会室，因此无需进行音频/视频选择。 单击&#x200B;**进入会议室**。
 
    ![](assets/templates-for-interactive-webinars-20.png)
 

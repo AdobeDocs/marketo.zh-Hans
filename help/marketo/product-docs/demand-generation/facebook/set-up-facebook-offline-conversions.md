@@ -4,16 +4,16 @@ description: 了解如何在Marketo中设置Facebook离线转化。 将转化数
 title: 设置 Facebook 离线转化
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '312'
 ht-degree: 3%
 
 ---
 
 # 设置[!DNL Facebook]脱机转换 {#set-up-facebook-offline-conversions}
 
-通过将离线转化数据发送回[!DNL Facebook] （针对通过潜在客户广告创建的人员），您的广告团队可以比以往更好地优化其广告支出。 下面是设置方法。
+通过将离线转化数据发送回[!DNL Facebook] （针对通过潜在客户广告创建的人员），您的广告团队可以比以往更好地优化其广告支出。 按照以下步骤进行设置。
 
 >[!PREREQUISITES]
 >
@@ -50,7 +50,7 @@ ht-degree: 3%
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   真贴心！ 您已经完成启用[!DNL Facebook]离线转换的半过程。 让我们跳转到收入周期Modeler以映射阶段。
+   您已经完成启用[!DNL Facebook]离线转换的半过程。 转到收入周期Modeler以映射阶段。
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -87,7 +87,7 @@ ht-degree: 3%
 
    ![](assets/2.png)
 
-1. 批准模型并完成！
+1. 批准模型并完成。
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 

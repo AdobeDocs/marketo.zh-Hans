@@ -3,9 +3,9 @@ description: 了解如何在最终设置步骤中将Marketo Engage连接到Veeva
 title: 第3步（共3步） — 连接Marketo Engage和 [!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >在单击“同步字段”之前，请确保向同步用户[隐藏Marketo中所有不需要的字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}。 单击“同步字段”后，该用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
+   >[在单击“同步字段”之前，隐藏Marketo中不需要的所有字段](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}。 单击“同步字段”后，该用户可以看到的所有字段都将在Marketo中永久创建，并且无法删除。
 
 1. 单击 **[!UICONTROL Login with Veeva]**。
 
@@ -57,7 +57,7 @@ ht-degree: 2%
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
-1. 几分钟后，Marketo Engae中将出现弹出窗口。 单击 **[!UICONTROL Confirm Credentials]**。
+1. 几分钟后，Marketo Engage中将出现弹出窗口。 单击 **[!UICONTROL Confirm Credentials]**。
 
    ![](assets/step-3-of-3-connect-marketo-engage-7.png)
 

@@ -3,7 +3,7 @@ description: 了解如何在Marketo中重新配置Dynamics身份验证方法。 
 title: 重新配置 [!DNL Dynamics] 身份验证方法
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 2%
@@ -37,7 +37,7 @@ ht-degree: 2%
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
-1. 选择所需的新身份验证方法（在本例中，我们选择Web API）。
+1. 选择所需的新身份验证方法（在此示例中，选择了Web API）。
 
    ![](assets/reconfigure-dynamics-authentication-method-4.png)
 

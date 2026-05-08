@@ -3,9 +3,9 @@ description: 获取有关Marketo中交互式网络研讨会的最佳实践的帮
 title: 交互式网络研讨会最佳做法
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1775'
+source-wordcount: '1759'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 在运行虚拟活动时，无论针对的是小受众还是大受众，务必要按计划进行。 由于计划和执行活动需要执行各种步骤（从准备、促销、交付到跟进），因此有时感觉非常困难。
 
-为了帮助您解答这些问题，我们整理了一个最佳做法列表，这些最佳做法有助于规划、设计和制作成功且富有吸引力的网络研讨会。 这些提示将帮助您充分利用由Adobe Connect提供支持的交互式网络研讨会。
+以下最佳实践有助于规划、设计和制作成功且富有吸引力的网络研讨会。 这些提示将帮助您充分利用由Adobe Connect提供支持的交互式网络研讨会。
 
 ## 事件前准备 {#pre-event-preparation}
 
@@ -22,15 +22,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->交互式网络研讨会移动Web体验无响应性，因此我们建议使用Adobe Connect应用程序在您的移动设备上无缝地召开网络研讨会。 请注意，Adobe Connect应用程序目前在中国应用商店中不可用。
+>交互式网络研讨会移动Web体验无响应性，因此我们建议使用Adobe Connect应用程序在您的移动设备上无缝地召开网络研讨会。 Adobe Connect应用程序目前在中国应用商店中不可用。
 
 * 创建一个示例交互式网络研讨会(IW)，每次都进行克隆，以避免从头开始。
 
-* 如果稍后再次提供相同的内容，请重用Adobe Connect文件室。 从Pods菜单导航到&#x200B;**从pods中清除内容**&#x200B;以清除聊天历史记录，以及上次会话的轮询/测验结果。 这只会清除房间内容。 以前会话中的所有数据将继续在Marketo Engage中可用。
+* 如果稍后再次提供相同的内容，请重用Adobe Connect文件室。 从Pods菜单导航到&#x200B;**从pods中清除内容**&#x200B;以清除聊天历史记录，以及上次会话的轮询/测验结果。 这会清除房间内容。 以前会话中的所有数据将继续在Marketo Engage中可用。
 
 * 避免安排背对背会话。 请确保您至少有30分钟的准备时间，然后再开始网络研讨会。 这将允许您上传任何最新的演示更改，调整麦克风和摄像头，并让任何新演示者熟悉界面。
 
-* 将角色分配给团队成员。 将他们添加为联合主持人和演示者。 主持人和演示者可在参与者之前进入会议室。 但请务必[设计交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _在_&#x200B;添加联合主持人和演示者之前。
+* 将角色分配给团队成员。 将他们添加为联合主持人和演示者。 主持人和演示者可在参与者之前进入会议室。 但是[在&#x200B;_添加联合主持人和演示者之前_&#x200B;设计交互式网络研讨会](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}。
 
 ### 推广您的活动 {#promoting-your-event}
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 * **Q&amp;A面板**：提交问题的参与者的姓名以及回答问题的主持人/演示者的姓名都可以隐藏。 取消选中“房间首选项”中“Q&amp;A Pod”部分下的隐私选项，即可实现此目的。
 
-* **聊天面板**：聊天面板是一个聊天区域，它不属于会话录制。 因此，如果您不希望聊天显示在录制中，请使用“聊天面板”而不是“聊天面板”。 [单击此处](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}了解有关使用聊天面板的更多信息。
+* **聊天面板**：聊天面板是一个聊天区域，它不属于会话录制。 因此，如果您不希望聊天显示在录制中，请使用“聊天面板”而不是“聊天面板”。 [单击此处](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}了解有关使用聊天面板的更多信息。
 
 * **私人聊天**：关闭私人聊天以防止参与者ping其他参与者。 可以通过取消选中“房间首选项”中“聊天”部分下的“允许参与者私下聊天”来实现此目的。
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
 ## 投放 {#delivery}
 
-* 执行几次试运行以测试音频/视频设置，并在您之前未使用过Adobe Connect的情况下熟悉它。 在排练时，不要忘记要将演示者和共同主持人也包括在内。
+* 执行几次试运行以测试音频/视频设置，并在您之前未使用过Adobe Connect的情况下熟悉它。 在排练时包括您的演示者和共同主持人。
 
 * 要求主持人和演示者在开始时间至少提前30分钟到达，并确保一切正常运行。
    * 决定由谁来主持问答和聊天舱。

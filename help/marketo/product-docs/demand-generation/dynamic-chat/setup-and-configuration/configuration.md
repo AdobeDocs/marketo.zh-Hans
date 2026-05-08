@@ -3,9 +3,9 @@ description: 了解如何自定义Dynamic Chat对话框窗口的外观。 设置
 title: 配置
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '414'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 2%
 
 **在移动设备上启用Poke消息**
 
-选择滑块可启用“探查”（该选项在聊天图标旁边显示开头的问题，访客无需单击该图标即可查看），以供访客从移动设备中聊天。
+选择滑块以启用“探查”，对于从移动设备进行登录的访客，该滑块会在聊天图标旁边显示开始的问题，访客无需单击该图标即可查看它。
 
 ![](assets/configuration-6.png)
 
@@ -82,4 +82,4 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->未设置Marketo支持以帮助对HTML进行故障排除。 如需HTML帮助，请咨询Web开发人员。
+>未设置Marketo支持以帮助对HTML进行故障排除。 有关HTML的帮助，请咨询Web开发人员。

@@ -4,9 +4,9 @@ description: 了解如何在Marketo中使用GotoWebinar创建活动。 配置集
 title: 创建具有 [!DNL GotoWebinar]的事件
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 日期和时间 {#date-time}
 
-为您的网络研讨会输入以下信息，这些信息将通过适配器拉入Marketo。 如果您对此信息进行了任何更改，则必须单击&#x200B;**[!UICONTROL Refresh from Webinar Provider]**&#x200B;下的链接“**[!UICONTROL Event Actions]**”，以便Marketo能够查看这些更改。
+为您的网络研讨会输入以下信息，这些信息将通过适配器拉入Marketo。 如果您对此信息进行了任何更改，则必须单击&#x200B;**[!UICONTROL Event Actions]**&#x200B;下的链接“**[!UICONTROL Refresh from Webinar Provider]**”，以便Marketo能够查看这些更改。
 
 **[!UICONTROL Start Date]** — 输入您的开始日期。 该屏幕将显示在Marketo中。
 
@@ -55,9 +55,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您需要其他[!DNL GoToWebinar]帮助，请访问他们的[帮助站点](https://support.logmeininc.com/gotowebinar)。
+>如果您需要其他[!DNL GoToWebinar]帮助，请参阅他们的[帮助站点](https://support.logmeininc.com/gotowebinar)。
 
-现在，让我们跳入Marketo！
+现在，转到Marketo。
 
 1. 选择一个事件。 单击&#x200B;**[!UICONTROL Event Actions]**&#x200B;并选择&#x200B;**[!UICONTROL Event Settings]**。
 
@@ -67,7 +67,7 @@ ht-degree: 0%
    >
    >所选事件的渠道类型必须是&#x200B;**网络研讨会**。
 
-1. 从&#x200B;**[!UICONTROL GoToWebinar]**&#x200B;列表中选择&#x200B;**[!UICONTROL Event Partner]**。
+1. 从&#x200B;**[!UICONTROL Event Partner]**&#x200B;列表中选择&#x200B;**[!UICONTROL GoToWebinar]**。
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. 太棒了！ 现在，该事件已由&#x200B;**[!DNL GoToWebinar]**&#x200B;同步并计划。
+1. 该事件现已由&#x200B;**[!DNL GoToWebinar]**&#x200B;同步并计划。
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -105,9 +105,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长时间后仍未看到任何内容，请从事件的&#x200B;**[!UICONTROL Refresh from Webinar Provider]**&#x200B;选项卡的[!UICONTROL Event Actions]菜单中选择&#x200B;**[!UICONTROL Summary]**。
+   >数据可能需要48小时才能显示在Marketo中。 如果经过这么长时间后仍未看到任何内容，请从事件的&#x200B;**[!UICONTROL Summary]**&#x200B;选项卡的[!UICONTROL Event Actions]菜单中选择&#x200B;**[!UICONTROL Refresh from Webinar Provider]**。
 
-当[!UICONTROL Change Program Status]设置为“已注册”时，注册您的网络研讨会的用户将通过[!UICONTROL New Status]流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，请确保将[!UICONTROL Change Program Status]流程步骤#1和[!UICONTROL Send Email]流程步骤#2。
+当[!UICONTROL New Status]设置为“已注册”时，注册您的网络研讨会的用户将通过[!UICONTROL Change Program Status]流程步骤推送至您的网络研讨会提供商。 没有其他状态会将该人员推倒。 此外，使[!UICONTROL Change Program Status]流程步骤#1和[!UICONTROL Send Email]流程步骤#2。
 
 ## 查看计划  {#viewing-the-schedule}
 
