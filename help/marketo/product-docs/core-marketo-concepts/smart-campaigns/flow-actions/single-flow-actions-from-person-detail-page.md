@@ -2,12 +2,11 @@
 description: 了解如何从人员详细信息页面运行单个流程操作。 根据需要为人员执行一个流程步骤。
 title: 从人员详情页执行单个流程操作
 hide: true
-hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 11%
 
 ---

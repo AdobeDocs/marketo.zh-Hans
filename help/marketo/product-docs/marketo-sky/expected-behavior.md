@@ -2,11 +2,10 @@
 description: 了解Marketo Sky中Predictive Audiences的预期行为。 了解数据隐私、激活时间和过滤器限制。
 title: 预期行为
 hide: true
-hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '390'
 ht-degree: 1%
 
 ---
@@ -18,7 +17,7 @@ ht-degree: 1%
 ## 数据和隐私注意事项
 
 * AI/ML模型所需的所有数据处理都在北美进行。
-* AI/ML模型不使用特定的潜在客户信息，例如名字或姓氏、性别、电子邮件、联系电话等。 模型仅利用从图片和活动日志派生的一般属性。
+* AI/ML模型不使用特定的潜在客户信息，例如名字或姓氏、性别、电子邮件、联系电话等。模型仅利用从图片和活动日志派生的一般属性。
 
 **对于[!UICONTROL Predictive Audiences]，您可以预期以下行为**
 

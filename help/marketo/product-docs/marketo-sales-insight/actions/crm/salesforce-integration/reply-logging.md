@@ -2,12 +2,11 @@
 description: 了解回复日志记录，以便将潜在客户回复记录到Salesforce。 启用API日志记录且回复跟踪可用时的日志回复。
 title: 回复记录
 hide: true
-hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '261'
 ht-degree: 2%
 
 ---

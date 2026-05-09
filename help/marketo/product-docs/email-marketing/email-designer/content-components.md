@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1172'
-ht-degree: 15%
+source-wordcount: '1184'
+ht-degree: 14%
 
 ---
 
@@ -76,11 +76,11 @@ ht-degree: 15%
 
    屏幕快照
 
-1. 您可以通过更改样式属性（如&#x200B;**[!UICONTROL Border]**、**[!UICONTROL Size]**、**[!UICONTROL Margin]**&#x200B;等）进一步个性化您的按钮。 从&#x200B;**[!UICONTROL Component settings]**&#x200B;窗格。
+1. 您可以通过从&#x200B;**[!UICONTROL Component settings]**&#x200B;窗格中更改样式属性（如&#x200B;**[!UICONTROL Border]**、**[!UICONTROL Size]**、**[!UICONTROL Margin]**&#x200B;等）进一步个性化按钮。
 
 ## 文本 {#text}
 
-使用&#x200B;**[!UICONTROL Text]**&#x200B;组件将文本插入电子邮件，并使用&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡调整样式（边框、大小、填充等）。
+使用&#x200B;**[!UICONTROL Text]**&#x200B;组件将文本插入到您的电子邮件中，并调整样式（边框、大小、填充等） 使用&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡。
 
 屏幕快照
 
@@ -107,7 +107,7 @@ ht-degree: 15%
    * **[!UICONTROL Duplicate]**：添加文本组件的副本。
    * **[!UICONTROL Delete]**：从电子邮件中删除所选的文本组件。
 
-1. 从以下位置调整其他样式属性，例如文本颜色、字体系列、边框、内边距、边距等：从&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡。
+1. 从&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡中调整其他样式属性，如文本颜色、字体系列、边框、填充、边距等。
 
    屏幕快照
 
@@ -147,7 +147,7 @@ ht-degree: 15%
 
 1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;选项卡中，单击&#x200B;**[!UICONTROL Browse]**&#x200B;以从资源中选择图像文件，或单击&#x200B;**[!UICONTROL Import media]**&#x200B;以将资源上传到Adobe Experience Manager Assets。
 
-   要了解有关[!DNL Adobe Experience Manager Assets]的更多信息，请参阅[Adobe Experience Manager Assets文档](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=zh-Hans){target="_blank"}。
+   要了解有关[!DNL Adobe Experience Manager Assets]的更多信息，请参阅[Adobe Experience Manager Assets文档](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}。
 
    >[!NOTE]
    >
@@ -158,13 +158,13 @@ ht-degree: 15%
 1. 单击新添加的组件并设置图像属性：
 
    * **[!UICONTROL Image title]**&#x200B;允许您定义图像的标题。
-   * **[!UICONTROL Alt text]**&#x200B;允许您定义链接到图像的描述。 此选项对应于alt HTML属性。
+   * **[!UICONTROL Alt text]**&#x200B;允许您定义链接到图像的描述。 这对应于 alt HTML 属性。
 
    屏幕快照
 
 1. 您还可以选择&#x200B;**[!UICONTROL Find similar Stock photos]**。`[Learn more](../integrations/stock.md)`
 
-1. 在&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡中，调整其他样式属性，如边距、边框等。 或添加链接以将受众重定向到&#x200B;**[!UICONTROL Component settings]**&#x200B;窗格中的其他内容。
+1. 在&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡中，调整其他样式属性，如边距、边框等，或添加链接以将受众重定向到&#x200B;**[!UICONTROL Component settings]**&#x200B;窗格中的其他内容。
 
 ## 社交 {#social}
 
@@ -174,7 +174,7 @@ ht-degree: 15%
 
 1. 选择新添加的组件。
 
-1. 在&#x200B;**[!UICONTROL Social]**&#x200B;选项卡的&#x200B;**[!UICONTROL Settings]**&#x200B;字段中，选择要添加或删除的社交媒体。
+1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;选项卡的&#x200B;**[!UICONTROL Social]**&#x200B;字段中，选择要添加或删除的社交媒体。
 
    屏幕快照
 
@@ -186,7 +186,7 @@ ht-degree: 15%
 
 1. 如果需要，您还可以从Assets中更改每个社交媒体的图标。
 
-1. 从以下位置调整其他样式属性（例如样式、边距、边框等）：从&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡。
+1. 从&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡中调整其他样式属性，如样式、边距、边框等。
 
 ## 优惠决策 {#offer-decision}
 

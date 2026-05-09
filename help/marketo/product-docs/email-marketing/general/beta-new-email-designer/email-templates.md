@@ -2,13 +2,12 @@
 description: 在新的电子邮件Designer中了解电子邮件模板。 创建并重用模板，以便在Marketo Engage中更快地创建电子邮件。
 title: 电子邮件模板
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1728'
-ht-degree: 3%
+source-wordcount: '1769'
+ht-degree: 4%
 
 ---
 
@@ -72,11 +71,11 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->具体的 .zip 文件结构没有任何限制。但是，引用必须是相对的，并且适合.zip文件夹的树结构。
+>具体的 .zip 文件结构没有任何限制。 但是，引用必须是相对的，并且适合.zip文件夹的树结构。
 
 1. 在&#x200B;_设计您的模板_&#x200B;页面中，选择&#x200B;**导入HTML**。
 
-1. 拖放所需的 ip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
+1. 拖放所需的ip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
    ![](assets/import-your-html-1.png)
 
@@ -84,7 +83,7 @@ ht-degree: 3%
    >
    >上传HTML内容后，您的内容将处于兼容模式。 在此模式下，您只能个性化文本、添加链接或向内容添加资产。
 
-1. 要利用Email Designer内容组件，请单击&#x200B;**HTML converter**&#x200B;选项卡，然后单击&#x200B;**转换**。
+1. 若要利用Email Designer内容组件，请单击&#x200B;**HTML converter**&#x200B;选项卡，然后单击&#x200B;**转换**。
 
    >[!CAUTION]
    >
@@ -182,13 +181,13 @@ ht-degree: 3%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
    * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
@@ -225,7 +224,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >“回退文本”是适用于默认值的新编辑器术语。 示例： ``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
+   >“回退文本”是适用于默认值的新编辑器术语。 示例：``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
 
 1. 设置您的回退文本，然后单击&#x200B;**添加**。
 

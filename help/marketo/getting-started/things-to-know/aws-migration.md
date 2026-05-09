@@ -3,8 +3,8 @@ description: AWS迁移 — Marketo Engage文档 — 产品文档
 title: AWS迁移
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
+exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -46,6 +46,6 @@ ht-degree: 0%
 
 ## 更新和支持
 
-有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support)中的支持门户联系Adobe支持部门。
+有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/en/support)中的支持门户联系Adobe支持部门。
 
 要添加的：面板/数据中心详细信息

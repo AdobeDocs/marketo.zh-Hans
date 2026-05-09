@@ -2,10 +2,9 @@
 description: 了解新电子邮件Designer中的电子邮件创作。 在Marketo Engage中创建、个性化和预览电子邮件。
 title: 电子邮件创作
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '1531'
 ht-degree: 5%
@@ -188,13 +187,13 @@ ht-degree: 5%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
    * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
@@ -315,9 +314,9 @@ ht-degree: 5%
 
 在新编辑器中创建电子邮件后，您可以在智能营销活动和/或智能列表中引用该电子邮件，就像您在处理任何其他电子邮件时所做的那样。
 
-* 按照常规步骤[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，在智能列表中引用它。
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，[在智能列表中引用它。
 
-* 按照常规步骤[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，在Smart Campaign中引用它。
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，[在Smart Campaign中引用它。
 
 >[!NOTE]
 >

@@ -2,10 +2,9 @@
 description: 了解如何设置从Veeva CRM到Marketo Engage的自定义对象同步。 在Admin中启用自定义对象，并在智能列表和触发器中使用它们。
 title: 自定义对象同步
 hide: true
-hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 4%

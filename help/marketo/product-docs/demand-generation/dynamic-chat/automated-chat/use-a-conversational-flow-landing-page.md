@@ -4,9 +4,9 @@ title: 使用对话式流量登陆页面
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->创建仅包含[会议预订](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)卡片的简单&#x200B;**对话流**。
+>创建仅包含&#x200B;**会议预订**&#x200B;卡片的简单[对话流](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)。
 
 ## 引导式登录页面 {#guided-landing-pages}
 

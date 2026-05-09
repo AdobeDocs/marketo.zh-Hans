@@ -2,10 +2,9 @@
 description: 了解如何在Marketo活动项目中设置活动目标。 定义成功量度并跟踪实现事件目标的进度。
 title: 设置事件目标
 hide: true
-hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 7%

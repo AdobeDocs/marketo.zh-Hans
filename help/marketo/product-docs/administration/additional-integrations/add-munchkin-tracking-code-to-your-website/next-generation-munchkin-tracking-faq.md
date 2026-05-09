@@ -5,8 +5,7 @@ title: 下一代 [!DNL Munchkin] 跟踪常见问题解答
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-hidefromtoc: true
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '705'
 ht-degree: 0%
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 # 下一代[!DNL Munchkin]跟踪常见问题解答 {#next-generation-munchkin-tracking-faq}
 
-Marketo is rolling out next-generation web tracking technology in phases.
+Marketo将分阶段推出新一代Web跟踪技术。
 
 以下是需要了解的最重要事项：
 
@@ -25,7 +24,7 @@ Marketo is rolling out next-generation web tracking technology in phases.
 
 ## 我的Marketo订阅何时将使用[!DNL Munchkin] V2？ {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
-确切日期尚不可用。 Check this page for updates.
+确切日期尚不可用。 查看此页面以了解更新。
 
 ## 我是否需要对我网站上的[!DNL Munchkin]跟踪进行任何更改？ {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
@@ -37,7 +36,7 @@ Marketo is rolling out next-generation web tracking technology in phases.
 
 ## 为什么Marketo从智能列表中移除“是匿名的”筛选器？ {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
-Marketo changed how anonymous people interact with Smart Campaigns. 以前，他们像知名人士一样，参加一场聪明的竞选。 “是匿名的”过滤器用于指定仅已知或仅匿名人员流经营销活动。
+Marketo更改了匿名人员与Smart Campaigns的交互方式。 以前，他们像知名人士一样，参加一场聪明的竞选。 “是匿名的”过滤器用于指定仅已知或仅匿名人员流经营销活动。
 
 使用[!DNL Munchkin] V2时，Marketo将继续跟踪所有匿名活动；但是，您无法再对匿名人员应用筛选器。 在转化时（此人在Marketo中成为已知人时），该人员匿名时发生的所有活动都将附加到人员活动日志中，并且在此时这些活动会流经他们符合条件的营销活动。
 
@@ -45,36 +44,36 @@ Marketo changed how anonymous people interact with Smart Campaigns. 以前，他
 
 >[!NOTE]
 >
->**触发器**：访问网页，网页为定价页面&#x200B;>**Flow**: Change Score +10 and Interesting Moment >**Web**: Viewed Pricing Page
+>**触发器**：访问网页，网页为定价页面&#x200B;>**流量**：更改得分+10和有趣的时刻&#x200B;>**Web**：已查看定价页
 >
->With [!DNL Munchkin] V2, if an anonymous person visits the pricing page, they do not enter the campaign immediately. At the time the anonymous person becomes known, Marketo runs this campaign on them. They will:
+>使用[!DNL Munchkin] V2时，如果匿名人员访问定价页面，则他们不会立即进入促销活动。 在匿名人士被曝光后，Marketo会针对他们开展这一营销活动。 他们将：
 >
->* Get a score of 10
+>* 获得10分
 >
->* Have the Web Page activity set to the right date (when they actually visited)
+>* 将网页活动设置为正确的日期（实际访问的时间）
 >
->* Have an Interesting Moment logged for them (with the date they actually visited the page, not when they became known)
+>* 为他们记录了一个有趣的时刻（包含他们实际访问页面的日期，而不是他们何时被外界知晓）
 >
->* Have a &quot;New Person&quot; activity logged, as it is today
+>* 像今天这样记录“新人员”活动
 
-## What happens to my Smart Lists that already have the &quot;Is Anonymous&quot; filter? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
+## 如果我的智能列表已有“Is Anonymous”筛选器，该怎么办？ {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 
-After the Winter &#39;16 Release, if you have old Smart Campaigns with a Smart List that has the &quot;Is Anonymous&quot; filter in it, one of two things will happen:
+在1616年冬季版本之后，如果您有旧智能营销活动，其智能列表中具有“Is Anonymous”筛选器，则将发生以下两种情况之一：
 
-1. If the Smart List has the filter &quot;Is Anonymous = False&quot;, then nothing will happen. It is ignored.
-1. If the Smart List has the filter &quot;Is Anonymous = True&quot;, this campaign will fail and a notification is sent.
+1. 如果智能列表具有过滤器“Is Anonymous = False”，则不会发生任何情况。 它将被忽略。
+1. 如果智能列表具有过滤器“Is Anonymous = True”，则此营销活动将失败并发送通知。
 
-## I have been using Marketo for a while. How do I know which of my campaigns use the &quot;Is Anonymous&quot; filter? {#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
+## 我使用Marketo已经有一段时间了。 如何知道我的哪些营销活动使用“是匿名的”过滤器？ {#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
 
-Before this change, Marketo sent several weekly notifications to your Notifications inbox with a list of Smart Lists, Smart Campaigns and Reports that use the &quot;Is Anonymous&quot; filter. These can help you identify where you are currently using this filter.
+在进行此项更改之前，Marketo会向您的“通知”收件箱发送多个每周通知，其中包含使用“匿名”过滤器的智能列表、智能营销活动和报表的列表。 这些功能可以帮助您识别当前使用此过滤器的位置。
 
-Review them and identify where you have &quot;Is Anonymous&quot; set to True, as these are the campaigns that are affected. Most times, this setting is used for some kind of scoring. See the example above to understand how these campaigns will work now.
+查看这些规则并识别在何处将“匿名”设置为“真”，因为这些是受影响的营销活动。 大多数情况下，此设置用于某种类型的评分。 请参阅上面的示例，以了解这些营销活动现在将如何工作。
 
-## I would like more detailed documentation. Where can I find it? {#id-like-more-detailed-documentation-where-can-i-find-it}
+## 我想要更详细的文档。 我可以在哪里找到它？ {#id-like-more-detailed-documentation-where-can-i-find-it}
 
-Check out these links:
+查看以下链接：
 
-[Anonymous Lead Upgrades Overview](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
+[匿名潜在客户升级概述](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
 [匿名潜在客户升级 — Marketo UI中的更改](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
@@ -90,4 +89,4 @@ Check out these links:
 
 ## 我有更多问题！ 怎样才能得到他们的答复？ {#i-have-more-questions-how-do-i-get-them-answered}
 
-访问[Marketo社区](https://experienceleaguecommunities.adobe.com/?profile.language=zh-Hans){target="_blank"}。 您还可以联系Marketo支持部门。 他们很高兴回答您的问题。
+访问[Marketo社区](https://experienceleaguecommunities.adobe.com/){target="_blank"}。 您还可以联系Marketo支持部门。 他们很高兴回答您的问题。

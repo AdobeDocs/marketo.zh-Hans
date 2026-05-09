@@ -2,13 +2,12 @@
 description: 了解如何将图像和文件添加到Marketo Design Studio。 在营销活动和登陆页面中上传、组织和使用资源。
 title: 新增添加图像文档
 hide: true
-hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 13%
+source-wordcount: '263'
+ht-degree: 14%
 
 ---
 
@@ -46,7 +45,7 @@ ht-degree: 13%
 
 文本
 
-1. 按照以上[中的步骤1和2 &#x200B;](#upload-image-or-file)操作。
+1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
 
 1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 
@@ -68,7 +67,7 @@ PICC
 
 文本
 
-1. 按照以上[中的步骤1和2 &#x200B;](#upload-image-or-file)操作。
+1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
 
 1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 
@@ -98,7 +97,7 @@ PICC
 
 文本
 
-1. 按照以上[中的步骤1和2 &#x200B;](#upload-image-or-file)操作。
+1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
 
 1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 

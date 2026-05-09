@@ -4,9 +4,8 @@ description: 了解如何在Marketo中将视频添加到自由格式登陆页面
 title: 向自由格式登录页面添加视频
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
-hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 7%

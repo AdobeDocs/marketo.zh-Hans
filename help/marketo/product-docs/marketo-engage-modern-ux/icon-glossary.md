@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '264'
 ht-degree: 85%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 85%
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
-   <td>帐户智能列表</td>
+   <td>帐户 Smart List</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
@@ -43,17 +43,17 @@ ht-degree: 85%
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
    <td><img src="assets/default-program.png"></td>
-   <td>默认项目</td>
+   <td>默认程序</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email.png"></td>
    <td><img src="assets/email.png"></td>
-   <td>电子邮件</td>
+   <td>电子邮件地址</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
    <td><img src="assets/email-program.png"></td>
-   <td>电子邮件项目</td>
+   <td>电子邮件程序</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-template.png"></td>
@@ -63,12 +63,12 @@ ht-degree: 85%
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td>
    <td><img src="assets/engagement-program.png"></td>
-   <td>参与项目</td>
+   <td>参与计划</td>
   </tr>
   <tr>
    <td><img src="assets/classic-event-program.png"></td>
    <td><img src="assets/event-program.png"></td>
-   <td>活动项目</td>
+   <td>活动计划</td>
   </tr>
   <tr>
    <td><img src="assets/classic-executable-campaign.png"></td>
@@ -178,7 +178,7 @@ ht-degree: 85%
   <tr>
    <td><img src="assets/classic-smart-list.png"></td>
    <td><img src="assets/smart-list.png"></td>
-   <td>智能列表</td>
+   <td>Smart List</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
@@ -297,7 +297,7 @@ ht-degree: 85%
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/active.png"></td>
-   <td>启用</td>
+   <td>活跃</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-is-requested.png"></td>
@@ -307,7 +307,7 @@ ht-degree: 85%
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/inactive.png"></td>
-   <td>停用</td>
+   <td>不活跃</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
@@ -398,7 +398,7 @@ ht-degree: 85%
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
-   <td>已计划</td>
+   <td>已安排</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td>

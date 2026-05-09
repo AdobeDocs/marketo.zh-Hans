@@ -2,10 +2,9 @@
 description: 了解Sales Insight操作中的人员详细信息视图。 查看潜在客户或联系人的联系信息、活动历史记录和快速操作。
 title: 人员详情视图
 hide: true
-hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 3%

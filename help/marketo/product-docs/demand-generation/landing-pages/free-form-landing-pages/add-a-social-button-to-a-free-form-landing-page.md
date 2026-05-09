@@ -4,9 +4,8 @@ description: 了解如何在Marketo中将社交按钮添加到自由表单登陆
 title: 向自由格式登录页面添加社交按钮
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
-hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 9%

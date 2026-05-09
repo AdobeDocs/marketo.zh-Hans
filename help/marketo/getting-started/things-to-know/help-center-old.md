@@ -4,16 +4,16 @@ title: 帮助中心
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 84%
+source-wordcount: '160'
+ht-degree: 85%
 
 ---
 
 # 帮助中心 {#help-center}
 
-Adobe Marketo Engage 中的帮助中心是获取支持的集中入口。除了链接到各种资源（如[产品文档](/help/marketo/home.md){target="_blank"}、[发行信息](/help/marketo/release-notes/current.md){target="_blank"}、[Marketing Nation Community](https://nation.marketo.com/){target="_blank"}）外，您还可以根据不同的使用经验等级访问有用的产品内操作指南。
+Adobe Marketo Engage 中的帮助中心是获取支持的集中入口。 除了链接到各种资源（如[产品文档](/help/marketo/home.md){target="_blank"}、[发行信息](/help/marketo/release-notes/current.md){target="_blank"}、[Marketing Nation Community](https://nation.marketo.com/){target="_blank"}）外，您还可以根据不同的使用经验等级访问有用的产品内操作指南。
 
 ## 如何访问 {#how-to-access}
 

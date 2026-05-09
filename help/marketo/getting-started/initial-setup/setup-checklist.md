@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 1. 请求IT部门为您的登陆页面CNAME创建DNS记录
 1. 完成后，在Marketo中设置登陆页面域名
 
-## 确保电子邮件可投放性 {#ensure-email-deliverability}
+## 确保电子邮件投递成功率 {#ensure-email-deliverability}
 
 1. 为品牌跟踪链接选择电子邮件CNAME
 1. 请求IT为您的电子邮件CNAME设置DNS记录
-1. 要求IT允许列表Marketo
+1. 要求ITMarketo
 1. 在[!UICONTROL Admin]区域中设置DKIM和SPF
 1. 为`[FromDomain1]`设置MX
 1. 使用电子邮件CNAME完成后，在Marketo中设置您的电子邮件CNAME

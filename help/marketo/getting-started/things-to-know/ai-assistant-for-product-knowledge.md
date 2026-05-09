@@ -3,12 +3,11 @@ description: 产品知识的AI助手 — Marketo Engage文档 — 产品文档
 title: 产品知识AI助手
 feature: Getting Started
 hide: true
-hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
@@ -42,4 +41,4 @@ ht-degree: 0%
 
 在大约一分钟内，了解用于产品知识的AI助手的工作原理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480125?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
