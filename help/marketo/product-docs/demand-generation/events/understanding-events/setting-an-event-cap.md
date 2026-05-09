@@ -2,10 +2,9 @@
 description: 了解如何在Marketo中设置事件上限。 限制您的活动计划的注册者或出席者数量。
 title: 设置事件上限
 hide: true
-hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 5%

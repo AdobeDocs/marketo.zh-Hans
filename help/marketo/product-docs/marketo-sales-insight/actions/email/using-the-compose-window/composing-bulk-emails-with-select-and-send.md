@@ -2,12 +2,11 @@
 description: 了解如何使用“选择并发送”来撰写和发送批量电子邮件。 从“人员”页面中选择联系人并大规模发送个性化电子邮件。
 title: 使用选择并发送功能撰写批量电子邮件
 hide: true
-hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '400'
 ht-degree: 3%
 
 ---

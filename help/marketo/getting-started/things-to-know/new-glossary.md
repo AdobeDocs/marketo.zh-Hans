@@ -4,8 +4,8 @@ short-description: 了解 Marketo Engage 术语及其定义，以帮助您快速
 title: Marketo Engage 术语表
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: fbb3747227eca8f47eae43c8fbf02ef2ee702978
+exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '6168'
 ht-degree: 62%
@@ -557,7 +557,7 @@ ht-degree: 62%
    <td colspan="1">一种本机Marketo Engage功能，无需第三方<strong>活动合作伙伴</strong>集成，即可直接在平台内举办网络研讨会。 注册者和与会者数据会自动同步到Marketo <strong>数据库</strong>。</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>有趣的时刻</strong></a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>重要时刻</strong></a></td>
    <td><p>在<strong>Marketo Sales Insight</strong>中，您认为具有特定关联性的事件（例如，当有人访问您网站上的特定页面，单击电子邮件中的特定链接时，等等） 您希望销售团队了解的信息。</p></td>
   </tr>
   <tr>

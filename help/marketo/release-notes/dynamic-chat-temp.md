@@ -3,18 +3,17 @@ description: Dynamic Chat 发行说明 - Marketo 文档 - 产品文档
 title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 hide: true
-hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 68%
+source-wordcount: '933'
+ht-degree: 66%
 
 ---
 
 # Dynamic Chat 发行说明 {#dynamic-chat-release}
 
-Adobe Dynamic Chat 发布采用持续交付模式，使功能部署更具可扩展性。有时一个月内会发布多个版本，请定期查看以获取最新信息。
+Adobe Dynamic Chat 发布采用持续交付模式，使功能部署更具可扩展性。 有时一个月内会发布多个版本，请定期查看以获取最新信息。
 
 Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/release-notes/current.md){target="_blank"}。
 
@@ -22,7 +21,7 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 ### 路由逻辑改造 {#routing-logic-revamp}
 
-我们改进了 Dynamic Chat 中的实时聊天路由逻辑，以确保在所有路由类型（帐户、自定义、团队和轮询）中提供更智能且可预测的互动行为。新的逻辑简化了路由流程，并改进了在代理不可用时的回退处理。
+我们改进了 Dynamic Chat 中的实时聊天路由逻辑，以确保在所有路由类型（帐户、自定义、团队和轮询）中提供更智能且可预测的互动行为。 新的逻辑简化了路由流程，并改进了在代理不可用时的回退处理。
 
 #### 路由行为的主要改进
 
@@ -63,8 +62,8 @@ _&#x200B;**自定义/团队路由**&#x200B;_
 
 如果两位代理均未参与：
 
-* 系统将显示首次尝试联系的代理日程表（如果已启用），
--或-
+* 系统将显示第一个尝试的座席日历（如果已启用），
+ — 或 — 
 * 显示默认回退消息。
 
 _&#x200B;**轮询路由**&#x200B;_
@@ -93,8 +92,8 @@ _&#x200B;**访客体验流**&#x200B;_
 
 * 如果没有成功参与，则应用回退逻辑：
 
-   * 显示日程表回退（如果已启用）
--或-
+   * 日历回退（如果启用），
+ — 或 — 
    * 显示默认消息。
 
 轮询回退仅在主要路由规则未找到任何符合条件的代理时才会考虑，而不是在单个代理未响应时触发。

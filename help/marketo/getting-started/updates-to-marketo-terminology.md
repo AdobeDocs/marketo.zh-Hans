@@ -4,18 +4,18 @@ description: Marketo 术语更新 - Marketo 文档 - 产品文档
 hide: true
 hidefromtoc: true
 title: Marketo 术语更新
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '328'
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+workflow-type: tm+mt
+source-wordcount: '359'
 ht-degree: 100%
 
 ---
 
 # Marketo 术语更新 {#updates-to-marketo-terminology}
 
-我们正在对平台进行一些更改，这将影响部分功能或项目的称呼方式。如果您在 2016 年 3 月之后启用了新的 Marketo 实例，或您的公司在 2016 年 7 月之后完成续订，那么您现在可能已经看到新的术语。
+我们正在对平台进行一些更改，这将影响部分功能或项目的称呼方式。 如果您在 2016 年 3 月之后启用了新的 Marketo 实例，或您的公司在 2016 年 7 月之后完成续订，那么您现在可能已经看到新的术语。
 
-虽然您可能会在 Marketo 文档中看到不同的术语，但请放心，所有文章都会尽快更新以反映这些变化。所有操作说明保持不变。
+虽然您可能会在 Marketo 文档中看到不同的术语，但请放心，所有文章都会尽快更新以反映这些变化。 所有操作说明保持不变。
 
 那么，具体有哪些变化？
 
@@ -75,15 +75,15 @@ ht-degree: 100%
 
 ## 令牌 {#tokens}
 
-包含“潜在客户”（Lead）一词的令牌&#x200B;**不会更改**。对于由此造成的混淆，我们深表歉意；但如果将所有令牌更改为新术语，将会导致大量正在使用的令牌失效。因此，您仍会看到类似“`{{lead.First Name}}`”的令牌。没有特定于“人员”（Person）的令牌。
+包含“潜在客户”（Lead）一词的令牌&#x200B;**不会更改**。 对于由此造成的混淆，我们深表歉意；但如果将所有令牌更改为新术语，将会导致大量正在使用的令牌失效。 因此，您仍会看到类似“`{{lead.First Name}}`”的令牌。 没有特定于“人员”（Person）的令牌。
 
 >[!NOTE]
 >
->*有一个*&#x200B;名为“Person Notes”的令牌，但该令牌一直都存在。它通常用于 CRM 中的描述字段（如果使用的话）。
+>*有一个*&#x200B;名为“Person Notes”的令牌，但该令牌一直都存在。 它通常用于 CRM 中的描述字段（如果使用的话）。
 
 ## 字段管理 {#field-management}
 
-包含“潜在客户”（Lead）的字段已被替换为“人员”（Person），或直接移除了“潜在客户”（Lead）一词。但一个显著的例外是“潜在客户所有者”（Lead Owner）字段。它现在被称为“销售所有者”（Sales Owner）。
+包含“潜在客户”（Lead）的字段已被替换为“人员”（Person），或直接移除了“潜在客户”（Lead）一词。 但一个显著的例外是“潜在客户所有者”（Lead Owner）字段。 它现在被称为“销售所有者”（Sales Owner）。
 
 <table>
  <colgroup>

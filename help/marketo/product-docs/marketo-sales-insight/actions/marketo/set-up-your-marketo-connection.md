@@ -2,10 +2,9 @@
 description: 了解如何为销售Insight操作设置Marketo连接。 从Marketo管理员连接以启用实例的操作。
 title: 设置您的 Marketo 连接
 hide: true
-hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 5%
@@ -16,7 +15,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->配置[!DNL Sales Insight Actions]时，Marketo将自动将您的凭据发送到Actions，并将您的实例连接到Marketo。 只有在配置&#x200B;**实例后未看到已建立的连接**&#x200B;时，才需要[!DNL Sales Connect]执行此步骤。 如果连接已建立，您将在Marketo管理员设置页面上看到输入的凭据，以及断开连接的选项。
+>配置[!DNL Sales Insight Actions]时，Marketo将自动将您的凭据发送到Actions，并将您的实例连接到Marketo。 只有在配置[!DNL Sales Connect]实例后未看到已建立的连接&#x200B;**时，才需要**&#x200B;执行此步骤。 如果连接已建立，您将在Marketo管理员设置页面上看到输入的凭据，以及断开连接的选项。
 
 ## 在将[!DNL Sales Connect]与Marketo连接之前获取凭据 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 

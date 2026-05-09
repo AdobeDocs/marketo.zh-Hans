@@ -4,10 +4,10 @@ title: 将 Vibes 添加为 LaunchPoint 服务
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 12%
+source-wordcount: '144'
+ht-degree: 11%
 
 ---
 

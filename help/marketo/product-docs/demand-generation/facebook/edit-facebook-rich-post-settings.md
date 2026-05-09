@@ -4,11 +4,10 @@ description: 了解如何在Marketo中编辑Facebook富帖子设置。 自定义
 title: 编辑 Facebook 富文本帖设置
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
-hidefromtoc: true
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -21,13 +20,13 @@ ht-degree: 1%
 >
 >并非所有Marketo Engage用户都已购买此功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
-Marketo _社交应用程序_&#x200B;允许您的潜在客户与其在Facebook、Twitter等社交网络上的连接共享您的登陆页面。 Facebook OpenGraph标记（OG标记）允许您指定将登陆页面中的哪些信息包含在Facebook帖子中。
+Marketo _社交应用程序_&#x200B;允许您的潜在客户与其在Facebook、Twitter等社交网络上的连接共享您的登陆页面。Facebook OpenGraph标记（OG标记）允许您指定将登陆页面中的哪些信息包含在Facebook帖子中。
 
 ## 选择富发布选项 {#select-rich-post-options}
 
 您可以指定要在由共享从登陆页面生成的[!DNL Facebook]个丰富帖子中使用的页面信息类型。
 
-1. 在编辑器中为_&#x200B;**[!UICONTROL Facebook Message]**&#x200B;视频或社交按钮选择&#x200B;_[!DNL YouTube_]_。
+1. 在编辑器中为_&#x200B;_[!DNL YouTube_]_&#x200B;视频或社交按钮选择&#x200B;**[!UICONTROL Facebook Message]**。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

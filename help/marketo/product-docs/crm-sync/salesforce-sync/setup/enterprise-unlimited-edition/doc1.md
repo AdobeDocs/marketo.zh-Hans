@@ -4,7 +4,7 @@ title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 1%
