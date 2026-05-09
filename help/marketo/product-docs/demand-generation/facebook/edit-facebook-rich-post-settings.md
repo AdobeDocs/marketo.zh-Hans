@@ -26,7 +26,7 @@ Marketo _社交应用程序_&#x200B;允许您的潜在客户与其在Facebook、
 
 您可以指定要在由共享从登陆页面生成的[!DNL Facebook]个丰富帖子中使用的页面信息类型。
 
-1. 在编辑器中为__[!DNL YouTube_]_视频或社交按钮选择&#x200B;**[!UICONTROL Facebook Message]**。
+1. 在编辑器中为_&#x200B;_[!DNL YouTube_]_&#x200B;视频或社交按钮选择&#x200B;**[!UICONTROL Facebook Message]**。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
