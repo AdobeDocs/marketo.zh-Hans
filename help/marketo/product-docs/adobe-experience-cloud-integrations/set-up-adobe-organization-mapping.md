@@ -45,7 +45,7 @@ ht-degree: 5%
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. 输入您的[Adobe IMS组织ID](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}，然后单击&#x200B;**[!UICONTROL OK]**。
+1. 输入您的[Adobe IMS组织ID](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans){target="_blank"}，然后单击&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 模板 8A {#template-8a}
 
-右键单击以[下载模板8A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
+右键单击以[下载模板8A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html?lang=zh-Hans)
 
 ![](assets/image2015-7-29-9-3a53-3a6.png)
 
@@ -34,4 +34,4 @@ ht-degree: 5%
 
 **右键单击以下内容以下载此模板：**
 
-[模板8A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
+[模板8A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html?lang=zh-Hans)

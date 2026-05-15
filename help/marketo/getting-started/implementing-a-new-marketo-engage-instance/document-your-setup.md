@@ -37,8 +37,8 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>列表导入</td>
-    <td><li>收集将从其中提取记录的数据源列表，以<a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">将其导入Marketo Engage</a>。</li>
-    <li>如果要从多个数据源导入，请考虑使用主列表或在人员记录上创建<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">自定义字段</a>来表示数据源。</li></td>
+    <td><li>收集将从其中提取记录的数据源列表，以<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">将其导入Marketo Engage</a>。</li>
+    <li>如果要从多个数据源导入，请考虑使用主列表或在人员记录上创建<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">自定义字段</a>来表示数据源。</li></td>
   </tr>
   <tr>
     <td>数据库集成</td>
@@ -74,11 +74,11 @@ ht-degree: 4%
   </tr>
   <tr>
     <td>组织</td>
-    <td><li>记录商定的文件夹结构、程序、资产等的标准命名惯例以及做出决策的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
+    <td><li>记录商定的文件夹结构、程序、资产等的标准命名惯例以及做出决策的原因。 <a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>创建一个更改日志，您可以在其中记录实例中的更改内容以及进行修改的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
+    <td><li>创建一个更改日志，您可以在其中记录实例中的更改内容以及进行修改的原因。 <a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
   </tr>
   <tr>
     <td>战术手册</td>

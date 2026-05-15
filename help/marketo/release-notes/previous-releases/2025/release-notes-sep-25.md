@@ -46,7 +46,7 @@ ht-degree: 0%
   <tr>
    <td><strong>按需网络研讨会活动保留</strong>：交互式网络研讨会用户现在拥有超过30天的按需网络研讨会仪表板数据（以前，从网络研讨会开始算起最多只能使用30天）。</td>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手动同步</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手动同步</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -98,16 +98,16 @@ ht-degree: 0%
 
 * **在新电子邮件Designer中切换回Velocity脚本**： Adobe Marketo Engage在过去的6月为新电子邮件Designer发布了一项名为&#x200B;_条件内容_&#x200B;的功能。 该功能由Handlebar脚本而不是Velocity脚本提供支持，旨在为您的动态内容提供更大的灵活性。 但是，当我们发现它导致某些令牌无法正确解析时，我们决定暂时禁用它。 [了解更多](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
-* **Marketo Engage标识生命周期结束**： 2025年8月，Adobe开始逐步停止对Marketo Engage标识的支持（通过`login.marketo.com`登录）。 要防止对Marketo Engage的访问中断，您必须不迟于2025年9月30日过渡到[Adobe身份](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
+* **Marketo Engage标识生命周期结束**： 2025年8月，Adobe开始逐步停止对Marketo Engage标识的支持（通过`login.marketo.com`登录）。 要防止对Marketo Engage的访问中断，您必须不迟于2025年9月30日过渡到[Adobe身份](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
-   * _IP限制弃用_：对[基于IP限制Marketo登录的支持](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}已于2025年7月30日结束。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中针对Adobe Identity的基于位置的新访问控制功能即将推出。
+   * _IP限制弃用_：对[基于IP限制Marketo登录的支持](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}已于2025年7月30日结束。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中针对Adobe Identity的基于位置的新访问控制功能即将推出。
 
-   * _单点登录(SSO)弃用_：对[Marketo标识SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支持已于2025年7月30日结束。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中Adobe Identity的单一登录必须单独配置。 有关设置步骤，请参阅[设置标识和单点登录](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
+   * _单点登录(SSO)弃用_：对[Marketo标识SSO](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支持已于2025年7月30日结束。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中Adobe Identity的单一登录必须单独配置。 有关设置步骤，请参阅[设置标识和单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
 * **弃用&#x200B;_转发给Friend_功能**：2025年9月29日，Marketo Engage 2.0电子邮件（旧版电子邮件编辑器）中的&#x200B;_转发给Friend_&#x200B;功能将完全对所有订阅弃用。 这会影响已发送或将使用该令牌发送的电子邮件中的“转发给朋友”令牌和“转发给朋友”链接。 [了解详情](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年3月31日之后不可用。 所有新的和现有的集成都应使用“授权”标头[来验证REST API调用，如此处](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}所述。
+* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年3月31日之后不可用。 所有新的和现有的集成都应使用“授权”标头[来验证REST API调用，如此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}所述。
 
-* **SOAP API弃用**：对Marketo SOAP API的支持将于2026年3月31日终止。 使用SOAP API功能的服务应迁移到[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API弃用**：对Marketo SOAP API的支持将于2026年3月31日终止。 使用SOAP API功能的服务应迁移到[REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
 * **弃用旧版商机活动数据流**：在2026年6月底之前，用户必须从旧版商机活动数据流迁移到新的Adobe I/O商机活动数据流(LADS)。 此弃用仅影响少数在与Adobe I/O Events集成之前载入潜在客户活动数据流的用户。 如果您是新数据流用户，或者已经通过I/O事件管理潜在客户活动数据流，这对您没有任何影响。 有关迁移详细信息，请参阅[本文](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"}。

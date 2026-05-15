@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # 模板 5E {#template-5e}
 
-右键单击以[下载模板5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
+右键单击以[下载模板5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=zh-Hans)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -34,4 +34,4 @@ ht-degree: 4%
 
 **右键单击以下内容以下载此模板：**
 
-[模板5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
+[模板5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=zh-Hans)
