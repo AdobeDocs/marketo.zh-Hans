@@ -1,13 +1,22 @@
 ---
 unique-page-id: 12979008
 description: 了解绩效分析贡献视图，该视图通过参与、管道和收入指标评估营销对收入的贡献。 使用圆环图和条形图查看渠道和程序性能。
-title: 性能洞察贡献概述
+title: 性能分析贡献概述
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/eHBePqw7Qxo3M7cTu44evB5dnv1Jr-8JwfpyzsaIpGM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 1%
+source-wordcount: 366
+ht-degree: 0%
 
 ---
 
@@ -17,13 +26,9 @@ ht-degree: 1%
 
 ![](assets/one-1.png)
 
-选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;仪表板中的&#x200B;_[!UICONTROL Revenue]_&#x200B;赢得的机会。
+选择要作为查看性能的依据的度量。 在此示例中，我们将查看通过&#x200B;_[!UICONTROL Revenue]_&#x200B;仪表板中的&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;赢得的机会。
 
 ![](assets/2.png)
-
->[!NOTE]
->
->了解[[!UICONTROL First-Touch]和[!UICONTROL Multi-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
 
 选择您希望查看量度的时段。 在此示例中，我们查看的是当前年份（年初至今）。
 

@@ -2,9 +2,12 @@
 description: 了解“参与度图”选项卡及其触发器、过滤器和流量卡。 单击卡片可查看详细信息并编辑营销活动元素。
 title: 互动地图选项卡
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/fjlcx5-vMP8JVUSlhXPontUVlrHVMLeKfVOxv-VcSQw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: 968
 ht-degree: 0%
 
 ---

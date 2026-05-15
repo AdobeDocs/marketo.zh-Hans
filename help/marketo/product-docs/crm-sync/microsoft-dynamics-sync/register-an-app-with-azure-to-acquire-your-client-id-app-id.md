@@ -4,9 +4,12 @@ description: 了解如何在Azure中注册应用程序，以获取用于Dynamics
 title: 在 Azure 上注册应用程序以获取客户端 ID/应用程序 ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/d3mD6KvWIa2q6EWknuPJvnn5oLO-P6hd1zaDxDYuVJg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: 318
 ht-degree: 8%
 
 ---

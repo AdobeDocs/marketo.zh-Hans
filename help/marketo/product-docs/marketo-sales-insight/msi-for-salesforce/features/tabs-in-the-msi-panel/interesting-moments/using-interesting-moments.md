@@ -4,9 +4,16 @@ description: 了解如何在MSI面板中使用有趣的时刻。 查看并解释
 title: 使用关键时刻
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: 427
 ht-degree: 1%
 
 ---
@@ -65,13 +72,13 @@ ht-degree: 1%
 
 ## 在[!DNL Salesforce]中，有趣的时刻是什么样的？  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-在您[安装 [!DNL Marketo Sales Insight] 应用程序](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)后，潜在客户、联系人、客户或机会页面上将显示有趣的时刻。 它们还显示在潜在客户信息源[!DNL Sales Insight]和观察列表的[!DNL Best Bets]仪表板中。
+在您[安装 [!DNL Marketo Sales Insight] 应用程序](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)后，潜在客户、联系人、客户或机会页面上将显示有趣的时刻。 它们还显示在潜在客户信息源[!DNL Best Bets]和观察列表的[!DNL Sales Insight]仪表板中。
 
 ![](assets/using-interesting-moments-6.png)
 
 ## 在[!DNL Salesforce1]中，有趣的时刻是什么样的？ {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-安装或更新[!DNL Marketo Sales Insight]的[!DNL Salesforce1]后，潜在客户的相关链接下将显示有趣的时刻。
+安装或更新[!DNL Salesforce1]的[!DNL Marketo Sales Insight]后，潜在客户的相关链接下将显示有趣的时刻。
 
 ![](assets/using-interesting-moments-7.png)
 

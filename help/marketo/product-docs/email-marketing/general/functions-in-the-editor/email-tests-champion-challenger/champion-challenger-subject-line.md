@@ -4,9 +4,12 @@ description: 了解如何运行冠军/挑战者主题行测试。 测试不同�
 title: 冠军/挑战者 — 主题行
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/CyptDxnnRX1bG8RvAXE-lpfEVoibAkdBFcmMZzDqfxM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: 282
 ht-degree: 2%
 
 ---
@@ -19,7 +22,7 @@ ht-degree: 2%
 >
 >[添加电子邮件冠军/挑战者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 在电子邮件测试编辑器中，从&#x200B;**[!UICONTROL Subject Line]**&#x200B;下拉列表中选择&#x200B;**[!UICONTROL Test Type]**。
+1. 在电子邮件测试编辑器中，从&#x200B;**[!UICONTROL Test Type]**&#x200B;下拉列表中选择&#x200B;**[!UICONTROL Subject Line]**。
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 

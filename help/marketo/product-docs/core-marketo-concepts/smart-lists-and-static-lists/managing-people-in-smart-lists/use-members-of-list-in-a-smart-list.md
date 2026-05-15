@@ -4,9 +4,12 @@ description: 了解如何在智能列表筛选器中使用列表的成员。 包
 title: 在智能列表中使用列表成员
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/jdDSap50wIaNp7YH9Z3vNA2tRFoPugU103HgmmMjFIM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: 139
 ht-degree: 11%
 
 ---

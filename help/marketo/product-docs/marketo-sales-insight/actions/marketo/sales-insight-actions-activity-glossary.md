@@ -3,9 +3,14 @@ description: 了解Sales Insight Actions活动类型和术语。 使用术语表
 title: Sales Insight Actions 活动术语表
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: 319
 ht-degree: 6%
 
 ---
@@ -32,7 +37,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>来源</td>
+  <td>源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Template ID]</td>
@@ -60,7 +65,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>来源</td>
+  <td>源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Template ID]</td>
@@ -91,7 +96,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>来源</td>
+  <td>源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Template ID]</td>
@@ -119,7 +124,7 @@ ht-degree: 6%
   <td>[!UICONTROL Received By]</td>
  </tr>
  <tr>
-  <td>来源</td>
+  <td>源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo Sales Person ID]</td>
@@ -144,7 +149,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sales Phone Number Called]</td>
  </tr>
  <tr>
-  <td>来源</td>
+  <td>源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Sales Call Duration]</td>
@@ -172,7 +177,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>来源</td>
+  <td>源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Sales Campaign ID]</td>
@@ -191,7 +196,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>来源</td>
+  <td>源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Sales Campaign ID]</td>

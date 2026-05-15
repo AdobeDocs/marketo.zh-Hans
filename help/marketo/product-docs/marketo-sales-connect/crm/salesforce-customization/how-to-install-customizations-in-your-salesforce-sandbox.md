@@ -4,9 +4,12 @@ description: 了解如何在Salesforce沙盒中安装Sales Connect自定义项�
 title: 如何在 Salesforce 沙盒中安装自定义设置
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/lNjuNMNvreP-tfE8rFh8vjPcG8A-ISDmA-0v6X3t9lQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: 76
 ht-degree: 26%
 
 ---

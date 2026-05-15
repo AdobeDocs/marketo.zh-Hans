@@ -3,9 +3,12 @@ description: 了解销售电子邮件的电子邮件跟踪。 了解如何跟踪
 title: 电子邮件跟踪概述
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/y1dxCUs89NkZe9B7UHrWUUchy8BXlCtvg6OxRmqaKD8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: 495
 ht-degree: 5%
 
 ---

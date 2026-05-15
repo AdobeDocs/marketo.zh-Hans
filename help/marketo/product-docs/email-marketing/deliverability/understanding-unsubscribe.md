@@ -4,9 +4,14 @@ description: 了解Marketo中的取消订阅类型（已取消订阅、营销已
 title: 了解取消订阅
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/zmsCI3a7GECVNiuFjtjqgDQsjelBoccugPeuzAF4c4k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: 238
 ht-degree: 4%
 
 ---
@@ -35,6 +40,6 @@ Marketo中实际上有多种不同类型的内置取消订阅。 它们全部由
 
 ## 已列入阻止列表 {#blocklisted}
 
-[将此用于竞争对手等人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)。 您希望接收&#x200B;**no**&#x200B;电子邮件的任何人 — 运营、营销等。 他们什么也得不到！
+[将此用于竞争对手等人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)。 您希望接收&#x200B;**no**&#x200B;电子邮件的任何人 — 运营、营销等。他们什么也得不到！
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

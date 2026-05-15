@@ -3,10 +3,32 @@ unique-page-id: 17727823
 description: 发行说明 — 2019年冬季 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年冬
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/xMIwN2KpUQKqzGZmjaX565vmPgrZuIfehd3kUpz3nB8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1050'
-ht-degree: 0%
+source-wordcount: 1123
+ht-degree: 1%
 
 ---
 
@@ -22,11 +44,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Microsoft正在推送所有在线客户升级到[!DNL Microsoft Dynamics]的最新版本。 如果您正在将Marketo实例与[!DNL Dynamics Online]集成，则需要在[2019年1月31日](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)之前&#x200B;**升级到Marketo解决方案的最新版本**，以确保您的集成能够继续工作。
+>Microsoft正在推送所有在线客户升级到[!DNL Microsoft Dynamics]的最新版本。 如果您正在将Marketo实例与[!DNL Dynamics Online]集成，则需要在&#x200B;**2019年1月31日**&#x200B;之前[升级到Marketo解决方案的最新版本](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)，以确保您的集成能够继续工作。
 
 >[!NOTE]
 >
->Marketo正在将GoToWebinar的OAuth版本从1.0升级到2.0。对OAuth 1.0的支持将于2019年1月弃用。 如果您是GoTo网络研讨会客户，则需要在&#x200B;**2019年1月31日**&#x200B;之前通过LaunchPoint（在管理区域）重新验证您的登录，以确保您的集成继续工作。 有关详细信息，请参阅我们的[社区页面](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019)。
+>Marketo正在将GoToWebinar的OAuth版本从1.0升级到2.0。 对OAuth 1.0的支持将于2019年1月弃用。 如果您是GoTo网络研讨会客户，则需要在&#x200B;**2019年1月31日**&#x200B;之前通过LaunchPoint（在管理区域）重新验证您的登录，以确保您的集成继续工作。 有关详细信息，请参阅我们的[社区页面](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019)。
 
 ## 核心平台增强功能 {#core-platform-enhancements}
 
@@ -56,7 +78,7 @@ ht-degree: 0%
    * 通过允许管理员编辑订阅和团队，*团队管理*&#x200B;支持无缝的帐户设置过程。
    * *Salesforce管理设置*&#x200B;可帮助团队以前所未有的速度更轻松地设置SFDC同步。
 
-* 适用于&#x200B;**的[!DNL Windows]** OWA插件：通过一个加载项，Sales Engage将支持所有[!DNL Windows Office365]客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
+* 适用于&#x200B;[!DNL Windows]&#x200B;**的** OWA插件：通过一个加载项，Sales Engage将支持所有[!DNL Windows Office365]客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
 * **活动推送器**：将Sales Engage同步到核心Marketo平台，以利用实时营销见解。
 
 ## [!DNL Marketo Sky] {#marketo-sky}

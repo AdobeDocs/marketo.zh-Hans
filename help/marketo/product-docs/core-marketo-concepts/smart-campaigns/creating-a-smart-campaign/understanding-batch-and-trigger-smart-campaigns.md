@@ -4,9 +4,15 @@ description: 了解批量处理和触发智能营销活动。 了解何时使用
 title: 了解批处理和触发型智能营销活动
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/48wdmRPcrjaIavo4EQG3nkQNcUMH33tuISSqU2VouTM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: 273
 ht-degree: 5%
 
 ---

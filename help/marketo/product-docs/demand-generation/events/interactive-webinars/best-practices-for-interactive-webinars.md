@@ -3,9 +3,17 @@ description: 获取有关Marketo中交互式网络研讨会的最佳实践的帮
 title: 交互式网络研讨会最佳做法
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: 1759
 ht-degree: 0%
 
 ---
@@ -85,7 +93,7 @@ ht-degree: 0%
 
 * **Q&amp;A面板**：提交问题的参与者的姓名以及回答问题的主持人/演示者的姓名都可以隐藏。 取消选中“房间首选项”中“Q&amp;A Pod”部分下的隐私选项，即可实现此目的。
 
-* **聊天面板**：聊天面板是一个聊天区域，它不属于会话录制。 因此，如果您不希望聊天显示在录制中，请使用“聊天面板”而不是“聊天面板”。 [单击此处](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}了解有关使用聊天面板的更多信息。
+* **聊天面板**：聊天面板是一个聊天区域，它不属于会话录制。 因此，如果您不希望聊天显示在录制中，请使用“聊天面板”而不是“聊天面板”。 [单击此处](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}了解有关使用聊天面板的更多信息。
 
 * **私人聊天**：关闭私人聊天以防止参与者ping其他参与者。 可以通过取消选中“房间首选项”中“聊天”部分下的“允许参与者私下聊天”来实现此目的。
 

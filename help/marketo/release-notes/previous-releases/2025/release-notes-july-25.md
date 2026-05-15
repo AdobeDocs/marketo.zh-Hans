@@ -1,28 +1,41 @@
 ---
 description: 发行说明 — 2025年7月 — Marketo文档 — 产品文档
-title: 发行说明 - 2025 年 7 月
+title: 发行说明 — 2025年7月
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/wIsDclvCMFe7vmLbXB6gk5P1gL1hq-8IBePO5LJaddc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 97%
+source-wordcount: 830
+ht-degree: 0%
 
 ---
 
-# 发行说明：2025 年 7 月 {#release-notes-july-25}
+# 发行说明： 2025年7月 {#release-notes-july-25}
 
-以下是 2025 年 7 月版本中包含的所有功能。请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
+在下方，您会找到2025年7月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
-Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
+可以在此处[&#128279;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到特定于Adobe Dynamic Chat 的发行说明。
 
 >[!AVAILABILITY]
 >
->带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
+>以星号（![星号](assets/yellow-star.png)）表示的功能是付费加载项。 请联系您的Marketo Engage代表以了解更多信息。
 
-## 标准发布周期功能 {#standard-release-cycle-features}
+## 标准发行周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发布周期，将于 **2025 年 7 月 11 日**&#x200B;开始发布，并在接下来的数周内分阶段推出其余功能。功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2025年7月11日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 发行功能和日期可能会发生更改。 请检查每个功能旁边的状态信息。
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,9 +45,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 – GenStudio 集成</strong>：在电子邮件中集成 GenStudio for Performance Marketing，以提升效果营销效率并保持品牌一致性。</td>
+   <td><strong>电子邮件Designer - GenStudio集成</strong>：在电子邮件中集成GenStudio以进行性能营销，以提高营销效率并维护品牌一致性。</td>
    <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">GenStudio 与 Marketo Engage 的集成</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">适用于Marketo Engage的GenStudio集成</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -42,9 +55,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 – 自定义 CSS</strong>：在设计电子邮件时，您现在可以直接在电子邮件设计器中添加自定义 CSS。</td>
+   <td><strong>电子邮件Designer — 自定义CSS</strong>：在设计电子邮件时，您现在可以直接在Email Designer中添加自己的自定义CSS。</td>
    <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">为电子邮件内容添加自定义 CSS</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">向电子邮件内容添加自定义CSS</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,9 +65,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 – 使用 SpamAssassin 检测垃圾邮件</strong>：在 Marketo Engage 中使用 SpamAssassin，您可以测试电子邮件内容并查看其被 ISP/邮箱服务提供商标记为垃圾邮件的可能性。</td>
+   <td><strong>向Designer发送电子邮件 — 检测带有SpamAssassin的垃圾邮件</strong>：在Marketo Engage中使用SpamAssassin，您可以测试电子邮件内容并查看ISP/邮箱提供商将其标记为垃圾邮件的可能性。</td>
    <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">垃圾邮件报告</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">电子邮件垃圾邮件报告</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -62,17 +75,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 – 支持移动资产与删除项目</strong>：可在不同项目间快速移动电子邮件资产。您现在还可以删除包含新设计器电子邮件资产的项目。</td>
-   <td>已发布</td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>电子邮件设计器 - Firefox 支持</strong>：电子邮件设计器现已完全支持 Mozilla Firefox。为获得最佳体验，请始终保持浏览器为最新版本。</td>
+   <td><strong>电子邮件Designer — 支持移动Assets和程序删除</strong>：跨程序快速重新定位电子邮件资源。 您现在还可以删除包含新设计器电子邮件资源的程序。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -82,7 +85,17 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 – 从属性页面模拟内容</strong>：可直接在<i>电子邮件属性</i>页面模拟电子邮件资源内容，无需返回编辑界面。</td>
+   <td><strong>向Designer发送电子邮件 — Firefox支持</strong>： Mozilla Firefox现在完全支持向Designer发送电子邮件。 为了获得最佳体验，请始终使浏览器保持最新。</td>
+   <td>已发布</td>
+   <td>不适用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件Designer — 从属性页面模拟内容</strong>：从<i>电子邮件属性</i>模拟电子邮件资源的内容，无需返回编辑屏幕。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -92,7 +105,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 – 基于角色的资产访问控制</strong>：5 月版本中已为编辑、批准和删除权限引入了基于角色的访问控制（RBAC）。本版本新增了读取权限。</td>
+   <td><strong>电子邮件Designer - Assets基于角色的访问控制</strong>：在5月版本中，为编辑、批准和删除权限实施了基于角色的访问控制(RBAC)。 此版本现在提供读取权限。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -102,7 +115,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 - 编辑已发布电子邮件的属性</strong>：即使电子邮件已发布，仍可在<i>电子邮件属性</i>中进行编辑。</td>
+   <td><strong>电子邮件Designer — 编辑已发布电子邮件的电子邮件属性</strong>：在<i>电子邮件属性</i>中进行编辑，即使电子邮件已发布。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -112,7 +125,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件设计器 – 选择品牌域与域 IP 配置</strong>：现在可为每个电子邮件资产选择“品牌域”和“域 IP 配置”。</td>
+   <td><strong>向Designer发送电子邮件 — 选择“品牌化域”和“域IP配置”</strong>：您现在可以为每个电子邮件资源选择“品牌化域”和“域IP配置”。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -122,7 +135,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>REST API 错误代码通知更新</strong>：应用程序内通知中新增了两类 REST API 错误：606 – 超出最大速率限制，607 – 达到每日配额上限。</td>
+   <td><strong>REST API错误代码通知更新</strong>：在应用程序内通知中添加了另外两个REST API错误类： 606 — 超过最大速率限制，以及607 — 已达到每日配额。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -132,7 +145,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>在字段管理中显示项目成员标准字段</strong>：<i>字段管理</i>中现在可同时查看项目成员的标准字段和自定义字段。</td>
+   <td><strong>在字段管理中显示程序成员标准字段</strong>： <i>字段管理</i>中的标准和自定义程序成员字段现在均可见。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -142,7 +155,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>字段管理中的 REST API 名称</strong>：此更新使管理员无需导出列表即可查看 REST API 字段名称。</td>
+   <td><strong>字段管理中的REST API名称</strong>：此更新允许管理员查看REST API字段名称，而无需导出列表。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -152,7 +165,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>可查看 Munchkin Cookie 和 ECID</strong>：您现在可以在<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">人员详情页面的</a>“信息”选项卡中查看 Munchkin Cookie 和 ECID（Experience Cloud Identity）编号列表，从而减少对 API 调用获取此类信息的依赖。</td>
+   <td><strong>Munchkin Cookie和ECID可见</strong>：您现在可以在<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">人员详细信息页面</a>的_Info_选项卡中看到Munchkin Cookie和ECID （Experience Cloud标识）编号列表，从而减少依赖于API调用以获取该信息。</td>
    <td>已发布</td>
    <td>不适用</td>
   </tr>
@@ -162,12 +175,12 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **Marketo Engage Identity 结束**：自 2025 年 8 月起，Adobe 将逐步停止对 Marketo Engage Identity（通过 `login.marketo.com` 登录）的支持。为避免对 Marketo Engage 的访问中断，您必须在 2025 年 9 月 30 日前切换至 [Adobe Identity](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
+* **Marketo Engage Identity生命周期结束**： 2025年8月，Adobe将开始逐步停止对Marketo Engage Identity的支持（通过`login.marketo.com`登录）。 要防止对Marketo Engage的访问中断，您必须不迟于2025年9月30日过渡到[Adobe身份](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
-   * _IP 限制功能弃用_：对[基于 IP 限制 Marketo 登录](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}的支持将于 2025 年 7 月 30 日结束。该功能将在过渡到 Adobe Identity 完成前保持可用。Adobe 计划于 2025 年 8 月版本中在 Adobe Admin Console 中为 Adobe Identity 引入新的基于位置的访问控制功能。
+   * _IP限制弃用_：对[基于IP限制Marketo登录](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}的支持将于2025年7月30日结束。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中新增的基于位置的Adobe Identity访问控制功能计划于2025年8月发布。
 
-   * _单点登录（SSO）弃用_：对 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} 的支持将于 2025 年 7 月 30 日结束。该功能将在过渡到 Adobe Identity 完成前保持可用。在 Adobe Admin Console 中为 Adobe Identity 配置单点登录需单独进行。有关设置步骤，请参阅[设置身份标识和单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
+   * _单点登录(SSO)弃用_：对[Marketo标识SSO](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}的支持将于2025年7月30日终止。 该功能将保持可操作状态，直到完成到Adobe Identity的过渡。 Adobe Admin Console中Adobe Identity的单一登录必须单独配置。 有关设置步骤，请参阅[设置标识和单点登录](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html){target="_blank"}。
 
-* **Rest API ‘access_token’ 参数弃用**：用于对 Marketo REST API 调用进行身份验证的 `access_token` 查询参数即将弃用，并将在 2026 年 3 月 31 日之后不再可用。所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年3月31日之后不可用。 所有新的和现有的集成都应使用“授权”标头[来验证REST API调用，如此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}所述。
 
-* **SOAP API 弃用**：对 Marketo SOAP API 的支持将于 2026 年 3 月 31 日结束。使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API弃用**：对Marketo SOAP API的支持将于2026年3月31日终止。 使用SOAP API功能的服务应迁移到[REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

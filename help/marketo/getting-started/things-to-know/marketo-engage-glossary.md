@@ -3,17 +3,55 @@ description: Marketo Engage 术语表 - Marketo Docs - 产品文档
 short-description: 了解 Marketo Engage 术语及其定义，以帮助您快速掌握。
 title: Marketo Engage 术语表
 feature: Getting Started
-exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
+TQID: https://experienceleague.adobe.com/PTGIP2b0gv2iYVUC6dXES-Sh2XNeCLZJT-VnWZ5-1Yk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: cfb57412-021b-4a60-afde-b402d442e24f
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+  - id: edda586e-0147-48f2-b791-992622a00783
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '4187'
-ht-degree: 92%
+source-wordcount: 6102
+ht-degree: 62%
 
 ---
 
 # Marketo Engage 术语表 {#marketo-engage-glossary}
 
-以下是您在使用 Marketo Engage 时可能遇到的许多术语的定义。 如需添加术语，请[发送电子邮件](mailto:GRP-Marketo-articlefeedback@adobe.com)与我们联系。
+以下是您在使用 Marketo Engage 时可能遇到的许多术语的定义。
 
 ## A {#a}
 
@@ -32,6 +70,10 @@ ht-degree: 92%
    <td colspan="1">此术语可能有不同的含义：<br> — 您的Marketo实例本身可称为您的Marketo帐户。<br> — 在<strong>TAM</strong>中，<strong>Named Account</strong>是用户确定要追求的目标帐户。<br> — 在TAM中，CRM帐户是从链接的<strong>CRM</strong>（帐户位于<strong><span class="dnl">Salesforce</span></strong>、<strong><span class="dnl">MS Dynamics</span></strong>或<strong>API</strong>）映射的帐户。<br> — 在您的CRM中帐户是与潜在客户和联系人关联的业务/公司。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>帐户Insight插件</strong></td>
+   <td colspan="1">与<strong>Marketo Sales Insight</strong>一起使用的浏览器扩展，它直接在您的<strong>CRM</strong>界面中显示Marketo参与数据（例如有趣的时刻、潜在客户得分和最近的活动）。</td>
+  </tr>
+  <tr>
    <td><strong>帐户列表</strong></td>
    <td>关键帐户/组织名称的列表。 也称为目标帐户管理（<strong>TAM</strong>）列表。</td>
   </tr>
@@ -44,6 +86,10 @@ ht-degree: 92%
    <td colspan="1">在<strong>TAM</strong>中，它是分配给某个帐户的分数，可帮助您确定其参与级别。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>帐户智能列表</strong></td>
+   <td colspan="1">在<strong>TAM</strong>中，根据您定义的帐户级别筛选条件自动填充的帐户动态列表，类似于<strong>智能列表</strong>，但适用于帐户而非人员。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong>获取日期</strong></td>
    <td colspan="1">某人在 Marketo 中成为已知人员的日期。 该日期对应于获取此人员的<strong>客户获取计划</strong>。</td>
   </tr>
@@ -52,7 +98,11 @@ ht-degree: 92%
    <td colspan="1">负责获取人员的计划。 此人员可能原本是匿名的，而该计划负责将其转化为已知人员。 这有助于建立首次触达归因。</td>
   </tr>
   <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>广告网络集成 </strong></a></td>
+   <td colspan="1"><strong>活动</strong></td>
+   <td colspan="1">与Marketo <strong>数据库</strong>中人员记录关联的所有可跟踪操作的日志，如电子邮件打开、点击、表单填写、网页访问等等。 活动由<strong>智能列表</strong>、<strong>触发器</strong>和<strong>筛选器</strong>用于识别人员行为并采取行动。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>广告网络集成</strong></a></td>
    <td colspan="1">（原名 Ad Bridge）一种将 Marketo 独有的受众数据连接到您的付费媒体系统的方法，从而运行更具针对性和个性化的数字广告营销活动。</td>
   </tr>
   <tr>
@@ -60,8 +110,20 @@ ht-degree: 92%
    <td colspan="1">Adobe Experience Cloud 中所有 Marketo 产品的官方品牌名称。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>高级 BI 分析</strong></td>
+   <td colspan="1">一个附加报表功能，可提供企业级商业智能功能板和自定义分析，从而更深入地探索Marketo性能数据。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>代理（人工智能）</strong></td>
+   <td colspan="1">Marketo Engage中的AI支持的自动化工具，可执行特定任务（例如审查项目质量或协助活动设置），从而减少营销人员的人工操作。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">警报</a></strong></td>
    <td colspan="1">用于通知您指定的人员接收有关交易的电子邮件的提醒。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>允许列表</strong></td>
+   <td colspan="1">允许通过或访问Marketo发送邮件的已批准IP地址或域的列表。 也用于指请求ISP将发件人识别为合法发件人的做法（与<strong>阻止列表</strong>相反）。</td>
   </tr>
   <tr>
    <td><strong>匿名访客</strong></td>
@@ -78,6 +140,14 @@ ht-degree: 92%
   <tr>
    <td colspan="1"><strong>资产</strong></td>
    <td colspan="1">在您的 Marketo 实例中作为内容存在的项目（例如<strong>电子邮件</strong>、<strong>登陆页面</strong>、<strong>智能营销活动</strong>等）。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>归因</strong></td>
+   <td colspan="1">为营销活动<strong>项目群</strong>分配点数以影响管道和收入的进程。 Marketo支持首次接触归因（将点数提供给首次获得人员的项目）和多点接触归因（在所有影响人员的项目间共享的点数）。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>审核记录</strong></td>
+   <td colspan="1">该功能可记录对Marketo中的资源、营销策划和管理设置所做的所有更改，记录哪些内容发生了更改、谁进行了更改，以及何时进行更改，以便进行责任追究和故障排除。</td>
   </tr>
  </tbody>
 </table>
@@ -110,6 +180,10 @@ ht-degree: 92%
    <td> 用于标识不希望接收您营销资料的 Marketo 人员（例如竞争对手）的字段。 当您将“已列入阻止列表”字段设置为 true 时，该人员将不会收到来自您的 Marketo 实例的任何电子邮件，包括运营邮件。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>布尔字段</strong></td>
+   <td colspan="1"><strong>自定义字段</strong>类型，用于存储人员记录的true/false或yes/no值。 可用于跟踪二进制状态，例如某人是否已同意条款或选择加入特定程序。</td>
+  </tr>
+  <tr>
    <td>
     <div>
      <p><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" rel="nofollow">退回</a></strong></p>
@@ -127,6 +201,10 @@ ht-degree: 92%
   <col>
  </colgroup>
  <tbody>
+  <tr>
+   <td colspan="1"><strong>频率</strong></td>
+   <td colspan="1">向<strong>参与计划</strong> <strong>流</strong>中的成员分发内容的频率和时间计划（例如，每周的星期二上午9点）。 您可以为每个流配置节奏设置。</td>
+  </tr>
   <tr>
    <td colspan="1"><strong>活动</strong></td>
    <td colspan="1">在 Marketo 中，“活动”可以有多种含义。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">活动</a>是“智能活动”的简称。 在 <strong>Marketo Sales Connect</strong> 中，<a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">活动</a>是一系列多渠道沟通步骤。 在<strong>Web 个性化</strong>中，web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">活动</a>是与特定区段相关的自定义响应。</td>
@@ -146,6 +224,10 @@ ht-degree: 92%
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" rel="nofollow"><strong>渠道</strong></a></td>
    <td colspan="1">与<strong>项目</strong>关联的营销活动类型（例如电子邮件、<strong>网络研讨会</strong>、展会、路演、在线广告等）。 </td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>签入应用程序</strong></td>
+   <td colspan="1">Marketo移动应用程序，用于管理活动出席者注册和见面活动签到，允许您将成员标记为已参加。</td>
   </tr>
   <tr>
    <td><strong>点击打开率 %</strong></td>
@@ -192,8 +274,16 @@ ht-degree: 92%
    <td colspan="1">Marketo 在<strong>互动项目</strong>中为您的内容给出的 0 至 100 分评分。 评分基于一个复杂公式计算，包括<strong>打开次数</strong>、<strong>点击次数</strong>、<strong>取消订阅次数</strong>、项目成功情况等因素。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>会话流</strong></td>
+   <td colspan="1">在<strong>Dynamic Chat</strong>中，一种聊天机器人参与类型，它可以通过访客单击网页上的特定按钮或链接来触发，而不是通过受众规则触发的<strong>Dialog</strong>来触发。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong>Cookie</strong></td>
    <td colspan="1"><span>Cookie 是从网站发送到用户 web 浏览器的一小段数据，用于帮助个性化体验（例如记住登录信息、偏好设置等）。 </span></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>自定义域跟踪</strong></td>
+   <td colspan="1">使用公司品牌域进行电子邮件链接跟踪和<strong>登陆页面</strong> URL，而不是默认的Marketo域，从而提高品牌一致性和电子邮件<strong>可投放性</strong>。</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">自定义受众</a></strong></td>
@@ -244,6 +334,14 @@ ht-degree: 92%
    <td colspan="1">Marketo 中的一种项目类型。 当电子邮件、事件或参与计划不相关时，您将使用的通用计划。 <br></td>
   </tr>
   <tr>
+   <td colspan="1"><strong>专用IP地址</strong></td>
+   <td colspan="1">专门为一个Marketo客户使用的电子邮件发送IP地址，提供对发件人信誉的完全控制（与共享IP池相反）。 在达到完整发送量之前必须正确加热。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>深层链接URI</strong></td>
+   <td colspan="1">移动推送通知中使用的URL格式，可将应用程序用户指引到应用程序内的特定屏幕或位置，而不仅仅是打开应用程序的主屏幕。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong>供应能力</strong></td>
    <td colspan="1">电子邮件到达目标收件人收件箱的能力，可能会受到<strong>垃圾邮件</strong>过滤器和客户端过滤器的影响。 与“已投递”不同，“已投递”仅表示电子邮件已交付给收件人服务器。</td>
   </tr>
@@ -260,8 +358,16 @@ ht-degree: 92%
    <td colspan="1"><strong>Adobe Marketo Engage</strong> 的核心部分之一。 设计工作室用于存放您的<strong>资产</strong>，例如<strong>登陆页面</strong>、表单、<strong>电子邮件</strong>、<strong>代码段</strong>以及图像/文件。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>对话</strong></td>
+   <td colspan="1">在<strong>Dynamic Chat</strong>中，Dialog是一个容器，用于定义特定的自动聊天机器人对话，包括其目标受众、消息流、计划以及在您的网站上激活该对话的触发器。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>分布式营销</strong></td>
+   <td colspan="1">一项功能，它允许中央营销团队创建和共享<strong>程序</strong>，这些程序可由本地或现场营销团队自定义和执行，从而保持品牌一致性，同时允许区域灵活性。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong>文档（Doc）</strong></td>
-   <td colspan="1">文档（document）的简称，是帮助客户更好地了解产品的帮助文章。 Marketo具有多种不同类型的文档：产品文档（您当前所在的站点）、<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home" rel="nofollow">开发人员</a>文档和<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">支持</a>文档。</td>
+   <td colspan="1">文档（document）的简称，是帮助客户更好地了解产品的帮助文章。 Marketo具有产品文档（您当前所在的站点）和<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home" rel="nofollow">开发人员</a>文档。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Domain-based Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td>
@@ -284,6 +390,14 @@ ht-degree: 92%
    <td colspan="1">一种主取消订阅状态，可确保即使<strong>已取消订阅</strong>的人员被删除并重新创建，或使用已取消订阅的相同电子邮件地址创建新记录时，该记录仍保持取消订阅状态。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>动态帐户列表</strong></td>
+   <td colspan="1">在<strong>TAM</strong>中，根据定义的条件自动更新的帐户列表，类似于人员的<strong>智能列表</strong>，但范围限于指定帐户。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Dynamic Chat</strong></td>
+   <td colspan="1">本机Marketo Engage功能，在您的网站上提供AI支持的聊天机器人对话，用于潜在客户捕获、资格鉴定和会议安排，与您的Marketo <strong>数据库</strong>完全集成。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">动态内容</a></strong></td>
    <td colspan="1">内容（例如，图像、代码片段、文本等） 根据您指定的条件填充在<strong>电子邮件</strong>或<strong>登陆页面</strong>中的区段，允许您为读者个性化体验。 </td>
   </tr>
@@ -303,6 +417,14 @@ ht-degree: 92%
    <td colspan="1">在 Marketo 中，与客户沟通时可用的一种<strong>资产</strong>类型。 电子邮件可以是 HTML 格式（包含图形、自定义字体等），也可以是纯文本格式（不带任何特殊格式）。 只有 HTML 电子邮件可以记录“打开”数据。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>电子邮件机器人活动筛选</strong></td>
+   <td colspan="1">一个设置，用于识别和排除电子邮件性能量度中的自动机器人活动（例如安全扫描程序打开和点击次数），从而生成更准确的参与数据。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>电子邮件设计器</strong></td>
+   <td colspan="1">Marketo Engage中的高级电子邮件和电子邮件模板创建体验，具有现代化的拖放界面、现成模板、<strong>内容片段</strong>、品牌主题和AI辅助内容生成。 取代了旧版电子邮件编辑器2.0，并且包括用于图像编辑的Adobe Express和用于收件箱渲染预览的Litmus的集成。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong>电子邮件无效</strong></td>
    <td colspan="1">Marketo 中的默认字段，用于表示<strong>数据库</strong>中某个人员的电子邮件地址是否可投递。</td>
   </tr>
@@ -316,6 +438,10 @@ ht-degree: 92%
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>电子邮件暂停</strong></a></td>
    <td colspan="1">一种状态，在发生<strong>硬退回</strong>后，会阻止某人在 24 小时内接收电子邮件。 24 小时后，该人员将恢复可接收邮件状态。 </td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>互动地图</strong></td>
+   <td colspan="1">显示<strong>智能营销活动</strong>的完整逻辑的可视化流程图样式图，包括所有触发器、筛选器、流程步骤和任何嵌套营销活动，从而更容易了解和审核复杂的营销活动逻辑。</td>
   </tr>
   <tr>
    <td colspan="1">
@@ -333,6 +459,10 @@ ht-degree: 92%
    <td>用于与您的客户和潜在客户进行沟通的事件。 线下活动通常包括聚会或展会，线上活动通常是<strong>网络研讨会</strong>。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>事件签入</strong></td>
+   <td colspan="1">将活动参与者标记为已出席的过程，通常使用Marketo Events移动设备应用程序执行。 检入某人会自动更新其在Marketo中的项目成员资格状态。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">活动合作伙伴</a></strong></td>
    <td colspan="1">帮助自动化您的在线活动的第三方集成。</td>
   </tr>
@@ -346,6 +476,10 @@ ht-degree: 92%
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>已耗尽</strong></a></td>
    <td colspan="1">当某人已收到互动流中的所有内容时， 该人将被标记为内容耗尽状态，并会保持该状态，直到添加了额外<strong>内容</strong>为止。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Experience Cloud受众同步</strong></td>
+   <td colspan="1">该功能可在Marketo Engage与其他Adobe Experience Cloud应用程序（例如Adobe Experience Platform）之间同步受众区段，从而实现跨Adobe生态系统的一致受众定位。</td>
   </tr>
  </tbody>
 </table>
@@ -375,6 +509,18 @@ ht-degree: 92%
    <td>亦称为流程操作：针对您选择的人员执行的操作（可以作为<strong>智能活动</strong>的一部分、来自<strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md" rel="nofollow">智能列表</a></strong>的单个流程操作，或针对单个人员的流程操作）。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>表单</strong></td>
+   <td colspan="1">用于捕获潜在客户和客户信息的Marketo <strong>资源</strong>。 Forms可以嵌入到Marketo <strong>登陆页面</strong>或外部网站上。 提交可触发<strong>智能营销活动</strong>并更新<strong>数据库</strong>中的人员记录。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>表单预填</strong></td>
+   <td colspan="1">自动为Marketo <strong>数据库</strong>中已存在数据的回访访客填充已知<strong>表单</strong>字段的功能，从而减少完成表单所需的工作量。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>片段</strong></td>
+   <td colspan="1"><strong>电子邮件Designer</strong>中包含可插入到多个<strong>电子邮件</strong>或<strong>登陆页</strong>中的文本、图像或其他元素的可重用内容块。 更新片段会自动更新在其中使用它的所有资源。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong>自由格式登陆页面</strong></td>
    <td colspan="1">（参见<strong><a href="#l">登陆页面</a></strong>）</td>
   </tr>
@@ -394,8 +540,16 @@ ht-degree: 92%
    <td><p>欧盟立法，于 2018 年 5 月 25 日生效，旨在让欧盟公民对其个人数据拥有更多控制权。</p></td>
   </tr>
   <tr>
+   <td colspan="1"><strong>生成式 AI</strong></td>
+   <td colspan="1">Marketo Engage中的AI支持的内容创建功能（由Adobe Firefly和其他模型提供支持），用于直接在创作体验中生成电子邮件副本、主题行、登陆页面内容和图像。</td>
+  </tr>
+  <tr>
    <td><strong>全局资产</strong></td>
    <td>在<strong>设计工作室</strong>中创建的资产，可在您的 Marketo 实例中的各个<strong>项目</strong>中使用。 </td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>全局性能仪表板</strong></td>
+   <td colspan="1">在<strong>Dynamic Chat</strong>中，显示聚合聊天机器人性能量度的仪表板，这些量度包括触发的总对话、参与的对话、已预订的会议和所有活动对话框达到的目标。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>引导式登陆页面</strong></td>
@@ -428,8 +582,24 @@ ht-degree: 92%
  </colgroup>
  <tbody>
   <tr>
+   <td colspan="1"><strong>应用程序内消息</strong></td>
+   <td colspan="1">在移动应用程序中向积极使用该移动应用程序的用户投放的通知或消息。 用于提升内容、宣布功能或推动特定的应用程序内操作，而无需依赖推送通知。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>收件箱跟踪器</strong></td>
+   <td colspan="1">Marketo可投放性工具功能可监控电子邮件在几十种不同的电子邮件客户端和提供商中的呈现和放置方式（收件箱与垃圾邮件），从而帮助识别在完全发送之前的可投放性问题。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>交互式网络研讨会</strong></td>
+   <td colspan="1">一种本机Marketo Engage功能，无需第三方<strong>活动合作伙伴</strong>集成，即可直接在平台内举办网络研讨会。 注册者和与会者数据会自动同步到Marketo <strong>数据库</strong>。</td>
+  </tr>
+  <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>重要时刻</strong></a></td>
    <td><p>在<strong>Marketo Sales Insight</strong>中，您认为具有特定关联性的事件（例如，当有人访问您网站上的特定页面，单击电子邮件中的特定链接时，等等） 您希望销售团队了解的信息。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>IP预热</strong></td>
+   <td colspan="1">逐步增加来自新的或专用IP地址的电子邮件发送量的过程，以便与ISP建立积极的发件人信誉。 从新IP过快发送过多容量可能会导致电子邮件被标记为<strong>垃圾邮件</strong>。</td>
   </tr>
  </tbody>
 </table>
@@ -477,11 +647,19 @@ ht-degree: 92%
    <td colspan="1">数据库的旧称（参见<a href="#d"><strong>数据库</strong></a>）。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>潜在客户到帐户匹配</strong></td>
+   <td colspan="1">在<strong>TAM</strong>中，自动识别个人记录并将其与其对应的<strong>命名帐户</strong>相关联的过程，因此帐户级别的参与数据反映了所有关联联系人的活动。</td>
+  </tr>
+  <tr>
    <td colspan="1">
     <div>
      <p><strong> 列表</strong></p>
     </div></td>
    <td colspan="1">指一组人员的集合。 在 Marketo 中，有智能列表和静态列表。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">智能列表</a>是可以不断更改的人员动态列表，它基于您定义的筛选器（例如，数据库中居住在加利福尼亚的每个人）。 当有新人员符合条件（或现有人员不再符合条件）时，列表会发生变化。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">静态列表</a>是固定的。 除非您手动添加/删除人员，否则不会发生变化。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>实时聊天</strong></td>
+   <td colspan="1"><strong>Dynamic Chat</strong>功能，它将网站访客路由到实时销售或支持代理以进行实时对话，而不是自动聊天机器人响应。</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>本地资产</strong></a></td>
@@ -505,6 +683,10 @@ ht-degree: 92%
   <tr>
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>营销自动化</strong></a></td>
    <td colspan="1">一种技术类别，可帮助企业简化、自动化并衡量营销任务和工作流程，从而提高运营效率并加快收入增长。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>营销日程表</strong></td>
+   <td colspan="1">Marketo中的可视化日历视图，可显示给定时间段内的所有计划营销活动、电子邮件发送、活动和项目，并提供营销计划的高级概述。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>营销合格潜在客户（MQL）</strong></td>
@@ -562,6 +744,10 @@ ht-degree: 92%
    <td><p>在 <strong>TAM</strong>中，指用户确定为需要跟进的目标帐户。</p></td>
   </tr>
   <tr>
+   <td><strong>嵌套式营销活动</strong></td>
+   <td>使用执行营销活动流程步骤从另一个营销活动的<strong>流程</strong>中调用的<strong>智能营销活动</strong>，允许模块化且可重用的营销活动逻辑。</td>
+  </tr>
+  <tr>
    <td><strong>培养项目</strong></td>
    <td>参见（<a href="#e" rel="nofollow">互动项目</a>）</td>
   </tr>
@@ -595,6 +781,10 @@ ht-degree: 92%
   <tr>
    <td><strong>选择退订</strong></td>
    <td>（请参阅<a href="#u"><strong>取消订阅</strong></a>）</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>组织</strong></td>
+   <td colspan="1">在<strong>Web Personalization</strong>中，访问您的网站时由其IP地址标识的公司或帐户。 Marketo使用IP查找数据将匿名Web访问与特定组织关联以进行定位。</td>
   </tr>
  </tbody>
 </table>
@@ -635,6 +825,14 @@ ht-degree: 92%
    <td colspan="1">在 Marketo 的<strong>目标帐户管理</strong>中，用户画像是受众的子集，可实现更精确的定向。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>选取列表</strong></td>
+   <td colspan="1"><strong>自定义字段</strong>类型，为数据输入提供预定义值的下拉菜单，确保人员记录中的数据一致、标准化。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>预测型受众</strong></td>
+   <td colspan="1">AI/ML支持的Marketo功能，可预测人员注册或参加活动的可能性，使营销人员能够将外联重点放在最有可能的响应者上，并减少浪费的发送。</td>
+  </tr>
+  <tr>
    <td>
     <div>
      <p><strong>预测性内容</strong></p>
@@ -642,8 +840,16 @@ ht-degree: 92%
    <td>（原称 ContentAI）一项附加功能，借助机器学习和预测分析驱动的推荐机制，帮助 Marketo 用户以最相关的<strong>内容</strong>更好地吸引网站访客和电子邮件收件人。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>预编译标头</strong></td>
+   <td colspan="1">显示在电子邮件收件箱中主题行旁边的简短预览文本，可在收件人打开电子邮件之前提供其内容的简短摘要。 也称为预览文本。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">项目</a></strong></td>
    <td colspan="1">用于容纳执行营销方案所需全部内容的容器。 项目分为四种类型：<strong>活动项目</strong>、<strong>互动项目</strong>、<strong>电子邮件项目</strong>和<strong>默认项目</strong>。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>程序分析器</strong></td>
+   <td colspan="1"><strong>收入周期Analytics</strong>中的报告工具，可根据成本、生成的管道、收入和ROI对多个项目进行并排比较，从而帮助确定哪些项目可提供最大的价值。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>项目月份</strong></td>
@@ -652,6 +858,10 @@ ht-degree: 92%
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>项目性能报告</strong></a></td>
    <td colspan="1">Marketo 中的一种报告类型。 它可用于查看项目执行情况。 可按<strong>标记</strong>、<strong>期间成本</strong>等进行筛选。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>渐进式配置</strong></td>
+   <td colspan="1"><strong>表单</strong>功能，向现有字段已在Marketo中填充的回访访客显示新问题，通过多次交互逐步丰富人员记录，而无需询问访客已提供的信息。</td>
   </tr>
  </tbody>
 </table>
@@ -684,16 +894,12 @@ ht-degree: 92%
    <td colspan="1"><p>基于一段时间内的多种信号和/或数据点所形成的绩效评分。 信誉评分可能与发件人的域名、<strong>内容</strong>或 IP 地址相关，并会影响邮件的<strong>供应能力</strong>。</p></td>
   </tr>
   <tr>
+   <td colspan="1"><strong>回复库</strong></td>
+   <td colspan="1">在<strong>Dynamic Chat</strong>中，AI代理使用一组精选的问题和答案对自动响应常见的访客查询，从而减少手动代理干预的需要。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong>返回路径地址</strong></td>
    <td colspan="1">电子邮件的实际发件地址，与“发件人”字段中显示的电子邮件地址不同。 </td>
-  </tr>
-  <tr>
-   <td><strong>收入周期分析（RCA）</strong></td>
-   <td>一项附加功能，包含多种工具，用于帮助您提升整个实例的报告功能。</td>
-  </tr>
-  <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>收入模型</strong></a></td>
-   <td colspan="1"><strong>收入周期分析（RCA）</strong>中使用的一种工具，通过一系列阶段来跟踪<strong>潜在客户</strong>在转化过程中所处的位置。</td>
   </tr>
   <tr>
    <td><strong>角色</strong></td>
@@ -702,6 +908,10 @@ ht-degree: 92%
   <tr>
    <td colspan="1"><strong>角色帐户</strong></td>
    <td colspan="1">属于某个部门或职位的电子邮件地址（例如 security@、sysadmin@ 等），而非个人邮箱。 Marketo 会阻止将邮件发送至无法与单个订阅者关联的<a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">特定角色帐户</a>。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>RTP</strong></td>
+   <td colspan="1">实时Personalization。 现在称为<strong>Web Personalization</strong>的先前产品名称。 RTP为已知和匿名的网站访客提供了实时定位和个性化。</td>
   </tr>
  </tbody>
 </table>
@@ -715,12 +925,32 @@ ht-degree: 92%
  </colgroup>
  <tbody>
   <tr>
+   <td colspan="1"><strong>促销活动</strong></td>
+   <td colspan="1">在<strong>Marketo Sales Connect</strong>中，这是一个多步骤的外联顺序，它结合了电子邮件、电话以及其他由销售代表用来以结构化、可重复的方式与潜在客户接洽的任务。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong>Salesforce</strong></td>
    <td colspan="1">亦称为 SFDC。 Marketo 原生集成的两款 CRM 之一（参见 <a href="#c"><strong>CRM</strong></a>）。</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md" rel="nofollow"><strong>示例电子邮件</strong></a></td>
    <td colspan="1">在将电子邮件发送给客户之前，您可先将测试<strong>电子邮件</strong>发送给自己（和/或其他人）以查看其显示效果。 您还可以使用示例电子邮件测试<strong>动态内容</strong>。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>沙盒</strong></td>
+   <td colspan="1">用于测试、开发和培训的独立Marketo实例，它独立于生产环境运行，确保实验不会影响实时数据或营销活动。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>SAML</strong></td>
+   <td colspan="1">安全声明标记语言。 Marketo用于启用单点登录(SSO)身份验证的基于XML的协议，允许用户使用其组织的身份提供程序登录到Marketo。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>评分模型</strong></td>
+   <td colspan="1">一种框架，它根据人口统计属性和行为活动将点值分配给人员记录，以确定销售线索质量和销售准备情况。 Marketo支持单独的<strong>行为</strong>和<strong>人口统计分数</strong>，这些分数可合并为复合分数。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>种子列表</strong></td>
+   <td colspan="1">添加到营销活动发送中的内部或测试电子邮件地址列表，用于验证电子邮件<strong>可投放性</strong>以及在发送完整受众之前或之后跨不同电子邮件客户端呈现的体验。</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" rel="nofollow">区段</a></strong></td>
@@ -733,6 +963,14 @@ ht-degree: 92%
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">发件人策略框架</a>（SPF）</strong></td>
    <td colspan="1"><p>一种身份验证机制，用于标识被授权为特定域发送邮件的电子邮件服务器。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>短信</strong></td>
+   <td colspan="1">短信服务。 用于向移动设备发送文本消息的渠道。 Marketo与短信提供商（如访客）集成，以便作为多渠道营销活动的一部分启用短信营销。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>SOAP API</strong></td>
+   <td colspan="1">用于将外部系统与Marketo集成的旧版Web服务协议。 SOAP API功能在很大程度上已被更现代和更灵活的<strong>REST API</strong>所取代，尽管它仍受现有集成的支持。</td>
   </tr>
   <tr>
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>智能活动</strong></a></td>
@@ -774,6 +1012,18 @@ ht-degree: 92%
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md" rel="nofollow">流</a></strong></td>
    <td colspan="1">用于<strong>互动项目</strong>中的优先级<strong>内容</strong>集合，用于培养用户。 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" rel="nofollow">内容</a>会按照您设定的顺序分发。</td>
   </tr>
+  <tr>
+   <td colspan="1"><strong>流设计器</strong></td>
+   <td colspan="1">在<strong>Dynamic Chat</strong>中，用于构建自动化对话流程的可视化拖放界面，允许您定义分支对话框路径、条件和操作，而无需编写代码。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>订阅中心</strong></td>
+   <td colspan="1">Marketo托管的<strong>登陆页面</strong>，允许电子邮件收件人管理其订阅首选项，选择他们希望接收的通信类型或选择退出特定类别而不是完全取消订阅。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>禁止显示列表</strong></td>
+   <td colspan="1">从Marketo实例中排除以不接收电子邮件的电子邮件地址或域的列表，无论促销活动以何种方式定位。 通常用于防止发送给竞争对手、已知错误地址或请求不联系的个人的人员。</td>
+  </tr>
  </tbody>
 </table>
 
@@ -798,12 +1048,20 @@ ht-degree: 92%
    <td>作为创建其他电子邮件或登陆页面起点的<strong>电子邮件</strong>或<strong>登陆页面</strong>。</td>
   </tr>
   <tr>
+   <td colspan="1"><strong>模板性能报表</strong></td>
+   <td colspan="1">在<strong>Marketo Sales Connect</strong>中，一份报告显示了哪些电子邮件模板产生的打开、点击和回复次数最多，可帮助销售团队确定他们最有效的推广内容。</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md" rel="nofollow">令牌</a></strong></td>
    <td colspan="1">可在 Marketo 各类资产/功能中使用的变量，用于自动插入个性化数据。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>树状结构</strong></td>
    <td colspan="1">Marketo 左侧列，以分层结构显示项目。 它展示了您 Marketo 实例中的所有内容（如<strong>工作区</strong>、<strong>项目</strong>、<strong>本地资产</strong>等）。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>趋势内容</strong></td>
+   <td colspan="1">在<strong>预测内容</strong>中，当前正获得增长或参与度比以前时段有所增加的内容，如Marketo的机器学习算法所识别。</td>
   </tr>
   <tr>
    <td><strong>触发器</strong></td>
@@ -845,6 +1103,25 @@ ht-degree: 92%
  </tbody>
 </table>
 
+## V {#v}
+
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong>Velocity脚本</strong></td>
+   <td colspan="1">一种基于Apache Velocity的高级脚本语言，用于Marketo <strong>电子邮件</strong>和<strong>登陆页面</strong>，以创建超出标准<strong>令牌</strong>所能提供的复杂、动态的个性化逻辑（例如，条件内容、循环、字符串操作）。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>访客</strong></td>
+   <td colspan="1">在<strong>Web Personalization</strong>中，个人和组织通过<strong>RTP</strong> JavaScript标记跟踪访问您的网站。 访客可以是已知的（与Marketo人员记录匹配）或匿名的（仅由公司通过IP查找识别）。</td>
+  </tr>
+ </tbody>
+</table>
+
 ## W {#w}
 
 <table>
@@ -870,7 +1147,11 @@ ht-degree: 92%
   </tr>
   <tr>
    <td><strong>网络研讨会</strong></td>
-   <td>基于 web 的研讨会。 在 Marketo 中，可通过多种不同的<strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">活动合作伙伴</a></strong>开展网络研讨会。</td>
+   <td>基于 web 的研讨会。 在Marketo中，网络研讨会可以通过许多不同的<strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">活动合作伙伴</a></strong>或通过<strong>交互式网络研讨会</strong>（Marketo的本机解决方案）进行。</td>
+  </tr>
+  <tr>
+   <td><strong>Webhook</strong></td>
+   <td>一种实时集成机制，当发生特定事件时，使用HTTP POST请求将数据从Marketo发送到外部系统。 Webhook允许Marketo与没有本机集成的第三方服务进行通信。</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">网站重定向</a></strong></td>

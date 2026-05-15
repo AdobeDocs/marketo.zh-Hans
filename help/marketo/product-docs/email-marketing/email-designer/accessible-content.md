@@ -6,10 +6,23 @@ role: User
 level: Beginner, Intermediate
 keywords: 电子邮件、设计、辅助功能
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+TQID: https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1365'
-ht-degree: 0%
+source-wordcount: 1423
+ht-degree: 1%
 
 ---
 
@@ -27,7 +40,7 @@ Marketo Engage Email Designer根据Web内容无障碍准则(WCAG) 2.1，级别AA
 
 ## 确保文本可读性 {#text-readability}
 
-利用&#x200B;**[!UICONTROL Styles]**&#x200B;组件的&#x200B;**[!UICONTROL Text]**&#x200B;选项卡确保文本可读，例如使用适当的颜色对比度和简单字体。
+利用&#x200B;**[!UICONTROL Text]**&#x200B;组件的&#x200B;**[!UICONTROL Styles]**&#x200B;选项卡确保文本可读，例如使用适当的颜色对比度和简单字体。
 
 <!--![](assets/accessible-text-styles.png){width="80%"}-->
 
@@ -85,7 +98,7 @@ Marketo Engage Email Designer允许您预览和优化不同设备和屏幕大小
 <!--![](assets/accessible-alt-text.png){width="90%"}-->
 
 * 简洁而符合情境地描述图像的用途。
-* 避免使用“图像……”等多余短语，并使用空替换文本作为装饰性图像。
+* 避免使用冗余短语，如“图像……” 并将空替换文本用于装饰性图像。
 * 对于具有意义的图标，提供有意义的标签；对于复杂的图像，使用简短的替换文本以及在其他位置使用更长的描述。
 
 ## 使用可读格式 {#readable-format}

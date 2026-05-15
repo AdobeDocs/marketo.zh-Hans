@@ -4,9 +4,12 @@ description: 了解如何将Salesforce ID导入Sales Connect。 将Salesforce记
 title: 将 Salesforce ID 导入 Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/XyIV-7nKIRIKm7e6xsiSzzlQ87TmUJD9n42WHsmfS4g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: 149
 ht-degree: 9%
 
 ---
@@ -21,7 +24,7 @@ ht-degree: 9%
 
 [在SFDC中发送Marketo销售电子邮件、添加到Campaign，然后单击以调用按钮](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)：当您在中使用这三个按钮之一时
 [!DNL Salesforce]，我们将联系人推送到
-[!DNL Sales Connect]使用
+[!DNL Sales Connect]具有
 [!DNL Salesforce] ID。
 
 [导入CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)：如果您从Salesforce导出潜在客户/联系人列表，并包含具有[!DNL Salesforce] ID的列，则可以在导入时将该字段映射到[!DNL Sales Connect]。

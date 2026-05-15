@@ -1,16 +1,24 @@
 ---
 description: 了解如何将Adobe Experience Platform区段推送到Marketo静态列表。 将AEP区段同步到Marketo列表。
-title: 将 Adobe Experience Platform 区段推送到 Marketo 静态列表
+title: 将Adobe Experience Platform区段推送到Marketo静态列表
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/Kw9zkzk0FWNOyZ66vEcqzq-4zQSPVz-4P4KQau5mP60
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 4%
+source-wordcount: 626
+ht-degree: 0%
 
 ---
 
-# 将 Adobe Experience Platform 区段推送到 Marketo 静态列表 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
+# 将Adobe Experience Platform区段推送到Marketo静态列表 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
 此功能允许您以静态列表的形式将Adobe Experience Platform中的区段推送到Marketo Engage。
 
@@ -33,7 +41,7 @@ ht-degree: 4%
 
    ![](assets/push-an-adobe-experience-platform-segment-3.png)
 
-1. 单击 **[!UICONTROL Catalog]**。
+1. 单击&#x200B;**[!UICONTROL Catalog]**。
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
@@ -41,7 +49,7 @@ ht-degree: 4%
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
-1. 单击 **[!UICONTROL Configure New Destination]**。
+1. 单击&#x200B;**[!UICONTROL Configure New Destination]**。
 
    ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
@@ -85,7 +93,7 @@ ht-degree: 4%
    >
    >首次将区段激活到Marketo目标后，回填在Marketo目标激活之前区段中已存在的配置文件可能需要&#x200B;_长达24小时_。 今后，无论用户档案何时添加到区段，都会立即将其添加到Marketo。
 
-1. 单击 **[!UICONTROL Add New Mapping]**。
+1. 单击&#x200B;**[!UICONTROL Add New Mapping]**。
 
    ![](assets/push-an-adobe-experience-platform-segment-13.png)
 
@@ -141,7 +149,7 @@ ht-degree: 4%
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. 单击 **[!UICONTROL Next]**。
+1. 单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 

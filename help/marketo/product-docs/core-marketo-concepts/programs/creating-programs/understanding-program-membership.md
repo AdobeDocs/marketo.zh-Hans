@@ -4,9 +4,19 @@ description: 了解计划成员资格以及人员如何进入计划。 了解计
 title: 了解项目成员资格
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+TQID: https://experienceleague.adobe.com/aHeskEj2qa2eqmZN88ABxYtKmp1d1jamYwuzHZi6yJ8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: 271
 ht-degree: 2%
 
 ---
@@ -56,7 +66,7 @@ ht-degree: 2%
 
 ## 客户获取计划 {#acquisition-program}
 
-当新名称作为项目成员进入系统时，Marketo会自动将该项目设置为“客户获取”。 这会为[首次联系归因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}建立点数。
+当新名称作为项目成员进入系统时，Marketo会自动将该项目设置为“客户获取”。
 
 >[!MORELIKETHIS]
 >

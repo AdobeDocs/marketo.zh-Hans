@@ -3,9 +3,12 @@ description: 了解如何发送应用程序内消息。 创建项目，使用控
 title: 发送您的应用程序内消息
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/0dcl-alZ3vFV-by2GFlm6DZ3sL3zYDUkttFoO8k2lDw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: 174
 ht-degree: 8%
 
 ---

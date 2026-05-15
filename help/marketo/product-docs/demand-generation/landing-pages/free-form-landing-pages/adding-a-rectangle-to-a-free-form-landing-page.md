@@ -4,10 +4,13 @@ description: 了解如何在Marketo中为自由格式登陆页面添加矩形。
 title: 向自由格式登录页面添加矩形
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/jKfwONyZaf3HXfYg2i1bl0ncsuXp5ALCh6HuCw-Vf5M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 13%
+source-wordcount: 133
+ht-degree: 14%
 
 ---
 
@@ -35,4 +38,4 @@ ht-degree: 13%
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-恭喜！现在，您可以在自由格式登陆页面上创建矩形。
+恭喜！ 现在，您可以在自由格式登陆页面上创建矩形。

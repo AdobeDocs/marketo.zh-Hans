@@ -4,9 +4,12 @@ description: 了解如何通过服务器到服务器连接将Marketo解决方案
 title: 第3步（共3步） — 将Marketo解决方案与服务器到服务器连接连接
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: 447
 ht-degree: 2%
 
 ---

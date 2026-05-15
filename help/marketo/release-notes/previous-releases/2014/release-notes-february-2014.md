@@ -4,9 +4,18 @@ description: 发行说明 — 2014年2月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年2月
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/y1Agjuy3UAVMDlAjbL3CBCbyAPPfTUIYVvm4-ddksx8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: 336
 ht-degree: 1%
 
 ---
@@ -37,7 +46,7 @@ ht-degree: 1%
 
 [将电子邮件量度导出到 [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)，包括AB测试变体数据。
 
-## [!UICONTROL Engagement Score]报告中的[!UICONTROL Engagement Stream Performance] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Stream Performance]报告中的[!UICONTROL Engagement Score] {#engagement-score-in-engagement-stream-performance-report}
 
 我们已将参与度分数添加到[[!UICONTROL Engagement Stream Performance]报表](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)中，以帮助您了解参与计划中的内容的效果。
 
@@ -45,7 +54,7 @@ ht-degree: 1%
 
 ## 电子邮件分析中的项目详细信息 {#program-details-in-email-analysis}
 
-[现在，您可以按计划名称、渠道和标记对电子邮件量度进行分组](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。 当电子邮件是项目的本地资产时，项目名称会添加到电子邮件名称字段中。 新的项目名称字段显示发送电子邮件的智能营销策划的项目名称。 如果电子邮件是其他项目的本地资产，则此名称可能不同于“电子邮件名称”字段中的项目。
+现在，您可以按项目名称、渠道和标记对电子邮件量度进行分组。 当电子邮件是项目的本地资产时，项目名称会添加到电子邮件名称字段中。 新的项目名称字段显示发送电子邮件的智能营销策划的项目名称。 如果电子邮件是其他项目的本地资产，则此名称可能不同于“电子邮件名称”字段中的项目。
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 

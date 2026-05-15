@@ -3,10 +3,16 @@ description: 了解如何在交互式网络研讨会中创建和实施模板。 
 title: 交互式网络研讨会模板
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/daGGDpwlOHMRNSVPRZm0cdW79lSPtpXYatCiKPSCGlE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 6%
+source-wordcount: 310
+ht-degree: 0%
 
 ---
 
@@ -18,7 +24,7 @@ ht-degree: 6%
 
 在您组织中的任何用户能够访问您的交互式网络研讨会模板之前，Marketo Engage管理员必须首先添加对所需角色的访问权限。
 
-1. 在 Marketo Engage 中，单击 **[!UICONTROL Admin]**。
+1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
@@ -40,15 +46,15 @@ ht-degree: 6%
 
 ## 创建模板 {#create-a-template}
 
-1. 在 Marketo Engage 中，单击 **[!UICONTROL Design Studio]**。
+1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. 单击 **[!UICONTROL Interactive Webinars]**。
+1. 单击&#x200B;**[!UICONTROL Interactive Webinars]**。
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
-1. 单击 **[!UICONTROL Manage Templates]**。
+1. 单击&#x200B;**[!UICONTROL Manage Templates]**。
 
    ![](assets/templates-for-interactive-webinars-8.png)
 
@@ -90,15 +96,15 @@ ht-degree: 6%
 
 执行以下步骤以编辑现有模板。
 
-1. 在 Marketo Engage 中，单击 **[!UICONTROL Design Studio]**。
+1. 在Marketo Engage中，单击&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
-1. 单击 **[!UICONTROL Interactive Webinars]**。
+1. 单击&#x200B;**[!UICONTROL Interactive Webinars]**。
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
-1. 单击 **[!UICONTROL Manage Templates]**。
+1. 单击&#x200B;**[!UICONTROL Manage Templates]**。
 
    ![](assets/templates-for-interactive-webinars-18.png)
 

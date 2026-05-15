@@ -4,9 +4,14 @@ description: 了解Sales Connect中的人员详细信息视图。 从“人员�
 title: 人员详情视图
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/6RcguZewLXP8hurJWjmW0-mEqxgA5Zd5DwfPXWF1UeU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: 284
 ht-degree: 3%
 
 ---

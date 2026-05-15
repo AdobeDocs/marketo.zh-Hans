@@ -4,10 +4,17 @@ description: 了解如何在应用程序内消息中添加和自定义图像。 
 title: 添加应用程序内消息图像
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/wKrIxk7qDv37Iza7jA1ORfA16eQlPkP-JtXBWlFcnLs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 3%
+source-wordcount: 361
+ht-degree: 0%
 
 ---
 
@@ -31,7 +38,7 @@ ht-degree: 3%
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. 单击 **[!UICONTROL Select Image]**。
+1. 单击&#x200B;**[!UICONTROL Select Image]**。
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
@@ -47,7 +54,7 @@ ht-degree: 3%
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. 单击 **[!UICONTROL Remove]**。 现在，你可以选另一个了。
+1. 单击&#x200B;**[!UICONTROL Remove]**。 现在，你可以选另一个了。
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 

@@ -4,14 +4,22 @@ description: 了解如何在Sales Insight中设置星星和火焰的分数字段
 title: 在 Sales Insight 中设置用于星级和火焰标识的评分字段
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/ShowS2zjGEHvU9BRJNIlX6XdY127funYi-sjsE9YTNU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: 153
 ht-degree: 11%
 
 ---
 
-# 设置要在[!UICONTROL Stars]中用于[!UICONTROL Flames]和[!DNL Sales Insight]的分数字段 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# 设置要在[!DNL Sales Insight]中用于[!UICONTROL Stars]和[!UICONTROL Flames]的分数字段 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >

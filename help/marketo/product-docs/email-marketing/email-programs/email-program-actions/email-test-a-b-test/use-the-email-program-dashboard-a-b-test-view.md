@@ -4,9 +4,14 @@ description: 了解如何使用电子邮件计划仪表板A/B测试视图。 在
 title: 使用电子邮件项目仪表板 - A/B 测试视图
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/O1NTM6Lrrk0d-2tC-nLCFkFYnKgm3xBr51ZERYSnEx8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 118
 ht-degree: 16%
 
 ---

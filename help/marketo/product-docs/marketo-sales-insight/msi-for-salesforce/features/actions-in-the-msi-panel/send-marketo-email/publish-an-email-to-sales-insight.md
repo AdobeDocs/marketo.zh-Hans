@@ -4,9 +4,16 @@ description: 了解如何将电子邮件从Marketo发布到Sales Insight。 在M
 title: 将电子邮件发布到 Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: 204
 ht-degree: 3%
 
 ---
@@ -43,7 +50,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->在[或](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)上从[!DNL Sales Insight]发送电子邮件时，[!DNL Microsoft Dynamics]我的令牌[!DNL Salesforce]无法解析；将仅填充标准令牌（潜在客户、公司等）。 但是，令牌的默认值将有效。
+>在[!DNL Microsoft Dynamics]或[!DNL Salesforce]上从[!DNL Sales Insight]发送电子邮件时，[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)无法解析；将仅填充标准令牌（潜在客户、公司等）。 但是，令牌的默认值将有效。
 
 >[!TIP]
 >

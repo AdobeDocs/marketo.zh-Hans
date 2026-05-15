@@ -4,9 +4,12 @@ description: 了解如何在最后一步中将Marketo连接到内部部署的Dyn
 title: 安装适用于Microsoft Dynamics 2015的Marketo本地步骤3（共3步）
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/yOVhPjsnivOpFEkXYcVLy97Upm3yrBipP6NkSjsAw2Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: 367
 ht-degree: 2%
 
 ---

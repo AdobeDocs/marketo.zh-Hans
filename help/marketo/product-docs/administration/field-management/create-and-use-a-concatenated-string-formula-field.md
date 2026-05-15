@@ -1,29 +1,36 @@
 ---
 unique-page-id: 2360337
 description: 组合多个字段中的值或使用Marketo Engage中的公式字段构建条件值。
-title: 创建并使用连接字符串（公式）字段
+title: 创建并使用串联字符串（公式）字段
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
+TQID: https://experienceleague.adobe.com/Yk-Xh-WHUE8-GR2KTCxXRSqerdz-JHu2JnzYp8tAq9U
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 16%
+source-wordcount: 136
+ht-degree: 0%
 
 ---
 
-# 创建并使用连接字符串（公式）字段 {#create-and-use-a-concatenated-string-formula-field}
+# 创建并使用串联字符串（公式）字段 {#create-and-use-a-concatenated-string-formula-field}
 
 您可以组合多个字段中的值，或使用Marketo Engage公式字段构建条件值。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. 单击 **[!UICONTROL Field Management]**。
+1. 单击&#x200B;**[!UICONTROL Field Management]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. 单击 **[!UICONTROL New Custom Field]**。
+1. 单击&#x200B;**[!UICONTROL New Custom Field]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 

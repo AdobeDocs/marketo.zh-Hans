@@ -4,10 +4,13 @@ description: 了解如何在Marketo中的自由格式登陆页面中添加指向
 title: 在自由格式登录页面中为图像添加链接
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 20%
+source-wordcount: 124
+ht-degree: 21%
 
 ---
 
@@ -31,7 +34,7 @@ ht-degree: 20%
 
    ![](assets/add-link.png)
 
-   恭喜！您现在已成功添加指向登陆页面上图像的链接。 您现在可以[预览页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以查看其实际操作情况。
+   恭喜！ 您现在已成功添加指向登陆页面上图像的链接。 您现在可以[预览页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以查看其实际操作情况。
 
 >[!TIP]
 >

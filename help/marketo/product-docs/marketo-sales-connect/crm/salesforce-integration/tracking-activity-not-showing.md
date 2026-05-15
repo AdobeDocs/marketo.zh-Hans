@@ -4,9 +4,14 @@ description: 当Sales Connect跟踪活动未显示在Salesforce中时获取帮�
 title: 跟踪活动未显示
 exl-id: 8f3f6506-9367-4f08-84ef-636adf06e00d
 feature: Marketo Sales Connect
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+TQID: https://experienceleague.adobe.com/RJnR0QG6mzUA5Mkn3LMuGSW7ot4K4Bl6T7Y6RQrmOYI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: 90
 ht-degree: 8%
 
 ---

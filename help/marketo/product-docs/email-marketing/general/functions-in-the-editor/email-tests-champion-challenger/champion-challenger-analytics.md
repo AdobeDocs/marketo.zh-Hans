@@ -4,14 +4,21 @@ description: 了解如何查看Champion/Challenger分析和配置报告警报。
 title: 冠军/挑战者 — 配置报表警报
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/idG-mOrJdcShh-sv41sQUVXykShdhnEyxMpg2znKLrU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 1%
+source-wordcount: 231
+ht-degree: 0%
 
 ---
 
-# 挑战者对比：分析 {#champion-challenger-analytics}
+# 冠军/挑战者：Analytics {#champion-challenger-analytics}
 
 接收报告警报和/或查看冠军/挑战者信息板，以获取有用的分析。
 

@@ -4,9 +4,12 @@ description: 当Sales Connect插件未显示在Gmail中时获取帮助。 安装
 title: Sales Connect 插件未在 Gmail 中显示
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: 156
 ht-degree: 5%
 
 ---

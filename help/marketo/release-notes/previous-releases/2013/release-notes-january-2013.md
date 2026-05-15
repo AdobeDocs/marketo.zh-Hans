@@ -4,9 +4,12 @@ description: 发行说明 — 2013年1月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年1月
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/4dqPX50pI47J0nrL9Zf4SX-6b29MIDohELj6CtXvgIo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: 305
 ht-degree: 1%
 
 ---

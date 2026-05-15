@@ -4,9 +4,12 @@ description: 了解如何在设置视图和轮换后启动营销日历演示。 
 title: 启动演示
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/NlP4JyoKtroa4OS7wLQkjpMsY1P4U1QOx6eozYTuB1Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: 113
 ht-degree: 6%
 
 ---

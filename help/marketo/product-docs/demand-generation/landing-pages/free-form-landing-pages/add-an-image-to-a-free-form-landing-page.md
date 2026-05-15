@@ -4,10 +4,13 @@ description: 了解如何在Marketo中将图像添加到自由格式登陆页面
 title: 向自由格式登录页面添加图像
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-xtbww0QqxpqGfC2-xzmYjjFdZgeIR4fbFfub1Y3Xds
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 24%
+source-wordcount: 83
+ht-degree: 25%
 
 ---
 
@@ -33,6 +36,6 @@ ht-degree: 24%
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   做得好！您刚刚向自由格式登陆页面添加了一个图像。
+   做得好！ 您刚刚向自由格式登陆页面添加了一个图像。
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

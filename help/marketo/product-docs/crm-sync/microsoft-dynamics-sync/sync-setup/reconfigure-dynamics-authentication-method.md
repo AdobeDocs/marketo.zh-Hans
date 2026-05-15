@@ -3,14 +3,17 @@ description: 了解如何在Marketo中重新配置Dynamics身份验证方法。 
 title: 重新配置 [!DNL Dynamics] 身份验证方法
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 2%
+source-wordcount: 271
+ht-degree: 0%
 
 ---
 
-# 重新配置 Dynamics 身份验证方法 {#reconfigure-dynamics-authentication-method}
+# 重新配置Dynamics身份验证方法 {#reconfigure-dynamics-authentication-method}
 
 请按照以下步骤更新您的[!DNL Dynamics]身份验证方法。
 
@@ -33,7 +36,7 @@ ht-degree: 2%
    >
    >必须暂时禁用全局同步才能更新身份验证方法。
 
-1. 单击 **[!UICONTROL Reconfigure New Auth Method]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL Reconfigure New Auth Method]**&#x200B;选项卡。
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
@@ -66,7 +69,7 @@ ht-degree: 2%
 
    ![](assets/reconfigure-dynamics-authentication-method-8.png)
 
-1. 单击 **[!UICONTROL OK]**。
+1. 单击&#x200B;**[!UICONTROL OK]**。
 
    >[!IMPORTANT]
    >

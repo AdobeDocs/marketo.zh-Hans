@@ -4,9 +4,12 @@ description: 电子邮件自动回复 - Marketo 文档 - 产品文档
 title: 电子邮件自动回复
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: 351
 ht-degree: 97%
 
 ---
@@ -78,7 +81,7 @@ ht-degree: 97%
 
    ![](assets/email-auto-response-12.png)
 
-1. 在下拉菜单中选择 **[!UICONTROL My Form]**。 单击 **[!UICONTROL Flow]** 选项卡。
+1. 在下拉菜单中选择 **[!UICONTROL My Form]**。 然后点击 **[!UICONTROL Flow]** 选项卡。
 
    ![](assets/email-auto-response-13.png)
 

@@ -1,17 +1,24 @@
 ---
 unique-page-id: 11380789
 description: 了解如何使用Revenue Cycle Analytics中的指定帐户维度构建基于收入的报表。 衡量目标客户的管道和收入影响。
-title: RCA 中的命名帐户维度
+title: RCA中的指定帐户Dimension
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/CF92nqsL8XPvNNWJ3149X-AUrvIof5syxxB3HXgsk70
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 7%
+source-wordcount: 167
+ht-degree: 0%
 
 ---
 
-# RCA 中的命名帐户维度 {#named-account-dimension-in-rca}
+# RCA中的指定帐户Dimension {#named-account-dimension-in-rca}
 
 使用收入周期Analytics中特定于TAM的指定帐户维度构建基于收入的报表。
 

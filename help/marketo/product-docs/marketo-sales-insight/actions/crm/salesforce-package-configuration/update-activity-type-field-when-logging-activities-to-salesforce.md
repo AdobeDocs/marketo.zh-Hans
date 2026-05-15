@@ -2,9 +2,17 @@
 description: 了解如何在将活动记录到Salesforce时更新Activity Type字段。 在Salesforce设置的“任务类型”选择列表中添加回复类型。
 title: 将活动记录到 Salesforce 时更新活动类型字段
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/gMvomydiUENPK4rRYoGIi1ibVEIu3jMEesQ4aDuSk1g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: 435
 ht-degree: 5%
 
 ---

@@ -4,9 +4,21 @@ description: 了解Marketo Engage中google universal analytics的自定义rtp仪
 title: 在 Google Universal Analytics 中自定义 RTP 仪表板
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/J33gQt6txu9Dq95xAKDo5kRFqceNX1N17y9X3fTK3eY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: 779
 ht-degree: 2%
 
 ---
@@ -74,14 +86,14 @@ ht-degree: 2%
      <li><span class="uicontrol">创建一个显示</span>：<span class="uicontrol">会话</span>的条形图</li>
      <li><span class="uicontrol">按</span>分组： <span class="uicontrol">事件标签</span></li>
      <li><span class="uicontrol">透视依据</span>：<span class="uicontrol">默认渠道分组</span></li>
-     <li>筛选器： <br><span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （<span class="uicontrol">包含</span>） RTP区段</li>
+     <li>筛选器：<br><span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （<span class="uicontrol">包含</span>） RTP区段</li>
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
      <li>名称：RTP分段用户的数量</li>
      <li>类型： <span class="uicontrol">2.1指标</span></li>
      <li><span class="uicontrol">显示以下量度</span>： <span class="uicontrol">用户</span><br></li>
-     <li>筛选器：<br><span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span>（包含） RTP区段</li>
+     <li>筛选器：<br><span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （包含） RTP区段</li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
@@ -104,9 +116,9 @@ ht-degree: 2%
     <ul>
      <li><strong>名称：按国家/地区分段会话</strong></li>
      <li><strong>类型： <span class="uicontrol">Geomap</span></strong></li>
-     <li><strong><span class="uicontrol">绘制所选量度</span>：<span class="uicontrol">国家/地区</span> | <span class="uicontrol">会话</span></strong></li>
+     <li><strong><span class="uicontrol">绘制所选量度</span>： <span class="uicontrol">国家/地区</span> | <span class="uicontrol">个会话</span></strong></li>
      <li><strong><span class="uicontrol">选择区域</span>：<span class="uicontrol">世界</span></strong></li>
-     <li><strong>筛选器：<span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span>（包含） RTP区段</strong></li>
+     <li><strong>筛选器：<span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （包含） RTP区段</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th>
     <ul>
@@ -124,7 +136,7 @@ ht-degree: 2%
      <li>类型： <span class="uicontrol">栏</span></li>
      <li><span class="uicontrol">创建一个显示</span>： <span class="uicontrol">用户</span>的条形图</li>
      <li><span class="uicontrol">按</span>分组： <span class="uicontrol">事件操作</span></li>
-     <li>筛选器：<span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span>（包含） RTP区段</li>
+     <li>筛选器：<span class="uicontrol">仅显示</span> | <span class="uicontrol">事件类别</span> （包含） RTP区段</li>
     </ul><p><img width="350" src="assets/add-a-widget.png" data-linked-resource-id="11382874" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th>
     <ul>
@@ -140,8 +152,8 @@ ht-degree: 2%
     <ul>
      <li>名称：按热门区段划分的会话和目标</li>
      <li>类型：表<br></li>
-     <li>显示以下列：<br>事件标签|会话|目标转化率</li>
-     <li>筛选器：<br>仅显示|事件类别（包含） RTP区段</li>
+     <li>显示以下列：<br>事件标签 |会话 |目标转化率</li>
+     <li>筛选器：<br>仅显示 |事件类别（包含） RTP区段</li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th> </th>
   </tr>
@@ -217,7 +229,7 @@ ht-degree: 2%
     <ul>
      <li>名称： <strong>CRE — 最推荐的内容</strong></li>
      <li>类型： <strong><span class="uicontrol">表</span></strong><br></li>
-     <li><span class="uicontrol">显示以下列</span>： <br><strong><span class="uicontrol">页面标题</span> | <span class="uicontrol">页面视图</span></strong><br></li>
+     <li><span class="uicontrol">显示以下列</span>： <br><strong><span class="uicontrol">页面标题</span> | <span class="uicontrol">页面查看次数</span></strong><br></li>
      <li>筛选器：<br>筛选器： <strong>[<span class="uicontrol">仅显示</span>] <span class="uicontrol">页面</span> （<span class="uicontrol">包含</span>）： rcmd</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
   </tr>
@@ -247,14 +259,14 @@ ht-degree: 2%
     <ul>
      <li>名称：<strong>CTA展示次数</strong></li>
      <li>类型： <strong><span class="uicontrol">表</span></strong></li>
-     <li><span class="uicontrol">显示以下列</span>： <strong><span class="uicontrol">事件标签</span> | <span class="uicontrol">事件总数</span> | <span class="uicontrol">用户</span></strong></li>
+     <li><span class="uicontrol">显示以下列</span>： <strong><span class="uicontrol">事件标签</span> | <span class="uicontrol">总事件</span> | <span class="uicontrol">用户</span></strong></li>
      <li>筛选器：<br><strong>[<span class="uicontrol">仅显示</span>] <span class="uicontrol">事件类别</span> （<span class="uicontrol">完全匹配</span>）： RTP — 营销活动</strong><br><strong>[<span class="uicontrol">仅显示</span>] <span class="uicontrol">事件操作</span> （<span class="uicontrol">完全匹配</span>）：展示</strong><strong>[<span class="uicontrol">不显示</span>] <span class="uicontrol">事件标签</span> （<span class="uicontrol">包含</span>）： #</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
      <li>名称：<strong>CTA点进</strong></li>
      <li>类型： <strong><span class="uicontrol">表</span></strong></li>
-     <li><span class="uicontrol">显示以下列</span>： <strong><span class="uicontrol">事件标签</span> | <span class="uicontrol">事件总数</span> | <span class="uicontrol">用户</span></strong></li>
+     <li><span class="uicontrol">显示以下列</span>： <strong><span class="uicontrol">事件标签</span> | <span class="uicontrol">总事件</span> | <span class="uicontrol">用户</span></strong></li>
      <li>筛选器：<br><strong>[<span class="uicontrol">仅显示</span>] <span class="uicontrol">事件类别</span> （<span class="uicontrol">完全匹配</span>）： RTP营销活动</strong><br><strong>[<span class="uicontrol">仅显示</span>] <span class="uicontrol">事件操作</span> （<span class="uicontrol">完全匹配</span>）：点击次数</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td> </td>

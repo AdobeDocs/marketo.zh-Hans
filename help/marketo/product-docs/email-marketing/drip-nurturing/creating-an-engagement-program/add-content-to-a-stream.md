@@ -4,9 +4,14 @@ description: 了解如何将电子邮件或项目添加到参与计划流。 使
 title: 向流中添加内容
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: 175
 ht-degree: 8%
 
 ---
@@ -49,7 +54,7 @@ ht-degree: 8%
    >
    >智能营销活动必须包含&#x200B;**[!UICONTROL Member of Engagement Program]**&#x200B;过滤器才能正常工作。
 
-做得好！您现在知道如何向项目流添加内容。 尽量多加一些你的培养。 有关更多详细信息，请参阅下面的相关文章。
+做得好！ 您现在知道如何向项目流添加内容。 尽量多加一些你的培养。 有关更多详细信息，请参阅下面的相关文章。
 
 >[!MORELIKETHIS]
 >

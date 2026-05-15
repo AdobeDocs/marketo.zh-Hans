@@ -3,9 +3,21 @@ description: 发行说明 — 2022年6月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 6 月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/7AVr5aiUkEGNwpZMiQpl2JrhsX9yKP85aTcJhHwuXDY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: 620
 ht-degree: 6%
 
 ---
@@ -16,7 +28,7 @@ ht-degree: 6%
 
 >[!AVAILABILITY]
 >
->带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。 请联系您的 Marketo Engage 代表了解更多信息。
 
 以下功能将于&#x200B;**2022年6月24日**&#x200B;开始发布，并在接下来的几周内分阶段推出剩余功能（除非另有说明）。
 
@@ -28,7 +40,7 @@ ht-degree: 6%
 
 * **已改进[!DNL Dynamic Chat]**&#x200B;的流Designer可用性：无需拖放，即可直接从Designer流画布添加信息卡。 [!DNL Dynamic Chat]界面也已得到改进，可更好地显示各个信息卡中的内容。
 
-* **的[!DNL Dynamic Chat]**&#x200B;高级约会路由规则： [!DNL Dynamic Chat]为目标约会路由提供了更多选项。 指定应根据Marketo Engage属性路由哪些座席约会，确保将潜在客户路由到适当的座席。
+* [!DNL Dynamic Chat]&#x200B;**的**&#x200B;高级约会路由规则： [!DNL Dynamic Chat]为目标约会路由提供了更多选项。 指定应根据Marketo Engage属性路由哪些座席约会，确保将潜在客户路由到适当的座席。
 
 * **适用于[!DNL Dynamic Chat]**&#x200B;的高级对话框报表：使用参与和转化量度的全新数据可视化图表，更详细地查看[!DNL Dynamic Chat]营销活动的性能。
 
@@ -38,7 +50,7 @@ ht-degree: 6%
 
 **新的切换开关视图**：以下视图现在可在下一代体验中使用：
 
-* [电子邮件详细信息视图](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [电子邮件详情视图](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
 * [电子邮件列表视图](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## 体验自动化 {#experience-automation}

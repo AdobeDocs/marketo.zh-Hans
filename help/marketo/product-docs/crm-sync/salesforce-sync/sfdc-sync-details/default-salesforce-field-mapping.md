@@ -1,13 +1,16 @@
 ---
 unique-page-id: 4719314
 description: 了解Salesforce和Salesforce之间的默认Marketo Engage字段映射。 查看商机、联系人、客户和机会字段如何自动映射。
-title: 默认 Salesforce 字段映射
+title: 默认Salesforce字段映射
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 5%
+source-wordcount: 154
+ht-degree: 0%
 
 ---
 
@@ -101,6 +104,6 @@ ht-degree: 5%
 | 字段 | 描述 |
 |---|---|
 | SFDC Id | 由18个字符组成的[!DNL Salesforce] ID |
-| SFDC 类型 | 潜在客户或联系人。 如果为空，则商机在Marketo中仅作为人员存在 |
-| SFDC创建日期 | 在SFDC中创建的日期(可以不同于在Marketo中创建的日期) |
+| SFDC类型 | 潜在客户或联系人。 如果为空，则商机在Marketo中仅作为人员存在 |
+| SFDC创建日期 | 在SFDC中创建的日期（可以不同于在Marketo中创建的日期） |
 | SFDC已删除 | 此人以前在SFDC中，但现在已被删除，仅居住在Marketo中 |

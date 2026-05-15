@@ -4,9 +4,19 @@ description: 使用LaunchPoint中的经理帐户将多个 [!DNL Google AdWords] 
 title: 添加 [!DNL Google AdWords] 作为经理帐户的 [!DNL Launchpoint] 服务
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/fQYFZRLEULbnvJnYh1Yp9ziGIz1KPYwUPSqeo5Et63Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: 283
 ht-degree: 7%
 
 ---
@@ -93,7 +103,3 @@ ht-degree: 7%
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
    请参阅下面的相关文章，了解如何在收入模型中映射[!DNL AdWords]离线转化。
-
-   >[!MORELIKETHIS]
-   >
-   >使用经理帐户在收入模型中[设置 [!DNL Google AdWords] 转化](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

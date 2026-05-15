@@ -4,9 +4,12 @@ description: 了解如何向电子邮件添加电子邮件脚本令牌。 在电
 title: 向电子邮件添加脚本令牌
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: 166
 ht-degree: 14%
 
 ---

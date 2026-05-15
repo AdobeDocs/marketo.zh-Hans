@@ -2,18 +2,25 @@
 description: 了解如何在Salesforce中配置Sales Insight Actions。 添加远程站点，启用MSI操作，并输入API密钥。
 title: 在 Salesforce 中配置 Sales Insight Actions
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/5S-pqmvARTyOj8ED-PrL5zLHGbsBAej8TYuYZw7rtSQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: 217
 ht-degree: 4%
 
 ---
 
-# [!DNL Sales Insight Actions]中的[!DNL Salesforce]配置 {#sales-insight-actions-configuration-in-salesforce}
+# [!DNL Salesforce]中的[!DNL Sales Insight Actions]配置 {#sales-insight-actions-configuration-in-salesforce}
 
 >[!PREREQUISITES]
 >
->* 在您的[实例中](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)安装[或](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)升级[!DNL Salesforce]销售Insight包
+>* 在您的[!DNL Salesforce]实例中[安装](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)或[升级](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)销售Insight包
 >* [在 [!DNL Salesforce] Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)中配置Marketo Sales Insight
 
 ## 在[!DNL Salesforce]中添加新的远程站点 {#add-new-remote-site-in-salesforce}

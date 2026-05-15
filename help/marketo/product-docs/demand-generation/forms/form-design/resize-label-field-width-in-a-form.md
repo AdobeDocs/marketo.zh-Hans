@@ -4,9 +4,14 @@ description: 了解如何在Marketo表单中调整标签和字段宽度大小。
 title: 调整表单中的标签/字段宽度
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/wILJ5dOvIYm6swmE5JgWFCPaMWL6mtP--iKKbh6O-S8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: 98
 ht-degree: 14%
 
 ---

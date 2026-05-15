@@ -1,19 +1,24 @@
 ---
 unique-page-id: 7511877
 description: 了解Salesforce Mobile (Salesforce1)中的有趣时刻。 在移动设备上的MSI面板中查看关键潜在客户活动。
-title: Salesforce1 中的关键时刻
+title: Salesforce1中的有趣时刻
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/3J4bWPzp-o4f-N-Lo9ip3xcstSl3SQ7GTPsDWT6q3po
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 6%
+source-wordcount: 88
+ht-degree: 0%
 
 ---
 
 # [!DNL Salesforce1]中的有趣时刻 {#interesting-moments-in-salesforce}
 
-[使用有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)是通过Marketo Sales Insight应用程序与您的销售团队通信的关键。 现在，使用[!DNL Marketo Sales Insight]的[!DNL Salesforce1]，您可以对智能手机执行相同的操作！
+[使用有趣的时刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)是通过Marketo Sales Insight应用程序与您的销售团队通信的关键。 现在，使用[!DNL Salesforce1]的[!DNL Marketo Sales Insight]，您可以对智能手机执行相同的操作！
 
 >[!AVAILABILITY]
 >

@@ -4,9 +4,19 @@ description: 发行说明 — 2014年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年5月
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/1SUYULNnD8J6FOlO8DJoXbPhU-HdY-rdI-UTAH8xIr0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: 454
 ht-degree: 1%
 
 ---
@@ -69,11 +79,11 @@ ht-degree: 1%
 
 ## 计划会员资格分析中的计划状态和成功时间范围 {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-查看每个计划状态[中有多少](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)成员，以及他们更改为每个状态的时间，包括他们获得计划成功的日期。
+查看每个项目状态有多少成员，以及成员何时更改为每个状态，包括他们获得项目成功的日期。
 
 ## [!UICONTROL Email Analysis]中的A/B测试电子邮件 {#a-b-test-emails-in-email-analysis}
 
-在[中报告每个](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)A/B测试电子邮件变体[!UICONTROL Email Analysis]。
+在[!UICONTROL Email Analysis]中报告每个A/B测试电子邮件变体。
 
 ## Analytics打包更改 {#analytics-packaging-changes}
 

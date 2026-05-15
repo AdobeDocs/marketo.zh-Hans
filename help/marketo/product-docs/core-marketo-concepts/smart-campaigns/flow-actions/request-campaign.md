@@ -4,10 +4,18 @@ description: 了解如何使用请求营销活动流程步骤。 有人完成此
 title: 请求营销活动
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/BHsiJdJA7DOD0TuczILsgOHVBchHfu2RiYoGhSM3blQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 4%
+source-wordcount: 115
+ht-degree: 0%
 
 ---
 
@@ -31,7 +39,7 @@ ht-degree: 4%
 
    ![](assets/request-campaign-3.png)
 
-1. 在屏幕的右上角，您将会看到操作何时完成。 单击 **[!UICONTROL View Results]**。
+1. 在屏幕的右上角，您将会看到操作何时完成。 单击&#x200B;**[!UICONTROL View Results]**。
 
    ![](assets/request-campaign-4.png)
 

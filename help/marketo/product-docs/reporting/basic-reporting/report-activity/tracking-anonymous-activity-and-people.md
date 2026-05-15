@@ -4,10 +4,22 @@ description: 了解如何在Marketo Engage中跟踪匿名活动和人员，包�
 title: 跟踪匿名活动和人员
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/BZakQFVtQystRyrlzo81s-p8N65LXHUJ2ZoSAzeTG6Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 4%
+source-wordcount: 255
+ht-degree: 8%
 
 ---
 
@@ -27,7 +39,7 @@ ht-degree: 4%
 
    当某人出现以下情况时，匿名活动会合并到新人员或现有人员中：
 
-   * 单击Marketo电子邮件[中的](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)链接。
+   * 单击Marketo电子邮件[&#128279;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)中的链接。
    * 填写Marketo [表单](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)。
    * 使用Marketo的[REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/leads)或[Munchkin](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API（适用于开发人员）将匿名活动与已知记录相关联。
 

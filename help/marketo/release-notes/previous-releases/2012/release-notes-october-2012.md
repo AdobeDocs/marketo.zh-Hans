@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2951109
 description: 发行说明 — 2012年10月 — Marketo文档 — 产品文档
-title: 发行说明 - 2012 年 10 月
+title: 发行说明 — 2012年10月
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/czXbxTetZlT2CC9aoySZePUYc6tPTNF04dlKadnZVII
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 2%
+source-wordcount: 351
+ht-degree: 0%
 
 ---
 
-# 发行说明：2012 年 10 月 {#release-notes-october}
+# 发行说明： 2012年10月 {#release-notes-october}
 
 10月版本包含更多令人兴奋的新功能！ 社交功能作为加载项或选定捆绑的一部分提供。
 

@@ -3,9 +3,23 @@ description: 发行说明 — 2022年10月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 10 月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/8d05i8J-yT1oEfPeF8Wn3Ir2Yy9SG6bswhaTA-oRwIw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: 619
 ht-degree: 16%
 
 ---
@@ -16,17 +30,17 @@ ht-degree: 16%
 
 >[!AVAILABILITY]
 >
->带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。 请联系您的 Marketo Engage 代表了解更多信息。
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2022年10月14日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请检查每个功能下方的状态。
+以下功能属于标准发行周期，将于&#x200B;**2022年10月14日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请检查每个功能下方的状态。
 
 ### 营销数据环境 {#marketing-data-environment}
 
 </br>
 
-* **项目群成员自定义字段同步**：能够在Salesforce中将为项目群成员（例如，在事件注册期间与会者首选项，如食物、会话、曲目等）捕获的可扩展字段与促销活动成员字段进行双向同步。
+* **项目群成员自定义字段同步**：能够双向同步为项目群成员捕获的可扩展字段（例如，在活动注册期间与会者首选项，如食物、会话、曲目等） Salesforce中的促销活动成员字段。
 
 <table>
   <tr>

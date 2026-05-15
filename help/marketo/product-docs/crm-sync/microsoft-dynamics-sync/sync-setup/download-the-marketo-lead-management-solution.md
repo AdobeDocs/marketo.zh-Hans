@@ -4,9 +4,12 @@ description: 了解如何下载适用于Microsoft Dynamics的Marketo潜在客户
 title: 下载 Marketo 潜在客户管理解决方案
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/fxE18va6cOwHd6rMyPBcvme0dpBe2htCV4TkoJsEKZM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: 100
 ht-degree: 21%
 
 ---

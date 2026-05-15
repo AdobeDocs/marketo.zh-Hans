@@ -3,9 +3,16 @@ description: 单个电子邮件发送程序模板。 使用它可发送具有明
 title: EM-YYYY-MM-DD-单次电子邮件发送
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/wQnqyc6E2f3-TP1ZwAC3A3Iz1iikSRHaOSHyLhLp-uA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: 309
 ht-degree: 11%
 
 ---

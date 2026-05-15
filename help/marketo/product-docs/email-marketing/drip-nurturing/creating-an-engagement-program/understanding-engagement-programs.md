@@ -4,9 +4,14 @@ description: 了解Marketo中的参与计划、流、内容、投放和节奏。
 title: 了解参与项目
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: 290
 ht-degree: 93%
 
 ---
@@ -42,7 +47,7 @@ ht-degree: 93%
 
 ## 内容 {#content}
 
-您可以向参与项目的流中添加两种类型的&#x200B;**内容**：电子邮件和项目。电子邮件会在执行投放时发送给人员。
+您可以向参与项目的流中添加两种类型的&#x200B;**内容**：电子邮件和项目。 电子邮件会在执行投放时发送给人员。
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -64,7 +69,7 @@ ht-degree: 93%
 
 ## 流节奏 {#stream-cadence}
 
-您可以通过设置&#x200B;**流节奏**&#x200B;来决定投放发生的时间。这是用于按固定时间间隔安排内容发送的方式。
+您可以通过设置&#x200B;**流节奏**&#x200B;来决定投放发生的时间。 这是用于按固定时间间隔安排内容发送的方式。
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -74,7 +79,7 @@ ht-degree: 93%
 
 ## 人员节奏 {#person-cadence}
 
-**人员节奏**&#x200B;是一种状态，用于定义某位人员是否可以从参与项目中接收内容。您可以使用 **[!UICONTROL Change Engagement Program Cadence]** 流程步骤，将其更改为 [!UICONTROL Paused] 或 [!UICONTROL Normal]。
+**人员节奏**&#x200B;是一种状态，用于定义某位人员是否可以从参与项目中接收内容。 您可以使用 **[!UICONTROL Change Engagement Program Cadence]** 流程步骤，将其更改为 [!UICONTROL Paused] 或 [!UICONTROL Normal]。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
@@ -90,7 +95,7 @@ ht-degree: 93%
 
 ## 内容参与度等级 {#content-engagement-level}
 
-内容参与度等级是 Marketo 为您的内容分配的一个 0 到 100 的评分。该评分通过一套复杂的计算公式得出，综合考虑了打开率、点击率、取消订阅、项目成功情况等多种因素。
+内容参与度等级是 Marketo 为您的内容分配的一个 0 到 100 的评分。 该评分通过一套复杂的计算公式得出，综合考虑了打开率、点击率、取消订阅、项目成功情况等多种因素。
 
 >[!MORELIKETHIS]
 >

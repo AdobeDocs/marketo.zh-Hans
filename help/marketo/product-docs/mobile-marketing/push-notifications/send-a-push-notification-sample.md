@@ -4,9 +4,12 @@ description: 了解如何发送推送通知示例以验证其是否有效。 选
 title: 发送推送通知示例
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/TPNT1X4vgRtkP81L20QwsDCTmwhFUOhqbGbVvuPalNw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: 267
 ht-degree: 3%
 
 ---

@@ -4,9 +4,12 @@ description: 了解如何将指定帐户从CSV文件导入TAM。 上载列表，
 title: 导入[!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/aLuxfKOeRsPYXa5i5l86wj-ACPyKcJ4-f3ecmIZq8s0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: 468
 ht-degree: 3%
 
 ---

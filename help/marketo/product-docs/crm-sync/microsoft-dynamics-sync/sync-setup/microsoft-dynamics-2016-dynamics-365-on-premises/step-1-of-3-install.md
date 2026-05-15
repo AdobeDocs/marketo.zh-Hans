@@ -3,9 +3,12 @@ description: 了解如何在Dynamics 2016或Dynamics 365内部部署安装Market
 title: 安装Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365本地步骤1/3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: 305
 ht-degree: 0%
 
 ---
@@ -38,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-8-33-3.png)
 
-1. 单击 **[!UICONTROL Import]**。
+1. 单击&#x200B;**[!UICONTROL Import]**。
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. 单击&#x200B;**[!UICONTROL Browse]**&#x200B;并选择您[下载的解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
+1. 单击&#x200B;**[!UICONTROL Browse]**&#x200B;并选择您[下载的解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -58,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-19-9-21-50.png)
 
-1. 确保选中SDK选项复选框。 单击 **[!UICONTROL Import]**。
+1. 确保选中SDK选项复选框。 单击&#x200B;**[!UICONTROL Import]**。
 
    ![](assets/image2015-3-19-9-19-12.png)
 

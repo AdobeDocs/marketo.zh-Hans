@@ -4,9 +4,17 @@ description: 了解如何创建和运行参与流绩效报表。 按程序电子
 title: 参与流性能报告
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/63c8ll4a9f8PleyGPDFDIKmXW9b9TsJ3pmqnorwKU2g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: 157
 ht-degree: 7%
 
 ---
@@ -62,4 +70,4 @@ ht-degree: 7%
    >
    >参与度分数是本报表中的一栏，但并未进行插图。 有关参与度得分的详细信息，请参阅[了解参与度得分](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
-   做得好！请注意，报告按参与计划分组。
+   做得好！ 请注意，报告按参与计划分组。

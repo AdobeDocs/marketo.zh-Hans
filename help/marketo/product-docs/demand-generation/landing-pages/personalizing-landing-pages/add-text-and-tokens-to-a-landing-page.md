@@ -1,17 +1,20 @@
 ---
 unique-page-id: 2359530
 description: 了解如何将文本和令牌添加到Marketo登陆页面。 插入用于个性化的静态文本和动态令牌。
-title: 向登录页面添加文本和令牌
+title: 将文本和令牌添加到登陆页面
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 8%
+source-wordcount: 191
+ht-degree: 0%
 
 ---
 
-# 向登录页面添加文本和令牌 {#add-text-and-tokens-to-a-landing-page}
+# 将文本和令牌添加到登陆页面 {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]
 >
@@ -69,7 +72,7 @@ ht-degree: 8%
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. 单击 **[!UICONTROL Save]**。
+1. 单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

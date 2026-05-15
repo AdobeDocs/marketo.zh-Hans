@@ -4,9 +4,12 @@ description: 了解如何过滤指定帐户以快速缩小数据范围。 在筛
 title: 在命名帐户中进行筛选
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/S0l1fS12Faz-kO3--iP743L4CHGlz0WPdjreuTTMzfw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 131
 ht-degree: 12%
 
 ---

@@ -4,9 +4,15 @@ title: 电子邮件协作
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: 316
 ht-degree: 2%
 
 ---
@@ -21,7 +27,7 @@ ht-degree: 2%
 
 ## 添加评论 {#add-comments}
 
-1. 在Email Designer中创建或编辑电子邮件时，单击任何可编辑部分上的结构、列或内容（文本、图像、按钮等）。
+1. 在Email Designer中创建或编辑电子邮件时，单击结构、列或内容（文本、图像、按钮等） 覆盖任何可编辑的部分。
 
    ![](assets/email-collaboration-1.png)
 

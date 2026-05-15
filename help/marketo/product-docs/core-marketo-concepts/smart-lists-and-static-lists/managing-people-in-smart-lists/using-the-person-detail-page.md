@@ -4,10 +4,18 @@ description: 了解如何使用人员详细信息页面。 从一处查看和编
 title: 使用人员详情页
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 26%
+source-wordcount: 552
+ht-degree: 25%
 
 ---
 
@@ -60,7 +68,7 @@ ht-degree: 26%
 
 >[!NOTE]
 >
->您还可以看到通过API[插入的未与CRM同步的实例的Opportunity信息](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities)。
+>您还可以看到通过API[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/opportunities)插入的未与CRM同步的实例的Opportunity信息。
 
 ## 编辑字段 {#editing-a-field}
 
@@ -76,7 +84,7 @@ ht-degree: 26%
 | 帐单寄送国家 | 帐单邮政编码 | 帐单寄送州 | 城市 | 公司名称 |
 | 国家/地区 | 创建时间 | 出生日期 | 部门 | 请勿来电 |
 | 不要调用原因 | 请勿来电的理由 | 电子邮件地址 | 电子邮件无效 | 电子邮件无效原因 |
-| 外部公司 ID | 外部销售人员 ID | 传真号码 | 名 | 全名 |
+| 外部公司 ID | 外部销售人员 ID | 传真号码 | 名字 | 全名 |
 | 行业 | 推断的城市 | 推断公司 | 推断国家 | 推断的都市区 |
 | 推断的电话区号 | 推断的邮政编码 | 推断的状态区域 | 匿名 | 是客户 |
 | 是合作伙伴 | 职务 | 姓 | 评级 | 得分 |
@@ -89,7 +97,7 @@ ht-degree: 26%
 | 中间名称 | 手机号码 | 员工数 | 电话号码 | 邮政编码 |
 | 优先级 | 相对分数 | 角色 | 称谓 | 标准产业分类(SIC)代码 |
 | 现场 | State | 取消订阅 | 退订原因 | 更新时间 |
-| 紧急 | 网站 |  |  |  |
+| 紧迫性 | 网站 |  |  |  |
 
 >[!NOTE]
 >

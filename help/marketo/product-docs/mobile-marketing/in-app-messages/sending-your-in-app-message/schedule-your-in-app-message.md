@@ -4,10 +4,13 @@ description: 了解如何计划应用程序内消息。 设置将来的开始日
 title: 计划您的应用程序内消息
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/VfL4nNWKztKHXuOvPzdJ6EpLVpJdHytKDYNxzdYLVWM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 8%
+source-wordcount: 101
+ht-degree: 9%
 
 ---
 

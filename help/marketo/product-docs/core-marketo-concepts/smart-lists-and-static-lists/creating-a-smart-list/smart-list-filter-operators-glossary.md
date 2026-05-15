@@ -4,9 +4,12 @@ description: 获取有关智能列表筛选器运算符的帮助。 了解用于
 title: 智能列表过滤器运算符术语表
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/srdWBb-dHYhiCNam-GPG6tTIHo3k53IH687LF-UiFg4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: 601
 ht-degree: 15%
 
 ---

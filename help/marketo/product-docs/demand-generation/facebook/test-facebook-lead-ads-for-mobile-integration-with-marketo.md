@@ -4,9 +4,15 @@ description: 了解如何测试Facebook Lead Ads与Marketo的移动集成。 验
 title: 测试 Facebook 潜在客户广告与 Marketo 的移动端集成
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/VrGVY61VlAmqLgSm6r2lCFHed5Cqn88mojgKZpP9-Lg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: 192
 ht-degree: 5%
 
 ---

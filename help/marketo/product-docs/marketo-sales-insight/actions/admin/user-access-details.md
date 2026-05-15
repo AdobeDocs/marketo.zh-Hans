@@ -3,9 +3,15 @@ description: 了解管理员和非管理员可以在Sales Insight操作中访问
 title: 用户访问详情
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: 216
 ht-degree: 2%
 
 ---

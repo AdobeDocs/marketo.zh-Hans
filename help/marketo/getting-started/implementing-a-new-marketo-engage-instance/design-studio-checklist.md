@@ -3,14 +3,32 @@ description: 为您的新Marketo Engage实例设置Design Studio部分。
 title: 新实例最佳实践 — 设计工作室核对清单
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+TQID: https://experienceleague.adobe.com/RBppQJwjVVJ-5eQDWh-990TJDXF4c7EPEja7uHRlI6I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 4%
+source-wordcount: 625
+ht-degree: 3%
 
 ---
 
-# 新实例最佳实践：设计工作室核对清单 {#new-instance-best-practices-design-studio-checklist}
+# 新实例最佳做法：设计工作室检查表 {#new-instance-best-practices-design-studio-checklist}
 
 Design Studio部分是可重复使用的“全局资产”应驻留的位置。 创建您的组织计划在程序中使用的全局资产，使用一致的命名约定，并将它们组织在子文件夹中以便轻松搜索。
 
@@ -94,7 +112,7 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
 </tbody>
 </table>
 
-## 片段 {#snippets}
+## 代码段 {#snippets}
 
 <table>
 <thead>
@@ -105,7 +123,7 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
 </thead>
 <tbody>
   <tr>
-    <td>片段</td>
+    <td>代码段</td>
     <td><li>创建<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">代码片段</a>，使其具有可重复使用的内容块，这些内容块可用于多个用例，例如电子邮件和登陆页中的联系信息、社交媒体链接、品牌信息以及隐私和合规性说明。</li></td>
   </tr>
 </tbody>
@@ -143,7 +161,7 @@ Design Studio部分是可重复使用的“全局资产”应驻留的位置。 
 <tbody>
   <tr>
     <td>文件夹结构 </td>
-    <td><li>为每种类型的资产创建子文件夹，并<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">适当地组织全局资产</a>（例如，对话流、电子邮件模板、电子邮件、表单、图像和文件、登陆页面、登陆页面模板、代码片段等）。</li></td>
+    <td><li>为每种类型的资产创建子文件夹，并<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">组织全局资产</a>（例如，对话流、电子邮件模板、电子邮件、表单、图像和文件、登陆页面、登陆页面模板、代码片段等） 适当地。</li></td>
   </tr>
 </tbody>
 </table>

@@ -3,16 +3,19 @@ description: 了解Sales Insight操作中的电子邮件连接限制和发送限
 title: 电子邮件连接节流
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: 430
 ht-degree: 2%
 
 ---
 
 # 电子邮件连接节流 {#email-connection-throttling}
 
-集成要通过[!DNL Sales Connect]或Gmail电子邮件提供商发送的[!DNL Exchange]帐户，可简化设置并优化1:1销售通信的电子邮件可投放性。 但是，为了保持系统健康和帐户安全，Gmail和[!DNL Exchange]强制执行电子邮件发送限制。 这些限制可由提供商自行决定增加或减少。
+集成要通过[!DNL Exchange]或Gmail电子邮件提供商发送的[!DNL Sales Connect]帐户，可简化设置并优化1:1销售通信的电子邮件可投放性。 但是，为了保持系统健康和帐户安全，Gmail和[!DNL Exchange]强制执行电子邮件发送限制。 这些限制可由提供商自行决定增加或减少。
 
 ## 概述 {#overview}
 
@@ -65,7 +68,7 @@ ht-degree: 2%
 * 每分钟30次
 * 每封电子邮件500个收件人
 
-可在此处[找到更多信息](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)。
+可在此处[&#128279;](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)找到更多信息。
 
 ### Gmail {#gmail}
 
@@ -73,7 +76,7 @@ ht-degree: 2%
 * 每秒2封电子邮件（API限制）
 * 每封邮件2,000个收件人（外部收件人最多500个）
 
-可在此处[找到更多信息](https://support.google.com/a/answer/166852?hl=en)。
+可在此处[&#128279;](https://support.google.com/a/answer/166852?hl=en)找到更多信息。
 
 ### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
