@@ -3,9 +3,9 @@ description: 与Marketo人工智能讨论您的Marketo Engage性能数据。 以
 title: Analytics
 beta: true
 hide: true
-source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必须有权访问正在查询的程序和报告。
+>* 若要使用此功能，您必须首先同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>
+>* 您必须有权访问正在查询的程序和报告。
 
 ## 使用方法 {#how-to-use}
 
@@ -38,8 +40,8 @@ ht-degree: 0%
 
 ## 注意事项 {#things-to-note}
 
-* **Analytics答案基于Marketo实例中可用的数据**：如果程序未被跟踪或未捕获量度，Marketo AI将无法对其进行报告。
-* **超大日期范围或宽泛的问题可能会返回高级别的摘要而不是精细的细节**：例如，“过去两年我的所有项目表现如何？”
-* **Marketo AI可以显示数据，但无法根据它找到的内容对程序或报告进行更改**。
-* **对于包含特定筛选器和划分的详细自定义报表**，Marketo内置报表工具或BI集成可能更合适。
-* **跨多触点营销活动的归因需要正确的项目设置**： Marketo AI将报告跟踪的内容，而不是推断未配置的归因。
+* Analytics答案基于Marketo实例中可用的数据。 如果未跟踪项目或未捕获量度，Marketo AI将无法对其进行报告。
+* 超大日期范围或宽泛的问题可能会返回高级别的摘要，而不是精细的细节。 例如，“在过去的两年中，我的所有项目都表现如何？”
+* Marketo AI可以显示数据，但无法根据它找到的内容对程序或报表进行更改。
+* 对于包含特定过滤器和划分的详细自定义报表，Marketo内置报表工具或BI集成可能更合适。
+* 跨多触点营销活动的归因需要正确的项目设置。 Marketo AI将报告跟踪的内容，而不是推断未配置的归因。
