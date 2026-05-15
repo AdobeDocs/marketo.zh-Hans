@@ -1,0 +1,100 @@
+---
+description: 发行说明 — 2026年3月 — Marketo文档 — 产品文档
+title: 发行说明 — 2026年2月
+feature: Release Information
+source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
+workflow-type: tm+mt
+source-wordcount: '533'
+ht-degree: 18%
+
+---
+
+# 发行说明：2026年3月 {#release-notes-mar-26}
+
+在下方，您会找到2026年3月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
+
+Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
+
+## 标准发布周期功能 {#standard-release-cycle-features}
+
+以下功能属于标准发行周期，将于&#x200B;**2026年3月27日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
+
+<table style="table-layout:auto">
+ <tbody>
+ <tr>
+   <th style="width:65%">功能</th>
+   <th style="width:10%">状态</th>
+   <th style="width:25%">文档</th>
+  </tr>
+  <tr>
+   <td><strong>向Designer发送电子邮件 — 管理品牌（测试版）</strong>：根据您组织/品牌的特定撰稿准则生成电子邮件内容。</td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">创建和管理品牌</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件Designer — 片段中的可编辑HTML组件</strong>：在可视片段中，通过组件属性面板支持图像、文本和按钮组件上的可编辑字段。 对于HTML组件，可编辑字段的配置方式不同，在HTML组件本身的源代码中使用基于变量的语法。
+   </td>
+   <td>已发布</i></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">片段中的可编辑HTML组件</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>向Designer发送电子邮件 — 快速操作</strong>： <i>与旧电子邮件编辑器对等</i>。 快速操作现在可用于所有电子邮件Designer资源（电子邮件、电子邮件模板、片段）。 支持的快速操作包括：复制、删除、移动、创建/编辑草稿。
+   </td>
+   <td>已发布</i></td>
+   <td>不适用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr>
+   <td><strong>电子邮件Designer - Outlook渲染修复</strong>：此更新修复了渲染问题，尤其是在MS Outlook中。 高级HTML模式允许您进行细微的HTML/CSS编辑，或向电子邮件模板添加脚本标记。
+   </td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">使用高级HTML编辑器编辑电子邮件模板</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>发送电子邮件至Designer - Brand Score Checker</strong>：评估总体内容质量，确定可读性、内容一致性和有效性方面的潜在问题，这与您的品牌指南无关。</td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-score.md" target="_blank">品牌得分</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>推送通知</strong>：在推送通知消息中配置的重定向URI现在支持Marketo Engage令牌（仅适用于<i>启动应用程序URL</i>）。
+   </td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-uris">重定向URI</a></td>
+  </tr>
+  </tbody>
+</table>
+<br/>
+
+## 公告 {#announcements}
+
+* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hans){target="_blank"}。
+
+* **REST API合并潜在客户限制**：从2026年3月31日开始，在合并潜在客户API调用的leadIds参数中包含超过25个ID的调用将导致1080错误代码，并且将跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
+
+* **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年7月31日之后不可用。 所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+
+* **SOAP API弃用**：对Marketo SOAP API的支持将于2026年7月31日终止。 使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
