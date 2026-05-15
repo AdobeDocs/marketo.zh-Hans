@@ -4,10 +4,17 @@ title: 流程步骤服务
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/WNis-WE5v3Alpc0aSj1LrhTfOjNxnWmK8z-4afzADhU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: e2290edd-b061-4880-9d79-dee306cf5aa9
-subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1256
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 # 流程步骤服务 {#flow-step-service}
 
-自助服务流程步骤是用于创作、发布和将Web服务集成到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南面向希望安装和使用已创建和发布的服务的Marketo Engage最终用户。 有关创作和发布您自己的服务的信息，请参阅服务提供商界面](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}的[[!DNL GitHub] 存储库。 可在[此处](https://github.com/adobe/mkto-flow-lookup){target="_blank"}找到概念验证查找表实施。
+自助服务流程步骤是用于创作、发布和将Web服务集成到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南面向希望安装和使用已创建和发布的服务的Marketo Engage最终用户。 有关创作和发布您自己的服务的信息，请参阅服务提供商界面[&#128279;](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}的[!DNL GitHub] 存储库。 可在[此处](https://github.com/adobe/mkto-flow-lookup){target="_blank"}找到概念验证查找表实施。
 
 ## 入门和管理服务 {#onboarding-and-managing-services}
 

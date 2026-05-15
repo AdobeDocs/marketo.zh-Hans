@@ -5,7 +5,8 @@ title: 选择您的应用程序内消息
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/10WgRVgOFIuqn2ojRJ7lGkzzVjrC5QG-6U3301GZFbE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 129

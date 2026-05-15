@@ -5,9 +5,12 @@ title: 在 Salesforce1 中发送 Marketo 电子邮件和营销活动并管理关
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/bJcrAu9z069YhqSKLMU2pAwwZmZ1t7f6Li1e2B2Bl-4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 159
@@ -27,7 +30,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >将显示哪些智能营销活动？ 具有“已请求Campaign”触发器的受众。 了解如何使用“Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)”设置[触发的营销活动。
+   >将显示哪些智能营销活动？ 具有“已请求Campaign”触发器的受众。 了解如何使用“Campaign is Requested[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)”设置触发的营销活动。
 
 酷，现在您的销售人员可以积极参与营销工作了。
 

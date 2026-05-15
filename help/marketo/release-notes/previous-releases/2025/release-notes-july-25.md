@@ -4,10 +4,18 @@ title: 发行说明 — 2025年7月
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
 TQID: https://experienceleague.adobe.com/wIsDclvCMFe7vmLbXB6gk5P1gL1hq-8IBePO5LJaddc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452id: f5e85a9b-a883-40d0-8759-f3651efb32e9
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 830
@@ -19,7 +27,7 @@ ht-degree: 0%
 
 在下方，您会找到2025年7月版本中包含的所有功能。 检查您的Adobe Marketo Engage版本以了解功能可用性。
 
-可以在此处](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到特定于Adobe Dynamic Chat [的发行说明。
+可以在此处[&#128279;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}找到特定于Adobe Dynamic Chat 的发行说明。
 
 >[!AVAILABILITY]
 >

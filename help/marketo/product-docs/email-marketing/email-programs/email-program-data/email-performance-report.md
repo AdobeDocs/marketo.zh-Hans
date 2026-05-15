@@ -5,9 +5,13 @@ title: 电子邮件性能报告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 501
@@ -82,7 +86,7 @@ ht-degree: 95%
 
 * **规则 2**：如果电子邮件记录显示为 _[!UICONTROL Opened]_，则计为_&#x200B;已投递&#x200B;_。
 
-* **规则 3**：如果电子邮件记录显示为 _[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，则同时计为&#x200B;_已投递_&#x200B;和&#x200B;_已打开_。
+* **规则 3**：如果电子邮件记录显示为 _[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，则同时计为&#x200B;_已投递_&#x200B;和&#x200B;_已打开_。
 
 * **规则 4**：如果电子邮件状态为 _[!UICONTROL Opened]_，则忽略退信。 如果电子邮件尚未打开，则_&#x200B;硬退信&#x200B;_的优先级高于_&#x200B;软退信&#x200B;_和_&#x200B;已投递&#x200B;_。
 

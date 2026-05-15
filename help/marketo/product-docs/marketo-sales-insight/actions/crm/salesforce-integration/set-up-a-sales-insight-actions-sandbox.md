@@ -3,7 +3,8 @@ description: 了解如何设置Sales Insight Actions沙盒以进行测试。 请
 title: 设置 Sales Insight Actions 沙盒
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
 TQID: https://experienceleague.adobe.com/ZHly-bUFbbQwoOD-rheE4vfLCihBCplRjT0SNibBCc4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 693

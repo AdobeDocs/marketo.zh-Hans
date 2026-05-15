@@ -4,7 +4,8 @@ title: 高级搜索概述
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 398
@@ -85,13 +86,13 @@ ht-degree: 4%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**状态：已发送**_
+_&#x200B;**状态：已发送**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 按已发送的电子邮件活动筛选。 您可以选择[!UICONTROL views]/[!UICONTROL no views]、[!UICONTROL clicks]/[!UICONTROL no clicks]和/或[!UICONTROL replies]/[!UICONTROL no replies]。
 
-_**状态：待处理**_
+_&#x200B;**状态：待处理**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -116,7 +117,7 @@ _**状态：待处理**_
  </tr>
 </table>
 
-_**状态：未传递**_
+_&#x200B;**状态：未传递**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

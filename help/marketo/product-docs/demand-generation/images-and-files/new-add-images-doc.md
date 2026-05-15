@@ -5,8 +5,10 @@ hide: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
 TQID: https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 263
@@ -48,7 +50,7 @@ ht-degree: 14%
 
 文本
 
-1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
+1. 按照以上[&#128279;](#upload-image-or-file)中的步骤1和2 操作。
 
 1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 
@@ -70,7 +72,7 @@ PICC
 
 文本
 
-1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
+1. 按照以上[&#128279;](#upload-image-or-file)中的步骤1和2 操作。
 
 1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 
@@ -100,7 +102,7 @@ PICC
 
 文本
 
-1. 按照以上](#upload-image-or-file)中的步骤1和2 [操作。
+1. 按照以上[&#128279;](#upload-image-or-file)中的步骤1和2 操作。
 
 1. 点击 **[!UICONTROL Image and file actions]** 下拉菜单，并选择 **[!UICONTROL Import image or file]**。
 

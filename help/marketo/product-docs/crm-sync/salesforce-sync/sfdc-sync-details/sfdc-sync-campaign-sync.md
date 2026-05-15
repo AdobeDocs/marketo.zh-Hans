@@ -5,9 +5,15 @@ title: SFDC同步 — Campaign同步
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RnUIcPDeA48j-ioSkepxzv0-0Hmh9n5eTcIAsgdHC4s
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 376
@@ -61,7 +67,7 @@ Marketo **计划成员**&#x200B;及其&#x200B;**[进度状态](/help/marketo/pro
 
 ## 我可以使用Marketo更改营销活动成员状态吗？ {#can-i-change-campaign-member-status-using-marketo}
 
-是，在SFDC Campaign流程操作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}中使用[更改状态。
+是，在SFDC Campaign流程操作[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}中使用更改状态。
 
 ## 为什么我看不到任何[!DNL Salesforce]营销活动？ {#why-cant-i-see-any-of-my-salesforce-campaigns}
 

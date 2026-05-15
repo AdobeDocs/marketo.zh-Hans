@@ -6,8 +6,10 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 feature: Integrations
 TQID: https://experienceleague.adobe.com/eRrJ4Lgmy5HYhtbSFCjUZmk549-1D7kgaqK-uE6-jO0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 301
@@ -29,7 +31,7 @@ Marketo _社交应用程序_&#x200B;允许您的潜在客户与其在Facebook、
 
 您可以指定要在由共享从登陆页面生成的[!DNL Facebook]个丰富帖子中使用的页面信息类型。
 
-1. 在编辑器中为__[!DNL YouTube_]_视频或社交按钮选择&#x200B;**[!UICONTROL Facebook Message]**。
+1. 在编辑器中为_&#x200B;_[!DNL YouTube_]_&#x200B;视频或社交按钮选择&#x200B;**[!UICONTROL Facebook Message]**。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

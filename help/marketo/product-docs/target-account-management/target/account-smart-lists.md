@@ -5,7 +5,8 @@ title: 帐户智能列表
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/CzJmCUT5TYuVKNOMmSkOjuRc7ImDGOzw7L-Ej45-Evw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 444
@@ -95,7 +96,7 @@ ht-degree: 2%
 
 **[!UICONTROL Send to Ad Network]**：将列表作为新匹配的受众发送到[!DNL LinkedIn]。
 
-您还可以使用&#x200B;_[!UICONTROL People Member of Account Smart List]_筛选器在标准智能营销活动/列表中引用[!UICONTROL Account Smart List]。
+您还可以使用&#x200B;_[!UICONTROL People Member of Account Smart List]_&#x200B;筛选器在标准智能营销活动/列表中引用[!UICONTROL Account Smart List]。
 
 ![](assets/account-smart-lists-12.png)
 

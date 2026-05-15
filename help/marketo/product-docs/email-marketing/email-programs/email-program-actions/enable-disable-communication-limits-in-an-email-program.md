@@ -5,9 +5,13 @@ title: 在电子邮件项目中启用/禁用通信限制
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/D9EiErAPptyeyF5Snw0RJxh7tMfKvY1NNycspaH2tss
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 139
@@ -21,7 +25,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->通信限制在管理员部分](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)中设置为[，并帮助您避免向某人发送过多电子邮件。
+>通信限制在管理员部分[&#128279;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)中设置为，并帮助您避免向某人发送过多电子邮件。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

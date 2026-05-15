@@ -7,9 +7,13 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
 TQID: https://experienceleague.adobe.com/fqQeYa6MYeNwnortlc4f9i2-lEwyRILxBQrbfS7Kyo0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 236
@@ -57,4 +61,4 @@ SpamAssassin会分析您的内容并根据各种标准分配分数。 得分越�
 
 >[!NOTE]
 >
->垃圾邮件分数是通过SpamAssassin派生的，并且&#x200B;**规则不归Adobe**&#x200B;所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank){target="_blank"}。 可以在此处](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}查看错误[的完整列表。
+>垃圾邮件分数是通过SpamAssassin派生的，并且&#x200B;**规则不归Adobe**&#x200B;所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank){target="_blank"}。 可以在此处[&#128279;](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}查看错误的完整列表。

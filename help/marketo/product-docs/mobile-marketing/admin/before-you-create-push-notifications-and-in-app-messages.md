@@ -5,9 +5,13 @@ title: 在创建推送通知和应用程序内消息之前
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 415
@@ -29,7 +33,7 @@ ht-degree: 4%
 
 1. 开发人员[为Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)生成服务器API密钥和项目编号，并将其发送给Marketo管理员。
 
-1. Marketo管理员使用服务器API密钥(Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)配置推送通知访问[，或使用证书(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)配置[。
+1. Marketo管理员使用服务器API密钥(Android) [&#128279;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)配置推送通知访问[，或使用证书(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)配置。
 
 >[!TIP]
 >

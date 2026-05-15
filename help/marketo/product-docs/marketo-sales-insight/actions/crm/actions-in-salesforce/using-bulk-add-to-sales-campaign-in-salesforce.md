@@ -3,8 +3,10 @@ description: 了解如何从Salesforce将潜在客户和联系人批量添加到
 title: 在 Salesforce 中批量添加到销售营销活动
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
 TQID: https://experienceleague.adobe.com/2LbZICCTfZs0GAnBtFwAs3f0xjKk1ZkHvY2fkC7VLbU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 602

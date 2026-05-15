@@ -5,8 +5,10 @@ title: 如何将 Sales Connect 连接到您的 Salesforce 沙盒
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/hEZXmSaOyNuptcuDEMrsiSeT-n4FSXU67W2DVPwb3uI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 138
@@ -18,7 +20,7 @@ ht-degree: 13%
 
 >[!PREREQUISITES]
 >
->建立与沙盒的连接时，您的[!DNL  Sales Connect]帐户不能已连接到[!DNL Salesforce]。 如果是，[请确保断开连接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)，然后再执行本文中的步骤。
+>建立与沙盒的连接时，您的[!DNL &#x200B; Sales Connect]帐户不能已连接到[!DNL Salesforce]。 如果是，[请确保断开连接](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)，然后再执行本文中的步骤。
 
 1. 在[!DNL Sales Connect]中，单击右上角的齿轮图标，然后选择&#x200B;**[!UICONTROL Settings]**。
 

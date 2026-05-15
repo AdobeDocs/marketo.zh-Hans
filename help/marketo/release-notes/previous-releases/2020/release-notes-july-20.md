@@ -5,10 +5,19 @@ title: 发行说明 — 2020年7月
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
 TQID: https://experienceleague.adobe.com/m0gaKwTahjs5M2I7i-XVYMLZT4COy0XRTYwIsd3p9g8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-subfeature_v2: id: f5e85a9b-a883-40d0-8759-f3651efb32e9
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 651
@@ -68,6 +77,6 @@ ht-degree: 2%
 
 * **Asset API“_method”参数删除**： 2020年9月之后，Asset API端点将不再接受在POST正文中传递“_method”以绕过URI长度限制。 为了适应需要此参数的请求，资产API的URI限制将从8 KB增加到65 KB。
 * **[[!DNL Munchkin] 关联潜在客户](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：通过此版本的Munchkin JavaScript客户端版本159，我们将开始弃用[!DNL Munchkin]关联潜在客户方法。 如果调用，您将收到一则警告，指示将在未来版本中删除该方法。 一旦删除，此方法将无法再正常使用，并且尝试使用它将失败。 最近使用此方法的Marketo Engage客户将单独收到有关其使用的通知。
-* **对Internet Explorer**&#x200B;的支持：如之前宣布的，Marketo Engage对Internet Explorer 11的支持将于&#x200B;**2020年7月31日**&#x200B;终止。 我们将继续支持[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL  Apple Safari]和[!DNL Microsoft Edge]。
+* **对Internet Explorer**&#x200B;的支持：如之前宣布的，Marketo Engage对Internet Explorer 11的支持将于&#x200B;**2020年7月31日**&#x200B;终止。 我们将继续支持[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL &#x200B; Apple Safari]和[!DNL Microsoft Edge]。
 * **Sky默认体验**：将在此版本中删除管理员或用户将[!DNL Marketo Sky]设置为默认体验的选项，以便为更新主用户体验做准备。 有关更新主要体验的更多详细信息，计划在今年晚些时候发布，将于7月发布。 已将[!DNL Marketo Sky]设置为默认体验或已授予[!DNL Marketo Sky]访问权限的用户可以继续从“我的Marketo”主页上的图块访问[!DNL Marketo Sky]。
 * **EdgeHTML（非Chromium） [!DNL Microsoft Edge]支持**： 2020年底，Marketo Engage将不再支持Microsoft Edge的EdgeHTML版本。 从2021年1月1日开始，我们将仅支持最新的Microsoft Edge版本。

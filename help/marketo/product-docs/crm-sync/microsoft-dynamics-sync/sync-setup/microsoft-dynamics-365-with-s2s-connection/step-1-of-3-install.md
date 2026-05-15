@@ -4,7 +4,8 @@ title: 第1步（共3步） — 安装具有服务器到服务器连接的Market
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/Zxz0uXhcLankhjuBt-n5T-kAuPxiSR--Jka2uybXqi4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 244

@@ -4,9 +4,12 @@ title: 举办互动网络研讨会
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
 TQID: https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1198
@@ -96,7 +99,7 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 可以将“广播控制”设置为在您离开绿色房间后自动开始录制。 这可确保主机不必记得手动启动和停止录制。 暂停或停止广播也会暂停或停止录制。 一切都是自动的。
 
-在此视频](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中了解有关广播控制[的更多信息。
+在此视频[&#128279;](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中了解有关广播控制的更多信息。
 
 ### 录制中的聊天 {#chats-in-recordings}
 
@@ -126,7 +129,7 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 这将关闭准备模式并返回到活动布局。
 
-在此视频](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中了解有关准备模式[的更多信息。
+在此视频[&#128279;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中了解有关准备模式的更多信息。
 
 >[!NOTE]
 >

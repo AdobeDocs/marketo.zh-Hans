@@ -5,7 +5,8 @@ title: 第1步（共3步） — 将Marketo字段添加到Salesforce（专业）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 729

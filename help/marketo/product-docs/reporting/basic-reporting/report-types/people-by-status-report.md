@@ -5,9 +5,12 @@ title: 按状态分类的人员报告
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
 TQID: https://experienceleague.adobe.com/mckFm3eVloyPfAwlvVR9o0pvBU1zFom4KKf-lF6pdNs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 120
@@ -17,13 +20,13 @@ ht-degree: 6%
 
 # 按状态分类的人员报告 {#people-by-status-report}
 
-通过检查每月每个&#x200B;_[!UICONTROL Person Status]_值中显示的人员数量，查看您在流程中移动人员的效果。
+通过检查每月每个&#x200B;_[!UICONTROL Person Status]_&#x200B;值中显示的人员数量，查看您在流程中移动人员的效果。
 
 1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**[!UICONTROL People by Status]** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
 1. [设置报告的时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)并单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
 
-1. 太棒了！ 现在，您可以看到每个&#x200B;_[!UICONTROL Person Status]_中每月有多少人。
+1. 太棒了！ 现在，您可以看到每个&#x200B;_[!UICONTROL Person Status]_&#x200B;中每月有多少人。
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 

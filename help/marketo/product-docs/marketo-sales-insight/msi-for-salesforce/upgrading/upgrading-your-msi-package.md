@@ -5,9 +5,13 @@ title: 升级 MSI 包
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/wOriEL9vVh3fEb7SdMYiT2OmbrWJmEJ7yoraRr3Ogss
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 276
@@ -21,7 +25,7 @@ ht-degree: 2%
 >
 >由于Salesforce进行了安全增强，Sales Insight包无法再向标准对象授予权限。 今后，Sales Insight用户的Salesforce配置文件需要具有以下标准对象的读取权限：潜在客户、联系人、客户和机会。 [在此了解如何进行配置](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}。
 
-1. 在appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}中导航到[此页面。
+1. 在appexchange[&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}中导航到此页面。
 
 1. 从步骤一的页面右上角登录[!DNL Salesforce]实例（连接到Marketo实例的实例，可以是沙盒或生产实例）。 您必须具有管理员权限才能在[!DNL Salesforce]中安装/升级托管包。
 

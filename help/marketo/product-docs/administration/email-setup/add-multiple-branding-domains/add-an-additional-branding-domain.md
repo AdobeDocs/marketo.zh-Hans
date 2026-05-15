@@ -5,9 +5,13 @@ title: 添加附加品牌域名
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
 TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 697
@@ -49,9 +53,9 @@ ht-degree: 19%
 
 按照以下步骤为现有域启用SSL。
 
-1. 从&#x200B;_[!UICONTROL Admin]_区域，选择&#x200B;**[!UICONTROL Email]**。
+1. 从&#x200B;_[!UICONTROL Admin]_&#x200B;区域，选择&#x200B;**[!UICONTROL Email]**。
 
-1. 在&#x200B;_[!UICONTROL Domain]_选项卡上，选择域行并单击&#x200B;**[!UICONTROL Add SSL]**。
+1. 在&#x200B;_[!UICONTROL Domain]_&#x200B;选项卡上，选择域行并单击&#x200B;**[!UICONTROL Add SSL]**。
 
    ![管理员 — 电子邮件 — 域 — 添加SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 

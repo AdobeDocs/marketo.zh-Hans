@@ -4,7 +4,8 @@ title: 将您的 Sales Insight Actions 帐户连接到 Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/C8GZBofPcwE9Jo2dxCnF4A-EoRaEq1194A9k06ww4CY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 113

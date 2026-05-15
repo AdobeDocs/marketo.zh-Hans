@@ -5,9 +5,13 @@ title: 更改报告时间范围
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
 TQID: https://experienceleague.adobe.com/KXVoZEjXW3Kla3s9EfWqpS8lMKmz8GhhAN0qTV1X72g
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 165
@@ -47,7 +51,7 @@ ht-degree: 6%
    >
    >要设置特定日期，请从下拉菜单中选择&#x200B;**[!UICONTROL Custom]**，然后在&#x200B;**[!UICONTROL From]**&#x200B;和&#x200B;**[!UICONTROL To]**&#x200B;日历字段中输入日期。
 
-   单击&#x200B;**[!UICONTROL Report]**选项卡可查看选定时间范围的报告。
+   单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡可查看选定时间范围的报告。
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

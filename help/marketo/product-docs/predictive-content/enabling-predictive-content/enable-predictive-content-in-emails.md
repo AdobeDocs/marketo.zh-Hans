@@ -5,7 +5,8 @@ title: 在电子邮件中启用预测性内容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 400
@@ -69,7 +70,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >在收件人打开电子邮件&#x200B;_**之前，未选择**_&#x200B;图像。 因此，您在预览中看到的只是一个示例，不一定是收件人看到的图像。
+   >在收件人打开电子邮件&#x200B;_&#x200B;**之前，未选择**&#x200B;_&#x200B;图像。 因此，您在预览中看到的只是一个示例，不一定是收件人看到的图像。
 
 1. 预览完电子邮件后，单击&#x200B;**[!UICONTROL Preview Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Approve and Close]**。 或者，如果您仍然需要编辑，请单击右侧的&#x200B;**[!UICONTROL Edit Draft]**。
 

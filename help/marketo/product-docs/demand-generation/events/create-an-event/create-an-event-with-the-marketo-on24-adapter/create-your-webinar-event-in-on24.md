@@ -5,7 +5,8 @@ title: 在 ON24 中创建网络研讨会事件
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
 TQID: https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 183
@@ -29,7 +30,7 @@ ht-degree: 6%
 * 实时活动开始 — 开始日期和时间。 该屏幕将显示在Marketo中。
 * 实时结束时间 — 完成日期和时间。 该屏幕将显示在Marketo中。
 
-下一步是在Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}中[创建一个事件。
+下一步是在Marketo[&#128279;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}中创建一个事件。
 
 >[!MORELIKETHIS]
 >

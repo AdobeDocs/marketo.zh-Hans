@@ -5,7 +5,8 @@ title: 向自由格式登录页面图像添加链接
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/oWeDNJi60IIzN30h98YEwJQix8W5pJP7BvAY-1rgobI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 95

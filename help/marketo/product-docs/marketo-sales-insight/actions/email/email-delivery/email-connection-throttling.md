@@ -4,7 +4,8 @@ title: 电子邮件连接节流
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 430
@@ -67,7 +68,7 @@ ht-degree: 2%
 * 每分钟30次
 * 每封电子邮件500个收件人
 
-可在此处](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)找到更多信息[。
+可在此处[&#128279;](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)找到更多信息。
 
 ### Gmail {#gmail}
 
@@ -75,7 +76,7 @@ ht-degree: 2%
 * 每秒2封电子邮件（API限制）
 * 每封邮件2,000个收件人（外部收件人最多500个）
 
-可在此处](https://support.google.com/a/answer/166852?hl=en)找到更多信息[。
+可在此处[&#128279;](https://support.google.com/a/answer/166852?hl=en)找到更多信息。
 
 ### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 

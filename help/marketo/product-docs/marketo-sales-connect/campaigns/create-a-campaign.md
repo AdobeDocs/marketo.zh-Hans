@@ -5,7 +5,8 @@ title: 创建营销活动
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 306
@@ -38,7 +39,7 @@ ht-degree: 3%
    >
    >通过单击&#x200B;**[!UICONTROL Categories]**&#x200B;旁边的&#x200B;**+**&#x200B;创建新类别。
 
-1. 将选择您选择的类别。 如果您改变了主意，请单击下拉菜单并选择另一个下拉菜单。 完成后，单击&#x200B;**[!UICONTROL  Continue]**。
+1. 将选择您选择的类别。 如果您改变了主意，请单击下拉菜单并选择另一个下拉菜单。 完成后，单击&#x200B;**[!UICONTROL &#x200B; Continue]**。
 
    ![](assets/three-1.png)
 

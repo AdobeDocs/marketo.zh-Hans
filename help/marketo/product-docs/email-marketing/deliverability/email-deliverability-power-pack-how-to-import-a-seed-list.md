@@ -5,7 +5,8 @@ title: 电子邮件可投放性功能包 — 如何导入种子列表
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 328
@@ -19,7 +20,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->本文适用于目前拥有活跃珠穆朗玛峰订阅的用户。 如果您使用Inbox Tracker by Bird （以前称为MessageBird），则可以在此处](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}找到您的教程[。
+>本文适用于目前拥有活跃珠穆朗玛峰订阅的用户。 如果您使用Inbox Tracker by Bird （以前称为MessageBird），则可以在此处[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}找到您的教程。
 
 ## 导入种子列表 {#import-a-seed-list}
 

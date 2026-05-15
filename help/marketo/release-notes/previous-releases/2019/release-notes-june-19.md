@@ -5,10 +5,20 @@ title: 发行说明 — 2019年6月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
 TQID: https://experienceleague.adobe.com/l-uJTEC4AHKsGj-BPUHaIVvCpZkeXHSlNW9fivL6NrI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114b
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 639
@@ -73,4 +83,4 @@ ht-degree: 0%
 * **漂移集成**：了解漂移对话如何影响客户的历程。 [!DNL Bizible]还将从对话中提取电子邮件地址，以创建新潜在客户或将接触点连接到现有潜在客户。
 * **本地化**： [!DNL Bizible]现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）版本。
 
-_**产品发布网络研讨会**_&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。
+_&#x200B;**产品发布网络研讨会**&#x200B;_&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。

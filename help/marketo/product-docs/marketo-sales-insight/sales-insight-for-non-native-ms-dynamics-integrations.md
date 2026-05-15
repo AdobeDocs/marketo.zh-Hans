@@ -4,10 +4,15 @@ title: 非本地MS [!DNL Dynamics] 集成的[!DNL Sales Insight]
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399
-subfeature_v2: id: edcca97f-2314-445f-9a79-3ac30a2a9c27
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1532
@@ -22,7 +27,7 @@ ht-degree: 2%
 >[!PREREQUISITES]
 >
 >* 在开始设置MSI之前，已为您的Marketo实例启用“MSI非本地”功能。 如果不是，并且您已经购买该功能，请联系[Marketo支持](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 如果您尚未购买此功能，请联系Adobe客户团队（您的客户经理）。
->* 下载自定义同步](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}的[MSI包。
+>* 下载自定义同步[&#128279;](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}的MSI包。
 >* 具有MSI安装程序的MS Dynamics订阅（我们当前仅支持[Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"}）。
 >* Marketo REST API [已成功设置](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。 公开的CRUD API将是执行非本机同步的基础。
 >* 阅读[这篇博客文章](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"}以了解对象和关系。

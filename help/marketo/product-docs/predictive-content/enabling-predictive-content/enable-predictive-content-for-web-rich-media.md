@@ -5,8 +5,10 @@ title: 为 Web 富媒体启用预测性内容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 319
@@ -50,7 +52,7 @@ ht-degree: 6%
 
 ## 自定义Javascript代码并将其嵌入您的网站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-请参阅Marketo开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上有关富媒体推荐模板[的文档。 本部分说明如何自定义网站的模板。
+请参阅Marketo开发人员网站[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上有关富媒体推荐模板的文档。 本部分说明如何自定义网站的模板。
 
 将JavaScript代码粘贴到网站中您希望显示该模板的位置。
 

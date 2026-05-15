@@ -5,8 +5,11 @@ title: 计划批处理智能营销活动延后运行
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/gBgLIEe4ehipU1qlq8hicQXJxhxP-8gTjNKm1-j7lPE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 134
@@ -20,7 +23,7 @@ ht-degree: 12%
 
 >[!TIP]
 >
->您还可以在项目计划视图](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"}中[重新计划批量智能营销活动。
+>您还可以在项目计划视图[&#128279;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"}中重新计划批量智能营销活动。
 
 1. 选择要运行的批处理智能营销活动，转到&#x200B;**[!UICONTROL Schedule]**&#x200B;选项卡，然后单击&#x200B;**[!UICONTROL Run Once]**。
 

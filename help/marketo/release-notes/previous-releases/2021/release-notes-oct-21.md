@@ -4,10 +4,22 @@ title: 发行说明 - 2021 年 10 月
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
 TQID: https://experienceleague.adobe.com/lJDSwy-83svV2pbHrXQvM4nEEidAPfcBeRz-Z3LmVjk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1110
@@ -55,13 +67,13 @@ ht-degree: 2%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Microsoft Dynamics 365]销售额&#x200B;**的**[!DNL Sales Insight]
+[!DNL Microsoft Dynamics 365]销售额&#x200B;**的**&#x200B;[!DNL Sales Insight]
 
 * **[!UICONTROL Best Bets]增强功能**： [!DNL Sales Insight]中的[!UICONTROL Best Bets]选项卡为销售人员提供按质量和紧迫性排定优先顺序的最热门联系人和潜在客户的实时视图。 我们增加了销售代表执行操作的功能，例如：直接从[!DNL Best Bets]页面查看人员得分、发送电子邮件或将潜在客户添加到指定的Marketo Engage营销活动，从而提高效率并加快响应时间。
 
 * **新电子邮件、Web活动、匿名Web活动仪表板**：我们添加了新销售仪表板，以便通知销售商有关其潜在客户和联系人最近电子邮件和Web活动的信息。 通过新的筛选功能，功能板现在可将insight用于电子邮件打开、点击和网页访问，以获取完整的帐户列表或特定帐户。 Marketo Engage会跟踪所有Web活动，并为销售人员提供关键信息，从而将匿名流量转化为潜在客户。 销售人员能够个性化参与并更快地将潜在客户转化为销售人员，因为他们能够更好地了解潜在客户行为，并根据所有接触点的相关性行事。
 
-[!DNL Salesforce]**的**[!DNL Sales Insight]
+[!DNL Salesforce]&#x200B;**的**&#x200B;[!DNL Sales Insight]
 
 * **帐户和机会级别[!UICONTROL Best Bets]**： [!DNL Sales Insight]现在允许销售代表查看他们拥有的帐户或机会的所有联系人的最佳匹配，即使联系人已分配给其他团队成员。 这可以让客户和机会所有者全面了解相关联系人的活动，并有助于他们基于对客户或机会的更全面的了解而采取行动。
 

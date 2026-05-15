@@ -5,8 +5,10 @@ title: 设置隐藏表单字段值
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
 TQID: https://experienceleague.adobe.com/uw1Xfgoa51WI-Ca6knnBGlwfrruPTYldJ--3zF5Jlzc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 266
@@ -40,7 +42,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->参数是技术性的。 一旦你了解它们，它们就会变得强大。 查询字符串](https://en.wikipedia.org/wiki/Query_string)上的此[Wikipedia页面有些帮助。
+>参数是技术性的。 一旦你了解它们，它们就会变得强大。 查询字符串[&#128279;](https://en.wikipedia.org/wiki/Query_string)上的此Wikipedia页面有些帮助。
 
 1. 为&#x200B;**[!UICONTROL Get Value Type]**&#x200B;选择&#x200B;**[!UICONTROL URL Parameter]**。
 

@@ -5,8 +5,10 @@ title: 编辑电子邮件的预测性内容
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/e2NGmNJB2E1M1cUZy8bcLA5lLb-9a-j55LWYyfpow-o
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 245
@@ -20,7 +22,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->[!UICONTROL All Content]页面上的预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为[批准。
+>[!UICONTROL All Content]页面上的预测内容[&#128279;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为批准。
 
 1. 在[!UICONTROL Predictive Content]页面上，单击标题以打开编辑器。
 

@@ -5,9 +5,13 @@ title: 电子邮件洞察发送概述
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
 TQID: https://experienceleague.adobe.com/jqWygOwiAGryAfaWPV01ZnRqj5bVc-I2AvvkJza-fjM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 182
@@ -29,10 +33,10 @@ ht-degree: 4%
 
 ![](assets/two-1.png)
 
-**[!UICONTROL Type]**指示使用的资源类型。
-**[!UICONTROL Recipient]**数字是已发送电子邮件的人员数。
-**[!UICONTROL Delivery Metrics]**可让您快速查看已投放、待处理或已退回的电子邮件数量。
-**[!UICONTROL Engagement Metrics]**让您快速了解已打开、单击和取消订阅电子邮件的收件人数量。
+**[!UICONTROL Type]**&#x200B;指示使用的资源类型。
+**[!UICONTROL Recipient]**&#x200B;数字是已发送电子邮件的人员数。
+**[!UICONTROL Delivery Metrics]**&#x200B;可让您快速查看已投放、待处理或已退回的电子邮件数量。
+**[!UICONTROL Engagement Metrics]**&#x200B;让您快速了解已打开、单击和取消订阅电子邮件的收件人数量。
 **[!UICONTROL Score]**&#x200B;是您电子邮件的[参与度分数](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 默认情况下，您的电子邮件按最新电子邮件排序，但您可以按任何可用量度对这些电子邮件排序。

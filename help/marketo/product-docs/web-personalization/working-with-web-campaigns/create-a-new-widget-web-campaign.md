@@ -5,9 +5,13 @@ title: 创建新小组件 Web 营销活动
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 636
@@ -17,7 +21,7 @@ ht-degree: 4%
 
 # 创建新小组件 Web 营销活动 {#create-a-new-widget-web-campaign}
 
-Web营销活动是与特定区段关联的自定义反应，可以是您网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域替换](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、小组件功能或电子邮件警报。 Widget Web营销活动是出现在网页垂直侧的文本或横幅，能够展开和收缩，同时在整个访问期间都固定在网站页面上。
+Web营销活动是与特定区段关联的自定义反应，可以是您网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域替换[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、小组件功能或电子邮件警报。 Widget Web营销活动是出现在网页垂直侧的文本或横幅，能够展开和收缩，同时在整个访问期间都固定在网站页面上。
 
 ## 创建构件Web营销活动 {#create-a-widget-web-campaign}
 

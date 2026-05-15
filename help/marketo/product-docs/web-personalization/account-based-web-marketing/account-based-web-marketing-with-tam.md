@@ -5,10 +5,14 @@ title: 结合 TAM 的基于帐户的 Web 营销
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/BSlDYlNvFm1mZs9UP58HxZ2HLiLYjFrbt7WyCHzT1c4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 186
@@ -28,7 +32,7 @@ Marketo提供[[!UICONTROL Target Account Management]](/help/marketo/product-docs
 
    * **注意**：同步最多可能需要5分钟
 
-* 在[!UICONTROL Web Personalization]中，您可以根据在TAM中创建的帐户列表](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)创建定向帐户的[区段，并个性化这些帐户的内容
+* 在[!UICONTROL Web Personalization]中，您可以根据在TAM中创建的帐户列表[&#128279;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)创建定向帐户的区段，并个性化这些帐户的内容
 
 ## 对于现有ABWM客户 {#for-existing-abwm-customers}
 

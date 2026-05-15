@@ -5,8 +5,10 @@ title: 了解收件人时区
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 394
@@ -20,7 +22,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!UICONTROL Recipient Time Zone]当前仅对电子邮件内容使用&#x200B;**2}。**&#x200B;它不适用于默认参与计划。
+>[!UICONTROL Recipient Time Zone]当前仅对电子邮件内容使用&#x200B;**2&rbrace;。**&#x200B;它不适用于默认参与计划。
 
 ## 电子邮件项目 {#email-programs}
 

@@ -5,9 +5,15 @@ title: 发行说明 — 2015年1月
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
 TQID: https://experienceleague.adobe.com/NrxOOJ5YBCQW4FtOB2Ki-oMlhy8VwVWOhO6BmjaEkFM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c954475c-8548-4e33-a0b8-6b550d956115id: e2290edd-b061-4880-9d79-dee306cf5aa9id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 385
@@ -25,7 +31,7 @@ ht-degree: 3%
 
 您现在可以从登陆页面编辑器中[构建登陆页面的移动视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)。 无论使用什么设备，您都可以有效地传递您的消息，并通过定制内容以方便移动使用，从而增加参与度。 此功能将在版本发布后的一周内逐步推出。
 
-[ — 登陆页面演练视频 — ](https://youtu.be/aPQHlG2X6c0)
+[&#x200B; — 登陆页面演练视频 — &#x200B;](https://youtu.be/aPQHlG2X6c0)
 
 **个新的REST API调用**
 

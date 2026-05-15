@@ -5,7 +5,8 @@ title: 发送渠道概述
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 568
@@ -56,6 +57,6 @@ Marketo电子邮件服务器未与[!DNL Sales Connect]集成。 Marketo服务器
 >[!MORELIKETHIS]
 >
 >* Gmail用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->*  [!DNL Outlook] 用户](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的[电子邮件连接
+>*  [!DNL Outlook] 用户[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的电子邮件连接
 >* [设置自定义投放渠道](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [电子邮件连接限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

@@ -5,9 +5,15 @@ title: 公司 Web 活动报告
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
 TQID: https://experienceleague.adobe.com/U075R1PGYsqHdHOwEv5IgD-Wb6I4ejtmY4CylsXeXds
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 267
@@ -23,7 +29,7 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->若要从Marketo中的网站捕获活动，首先需要在网站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)上设置[up [!DNL Munchkin] 。
+>若要从Marketo中的网站捕获活动，首先需要在网站[&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)上设置up [!DNL Munchkin] 。
 
 1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择[!UICONTROL Company Web Activity]报告[报告类型](report-type-overview.md)。
 
@@ -37,7 +43,7 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >若要查找访问您网站次数最多的公司，请在&#x200B;_[!UICONTROL Page Views]_列上[对您的报告进行排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)，然后选择&#x200B;**[!UICONTROL Sort Descending]**。
+   >若要查找访问您网站次数最多的公司，请在&#x200B;_[!UICONTROL Page Views]_&#x200B;列上[对您的报告进行排序](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)，然后选择&#x200B;**[!UICONTROL Sort Descending]**。
 
    可为公司网站活动报告选择[列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)包括：
 

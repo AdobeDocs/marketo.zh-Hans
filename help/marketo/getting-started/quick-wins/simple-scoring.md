@@ -5,8 +5,10 @@ title: 简单评分
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/je41ZICn-Xh8WLc8PdrbZcoj5-D727U9Vh-uulo15gU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 361
@@ -63,7 +65,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您使用表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选完成了[登陆页面，则您应该拥有表单。 如果表单使用了其他名称，请选择该名称。
+   >如果您使用表单[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选完成了登陆页面，则您应该拥有表单。 如果表单使用了其他名称，请选择该名称。
 
 1. 单击&#x200B;**[!UICONTROL Flow]**&#x200B;选项卡。
 

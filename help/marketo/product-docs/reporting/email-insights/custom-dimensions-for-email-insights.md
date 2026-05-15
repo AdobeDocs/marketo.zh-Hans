@@ -5,9 +5,14 @@ title: 电子邮件洞察的自定义维度
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
 TQID: https://experienceleague.adobe.com/YxIemg1EJAJUPEaIsrnz0u2gi9drpLOu14bEqlHhSqY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 118
@@ -25,7 +30,7 @@ ht-degree: 11%
 
 >[!CAUTION]
 >
->不能删除或替换自定义维度&#x200B;****，因此请仔细选择您的10个维度。
+>不能删除或替换自定义维度&#x200B;**&#x200B;**，因此请仔细选择您的10个维度。
 
 1. 在[!UICONTROL Email Insights]中，单击页面右上角的齿轮图标。
 
