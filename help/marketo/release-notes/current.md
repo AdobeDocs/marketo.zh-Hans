@@ -3,22 +3,27 @@ description: 最新发行说明 - Marketo 文档 - 产品文档
 title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 23%
+source-wordcount: 421
+ht-degree: 28%
 
 ---
 
-# 发行说明：2026年3月 {#release-notes-mar-26}
+# 发行说明：2026年5月 {#release-notes-may-26}
 
-在下方，您会找到2026年3月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
+在下方，您会找到2026年5月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2026年3月27日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2026年5月22日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -28,9 +33,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>向Designer发送电子邮件 — 管理品牌（测试版）</strong>：根据您组织/品牌的特定撰稿准则生成电子邮件内容。</td>
-   <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">创建和管理品牌</a></td>
+   <td><strong>电子邮件Designer — 电子邮件片段的条件内容</strong>： <i>与旧电子邮件编辑器对等</i>。 片段现在支持条件内容。</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -38,42 +43,10 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>向Designer发送电子邮件 — 快速操作</strong>： <i>与旧电子邮件编辑器对等</i>。 快速操作现在可用于所有电子邮件Designer资源（电子邮件、电子邮件模板、片段）。 支持的快速操作包括：复制、删除、移动、创建/编辑草稿。
+   <td><strong>Picklist管理</strong>：您现在可以指定可以在Marketo Engage的字段中使用的值。
    </td>
-   <td>已发布</i></td>
-   <td>不适用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr>
-   <td><strong>电子邮件Designer - Outlook渲染修复</strong>：此更新修复了渲染问题，尤其是在MS Outlook中。 高级HTML模式允许您进行细微的HTML/CSS编辑，或向电子邮件模板添加脚本标记。
-   </td>
-   <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">使用高级HTML编辑器编辑电子邮件模板</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>发送电子邮件至Designer - Brand Score Checker</strong>：评估总体内容质量，确定可读性、内容一致性和有效性方面的潜在问题，这与您的品牌指南无关。</td>
-   <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-score.md" target="_blank">品牌得分</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>推送通知</strong>：在推送通知消息中配置的重定向URI现在支持Marketo Engage令牌（仅适用于<i>启动应用程序URL</i>）。
-   </td>
-   <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-uris">重定向URI</a></td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
   </tr>
   </tbody>
 </table>
@@ -81,10 +54,18 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hans){target="_blank"}。
+* **社交功能弃用字段**：在2025年，Marketo Engage弃用了以下社交功能：
 
-* **REST API合并潜在客户限制**：从2026年3月31日开始，在合并潜在客户API调用的leadIds参数中包含超过25个ID的调用将导致1080错误代码，并且将跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
+   * 投票
+   * 社交按钮
+   * 推荐优惠
+   * 分享视频
+   * 抽奖活动
+
+今年早些时候，剩下的相关油田从Marketo被移除。 不久，引用某些与社交相关的潜在客户字段的API请求返回“字段未找到”错误，导致中断。 在受影响的字段再次可用后，服务已恢复，因此为防止进一步中断，Marketo已将Social字段与Social功能永久性分离（因此，将在您的Marketo帐户中提供）。 建议用户审查引用Marketo Social相关字段的API查询和集成，并确定这些字段是否仍为持续业务流程所必需。
 
 * **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年7月31日之后不可用。 所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **SOAP API弃用**：对Marketo SOAP API的支持将于2026年7月31日终止。 使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+
+* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标静态列表包含10,000个或更多潜在客户，则对Get Lead活动和包含`listId`参数的Get Lead Changes端点的调用将返回1003错误代码。 有关详细信息，请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。

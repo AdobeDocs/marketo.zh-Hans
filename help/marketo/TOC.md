@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 1304a6808830d22a368bd8eed5e7540396372a08
+source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8840'
 ht-degree: 96%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [Classic图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
       + [帮助中心](getting-started/things-to-know/help-center.md)
       + [订阅系统状态通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[产品知识的AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 产品知识的{hide-from-toc}[AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[营销国家社区](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS迁移](getting-started/things-to-know/aws-migration.md)
    + 快速上手 {#quick-wins}
@@ -1863,6 +1863,7 @@ ht-degree: 96%
       + 2026 {#2026}
          + [发行说明： 2026年1月](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [发行说明： 2026年2月](release-notes/previous-releases/2026/release-notes-feb-26.md)
+         + [发行说明： 2026年3月](release-notes/previous-releases/2026/release-notes-mar-26.md)
       + 2025 {#2025}
          + [发行说明：2025 年 1 月](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [发行说明：2025 年 3 月](release-notes/previous-releases/2025/release-notes-mar-25.md)
