@@ -76,4 +76,4 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **SOAP API弃用**：对Marketo SOAP API的支持将于2026年7月31日终止。 使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
-* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标静态列表包含10,000个或更多潜在客户，则对Get Lead活动和包含`listId`参数的Get Lead Changes端点的调用将返回1003错误代码。 有关详细信息，请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标静态列表包含10,000个或更多潜在客户，则对Get Lead活动和包含`listId`参数的Get Lead Changes端点的调用将返回1003错误代码。 有关详细信息，请参阅[迁移指南](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
