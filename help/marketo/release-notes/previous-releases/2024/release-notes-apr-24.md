@@ -3,10 +3,15 @@ description: 发行说明 — 2024年4月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 4 月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/veRcvmZPvQFZcLKnU8ldjfZRQchr99eg0UhRy-0sNQo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '447'
-ht-degree: 20%
+source-wordcount: 471
+ht-degree: 19%
 
 ---
 
@@ -18,11 +23,11 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 >[!AVAILABILITY]
 >
->带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。 请联系您的 Marketo Engage 代表了解更多信息。
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2024年4月26日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2024年4月26日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>

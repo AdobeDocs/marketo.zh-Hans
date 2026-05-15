@@ -3,9 +3,13 @@ description: 了解如何使用执行活动流程步骤。 当有人完成此步
 title: 执行营销活动
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/ggWhZOpbixcuP8E1mXOU4w49S-HQyT-NuXtLhFKGeeU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: 718
 ht-degree: 1%
 
 ---
@@ -60,7 +64,7 @@ ht-degree: 1%
 
 **API交互**
 
-在API[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用计划或请求营销活动时，两者都允许您传递“我的令牌”的值，这将会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
+在API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用计划或请求营销活动[时，两者都允许您传递“我的令牌”的值，这将会覆盖在调用营销活动中为这些令牌设置的值。 如果该营销活动随后执行另一个营销活动并设置“使用父上下文设置为True”，则它将使用通过API传递的值，而不是在应用程序中设置的值。
 
 ## 注意事项 {#things-to-note}
 

@@ -1,27 +1,32 @@
 ---
 unique-page-id: 4720236
-description: Learn how to create a segment using an account list in Marketo Engage using create a segment using an account list. Use this guide to complete your next step.
+description: 了解如何使用Marketo Engage中的帐户列表创建区段，并使用帐户列表创建区段。 使用本指南完成您的下一步。
 title: 使用帐户列表创建区段
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
+TQID: https://experienceleague.adobe.com/zhhNc7H7KwSbYiNJXSZcqqMylcwm5VeYe-gPaZdGqd0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 205
 ht-degree: 8%
 
 ---
 
 # 使用帐户列表创建区段 {#create-a-segment-using-an-account-list}
 
-Here&#39;s how to create a segment using an Account List.
+以下是如何使用帐户列表创建区段。
 
 >[!PREREQUISITES]
 >
->[Create a New Account List](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+>[创建新的帐户列表](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 >[!NOTE]
 >
->The ability to see Account Lists within Web Personalization requires an additional module called &quot;Web ABM&quot;. If you do not see Account Lists as an option, reach out to the Adobe Account Team (your account manager) for assistance.
+>要在Web Personalization中查看帐户列表，还需要一个名为“Web ABM”的附加模块。 如果您未将帐户列表作为一个选项，请联系Adobe帐户团队（您的帐户经理）以获取帮助。
 
 1. 前往 **[!UICONTROL Segments]**。
 
@@ -31,20 +36,20 @@ Here&#39;s how to create a segment using an Account List.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Enter a name for the segment. Drag and drop **[!UICONTROL Account Lists]** from the **[!UICONTROL Firmographics]** section.
+1. 输入段名称。 从&#x200B;**[!UICONTROL Firmographics]**&#x200B;部分拖放&#x200B;**[!UICONTROL Account Lists]**。
 
    ![](assets/set-segment-hands.jpg)
 
-1. Select an Account List from the list of named accounts you&#39;ve uploaded. The number in brackets next to the Account List Name is the ID of the List for API reference.
+1. 从已上载的指定帐户列表中选择一个帐户列表。 帐户列表名称旁边的括号中的数字是用于API引用的列表的ID。
 
    ![](assets/select-list-for-segment-hands.jpg)
 
    >[!NOTE]
    >
-   >Account Lists are synced from ABM to Web Personalization for use in Segmentation. Select them from the drop-down. The sync can take up to five minutes. It will only sync if there are one or more Named Accounts in the Account List.
+   >帐户列表会从ABM同步到Web Personalization，以便用于分段。 从下拉列表中选择它们。 同步过程最多可能需要五分钟。 仅当帐户列表中存在一个或多个指定帐户时，它才会同步。
 
-1. Click **[!UICONTROL Save]**, or click **[!UICONTROL Save & Define Campaign]** to go to the Campaigns page.
+1. 单击&#x200B;**[!UICONTROL Save]**，或单击&#x200B;**[!UICONTROL Save & Define Campaign]**&#x200B;以转到营销活动页面。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-恭喜！ You&#39;ve now set up a segment targeting an Account List.
+恭喜！ 现在，您已设置一个针对帐户列表的区段。

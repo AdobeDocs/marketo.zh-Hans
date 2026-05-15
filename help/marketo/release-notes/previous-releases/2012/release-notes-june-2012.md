@@ -4,9 +4,13 @@ description: 发行说明 — 2012年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年6月
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/Si9Cd12TDh3rtbEtp6vxFW2pjhcSPf-uoIPjn7lIMh0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: 663
 ht-degree: 0%
 
 ---

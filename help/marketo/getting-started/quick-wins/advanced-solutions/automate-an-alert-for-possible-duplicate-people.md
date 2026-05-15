@@ -1,24 +1,26 @@
 ---
 unique-page-id: 7513680
 description: 自动提醒可能重复的人员 — Marketo文档 — 产品文档
-title: 自动提醒可能的重复人员
+title: 针对可能存在的重复人员自动发送警报
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 8%
+source-wordcount: 157
+ht-degree: 0%
 
 ---
 
-# 自动提醒可能的重复人员 {#automate-an-alert-for-possible-duplicate-people}
+# 针对可能存在的重复人员自动发送警报 {#automate-an-alert-for-possible-duplicate-people}
 
 是否希望每次创建可能的重复人员时都显示警报？ 下面是如何设置Smart Campaign来执行此操作。
 
 1. [创建新的智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。 定义以下智能列表：
 
 * 触发器： **[!UICONTROL Person is Created]**
-* 筛选器： **[!UICONTROL Duplicate Fields]**。 字段名称&#x200B;**[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
+* 筛选器： **[!UICONTROL Duplicate Fields]**。 字段名称&#x200B;**[!UICONTROL is][!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 

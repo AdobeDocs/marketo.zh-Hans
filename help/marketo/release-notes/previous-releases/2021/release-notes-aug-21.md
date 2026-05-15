@@ -2,9 +2,14 @@
 description: 发行说明 — 2021年8月 — Marketo文档 — 产品文档
 title: 发行说明 - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+TQID: https://experienceleague.adobe.com/eX6BJ2kUTiOEw6RjiuSu8883IqyfX6cUBqkr7zdGZv0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: 908
 ht-degree: 1%
 
 ---
@@ -63,7 +68,7 @@ ht-degree: 1%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn]潜在客户Forms集成**：营销人员现在可以对在[!DNL LinkedIn]通过他们的潜在客户Forms广告单元捕获表单填写时发生的转化执行收入归因。 这些见解随后可用于优化表单性能和付费媒体投资。 [!DNL LinkedIn]潜在客户Gen Forms是[!DNL LinkedIn]增长最快的付费媒体产品之一，这项新功能包含在我们与[!DNL LinkedIn]的现有[!DNL Bizible]广告集成中。
+* **[!DNL Bizible][!DNL LinkedIn]潜在客户Forms集成**：营销人员现在可以对在[!DNL LinkedIn]通过他们的潜在客户Forms广告单元捕获表单填写时发生的转化执行收入归因。 这些见解随后可用于优化表单性能和付费媒体投资。[!DNL LinkedIn] 潜在客户Gen Forms是[!DNL LinkedIn]增长最快的付费媒体产品之一，这项新功能包含在我们与[!DNL Bizible]的现有[!DNL LinkedIn]广告集成中。
 
 * **改进了Velocity功能板**：我们新增了一个新的Velocity量度和功能板筛选器，以便获得更深入的见解。 营销人员使用此仪表板来了解分阶段潜在客户和商机周转率以及不同营销和销售参与形式的效率。
 
@@ -75,7 +80,7 @@ ht-degree: 1%
 
 * **[!DNL Bizible]与Adobe Privacy Service**&#x200B;的集成（2021年9月推出）： [!DNL Bizible]与Adobe Privacy Service的集成可跨Adobe Experience Cloud应用程序集中管理对关键数据隐私法规（如GDPR）的合规性。 现在，您可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映传入[!DNL Bizible]和其他Adobe产品的更改请求。
 
-* Adobe Unified Shell **[!DNL Bizible]上的**： [!DNL Bizible]采用Adobe Unified Shell为用户提供了新的功能，这些功能将显示在[!DNL Bizible]应用程序标题栏中，并包括更好地访问支持资源和应用程序切换。 Adobe Unified Shell有助于在[!DNL Bizible]和其他Adobe Experience Cloud应用程序之间创建一致的体验。
+* Adobe Unified Shell **上的**[!DNL Bizible]： [!DNL Bizible]采用Adobe Unified Shell为用户提供了新的功能，这些功能将显示在[!DNL Bizible]应用程序标题栏中，并包括更好地访问支持资源和应用程序切换。 Adobe Unified Shell有助于在[!DNL Bizible]和其他Adobe Experience Cloud应用程序之间创建一致的体验。
 
 * **[!DNL Bizible]域所有权和自我管理**： [!DNL Bizible]用户可以利用Adobe Admin Console管理他们希望[!DNL Bizible]跟踪的域。 这可以为之前手动执行的流程引入自助服务，并提供有关如何跨Adobe Experience Cloud应用程序管理域所有权和跟踪的一致体验。
 

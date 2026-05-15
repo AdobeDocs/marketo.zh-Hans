@@ -4,9 +4,11 @@ description: 了解哪些Salesforce流程步骤会触发将人员自动同步到
 title: 隐含的 Salesforce 操作
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: 158
 ht-degree: 23%
 
 ---
@@ -48,6 +50,6 @@ ht-degree: 23%
  </tbody>
 </table>
 
-您可以使用运算符设置为“**[!UICONTROL SFDC Type]**”的[!UICONTROL is not empty]过滤器过滤掉智能列表中的SFDC记录。 所有SFDC记录在此字段中都有一个值。
+您可以使用运算符设置为“[!UICONTROL is not empty]”的&#x200B;**[!UICONTROL SFDC Type]**&#x200B;过滤器过滤掉智能列表中的SFDC记录。 所有SFDC记录在此字段中都有一个值。
 
 请记住，仅当潜在客户当前不在[Salesforce.com](https://salesforce.com){target="_blank"}中时，才会发生这些自动操作

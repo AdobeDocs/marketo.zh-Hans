@@ -3,9 +3,12 @@ description: 了解Marketo取消订阅检查，以便销售人员无法向Market
 title: Marketo 取消订阅检查
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: 135
 ht-degree: 8%
 
 ---
@@ -28,7 +31,7 @@ ht-degree: 8%
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. 单击 **[!UICONTROL Integrations]** 选项卡。在[!UICONTROL Marketo Unsubscribe Check]部分中，单击滑块以激活检查。
+1. 单击 **[!UICONTROL Integrations]** 选项卡。 在[!UICONTROL Marketo Unsubscribe Check]部分中，单击滑块以激活检查。
 
    ![](assets/marketo-unsubscribe-check-3.png)
 

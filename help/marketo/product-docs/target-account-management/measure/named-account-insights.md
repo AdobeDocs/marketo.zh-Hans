@@ -4,9 +4,14 @@ description: 了解指定帐户仪表板及其目标帐户的360度视图。 查
 title: 命名帐户洞察
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/AFf4miCMLQKRhYC-gIn-q8KinQD8NZ8-8FxsxC1hxMg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: 411
 ht-degree: 2%
 
 ---
@@ -58,7 +63,7 @@ ht-degree: 2%
 
 **热门用户**
 
-这些用户是根据指定帐户的用户显示的回访间隔或紧急程度来计算的优先级(与Sales Insight中的[最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)相同)或用户定义的分数来计算的。 **[!UICONTROL Priority]**&#x200B;仅对[!DNL Marketo Sales Insight]的用户可用。
+这些用户是根据指定帐户的用户显示的回访间隔或紧急程度来计算的优先级（与Sales Insight中的[最佳匹配](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)相同）或用户定义的分数来计算的。 **[!UICONTROL Priority]**&#x200B;仅对[!DNL Marketo Sales Insight]的用户可用。
 
 ![](assets/top-ten.png)
 
@@ -112,6 +117,6 @@ ht-degree: 2%
 
 ## [!UICONTROL ICP Indicators] {#icp-indicators}
 
-查看您在[!UICONTROL ICP Indicators]优化模型[时选择导出的](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)。
+查看您在[优化模型](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)时选择导出的[!UICONTROL ICP Indicators]。
 
 ![](assets/eight.png)

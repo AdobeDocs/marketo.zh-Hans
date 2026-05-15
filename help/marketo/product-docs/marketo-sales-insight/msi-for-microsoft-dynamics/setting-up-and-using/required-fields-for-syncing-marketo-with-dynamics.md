@@ -4,10 +4,13 @@ description: 了解将Marketo与Dynamics同步的必填字段。 确保映射正
 title: 同步 Marketo 与 Dynamics 所需的字段
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/2MpYFkohrwAJ20pKL9zISg2b0jTqougMaRLYJFYHbQs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 5%
+source-wordcount: 159
+ht-degree: 6%
 
 ---
 
@@ -16,7 +19,7 @@ ht-degree: 5%
 这些字段&#x200B;*必须*&#x200B;与Marketo同步，以便[!UICONTROL Lead]和[!UICONTROL Contact]都能正常工作：[!DNL Sales Insight]
 
 * 优先级
-* 紧急
+* 紧迫性
 * 相对分数
 
 如果缺少这些字段中的任何一个，您将在Marketo中看到一条错误消息，其中包含缺少的字段的名称。 要解决此问题，请签入您的实例以确保字段已为&#x200B;**[!UICONTROL Lead]**&#x200B;和&#x200B;**[!UICONTROL Contact]**&#x200B;同步。 如果不能，请添加它们。
@@ -27,7 +30,7 @@ ht-degree: 5%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 单击&#x200B;**[!UICONTROL Edit]**&#x200B;上的[!UICONTROL Field Sync Details]。
+1. 单击[!UICONTROL Field Sync Details]上的&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -43,7 +46,7 @@ ht-degree: 5%
 
    ![](assets/image2016-6-8-13-3a36-3a1.png)
 
-1. 接下来，选中[!UICONTROL Priority]的[!UICONTROL Urgency]、[!UICONTROL Relative Score]和[!UICONTROL Contact]复选框。
+1. 接下来，选中[!UICONTROL Contact]的[!UICONTROL Priority]、[!UICONTROL Urgency]和[!UICONTROL Relative Score]复选框。
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 

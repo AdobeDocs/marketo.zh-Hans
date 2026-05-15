@@ -4,9 +4,12 @@ description: 了解如何在项目计划视图中创建自定义叠加图。 添
 title: 在项目计划视图中创建自定义覆盖层
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/jZZGRrIrmMis8-fYvVMMTjEZAq-G-kVVofmND-JMPrQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: 80
 ht-degree: 18%
 
 ---

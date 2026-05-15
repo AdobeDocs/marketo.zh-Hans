@@ -4,9 +4,11 @@ description: 了解Sales Connect中的Sales Phone。 从应用程序进行呼叫
 title: 销售电话概述
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/QoZ57b9CNmr-R1LI-JYJFDq8Vks7FjQwWtj71yawHtY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: 311
 ht-degree: 1%
 
 ---

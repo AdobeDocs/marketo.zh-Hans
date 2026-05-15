@@ -3,9 +3,13 @@ description: 了解如何为Marketo实例设置Dynamic Chat。 访问Admin Conso
 title: 初始设置
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/yyC4mdGz2W34YwKH2AgOlCrOrhLxhDUl0TNJgmMyiZc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: 128
 ht-degree: 3%
 
 ---
@@ -24,7 +28,7 @@ ht-degree: 3%
 
    ![](assets/initial-setup-1.png)
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Adobe Admin Console。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/initial-setup-2.png)
 

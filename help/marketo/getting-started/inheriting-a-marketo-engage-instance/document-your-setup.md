@@ -3,9 +3,12 @@ description: 继承实例文档您的设置 — Marketo文档 — 产品文档
 title: 继承的实例文档您的设置
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: 299
 ht-degree: 3%
 
 ---
@@ -46,7 +49,7 @@ ht-degree: 3%
   <tr>
    <td>数据字典</td>
    <td><li>是否有单独的数据字典来解释可用的字段？
-   <br/>     如果没有，请考虑在营销运营团队可访问的文件夹中创建一个。</li></td>
+   <br/>如果没有，请考虑在营销运营团队可访问的文件夹中创建一个。</li></td>
   </tr>
   <tr>
    <td>组织</td>
@@ -61,7 +64,7 @@ ht-degree: 3%
   <tr>
    <td>战术手册</td>
     <td><li>您的组织具有用户还是管理员剧本？
-    <br/>     如果是这样，请相应地更新这些参数。</li></td>
+    <br/>如果是这样，请相应地更新这些项。</li></td>
   </tr>
   <tr>
    <td>与内部利益相关者的对话</td>

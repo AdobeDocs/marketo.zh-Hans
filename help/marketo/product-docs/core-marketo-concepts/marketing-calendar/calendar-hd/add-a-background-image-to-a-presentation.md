@@ -4,9 +4,11 @@ description: 了解如何将背景图像添加到营销日历演示。 通过从
 title: 为演示添加背景图像
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/fKxbaDF1Nl28XGIPqxz1M-RJfOUuGKXPJajfzwO4jOU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: 102
 ht-degree: 13%
 
 ---

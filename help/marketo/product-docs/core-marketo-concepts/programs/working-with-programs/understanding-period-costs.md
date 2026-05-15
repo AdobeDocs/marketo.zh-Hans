@@ -4,9 +4,13 @@ description: 了解项目中用于跟踪支出的期间成本。 将成本分配
 title: 了解周期成本
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/1b6-8sKXlxtEi61tpFuFsfQjRu7-IXT6dOBGBd7Fwlw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: 282
 ht-degree: 3%
 
 ---
@@ -23,7 +27,7 @@ ht-degree: 3%
 >
 >如果您花1000美元为7月启动的[!DNL eBook]聘请插图师 — [!DNL eBook]项目在7月的时间成本为1000美元。
 >
->如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3&rbrace;。_
+>如果您每月在[!DNL Google Adwords]上花费$200 - [!DNL Google Adwords]计划的期间成本为每月&#x200B;_200 $3}。_
 
 >[!NOTE]
 >

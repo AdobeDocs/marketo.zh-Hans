@@ -7,9 +7,14 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/2F6SP0sUvcScw0Y86X10nRTfL2b45krGTLeSi-td7Uc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: 263
 ht-degree: 1%
 
 ---
@@ -24,7 +29,7 @@ ht-degree: 1%
 
 ## 主要用例 {#primary-use-case}
 
-此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
+此增强功能主要使那些从[Velocity脚本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}转换到Handlebar脚本的用户受益。 新的电子邮件设计工具仅支持新的令牌格式。 更新的格式消除了空格并引入了修订的默认文本结构，从而确保更顺畅、更有效的脚本编写体验。
 
 ## 令牌体验 {#token-experience}
 

@@ -3,9 +3,14 @@ unique-page-id: 11384018
 description: 发行说明 — 2016年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2016年秋季
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+TQID: https://experienceleague.adobe.com/q5GlfNuMIAcClikmke5cTlbV-liv28y328tzxd9NK9k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: 683
 ht-degree: 0%
 
 ---
@@ -68,7 +73,7 @@ ht-degree: 0%
 
 如果无法强制执行[营销活动限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)，为什么要设置这些限制？ 当您将营销活动限制设置设置为限制数据库中可通过单个营销活动进行定位的人员数量时，您现在能够限制哪些用户在计划营销活动时可以覆盖这些设置。
 
-## [移动推送通知的声音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## 移动推送通知的[声音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
 通过启用声音功能，为您的iOS推送通知增添丰富内容。 这项新功能允许您在移动设备上显示推送通知时触发声音。
 
@@ -81,7 +86,7 @@ ht-degree: 0%
 
 ## [与Salesforce Encryption兼容的Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-市场[!DNL Sales Insight]现在与[!DNL Salesforce] Shield Encryption兼容。 所有[!DNL Sales Insight]客户都应升级到此最新的托管包（版本1.4359.2），该包在[&#x200B; [!DNL Appexchange]上有](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)可用。
+市场[!DNL Sales Insight]现在与[!DNL Salesforce] Shield Encryption兼容。 所有[!DNL Sales Insight]客户都应升级到此最新的托管包（版本1.4359.2），该包在 [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上有[可用。
 
 ## [命名帐户API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 

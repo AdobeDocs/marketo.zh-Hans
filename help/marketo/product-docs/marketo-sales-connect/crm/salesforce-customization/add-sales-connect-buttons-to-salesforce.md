@@ -4,9 +4,11 @@ description: 了解如何将Sales Connect按钮添加到Salesforce。 将Connect
 title: 将 Sales Connect 按钮添加到 Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/m4Qn3b3J8l0y6Qoedfo5-Mc6FCeEKcy01k87KCNr3YY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: 139
 ht-degree: 4%
 
 ---
@@ -29,10 +31,10 @@ ht-degree: 4%
 
 1. 编辑Lead/Contact/Account的页面布局。
 1. 选择“按钮”部分。
-1. 抓取&#x200B;**[!UICONTROL Call with MSC]**&#x200B;按钮并将其拖动到&#x200B;**[!UICONTROL Custom Buttons]**&#x200B;的[!UICONTROL Details]部分。
+1. 抓取&#x200B;**[!UICONTROL Call with MSC]**&#x200B;按钮并将其拖动到[!UICONTROL Details]的&#x200B;**[!UICONTROL Custom Buttons]**&#x200B;部分。
 
 ## 添加到营销活动 {#add-to-campaign}
 
 1. 编辑Lead/Contact/Account的页面布局。
 1. 选择[!UICONTROL Buttons]的部分。
-1. 抓取&#x200B;**[!UICONTROL Add to MSC Campaign]**&#x200B;按钮并将其拖动到&#x200B;**[!UICONTROL Custom Buttons]**&#x200B;的[!UICONTROL Details]部分。
+1. 抓取&#x200B;**[!UICONTROL Add to MSC Campaign]**&#x200B;按钮并将其拖动到[!UICONTROL Details]的&#x200B;**[!UICONTROL Custom Buttons]**&#x200B;部分。

@@ -4,9 +4,12 @@ description: 了解如何按标记筛选项目报告。 查看具有特定标记
 title: 按标签筛选项目报告
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/nSFFRW8SfT0CF9x60FDQlQ0vAzARYkm9GgxhGUuQsB8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: 86
 ht-degree: 15%
 
 ---

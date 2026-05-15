@@ -3,9 +3,13 @@ description: 了解如何在Microsoft Dynamics中设置MSI视图。 配置为用
 title: 设置 MSI 视图
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: 252
 ht-degree: 4%
 
 ---
@@ -32,26 +36,26 @@ ht-degree: 4%
 
    **个最佳匹配**</br>
 URL： MainviewBestbets.html</br>
-图标： /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
-ID： marketo_bestbets</br>
+图标：/WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+ID：marketo_bestbets</br>
 标题：最佳匹配
 
    **我的电子邮件**</br>
 URL： mkt_/MainViewMyEmail.html</br>
-图标： /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
-ID： marketo_myemail</br>
+图标：/WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+ID：marketo_myemail</br>
 标题：我的电子邮件
 
    **Web活动**</br>
 URL： mkt_/MainViewWebActivity.html</br>
-图标： /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
-ID： marketo_webactivity</br>
+图标：/WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+ID：marketo_webactivity</br>
 标题： Web活动
 
    **匿名Web活动**</br>
 URL： mkt_/MainViewWebActivity.html</br>
-图标： /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
-ID： marketo_anonymous_webactivity</br>
+图标：/WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+ID：marketo_anonymous_webactivity</br>
 Title：匿名Web活动
 
 1. 完成后，单击 **[!UICONTROL Save]**。

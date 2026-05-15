@@ -4,9 +4,12 @@ description: 发行说明 — 2019年8月 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年8月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/9khB0o-UG6J245lAy9I1-Sw2wRtHsC1ekdotB7DqEh8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 349
 ht-degree: 1%
 
 ---
@@ -50,4 +53,4 @@ ht-degree: 1%
 >
 >**要保持您的Marketo Engage访问权限，请确保在2019年12月13日之前所有客户端系统都符合TLS 1.2**。 更多详细信息可在[此处](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)找到。
 
-**_产品发布网络研讨会_** [于8月28日1](https://engage.marketo.com/August_19_Release_Webinar.html) PT / 4:00PM ET参加我们:00PM由我们的产品团队主办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。
+**_产品发布网络研讨会_** [于8月28日1:00PM PT / 4:00PM ET参加我们](https://engage.marketo.com/August_19_Release_Webinar.html)由我们的产品团队主办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。

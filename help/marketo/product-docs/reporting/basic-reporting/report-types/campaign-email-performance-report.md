@@ -4,9 +4,13 @@ description: 了解按智能营销活动对电子邮件统计信息分组的Camp
 title: 营销活动电子邮件性能报告
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/pMoHSEmaDbjOVpoVaUi1lvUHBYkyzOwkuF1n7mxpmY0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: 221
 ht-degree: 34%
 
 ---
@@ -39,7 +43,7 @@ ht-degree: 34%
 
    >[!NOTE]
    >
-   >通常情况下，我们会以符合直觉的方式来记录这些统计数据。例如，如果某人单击了电子邮件中的链接，则他们显然会先打开该链接。 有关我们遵循的特定规则，请参阅[电子邮件性能报表](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
+   >通常情况下，我们会以符合直觉的方式来记录这些统计数据。 例如，如果某人单击了电子邮件中的链接，则他们显然会先打开该链接。 有关我们遵循的特定规则，请参阅[电子邮件性能报表](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)。
 
    >[!MORELIKETHIS]
    >

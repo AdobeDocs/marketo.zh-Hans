@@ -4,9 +4,13 @@ description: 了解如何使用Marketo模板从Outlook发送和跟踪。 插入�
 title: 使用Marketo模板从 [!DNL Outlook] 发送和跟踪
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/trwNooFsf1aiYblIvwyVHA7YONJfpX7N99qpnr5a4X8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 200
 ht-degree: 0%
 
 ---

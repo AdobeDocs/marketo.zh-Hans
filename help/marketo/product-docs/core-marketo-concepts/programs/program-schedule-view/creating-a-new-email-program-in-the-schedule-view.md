@@ -4,9 +4,12 @@ description: 了解如何从项目计划视图创建新的电子邮件项目。 
 title: 在计划视图中创建新的电子邮件项目
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/YOcP85xZ-fSMEEZMCTnjyamN0gH1VfFMW9KMr7uO0Cg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: 119
 ht-degree: 19%
 
 ---

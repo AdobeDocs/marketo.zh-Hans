@@ -3,9 +3,12 @@ description: 了解如何创建短信消息。 在编辑器中添加文本、令
 title: 创建短信消息
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/UOlEOmAlmr52sbQ3yz2Rmh-9HEHObY5D9ncB1CmD0ro
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: 497
 ht-degree: 2%
 
 ---

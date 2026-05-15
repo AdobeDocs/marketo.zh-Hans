@@ -3,9 +3,12 @@ description: 了解如何在Sales Insight Actions与Salesforce之间同步取消
 title: 将取消订阅与 Salesforce 同步
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: 471
 ht-degree: 2%
 
 ---
@@ -44,7 +47,7 @@ ht-degree: 2%
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. 单击 **[!UICONTROL Integrations]** 选项卡。在[!UICONTROL Sync to Salesforce]下，启用夜间同步。
+1. 单击 **[!UICONTROL Integrations]** 选项卡。 在[!UICONTROL Sync to Salesforce]下，启用夜间同步。
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -97,6 +100,6 @@ ht-degree: 2%
 
 ## Marketo销售人员选择退出 {#marketo-sales-opt-out}
 
-Marketo Sales Opt Out字段是一个自定义字段，适用于已从AppExchange[安装Marketo Sales Insight包](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}的用户。
+Marketo Sales Opt Out字段是一个自定义字段，适用于已从AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}安装Marketo Sales Insight包[的用户。
 
 成功将Marketo Sales Insight包从AppExchange安装到Salesforce中后，您将会看到可用的Marketo Sales Opt Out字段。

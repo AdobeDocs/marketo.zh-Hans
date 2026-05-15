@@ -4,9 +4,11 @@ description: 了解Sales Connect中的Command Center。 在一个位置管理您
 title: 指挥中心概述
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: 575
 ht-degree: 1%
 
 ---
@@ -53,7 +55,7 @@ ht-degree: 1%
   <tr>
    <td title="背景颜色：灰色"><br></td>
    <td title="背景颜色：灰色">[!UICONTROL Draft]</td>
-   <td title="背景颜色：灰色"><p>已另存为草稿的电子邮件。<br><strong>注意：</strong>只有一封电子邮件可以另存为草稿。 批量电子邮件（选择和发送电子邮件及群电子邮件）将不会另存为草稿。</p></td>
+   <td title="背景颜色：灰色"><p>已另存为草稿的电子邮件。<br><strong>注意：</strong>只能将单个电子邮件另存为草稿。 批量电子邮件（选择和发送电子邮件及群电子邮件）将不会另存为草稿。</p></td>
   </tr>
   <tr>
    <td title="背景颜色：灰色"><br></td>

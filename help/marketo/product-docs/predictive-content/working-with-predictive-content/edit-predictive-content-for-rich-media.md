@@ -4,9 +4,12 @@ description: 了解如何使用描述、sRGB图像和类别设置富媒体的预
 title: 编辑富媒体的预测性内容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: 220
 ht-degree: 6%
 
 ---
@@ -17,7 +20,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->[页面上的预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为[!UICONTROL All Content]批准。
+>[!UICONTROL All Content]页面上的预测内容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的内容必须为[批准。
 
 1. 在&#x200B;**[!UICONTROL Predictive Content]**&#x200B;页面上，单击标题以打开编辑器。
 

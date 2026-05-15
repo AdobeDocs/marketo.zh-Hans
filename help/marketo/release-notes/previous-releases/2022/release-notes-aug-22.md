@@ -2,9 +2,12 @@
 description: 发行说明 — 2022年8月 — Marketo文档 — 产品文档
 title: 发行说明 - 2022 年 8 月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/wOb8c5EXbNJloeLcLIEh5M-xR0wdBvVca-3ZfuqHsZ8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: 517
 ht-degree: 7%
 
 ---
@@ -50,7 +53,7 @@ ht-degree: 7%
 
 * **Webhook自定义标头可见性**： Webhook自定义标头现在显示在[!UICONTROL Admin] > [!UICONTROL Webhooks]选项卡中，可见性更高。
 
-* **CAPTCHA**：使用reCAPTCHA v3[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}评估表单提交的有效性以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
+* **CAPTCHA**：使用reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}评估表单提交的有效性[以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
 
 * **批准表单的权限**：新权限可控制哪些设计人员可以批准对表单的更改，这些更改与其他[!UICONTROL Design Studio]资源一致。 这可以防止其他设计人员在没有获得批准权限的其他人审阅表单的情况下，将更改推送到表单中。
 

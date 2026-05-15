@@ -2,9 +2,11 @@
 description: 了解是否跟踪抄送和密送收件人的查看、点击和回复。 了解多个收件人的跟踪行为。
 title: 抄送和密送栏中列出的收件人的查看、点击和回复是否会被跟踪？
 exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/6WEiHF1p3GFOXDvjro4ZZ3qsVm9LgHziWWwIauB4uwE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 118
 ht-degree: 33%
 
 ---

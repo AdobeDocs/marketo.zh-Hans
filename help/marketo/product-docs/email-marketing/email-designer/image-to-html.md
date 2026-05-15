@@ -6,9 +6,15 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/4Xwvf1XMyNOj9RYDQEyEifBN3Iva3bc2SE94f5VIWtk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: beb7a3c1-66ab-4786-b879-7621375b3c40id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: 1336
 ht-degree: 2%
 
 ---
@@ -24,7 +30,7 @@ ht-degree: 2%
 >[!PREREQUISITES]
 >
 >* 您必须首先同意[核心Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在Email Designer中使用Gen-AI功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
->* 您必须拥有&#x200B;_访问电子邮件模板_&#x200B;以及&#x200B;_编辑/生成电子邮件模板_&#x200B;权限，这些权限已在您的Marketo角色中启用[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
+>* 您必须拥有&#x200B;_访问电子邮件模板_&#x200B;以及&#x200B;_编辑/生成电子邮件模板_&#x200B;权限，这些权限已在您的Marketo角色中启用[](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
 
 ## 转换图像 {#convert-an-image}
 
@@ -106,7 +112,7 @@ ht-degree: 2%
 * **Web安全字体**：使用常见Web安全字体设计将具有更好的保真度。
 * **避免元素重叠**：将设计元素明确分开，以便更好地识别结构。
 
-转换后&#x200B;**&#x200B;**
+转换后&#x200B;****
 
 * **查看草稿**：转换完成后，模板将自动另存为草稿。 请花些时间仔细审查生成的HTML的准确性。
 * **彻底测试**：跨不同的电子邮件客户端和设备测试电子邮件。 为了获得更快的结果，请利用[Litmus集成](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)。

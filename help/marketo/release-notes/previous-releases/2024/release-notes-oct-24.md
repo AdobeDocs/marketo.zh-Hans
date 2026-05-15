@@ -3,9 +3,14 @@ description: 发行说明 — 2024年10月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 10 月
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '575'
+source-wordcount: 575
 ht-degree: 15%
 
 ---
@@ -92,7 +97,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **批量提取API更新**：我们修复了批量提取API中涉及columnHeaderNames选项的问题，该选项允许您在导出的文件中指定自定义列标题名称。 以前，包含非ASCII字符的列标题名称可能会损坏。
 
-* **Rest API access_token参数弃用**：用于验证Marketo REST API调用的“access_token”查询参数已被弃用，并将在2026年3月31日之后不可用。 所有新集成和现有集成都应使用“授权”标头[对REST API调用进行身份验证，如此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)所述。
+* **Rest API access_token参数弃用**：用于验证Marketo REST API调用的“access_token”查询参数已被弃用，并将在2026年3月31日之后不可用。 所有新集成和现有集成都应使用“授权”标头[对REST API调用进行身份验证，如此处](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)所述。
 
 * **QR代码弃用**： 2024年10月4日，将弃用推送通知和应用程序内消息传送资产中使用的该QR代码功能。 这包括为新的测试设备使用二维码，以及创建具有二维码的新资产。 弃用使用率较低的功能后，我们可以重新分配其资源用于Marketo Engage的整体维护。
 

@@ -3,10 +3,15 @@ description: Web请求程序模板。 将其用于封闭内容和表单提交。
 title: WR-YYYY-MM-Web 请求项目
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/0Pdc6vYIwuRc5eOsagXsVkHs4HcUWkfs-0PKydiLF3w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 9%
+source-wordcount: 424
+ht-degree: 10%
 
 ---
 
@@ -14,7 +19,7 @@ ht-degree: 9%
 
 这是一个示例计划，非常适合于使用Marketo Engage默认计划的联系人请求、报价请求、演示请求或试用请求表单。 可与Marketo登陆页面一起使用，或作为非Marketo登陆页面上的嵌入式表单。 在提交表单时，会向指定的个人发送警报电子邮件。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

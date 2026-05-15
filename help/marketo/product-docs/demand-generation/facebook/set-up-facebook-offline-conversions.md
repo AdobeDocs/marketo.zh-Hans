@@ -4,9 +4,13 @@ description: 了解如何在Marketo中设置Facebook离线转化。 将转化数
 title: 设置 Facebook 离线转化
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/p5G-mS4yYAv-TvloYNSl52-IpEhQl8UuQwBN4M5KA2U
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: 302
 ht-degree: 3%
 
 ---
@@ -17,8 +21,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->* 您必须[设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
->* 您在[收入周期Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)中必须具有已批准的模型。
+>您必须[设置Facebook潜在客户广告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
 
 ## 管理员配置 {#admin-configuration}
 

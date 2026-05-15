@@ -4,10 +4,12 @@ description: 了解如何重新订阅已在Sales Connect中取消订阅的联系
 title: 重新订阅已取消订阅的用户
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/W215ia0s7e6sze5shnYJyExnzeezcmMRTKrXeJDcht4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 3%
+source-wordcount: 202
+ht-degree: 2%
 
 ---
 

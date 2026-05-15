@@ -4,9 +4,13 @@ description: 了解Marketo Engage中的Google Universal Analytics中的自定义
 title: 在 Google Universal Analytics 中自定义 RTP 报告
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/U9cVw13-FV-0UmUDm6uSUdbvobSwLdqsklql5TaE28M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: 379
 ht-degree: 7%
 
 ---
@@ -48,7 +52,7 @@ ht-degree: 7%
 
 1. 在&#x200B;**[!UICONTROL Metric Groups]**&#x200B;部分中，选择与您的业务相关的量度。
 
-   a.我们建议如下：
+   答： 我们建议执行以下操作：
 
    ![](assets/image2015-3-22-16-3a16-3a40.png)
 

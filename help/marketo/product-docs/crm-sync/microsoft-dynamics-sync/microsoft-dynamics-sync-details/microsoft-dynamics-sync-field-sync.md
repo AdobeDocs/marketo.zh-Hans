@@ -4,9 +4,11 @@ description: 了解字段同步在Microsoft Dynamics和Marketo之间的工作方
 title: Microsoft Dynamics同步 — 字段同步
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/w8YaiXwVC27ovOf63p8xVCaVM9N9KFJJIPzduSoyWME
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: 336
 ht-degree: 0%
 
 ---
@@ -31,7 +33,7 @@ Marketo与[!DNL Dynamics]的同步功能强大。 详情如下。
 
 ## 我在[!DNL Dynamics]中创建了一个字段。 能否将其同步到Marketo？ {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-可以，只要您的同步用户在[!DNL Dynamics]中拥有对字段[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)的访问权限，您就可以同步该字段。
+可以，只要您的同步用户在[!DNL Dynamics]中拥有对字段](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)的访问权限，您就可以[同步该字段。
 
 ## 哪些字段将同步到Marketo？ {#what-fields-will-sync-to-marketo}
 

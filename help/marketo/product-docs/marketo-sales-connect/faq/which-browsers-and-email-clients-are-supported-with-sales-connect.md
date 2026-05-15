@@ -4,10 +4,12 @@ description: 了解Sales Connect支持哪些浏览器和电子邮件客户端。
 title: Sales Connect 支持哪些浏览器和电子邮件客户端？
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/ts8jXpXtBIJmlsXkeBMxPEWtF4lkrmyDec6SVKx92U0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 26%
+source-wordcount: 120
+ht-degree: 25%
 
 ---
 

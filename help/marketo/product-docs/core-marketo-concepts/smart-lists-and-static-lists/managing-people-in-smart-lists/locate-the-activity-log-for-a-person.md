@@ -4,9 +4,12 @@ description: 了解如何查找人员的活动日志。 查看潜在客户的电
 title: 定位人员的活动日志
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/Ymczp2DWw7WFHrr5U-fqk-zC1LWRZyq0CTfwnoX64Qk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 131
 ht-degree: 14%
 
 ---
@@ -23,7 +26,7 @@ ht-degree: 14%
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. 单击 **[!UICONTROL People]** 选项卡。选择人员&#x200B;**[!UICONTROL Id]**&#x200B;编号。
+1. 单击 **[!UICONTROL People]** 选项卡。 选择人员&#x200B;**[!UICONTROL Id]**&#x200B;编号。
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 

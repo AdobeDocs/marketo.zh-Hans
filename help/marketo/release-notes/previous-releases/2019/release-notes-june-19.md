@@ -4,9 +4,14 @@ description: 发行说明 — 2019年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2019年6月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/l-uJTEC4AHKsGj-BPUHaIVvCpZkeXHSlNW9fivL6NrI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 639
 ht-degree: 0%
 
 ---
@@ -22,7 +27,7 @@ ht-degree: 0%
 ## Marketo核心服务 {#marketo-core-services}
 
 * **批量提取文件校验和**：通过比较文件哈希和已完成提取作业的校验和字符串，验证是否检索到了完整文件。
-* **从Email 1.0自动迁移到Email 2.0**： Email 2.0与Email 1.0电子邮件和模板完全兼容。 享受新功能，例如将内容元素（图像、文本等）分组到模块中，定义字符串、颜色、图像等变量的功能。 在模板中，并利用完全响应的入门模板。 还包括一个可视电子邮件模板选取器。
+* **从Email 1.0自动迁移到Email 2.0**： Email 2.0与Email 1.0电子邮件和模板完全兼容。 享受新功能，例如对内容元素（图像、文本等）进行分组的功能 在模块中，在模板中定义字符串、颜色、图像等变量，并利用完全响应的入门级模板。 还包括一个可视电子邮件模板选取器。
 
 >[!CAUTION]
 >
@@ -51,12 +56,12 @@ ht-degree: 0%
 * **社区博客帖子小组件**：访问“我的Marketo”中的社区最近发布的帖子。
 * **即将过期的构件**：将“即将过期”构件添加到您的“我的Marketo”仪表板，以查看哪些营销活动和登陆页面将下周过期。
 * **更多智能列表信息卡**：使用其他智能列表信息卡（包括“创建任务”流程步骤、CRM智能列表规则等）适当地划分和目标区段。
-* **电子邮件冠军/挑战者详细信息页面**：查看获胜标准、创建时间等数据。 来自您的电子邮件冠军/挑战者测试。
+* **电子邮件冠军/挑战者详细信息页面**：查看您的电子邮件冠军/挑战者测试中的获胜标准、创建时间等数据。
 
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
-* 在&#x200B;**自定义项中执行[!DNL Salesforce]批量操作**：通过发送电子邮件和通过[!DNL Salesforce]自定义项将联系人批量添加到营销活动，最大限度地提高工作效率。
-* **设置 — “管理员和非管理员”的[!DNL Salesforce]页面**：通过与[!DNL Sales Connect]连接的[!DNL Salesforce]实例的清晰视图以及“我的电子邮件至[!DNL Sales Connect]更新”来管理您的[!DNL Salesforce]实例。 未来几个月将发布针对管理员、非管理员和团队范围同步的增强同步设置。
+* 在[!DNL Salesforce]自定义项中执行&#x200B;**批量操作**：通过发送电子邮件和通过[!DNL Salesforce]自定义项将联系人批量添加到营销活动，最大限度地提高工作效率。
+* **设置 — “管理员和非管理员”的[!DNL Salesforce]页面**：通过与[!DNL Sales Connect]连接的[!DNL Salesforce]实例的清晰视图以及“我的电子邮件至[!DNL Salesforce]更新”来管理您的[!DNL Sales Connect]实例。 未来几个月将发布针对管理员、非管理员和团队范围同步的增强同步设置。
 * **设置 — 集成页面**：针对您的所有集成提供一站式服务，以便您能够充分利用我们开放的生态系统。
 * **设置 — 配置文件页面**：查看并更新帐户详细信息，更改密码，并在此新的配置文件页面上检查实例的实施状态。
 
@@ -64,8 +69,8 @@ ht-degree: 0%
 
 ## Marketo的[!DNL Bizible] {#bizible-by-marketo}
 
-* **对[!DNL Dynamics]**&#x200B;的多货币支持：[!DNL Bizible]现在可适应[!DNL Microsoft Dynamics]货币表，因此您可以轻松地在公司货币和本地货币之间切换。 (注意：对SFDC的支持已于2019年第一季度发布。)
+* **对[!DNL Dynamics]**&#x200B;的多货币支持：[!DNL Bizible]现在可适应[!DNL Microsoft Dynamics]货币表，因此您可以轻松地在公司货币和本地货币之间切换。 （注意：对SFDC的支持已于2019年第一季度发布。）
 * **漂移集成**：了解漂移对话如何影响客户的历程。 [!DNL Bizible]还将从对话中提取电子邮件地址，以创建新潜在客户或将接触点连接到现有潜在客户。
 * **本地化**： [!DNL Bizible]现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）版本。
 
-_&#x200B;**产品发布网络研讨会**&#x200B;_&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。
+_**产品发布网络研讨会**_&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。

@@ -4,9 +4,11 @@ description: 了解Salesforce活动和任务如何同步到Marketo。 从Marketo
 title: SFDC同步 — 活动同步
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/N-pw1q0NXaJGKW1J1R4iqhgXhA42sX5nP0OWPXCuaBc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: 175
 ht-degree: 3%
 
 ---
@@ -21,7 +23,7 @@ Marketo会同步与潜在客户或联系人关联的事件和任务。
 
 ## 两个系统之间的活动详细信息如何保持同步？ {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-同步是单向的，从[!DNL Salesforce]到Marketo。 但您可以使用[!DNL Salesforce]创建任务[流程步骤或](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)自定义活动同步[到](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)在[!DNL Salesforce]中创建任务。
+同步是单向的，从[!DNL Salesforce]到Marketo。 但您可以使用[创建任务](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)流程步骤或[自定义活动同步](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)到[!DNL Salesforce]在[!DNL Salesforce]中创建任务。
 
 ## 我可以使用Marketo创建任务吗？ {#can-i-create-a-task-using-marketo}
 

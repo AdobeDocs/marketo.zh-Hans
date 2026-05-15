@@ -2,9 +2,12 @@
 description: 了解如何在Marketo中管理访问和删除的隐私请求。 通过Privacy Service UI或API提交请求并处理消费者数据。
 title: 隐私请求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/o4xyJMLpbHADyAhsfVbxnQA-WdXfhSx-LCmN9-4IvYI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: 371
 ht-degree: 20%
 
 ---
@@ -25,7 +28,7 @@ ht-degree: 20%
 
 您可以通过两种方式提交单个请求以从Marketo Engage访问和删除消费者数据：
 
-* 通过Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 请参阅[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hans#){target="_blank"}的文档。
+* 通过Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 请参阅[此处](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html#){target="_blank"}的文档。
 * 通过Privacy Service API。 请参阅[此处](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}的文档和[此处](https://developer.adobe.com/experience-platform-apis/){target="_blank"}的 API 信息。
 
 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hans){target="_blank"}支持两种类型的请求：数据访问和数据删除。

@@ -4,9 +4,12 @@ description: 了解如何运行整封电子邮件的A/B测试。 测试不同的
 title: 使用“整个电子邮件”A/B 测试
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/P6YTdfoKe0D8egqK5amG2GTM92U7RZ1AWoQh6NcZpeQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: 273
 ht-degree: 6%
 
 ---
@@ -45,11 +48,11 @@ ht-degree: 6%
 
 1. 选择您的第二封电子邮件。
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. 单击&#x200B;**[!UICONTROL Add]**&#x200B;以应用第二封电子邮件。 拖动滑块以选择要接收A/B测试的受众百分比，然后单击&#x200B;**[!UICONTROL Next]**。
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

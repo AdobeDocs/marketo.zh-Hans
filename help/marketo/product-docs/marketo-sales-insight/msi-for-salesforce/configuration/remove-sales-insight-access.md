@@ -3,16 +3,20 @@ description: 了解如何从Salesforce中的用户或配置文件中删除Sales 
 title: 移除 Sales Insight 访问权限
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: 343
 ht-degree: 4%
 
 ---
 
 # 移除[!DNL Sales Insight]访问权限 {#remove-sales-insight-access}
 
-使用以下步骤移除对[!DNL Sales Insight]中[!DNL Salesforce]功能的访问权限。 适用于[!DNL Salesforce] Classic和Lightning。
+使用以下步骤移除对[!DNL Salesforce]中[!DNL Sales Insight]功能的访问权限。 适用于[!DNL Salesforce] Classic和Lightning。
 
 ## 概述 {#overview}
 
@@ -85,9 +89,9 @@ ht-degree: 4%
 
 1. 单击要更新的配置文件，然后单击&#x200B;**[!UICONTROL Edit]**。
 
-1. 向下滚动到[!UICONTROL Custom Tab Settings]下的“[!UICONTROL Tab Settings]”。
+1. 向下滚动到[!UICONTROL Tab Settings]下的“[!UICONTROL Custom Tab Settings]”。
 
-1. 从[!UICONTROL Tab Hidden]配置和MSI [!DNL Marketo Sales Insight]发件箱的下拉列表中选择“[!DNL Marketo Sales]”选项。
+1. 从[!DNL Marketo Sales Insight]配置和MSI [!DNL Marketo Sales]发件箱的下拉列表中选择“[!UICONTROL Tab Hidden]”选项。
 
    ![](assets/remove-sales-insight-access-2.png)
 
@@ -133,4 +137,4 @@ ht-degree: 4%
 
    ![](assets/remove-sales-insight-access-6.png)
 
-操作完成！您已成功移除[!DNL Sales Insight]访问权限。 对要删除其访问权限的任何其他配置文件重复相同的步骤。
+操作完成！ 您已成功移除[!DNL Sales Insight]访问权限。 对要删除其访问权限的任何其他配置文件重复相同的步骤。

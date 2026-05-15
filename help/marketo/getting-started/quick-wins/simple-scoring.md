@@ -4,10 +4,13 @@ description: 简单评分 — Marketo文档 — 产品文档
 title: 简单评分
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/je41ZICn-Xh8WLc8PdrbZcoj5-D727U9Vh-uulo15gU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 16%
+source-wordcount: 361
+ht-degree: 0%
 
 ---
 
@@ -15,12 +18,12 @@ ht-degree: 16%
 
 >[!PREREQUISITES]
 >
->* [完成设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [带有表单的登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [设置并添加人员](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* 带有表单的[登陆页面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## 步骤1：创建评分营销活动 {#step-create-a-scoring-campaign}
 
-1. 进入 **[!UICONTROL Marketing Activities]** 区域。
+1. 转到&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;区域。
 
    ![](assets/simple-scoring-1.png)
 
@@ -44,7 +47,7 @@ ht-degree: 16%
 
    ![](assets/simple-scoring-5.png)
 
-1. 单击 **[!UICONTROL Smart List]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL Smart List]**&#x200B;选项卡。
 
    ![](assets/simple-scoring-6.png)
 
@@ -60,9 +63,9 @@ ht-degree: 16%
 
    >[!NOTE]
    >
-   >如果您使用表单[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选完成了登陆页面，则您应该拥有表单。 如果表单使用了其他名称，请选择该名称。
+   >如果您使用表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选完成了[登陆页面，则您应该拥有表单。 如果表单使用了其他名称，请选择该名称。
 
-1. 单击 **[!UICONTROL Flow]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL Flow]**&#x200B;选项卡。
 
    ![](assets/simple-scoring-9.png)
 
@@ -82,7 +85,7 @@ ht-degree: 16%
 
    ![](assets/simple-scoring-12.png)
 
-1. 在确认屏幕中点击 **[!UICONTROL Activate]**。
+1. 在确认屏幕上单击&#x200B;**[!UICONTROL Activate]**。
 
    ![](assets/simple-scoring-13.png)
 
@@ -90,17 +93,17 @@ ht-degree: 16%
 >
 >一旦激活，此营销活动将在每次用户填写表单时运行。 该营销活动将一直运行，直到被停用。
 
-## 步骤 2：填写表单 {#step-fill-out-the-form}
+## 第2步：填写表单 {#step-fill-out-the-form}
 
 1. 选择您在[登录页面中创建的带有表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}的登录页面。
 
    ![](assets/simple-scoring-14.png)
 
-1. 单击 **[!UICONTROL Preview]**。 登陆页面将在新选项卡中打开。
+1. 单击&#x200B;**[!UICONTROL Preview]**。 登陆页面将在新选项卡中打开。
 
    ![](assets/simple-scoring-15.png)
 
-1. 填写表单中的名字、姓氏和电子邮件地址，然后点击 **[!UICONTROL Submit]**。
+1. 用您的名字、姓氏和电子邮件地址填写表单，然后单击&#x200B;**[!UICONTROL Submit]**。
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +113,7 @@ ht-degree: 16%
 
 ## 步骤3：查看人员信息 {#step-view-the-person-info}
 
-1. 进入 **[!UICONTROL Database]** 区域。
+1. 转到&#x200B;**[!UICONTROL Database]**&#x200B;区域。
 
    ![](assets/simple-scoring-17.png)
 

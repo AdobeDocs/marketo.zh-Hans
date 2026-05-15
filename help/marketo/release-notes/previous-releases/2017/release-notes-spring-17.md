@@ -3,14 +3,18 @@ unique-page-id: 12977439
 description: 发行说明 — 2017年春季 — Marketo文档 — 产品文档
 title: 发行说明 — 2017年春季
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+TQID: https://experienceleague.adobe.com/fOKUqseOxMRcof-p8wVETWCH0NAzKKFSA0Ue7E9Emwc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: 677
 ht-degree: 0%
 
 ---
 
-# 发行说明：2017 年春季 {#release-notes-spring}
+# 发行说明： 2017年春季 {#release-notes-spring}
 
 2017年春季发行版中包含以下功能。 检查您的Marketo版本以了解功能可用性。
 
@@ -68,7 +72,7 @@ ABM命名帐户的&#x200B;**[百分点评分](https://docs.marketo.com/display/d
 
 在访客关闭您的页面之前捕获访客的注意力。 将您的个性化[!UICONTROL Web Campaigns]设置为仅在鼠标手势指示访客离开页面时显示。
 
-**[的[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**&#x200B;动画效果
+[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**[&#x200B;动画效果
 
 设置Dialog Web Campaign的动画效果，以自定义活动在进入或退出网页时的显示方式。 您可以从6种不同的效果中进行选择，并控制对话框的时间和方向。
 

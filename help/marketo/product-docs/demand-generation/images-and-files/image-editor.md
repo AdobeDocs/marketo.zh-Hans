@@ -2,9 +2,12 @@
 description: 了解Marketo Design Studio中的图像编辑器。 裁切、调整图像大小和对图像进行基本编辑，而无需离开Marketo。
 title: 图像编辑器
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-yOiblNuK6ZI6QIgIE74viMfcp0aOgN1EPkJfYj5Cyw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: 66
 ht-degree: 10%
 
 ---

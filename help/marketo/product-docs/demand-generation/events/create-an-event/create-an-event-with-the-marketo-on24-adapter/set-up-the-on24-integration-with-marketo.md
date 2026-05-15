@@ -3,9 +3,12 @@ description: 了解如何设置ON24与Marketo的集成。 连接您的ON24帐户
 title: 设置 ON24 与 Marketo 的集成
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/qIKnrBwavLmy7tBqPTLvz72AJNIiVRzoEKQtH0OVgWg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: 238
 ht-degree: 10%
 
 ---
@@ -64,7 +67,7 @@ ht-degree: 10%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 选择[!UICONTROL display name]。 点击 **[!UICONTROL Service]** 下拉菜单，并选择 **[!UICONTROL Custom]**。 输入[!UICONTROL description]。 单击[!UICONTROL API Only User]下拉列表，然后选择在上述步骤[&#128279;](#create-a-new-user)中创建的用户。 单击 **[!UICONTROL Create]**。
+1. 选择[!UICONTROL display name]。 点击 **[!UICONTROL Service]** 下拉菜单，并选择 **[!UICONTROL Custom]**。 输入[!UICONTROL description]。 单击[!UICONTROL API Only User]下拉列表，然后选择在上述步骤](#create-a-new-user)中创建[的用户。 单击 **[!UICONTROL Create]**。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

@@ -4,9 +4,12 @@ description: 了解如何计划您的电子邮件计划。 设置投放日期和
 title: 安排电子邮件项目
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/mB-ot4Cdsc80DCdpPOzzY9QRyfvNYwZb4xZbiHUq1vE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: 141
 ht-degree: 8%
 
 ---

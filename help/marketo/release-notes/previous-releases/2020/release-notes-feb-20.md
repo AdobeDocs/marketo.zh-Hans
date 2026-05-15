@@ -4,9 +4,14 @@ description: 发行说明 — 2020年2月 — Marketo文档 — 产品文档
 title: 发行说明 — 2020年2月
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/wl-pYQcDIIDTeepjPdWbmZyEhyjvw51ojMGmFQsB63o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d1956f52-ecfd-4e01-8941-47af238acb0d
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: 652
 ht-degree: 2%
 
 ---
@@ -52,11 +57,11 @@ ht-degree: 2%
 
 ## 公告 {#announcements}
 
-* **Marketo Engage成功中心**：我们将在2020年2月启动Marketo成功中心。 成功中心是一个产品内帮助中心，它允许您搜索产品文档和社区、启动操作指南、访问采用内容(如Marketo University和同事最佳实践视频)等，并直接从您的Marketo Engage实例中进行搜索。 **注意**：此功能将作为测试版在澳新银行推出，并将在本季度晚些时候推出到北美。
+* **Marketo Engage成功中心**：我们将在2020年2月启动Marketo成功中心。 成功中心是一个产品内帮助中心，它允许您搜索产品文档和社区、启动操作指南、访问采用内容（如Marketo University和同事最佳实践视频）等，并直接从您的Marketo Engage实例中进行搜索。 **注意**：此功能将作为测试版在澳新银行推出，并将在本季度晚些时候推出到北美。
 
 ## 弃用 {#deprecations}
 
 * **Asset API“_method”参数**： 2020年9月之后，Asset API端点将不再接受在POST正文中传递“_method”以绕过URI长度限制。 为了适应需要此参数的请求，资产API的URI限制将从6KiB增加到65KiB，以便可以提交较长的请求URI。
 * **弃用Internet Explorer支持**：从2020年7月31日发行的7月版本开始，Internet Explorer将不再支持Marketo Engage用户界面。
 
-**_产品发布网络研讨会_** [于3月3日（太平洋时间11](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) / 2:00AM ET）加入我们:00PM，参加我们产品团队举办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。
+**_产品发布网络研讨会_** [于3月3日（太平洋时间11:00AM / 2:00PM ET）加入我们](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，参加我们产品团队举办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。

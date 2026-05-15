@@ -3,9 +3,14 @@ description: 在线Advertising Marketo登录页项目模板。 将其用于Marke
 title: OA-YYYY-MM-在线广告 Marketo 登陆页面
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/B1msn3wZ33NB3YzSKz82xTFuq-JPdjZ3nMvJTQZm1mY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: 508
 ht-degree: 10%
 
 ---
@@ -14,7 +19,7 @@ ht-degree: 10%
 
 这是一个在线广告跟踪程序的示例，跟踪程序包括具有注册表单的Marketo登录页面和使用Marketo默认程序。 选件的链接可显示在感谢页面上、以感谢电子邮件发送或同时显示两者。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

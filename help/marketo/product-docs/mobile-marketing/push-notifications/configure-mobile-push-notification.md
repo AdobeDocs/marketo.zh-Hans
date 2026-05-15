@@ -3,9 +3,12 @@ description: 了解如何配置移动推送通知。 设置应用程序、消息
 title: 配置移动推送通知
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: 506
 ht-degree: 2%
 
 ---
@@ -82,7 +85,7 @@ ht-degree: 2%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-也就是说，您应用程序的深层链接结构可能与上述示例不同。 您的开发人员在定义深层链接URI时有很多选项，因此请要求您的开发人员向您发送您有兴趣使用的页面的URI（链接）。 这可确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可以[在此查找更多信息](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
+也就是说，您应用程序的深层链接结构可能与上述示例不同。 您的开发人员在定义深层链接URI时有很多选项，因此请要求您的开发人员向您发送您有兴趣使用的页面的URI（链接）。 这可确保您在推送消息中输入的URI指向正确的位置。 您的开发人员可以[在此查找更多信息](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
 
 ## 重定向URI {#redirect-uris}
 

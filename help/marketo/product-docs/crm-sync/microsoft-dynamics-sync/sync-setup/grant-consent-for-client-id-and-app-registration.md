@@ -3,9 +3,11 @@ description: 了解如何为用于Dynamics同步的客户端ID和应用程序注
 title: 授予客户端 ID 和应用程序注册的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: 285
 ht-degree: 7%
 
 ---

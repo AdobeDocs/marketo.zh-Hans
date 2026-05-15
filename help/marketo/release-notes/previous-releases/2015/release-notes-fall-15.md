@@ -4,9 +4,14 @@ description: 发行说明 — 2015年秋季 — Marketo文档 — 产品文档
 title: 发行说明 — 2015年秋季
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/-uxQ2Wag7pvRhmZ8pXG7mdsKY6rI-sUtROkV3kNNjkc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '966'
+source-wordcount: 986
 ht-degree: 1%
 
 ---
@@ -43,7 +48,7 @@ ht-degree: 1%
 
 ## [!DNL Google Chrome]的Marketo分析 {#marketo-insights-for-google-chrome}
 
-[&#x200B; [!DNL Google Chrome]的Marketo分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[ [!DNL Google Chrome]的Marketo分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 我们很高兴地宣布发布[!DNL Google Mail] [!DNL Sales Insight]扩展的更新！ 在[[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中查看它。
 
@@ -51,7 +56,7 @@ ht-degree: 1%
 
 * 在参与之前，销售人员可以直接在[!DNL Google Mail]中查看其潜在客户的相关信息，包括职称、Twitter个人资料、公司信息、照片等。
 * 销售人员可以实时查看跨渠道的潜在客户参与的内容，例如打开或单击电子邮件、参加在线或面对面活动、访问网页、下载电子书等等。
-* 通过[!DNL Google Mail]发送的电子邮件记录在Marketo中并实时跟踪。 这可以让销售人员查看潜在客户何时查看其电子邮件，以便他们在适当的时间进行跟踪。 适用于[!DNL Sales Insight]的Marketo [!DNL Google Mail]还使销售人员能够轻松利用营销创建的模板来发送精美的邀请、优惠和其他类型的内容。
+* 通过[!DNL Google Mail]发送的电子邮件记录在Marketo中并实时跟踪。 这可以让销售人员查看潜在客户何时查看其电子邮件，以便他们在适当的时间进行跟踪。 适用于[!DNL Google Mail]的Marketo [!DNL Sales Insight]还使销售人员能够轻松利用营销创建的模板来发送精美的邀请、优惠和其他类型的内容。
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 

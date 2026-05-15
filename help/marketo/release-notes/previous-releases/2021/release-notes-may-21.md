@@ -3,9 +3,14 @@ description: 发行说明 — 2021年5月 — Marketo文档 — 产品文档
 title: 发行说明 - 2021 年 5 月
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/9YQq7Ynf4XGDyhYPq4-pB3Zwh89DD-H13h8E-BRInRQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: 1454
 ht-degree: 1%
 
 ---
@@ -28,7 +33,7 @@ ht-degree: 1%
 
 ## 新一代用户体验 {#next-generation-user-experience}
 
-通过全局搜索预览，营销人员可以快速查看共享资产在其实例中的位置。 浏览器选项卡显示位置以改进[!UICONTROL Marketing Activities]或[!UICONTROL Design Studio]中的导航。 其他树和全局搜索筛选器有助于优化您的搜索条件。 树中的拖放功能已恢复，允许您在主应用程序区域中快速高效地移动文件夹和资产。 最新更新的图标(符合Adobe的辅助功能标准)和状态徽章允许营销人员在树中快速轻松地区分文件夹和资源，并识别项目和资源的状态。
+通过全局搜索预览，营销人员可以快速查看共享资产在其实例中的位置。 浏览器选项卡显示位置以改进[!UICONTROL Marketing Activities]或[!UICONTROL Design Studio]中的导航。 其他树和全局搜索筛选器有助于优化您的搜索条件。 树中的拖放功能已恢复，允许您在主应用程序区域中快速高效地移动文件夹和资产。 最新更新的图标（符合Adobe的辅助功能标准）和状态徽章允许营销人员在树中快速轻松地区分文件夹和资源，并识别项目和资源的状态。
 
 ## 体验自动化 {#experience-automation}
 
@@ -64,7 +69,7 @@ ht-degree: 1%
 
 * **批量潜在客户导入API**：控制批量潜在客户导入及其使用的资源。 此增强功能在批量商机导入过程中在商机与公司之间创建了关联。 如果API调用，则提高处理数据的效率和效率，并减少用量。
 
-* 针对&#x200B;**客户的[!DNL Microsoft Dynamics Online]基于Web API的集成**： [!DNL MS Dynamics] Web API是通过8.0 REST协议引入的，并且实现了OData（开放数据协议）v4。 OData是OASIS （结构化信息标准促进组织）标准，用于在富数据上构建和使用RESTful服务。 需要使用此方法与[!DNL Microsoft Dynamics]集成的Adobe Marketo Engage客户当前正在从SOAP (Simple Object Access Protocol)迁移到基于Web API的连接。
+* 针对[!DNL Microsoft Dynamics Online]客户的&#x200B;**基于Web API的集成**： [!DNL MS Dynamics] Web API是通过8.0 REST协议引入的，并且实现了OData（开放数据协议）v4。 OData是OASIS （结构化信息标准促进组织）标准，用于在富数据上构建和使用RESTful服务。 需要使用此方法与[!DNL Microsoft Dynamics]集成的Adobe Marketo Engage客户当前正在从SOAP (Simple Object Access Protocol)迁移到基于Web API的连接。
 
 ## 营销数据环境 {#marketing-data-environment}
 

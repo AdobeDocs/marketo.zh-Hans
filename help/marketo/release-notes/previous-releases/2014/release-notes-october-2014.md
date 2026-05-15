@@ -4,10 +4,15 @@ description: 发行说明 — 2014年10月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年10月
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/7e1OQ7w7wev-4xEksrL4mxY-YLzBmwenHsdGCgsEzOA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 1%
+source-wordcount: 296
+ht-degree: 4%
 
 ---
 
@@ -30,7 +35,7 @@ ht-degree: 1%
 * 获取活动类型
 * 获取分页令牌
 
-发布后，可在[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)上获得完整的详细信息。
+发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)上获得完整的详细信息。
 
 ## MSI — 发送[!DNL Microsoft Dynamics]的Marketo电子邮件 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -40,11 +45,11 @@ ht-degree: 1%
 
 ## MSI — 添加到[!DNL Microsoft Dynamics]的Marketo营销活动 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[直接在](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)内将潜在客户和联系人添加到Marketo智能营销活动[!DNL Microsoft Dynamics]。 营销人员可以选择向销售人员提供Marketo促销活动。
+[直接在[!DNL Microsoft Dynamics]内将潜在客户和联系人添加到Marketo智能营销活动](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)。 营销人员可以选择向销售人员提供Marketo促销活动。
 
 ## 对[!DNL Microsoft Dynamics]同步的自定义实体支持 {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[使用来自](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)的自定义对象数据[!DNL Microsoft Dynamics]在智能列表、智能营销活动、项目中过滤和触发……
+[使用来自[!DNL Microsoft Dynamics]的自定义对象数据](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)在智能列表、智能营销活动、项目中过滤和触发……
 
 ## [!DNL Microsoft Dynamics]同步的股东支持 {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -70,4 +75,4 @@ ht-degree: 1%
 * 感兴趣的产品
 * 他们所看到的RTP营销活动
 
-有关完整的详细信息，请访问[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+有关完整的详细信息，请访问[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。

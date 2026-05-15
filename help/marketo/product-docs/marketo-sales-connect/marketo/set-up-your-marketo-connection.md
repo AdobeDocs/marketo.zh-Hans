@@ -3,9 +3,12 @@ description: 了解如何在Sales Connect中设置Marketo连接。 将Sales Conn
 title: 设置您的 Marketo 连接
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/7fRQ1yvSR3t4KrxEv8Au-sSkM6dRrsLy-TG9Kyt42UI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: 168
 ht-degree: 5%
 
 ---
@@ -14,7 +17,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->配置MSC时，Marketo将自动将您的凭据发送到[!DNL Sales Connect]，并将您的实例连接到Marketo。 只有在配置&#x200B;**实例后未看到已建立的连接**&#x200B;时，才需要[!DNL Sales Connect]执行此步骤。 如果已建立连接，您将在Marketo管理设置页面上看到所输入的凭据。
+>配置MSC时，Marketo将自动将您的凭据发送到[!DNL Sales Connect]，并将您的实例连接到Marketo。 只有在配置[!DNL Sales Connect]实例后未看到已建立的连接&#x200B;**时，才需要**&#x200B;执行此步骤。 如果已建立连接，您将在Marketo管理设置页面上看到所输入的凭据。
 
 ## 在将[!DNL Sales Connect]与Marketo连接之前获取凭据 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 

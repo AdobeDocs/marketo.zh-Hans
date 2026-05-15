@@ -4,16 +4,19 @@ description: 了解模板19D引导式登陆页面模板。 下载并将其用于
 title: 模板 19D
 exl-id: a2e0620e-15b7-45f1-a8f7-78f0554e290a
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/lyOh134qLXKpkYui0KXHrfatEXTYMKfgZB2Vht8VLFQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 6%
+source-wordcount: 75
+ht-degree: 5%
 
 ---
 
 # 模板 19D {#template-19d}
 
-右键单击以[下载模板19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html?lang=zh-Hans)
+右键单击以[下载模板19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
 
 ![](assets/image2015-9-16-17-3a1-3a31.png)
 
@@ -28,4 +31,4 @@ ht-degree: 6%
 
 **右键单击以下内容以下载此模板：**
 
-[模板19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html?lang=zh-Hans)
+[模板19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)

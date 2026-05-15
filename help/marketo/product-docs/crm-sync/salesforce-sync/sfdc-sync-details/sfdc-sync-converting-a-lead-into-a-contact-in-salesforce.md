@@ -4,16 +4,18 @@ description: 了解当您在Salesforce中将潜在客户转化为联系人时会
 title: SFDC同步 — 在Salesforce中将潜在客户转化为联系人
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/Z5ApDpLvZhGu3-DeZHwQanilG1WILGFQF7VnDxQikr4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: 163
 ht-degree: 0%
 
 ---
 
 # SFDC同步：在[!DNL Salesforce]中将潜在客户转化为联系人 {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-想像一下[!DNL Salesforce]中的三种不同方案：(不使用Marketo中的[转化人员流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md))
+想像一下[!DNL Salesforce]中的三种不同方案：（不使用Marketo中的[转化人员流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)）
 
 1. 正在将潜在客户转换为&#x200B;**新联系人和新帐户**
 1. 正在将潜在客户转换为&#x200B;**现有帐户**&#x200B;中的&#x200B;**新联系人**

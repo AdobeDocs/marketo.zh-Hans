@@ -4,9 +4,13 @@ description: 了解如何允许或阻止Marketo按IP地址登录。
 title: 根据 IP 限制 Marketo 登录
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+TQID: https://experienceleague.adobe.com/05hhFeXOdOg2zw9ioSV3kVI9DbDscpjx-s9SKYVDzv0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: 233
 ht-degree: 9%
 
 ---
@@ -21,7 +25,7 @@ ht-degree: 9%
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC)支持[基于IP的访问控制](https://helpx.adobe.com/cn/enterprise/using/ip-based-access.html){target="_blank"}。 为确保顺利过渡，现有Marketo Engage IP限制将激活，包括已启用2027年第1季度此功能的Adobe ID用户订阅。
+>Adobe Admin Console (AAC)支持[基于IP的访问控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}。 为确保顺利过渡，现有Marketo Engage IP限制将激活，包括已启用2027年第1季度此功能的Adobe ID用户订阅。
 >
 >* 您可以随时配置基于IP的AAC访问。
 >* AAC和Marketo Engage限制可以同时运行。 使用相同的IP允许列表实现兼容性。

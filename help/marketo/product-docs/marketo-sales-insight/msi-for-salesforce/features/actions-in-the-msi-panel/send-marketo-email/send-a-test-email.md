@@ -3,9 +3,12 @@ description: 了解如何从Salesforce中的MSI面板发送测试电子邮件。
 title: 发送测试电子邮件
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: 157
 ht-degree: 8%
 
 ---
@@ -14,7 +17,7 @@ ht-degree: 8%
 
 在发送电子邮件之前，您可以通过向自己发送任意电子邮件地址的测试电子邮件，来测试电子邮件格式和令牌。
 
-1. 导航到潜在客户或联系人的[!DNL Sales Insight]中的[!DNL Salesforce]面板。
+1. 导航到潜在客户或联系人的[!DNL Salesforce]中的[!DNL Sales Insight]面板。
 
 1. 单击 **[!UICONTROL Send Marketo Email]**。
 

@@ -4,9 +4,12 @@ description: 了解如何在Marketo中自定义自由格式登陆页面的移动
 title: 为您的自由格式登录页面自定义移动端视图
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/RJiOHLIXxHZdZBJk2XtIqk6TtJ7UVjcExmkxyVFp3yQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: 376
 ht-degree: 7%
 
 ---

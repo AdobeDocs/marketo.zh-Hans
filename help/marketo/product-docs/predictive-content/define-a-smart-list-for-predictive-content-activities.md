@@ -1,17 +1,21 @@
 ---
 unique-page-id: 10097873
 description: 了解如何使用富媒体、推荐栏和电子邮件的预测内容活动定义智能列表。 触发营销活动并过滤单击推荐内容的人员。
-title: 为预测性内容活动定义智能列表
+title: 定义预测内容活动的智能列表
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/NX57nK4saXA9cBIvRvnmRneaCtcz45B4ta8ZcBp6F4k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 5%
+source-wordcount: 306
+ht-degree: 0%
 
 ---
 
-# 为预测性内容活动定义智能列表 {#define-a-smart-list-for-predictive-content-activities}
+# 定义预测内容活动的智能列表 {#define-a-smart-list-for-predictive-content-activities}
 
 在智能营销活动中定义智能列表时，您可以在触发器和过滤器中使用预测内容活动。 您可以为通过[富媒体模板](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[内容推荐栏](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)或在[电子邮件](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)中单击预测内容的任何人触发操作。
 

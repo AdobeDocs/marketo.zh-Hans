@@ -3,9 +3,12 @@ description: 可投放性管理操作程序模板。 使用它来维护电子邮
 title: OP-供应能力管理
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/cJTv2uEq6YUEDphACUTypZOrkoLxTU0GRaPo43Igzjw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: 277
 ht-degree: 10%
 
 ---
@@ -18,7 +21,7 @@ ht-degree: 10%
 >
 >需要自定义字符串字段“营销暂停原因”才能导入。 [了解详情](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 

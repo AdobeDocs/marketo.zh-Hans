@@ -4,9 +4,11 @@ description: 了解如何在Salesforce Activity History中安装Sales Connect事
 title: 在活动历史记录中安装 Sales Connect 事件字段
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NznzQHvZw0KyF2r83AwkegZIAPdWi0dVYJ7xwyTTy0s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: 247
 ht-degree: 8%
 
 ---
@@ -29,7 +31,7 @@ ht-degree: 8%
 
 1. 向下滚动到[!UICONTROL Activity History]部分。
 1. 单击要编辑的扳手。
-1. 选择要包含在[!UICONTROL Sales Connect]部分中的[!UICONTROL Activity History]字段。 如果此处未显示[!UICONTROL Sales Connect]字段，则说明您可能安装了错误的[!DNL Salesforce]包。
+1. 选择要包含在[!UICONTROL Activity History]部分中的[!UICONTROL Sales Connect]字段。 如果此处未显示[!UICONTROL Sales Connect]字段，则说明您可能安装了错误的[!DNL Salesforce]包。
 1. 单击&#x200B;**[!UICONTROL Add]**&#x200B;将所需字段移过来。
 1. 单击 **[!UICONTROL OK]**。
 1. 单击 **[!UICONTROL Save]**。

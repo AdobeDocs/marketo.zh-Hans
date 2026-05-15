@@ -3,9 +3,11 @@ description: 了解如何通过ROPC连接将Marketo解决方案连接到Dynamics
 title: 第4步（共4步） — 将Marketo解决方案与资源所有者密码控制连接连接
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/FhoaEw7r-Uxwev38H-VZeJ7p0g7mIH9uR-QktMXMdDg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: 388
 ht-degree: 2%
 
 ---

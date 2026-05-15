@@ -4,9 +4,13 @@ description: 不再需要时从Marketo UI中隐藏字段，或取消隐藏以再
 title: 隐藏和取消隐藏字段
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
+TQID: https://experienceleague.adobe.com/eqaWiLR0hUwkqJbayqZEzw8o5oI4ejP6NKJnrPiCq6I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 161
 ht-degree: 16%
 
 ---

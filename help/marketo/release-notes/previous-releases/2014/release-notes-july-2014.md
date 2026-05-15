@@ -4,10 +4,15 @@ description: 发行说明 — 2014年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2014年7月
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ztiNePeKURvJ6rBPeI5QWPv7Qsioz5RvGn6kbRik8G4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 2%
+source-wordcount: 442
+ht-degree: 4%
 
 ---
 
@@ -31,7 +36,7 @@ ht-degree: 2%
 
 ## 日期运算符 {#date-operators}
 
-针对“[”、“](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)”和“[!UICONTROL in past before]”的[!UICONTROL in future]高级筛选器[!UICONTROL in future after]。 例如，查找出生日期在未来3个月内的潜在客户或出生日期在6个月后到期的合同。
+针对“[!UICONTROL in past before]”、“[!UICONTROL in future]”和“[!UICONTROL in future after]”的[高级筛选器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。 例如，查找出生日期在未来3个月内的潜在客户或出生日期在6个月后到期的合同。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +52,7 @@ ht-degree: 2%
 
 ## REST API中的列表操作 {#list-operations-in-the-rest-api}
 
-我们添加了以下与ReST中的列表操作相关的调用。 请参阅完整文档[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)。
+我们添加了以下与ReST中的列表操作相关的调用。 请参阅完整文档[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)。
 
 * 按ID获取列表
 * 获取多个列表
@@ -78,7 +83,7 @@ RTP集营销活动页面现在[包含现成的模板](/help/marketo/product-docs
 
 ## RTP：JavaScript API增强功能 {#rtp-javascript-api-enhancements}
 
-用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员网站](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

@@ -2,9 +2,11 @@
 description: 了解促销活动结束的原因。 了解手动结束、回复设置、退回删除和自动结束条件。
 title: 为什么我的活动已结束？
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/jlwVQCOdIRz0kG4wW8QwhnKhSC8dQ2koR-E8Szrt8mI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: 90
 ht-degree: 11%
 
 ---

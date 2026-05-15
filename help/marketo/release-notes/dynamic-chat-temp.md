@@ -4,9 +4,11 @@ title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: 933
 ht-degree: 66%
 
 ---
@@ -35,7 +37,7 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 * **路由规则特定行为**
 
-_&#x200B;**帐户路由**&#x200B;_
+_**帐户路由**_
 
 如果访客的电子邮件域映射到已知帐户，系统会始终优先分配给映射的代理。
 
@@ -52,7 +54,7 @@ _&#x200B;**帐户路由**&#x200B;_
 
 只有当帐户路由不符合条件（没有匹配的域或代理）时，才会考虑卡级别的路由规则（例如，团队、自定义）。
 
-_&#x200B;**自定义/团队路由**&#x200B;_
+_**自定义/团队路由**_
 
 这些规则可能会返回多个符合条件的代理。
 
@@ -66,7 +68,7 @@ _&#x200B;**自定义/团队路由**&#x200B;_
  — 或 — 
 * 显示默认回退消息。
 
-_&#x200B;**轮询路由**&#x200B;_
+_**轮询路由**_
 
 作为主要路由规则使用时，系统会：
 
@@ -76,7 +78,7 @@ _&#x200B;**轮询路由**&#x200B;_
 
 如果将轮询作为回退方式使用，则仅在主要规则未匹配到任何代理时才会启用。
 
-_&#x200B;**访客体验流**&#x200B;_
+_**访客体验流**_
 
 系统会检查帐户路由是否适用。
 
@@ -100,7 +102,7 @@ _&#x200B;**访客体验流**&#x200B;_
 
 ##### 用例 {#use-cases}
 
-_&#x200B;**帐户路由**&#x200B;_
+_**帐户路由**_
 
 <table><thead>
   <tr>
@@ -126,7 +128,7 @@ _&#x200B;**帐户路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**自定义路由**&#x200B;_
+_**自定义路由**_
 
 <table><thead>
   <tr>
@@ -152,7 +154,7 @@ _&#x200B;**自定义路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**团队路由**&#x200B;_
+_**团队路由**_
 
 <table><thead>
   <tr>
@@ -178,7 +180,7 @@ _&#x200B;**团队路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**轮询路由**&#x200B;_
+_**轮询路由**_
 
 <table><thead>
   <tr>

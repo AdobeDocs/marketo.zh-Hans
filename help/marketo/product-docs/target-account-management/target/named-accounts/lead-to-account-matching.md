@@ -4,10 +4,15 @@ description: 了解商机与帐户匹配以及Marketo如何近乎实时地将商
 title: 潜在客户到帐户匹配
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/UOnC6liEOBDJ7IbaKhf5lYjNfZgKJEXAYqaHrYLGErc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 2%
+source-wordcount: 496
+ht-degree: 5%
 
 ---
 
@@ -25,7 +30,7 @@ Marketo商机帐户匹配遵循以下4个步骤流程：
 
 **步骤1 -**&#x200B;我们的配对过程首先使用潜在客户记录上的关键信息，例如：
 
-* 电子邮件域(例如，acme.com)
+* 电子邮件域（例如，acme.com）
 * 从IP地址推断的公司名称
 * 公司名称 — 这可以是CRM帐户名称或潜在客户公司名称属性（例如，来自表单填写）
 
@@ -37,7 +42,7 @@ Marketo商机帐户匹配遵循以下4个步骤流程：
 
 **步骤4 -**&#x200B;我们提供一个建议的公司列表，这些公司具有强匹配和弱匹配。 当根据其中一家提议的公司创建指定帐户时，我们会创建匹配规则以自动将新的潜在客户（例如，填写表单的潜在客户）关联到正确的指定帐户。 这样，您就可以更少地担心匹配潜在客户，而更担心获得收入！
 
-由于Marketo商机与帐户匹配是Marketo [!UICONTROL Target Account Management]的一项内置功能，因此对商机与帐户的匹配几乎实时发生(例如，当商机填写Marketo表单时，我们会将该商机与正确的指定帐户相关联)。 此事件可用于触发警报，并向帐户所有者通知从其指定帐户传入的新潜在客户。
+由于Marketo商机与帐户匹配是Marketo [!UICONTROL Target Account Management]的一项内置功能，因此对商机与帐户的匹配几乎实时发生（例如，当商机填写Marketo表单时，我们会将该商机与正确的指定帐户相关联）。 此事件可用于触发警报，并向帐户所有者通知从其指定帐户传入的新潜在客户。
 
 >[!NOTE]
 >

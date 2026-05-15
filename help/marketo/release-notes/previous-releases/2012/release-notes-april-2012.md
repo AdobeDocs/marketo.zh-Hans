@@ -4,9 +4,12 @@ description: 发行说明 — 2012年4月 — Marketo文档 — 产品文档
 title: 发行说明 — 2012年4月
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/Z1tELq97oWQ2jJnDzQzQ-KntHmbvjWDwXgePeQ59X3Y
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: 368
 ht-degree: 1%
 
 ---
@@ -24,7 +27,7 @@ ht-degree: 1%
 * 现在，您可以使用请求营销活动API为运行特定营销活动的“我的令牌”发送值，这对于通过API填充电子邮件内容尤为有用
 * 新增的“上传至”列表和“计划Campaign API”功能，支持以上销售线索列表和批量促销活动。
 
-## 更简单的[!DNL GoToWebinar]和[!DNL WebEx]确认电子邮件(Adobe Connect和[!DNL ON24]即将推出！) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
+## 更简单的[!DNL GoToWebinar]和[!DNL WebEx]确认电子邮件（Adobe Connect和[!DNL ON24]即将推出！） {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
 我们通过创建一个显示每个商机的唯一注册确认URL的成员令牌简化了确认URL。 您将不再需要使用不同的令牌创建此URL。 这当前可供[!DNL GoToWebinar]和[!DNL WebEx]客户使用，并将在我们的下一个版本中可供Adobe Connect和[!DNL ON24]使用。
 

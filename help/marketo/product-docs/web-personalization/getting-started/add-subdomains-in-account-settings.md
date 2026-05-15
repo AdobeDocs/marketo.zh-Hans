@@ -4,9 +4,13 @@ description: 了解如何使用在帐户设置中添加子域，在Marketo Engag
 title: 在帐户设置中添加子域名
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/QP1rCY6aYKb-CH7cg-SEY39SwPyeDptXoGMx6Y-IvSY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: 156
 ht-degree: 8%
 
 ---

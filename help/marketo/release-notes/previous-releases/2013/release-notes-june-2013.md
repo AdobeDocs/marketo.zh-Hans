@@ -4,9 +4,13 @@ description: 发行说明 — 2013年6月 — Marketo文档 — 产品文档
 title: 发行说明 — 2013年6月
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/eQePp2FMfxvMsOkO3n0zHR3CkprQ0asS3oa9PzurWqw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 161
 ht-degree: 2%
 
 ---
@@ -35,7 +39,7 @@ ht-degree: 2%
 
 ## 多个模型 {#multiple-models}
 
-作为社区中收入周期分析(RCA)的首要想法，此功能允许您创建多个模型，以便按产品线、业务部门或区域对您的收入漏斗有更详细的了解。 按收入阶段列出的潜在客户、成功路径分析器、Program Analyzer和收入资源管理器报表现在支持选择特定模型以用于报表的功能。
+作为社区中收入周期分析(RCA)的首要想法，此功能允许您创建多个模型，以便按产品线、业务部门或区域对您的收入funnel有更详细的了解。 按收入阶段列出的潜在客户、成功路径分析器、Program Analyzer和收入资源管理器报表现在支持选择特定模型以用于报表的功能。
 
 默认情况下，Select SMB Edition提供两种型号，Enterprise Edition提供十五种型号。 您也可以购买其他型号。
 

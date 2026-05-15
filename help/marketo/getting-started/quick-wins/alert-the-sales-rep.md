@@ -4,10 +4,12 @@ description: 提醒销售代表 — Marketo文档 — 产品文档
 title: 通知销售代表
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+TQID: https://experienceleague.adobe.com/Qd-0TR8Sa4JWsQs7sWzUOmcFU0iRxl6SH62fWnm1GT8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 8%
+source-wordcount: 350
+ht-degree: 9%
 
 ---
 
@@ -27,7 +29,7 @@ ht-degree: 8%
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. 选择您在&#x200B;**登录页中使用表单**&#x200B;快速入选创建的[我的项目](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}，然后在&#x200B;**[!UICONTROL New]**&#x200B;下单击&#x200B;**[!UICONTROL New Local Asset]**。
+1. 选择您在[登录页中使用表单](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入选创建的&#x200B;**我的项目**，然后在&#x200B;**[!UICONTROL New]**&#x200B;下单击&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/alert-the-sales-rep-2.png)
 

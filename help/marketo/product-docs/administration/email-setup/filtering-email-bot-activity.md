@@ -1,16 +1,20 @@
 ---
 description: 使用IAB列表匹配和邻近模式过滤或记录电子邮件机器人活动，以防止打开次数和点击次数夸大。
-title: 过滤电子邮件机器人活动
+title: 筛选电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
+TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '469'
-ht-degree: 13%
+source-wordcount: 469
+ht-degree: 0%
 
 ---
 
-# 过滤电子邮件机器人活动 {#filtering-email-bot-activity}
+# 筛选电子邮件机器人活动 {#filtering-email-bot-activity}
 
 有时，电子邮件机器人活动可能会错误地夸大电子邮件打开数和点击数数据。 请按照以下步骤解决此问题。
 
@@ -31,15 +35,15 @@ ht-degree: 13%
 
 ## 选择筛选器类型 {#select-filter-type}
 
-1. 单击 **[!UICONTROL Admin]**。
+1. 单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 单击 **[!UICONTROL Email]**。
+1. 单击&#x200B;**[!UICONTROL Email]**。
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 单击 **[!UICONTROL Bot Activity]** 选项卡。
+1. 单击&#x200B;**[!UICONTROL Bot Activity]**&#x200B;选项卡。
 
    ![](assets/filtering-email-bot-activity-3.png)
 

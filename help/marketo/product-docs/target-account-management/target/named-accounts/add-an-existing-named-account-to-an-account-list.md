@@ -4,9 +4,11 @@ description: 了解如何将现有的指定帐户添加到帐户列表。 使用
 title: 将现有命名帐户添加到帐户列表
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/12lp3121xP2hO8rb4oQSBb1noH6qsw3ZGMVMumabwPM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: 93
 ht-degree: 16%
 
 ---

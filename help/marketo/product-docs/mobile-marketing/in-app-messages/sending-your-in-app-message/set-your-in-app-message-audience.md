@@ -4,10 +4,13 @@ description: 了解如何设置应用程序内消息受众。 编辑智能列表
 title: 设置您的应用程序内消息受众
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/hMVJupuaDx0Tw9yy8geOrIZPUosdvtx7HJwzqbQiIdA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 4%
+source-wordcount: 292
+ht-degree: 5%
 
 ---
 
@@ -53,6 +56,6 @@ ht-degree: 4%
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
-做得不错！你的观众已经准备好了。 您已获得蓝色条和绿色复选标记。
+做得不错！ 你的观众已经准备好了。 您已获得蓝色条和绿色复选标记。
 
 [选择应用程序内消息的时间](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)！

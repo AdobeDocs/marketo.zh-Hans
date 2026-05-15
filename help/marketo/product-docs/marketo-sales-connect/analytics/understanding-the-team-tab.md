@@ -4,9 +4,11 @@ description: 了解Sales Connect中的“团队”选项卡和团队范围的指
 title: 了解[!UICONTROL Team]选项卡
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/Z3EoI8BoNSwmJKCKz-dP8ml8PaTFBTfWYgT8VqwYB0c
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: 152
 ht-degree: 0%
 
 ---

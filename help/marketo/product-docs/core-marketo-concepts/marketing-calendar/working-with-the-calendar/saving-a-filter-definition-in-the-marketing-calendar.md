@@ -4,9 +4,11 @@ description: 了解如何在营销日历中保存过滤器定义。 保存筛选
 title: 在营销日程表中保存过滤器定义
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/W3KwfZv1of5jaqdiocNPIQlbc-7ccaelEw-L-VU17lI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: 88
 ht-degree: 19%
 
 ---

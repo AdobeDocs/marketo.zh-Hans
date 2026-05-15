@@ -4,10 +4,16 @@ title: 电子邮件模板
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1834'
-ht-degree: 3%
+source-wordcount: 1872
+ht-degree: 4%
 
 ---
 
@@ -67,11 +73,11 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->具体的 .zip 文件结构没有任何限制。但是，引用必须是相对的，并且适合.zip文件夹的树结构。
+>具体的 .zip 文件结构没有任何限制。 但是，引用必须是相对的，并且适合.zip文件夹的树结构。
 
 1. 在&#x200B;_设计您的模板_&#x200B;页面中，选择&#x200B;**导入HTML**。
 
-1. 拖放所需的 ip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
+1. 拖放所需的ip文件（或从您的计算机中选择一个文件），然后单击&#x200B;**导入**。
 
    ![](assets/import-your-html-1.png)
 
@@ -161,7 +167,7 @@ ht-degree: 3%
 >
 >如果希望片段占据电子邮件中的整个水平布局，请添加1:1列结构，然后将片段拖放到其中。
 
-保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_&#x200B;选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
+保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
 
 ### 添加资源 {#add-assets}
 
@@ -193,13 +199,13 @@ ht-degree: 3%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
    * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
@@ -236,7 +242,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >“回退文本”是适用于默认值的新编辑器术语。 示例： ``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
+   >“回退文本”是适用于默认值的新编辑器术语。 示例：``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
 
 1. 设置您的回退文本，然后单击&#x200B;**添加**。
 

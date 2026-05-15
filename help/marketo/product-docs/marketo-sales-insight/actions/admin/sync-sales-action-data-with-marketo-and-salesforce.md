@@ -2,9 +2,12 @@
 description: 了解如何将Sales Insight操作数据与Marketo Engage和Salesforce同步。
 title: 将销售操作数据与 Marketo 和 Salesforce 同步
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/SEElhIJ05KyqQUi5rLjSZjwFMdHDDO5is9Hqk7JxeIE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: 1072
 ht-degree: 3%
 
 ---
@@ -71,7 +74,7 @@ ht-degree: 3%
 
 ## 为什么Sales Insight Actions有自己的数据库？ {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions拥有自己的Web应用程序，该应用程序具有专门的人员和活动数据库，可提供为销售团队构建和设计的优化工作区。 这使销售经理和销售人员能够腾出空间来构建和管理他们的参与策略   无需授予主Marketo Engage工作区的访问权限或特权，该工作区已针对营销操作专家进行了优化。
+Sales Insight Actions拥有自己的Web应用程序，该应用程序具有专门的人员和活动数据库，可提供为销售团队构建和设计的优化工作区。 这使销售经理和销售人员能够有一个空间来构建和管理他们的参与策略，而无需授予主Marketo Engage工作区的访问权限或特权，工作区已经针对营销操作专家进行了优化。
 
 ## 如何处理重复项？ {#how-are-duplicates-handled}
 

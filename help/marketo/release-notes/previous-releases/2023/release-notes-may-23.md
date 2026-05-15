@@ -2,10 +2,15 @@
 description: 发行说明 — 2023年5月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 5 月
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/TNFskyWoqMkppTm3glx6nYBwGCEaPZtlPnHBBmqKKCY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: d1956f52-ecfd-4e01-8941-47af238acb0d
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 19%
+source-wordcount: 370
+ht-degree: 18%
 
 ---
 
@@ -15,11 +20,11 @@ ht-degree: 19%
 
 >[!AVAILABILITY]
 >
->带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。请联系您的 Marketo Engage 代表了解更多信息。
+>带有星标（![star](assets/yellow-star.png)）的功能为付费附加组件。 请联系您的 Marketo Engage 代表了解更多信息。
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2023年5月12日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。请检查每个功能下方的状态。
+以下功能属于标准发行周期，将于&#x200B;**2023年5月12日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请检查每个功能下方的状态。
 
 ### Marketo Engage 现代用户体验 {#modern-ux}
 
@@ -74,7 +79,7 @@ ht-degree: 19%
   </tr>
   <tr>
    <td>已开始推出</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=zh-Hans">交互式网络研讨会概述</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">交互式网络研讨会概述</a></td>
   </tr>
   </tbody>
 </table>

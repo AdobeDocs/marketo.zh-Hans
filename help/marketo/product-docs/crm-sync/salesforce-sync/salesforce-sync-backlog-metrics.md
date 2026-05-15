@@ -3,9 +3,13 @@ description: 了解Salesforce同步积压量度以及如何监控挂起同步的
 title: Salesforce 同步积压量度
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: 1155
 ht-degree: 1%
 
 ---
@@ -98,9 +102,9 @@ ht-degree: 1%
 
 **频繁更新的字段**：某些字段容易频繁更新。 例如，货币字段可能会发生货币更改。 检查这些字段是否需要同步，或者字段的设计是否应不同。 如果您有其他频繁更新且不需要的字段，请向同步用户隐藏它们。 与您的SFDC管理员讨论可能正在更新字段的集成。
 
-**自定义对象**：定期查看[自定义对象](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，这些自定义对象已启用同步并禁用不再需要同步的自定义对象。
+**自定义对象**：定期查看[自定义对象](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，这些自定义对象已启用同步并禁用不再需要同步的自定义对象。
 
-**活动**： [检查是否有任何活动](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}启用了可从同步中删除的同步。  每个潜在客户每天只能同步一次这些活动。
+**活动**： [检查是否有任何活动](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}启用了可从同步中删除的同步。  每个潜在客户每天只能同步一次这些活动。
 
 **查看同步错误**：异常处理可能会减慢同步速度。 查看用户通知并解决错误可以改善同步运行状况。
 

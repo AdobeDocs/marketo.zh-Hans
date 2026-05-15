@@ -4,9 +4,12 @@ description: 了解如何测试Facebook Lead Ads桌面版与Marketo的集成。 
 title: 测试 Facebook 潜在客户广告与 Marketo 的桌面端集成
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/I4eS9oQyilDMuEigreugkCgPCKvfCw1uX3zSmKyftN8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: 196
 ht-degree: 5%
 
 ---
@@ -41,7 +44,7 @@ ht-degree: 5%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. 提交表单后，在Marketo[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中生成智能列表，作为程序的一部分或在使用“已填写[!DNL Facebook]潜在客户广告表单”过滤器的数据库中生成。 插入您提交的表单的潜在客户广告表单名称。
+1. 提交表单后，在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中生成智能列表，作为程序的一部分或在使用“已填写[!DNL Facebook]潜在客户广告表单”过滤器的数据库中生成。 [插入您提交的表单的潜在客户广告表单名称。
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 

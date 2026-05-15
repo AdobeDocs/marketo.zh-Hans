@@ -4,9 +4,11 @@ description: 了解如何在Marketo登陆页面中包含日历事件ICS文件。
 title: 在登录页面中包含日程表事件 ICS 文件
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/tOmjiK0qx5Tp8hnENTMdG1rQpZPfD53Tnin-mL5PMGo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: 120
 ht-degree: 17%
 
 ---
