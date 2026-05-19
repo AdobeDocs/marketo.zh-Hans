@@ -1,0 +1,44 @@
+---
+unique-page-id: 4718685
+description: 了解如何在Marketo Engage的收入建模器中合并两个阶段，包括合并收入中的两个阶段。 使用本指南完成您的下一步。
+title: 在收入建模器中合并两个阶段
+exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 12%
+
+---
+
+# 在收入建模器中合并两个阶段 {#merging-two-stages-in-the-revenue-modeler}
+
+批准模型后，在编辑草稿时无法删除阶段。 相反，您可以将该阶段与另一个阶段合并。
+
+1. 单击&#x200B;**Marketo主页**&#x200B;并选择&#x200B;**[!UICONTROL Analytics]**。
+
+   ![](assets/image2015-4-29-14-3a59-3a9.png)
+
+1. 单击已批准的模型。
+
+   ![](assets/image2015-4-29-15-3a3-3a15.png)
+
+1. 单击 **[!UICONTROL Edit Draft.]**
+
+   ![](assets/image2015-4-29-15-3a7-3a3.png)
+
+1. 右键单击要合并的阶段，然后在菜单中选择&#x200B;**[!UICONTROL Merge]阶段**。
+
+   ![](assets/image2015-4-29-15-3a10-3a6.png)
+
+1. 单击下拉菜单中的特定阶段。
+
+   ![](assets/image2015-4-29-15-3a52-3a5.png)
+
+1. 您可以通过在&#x200B;**[!UICONTROL Model Actions]**&#x200B;菜单中选择&#x200B;**[!UICONTROL Approve Model Draft]**&#x200B;来重新批准模型。
+
+   ![](assets/image2015-4-29-16-3a5-3a53.png)
+
+>[!NOTE]
+>
+>在[!UICONTROL Merge Stage]下拉列表中选择&#x200B;**[!UICONTROL None]**&#x200B;以从模型中删除潜在客户

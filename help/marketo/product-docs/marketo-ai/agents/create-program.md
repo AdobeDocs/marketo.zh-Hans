@@ -1,11 +1,11 @@
 ---
 description: 使用Marketo AI从简单的语言简报中构建Marketo程序。 让智能营销活动、计划和资产占位符准备好进行审查和优化。
 title: 创建项目
-beta: true
+badge: Beta 版
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 >* 若要使用此功能，您必须首先同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 >
 >* 您必须具有在Marketo帐户中创建程序的权限。
+
+>[!AVAILABILITY]
+>
+>此功能处于封闭测试阶段，当前在接下来的几个月内分阶段推出。 当您在“我的Marketo”屏幕上看到&#x200B;_Build with AI_&#x200B;拼贴时，就会知道已为您的订阅启用了该功能。
 
 ## 使用方法 {#how-to-use}
 

@@ -1,12 +1,12 @@
 ---
 description: Investigate销售线索代理回答了营销人员最常提出的问题。 它比手动查看活动日志、智能活动历史记录和评分记录更快、更可靠。
 title: 调查潜在客户
-beta: true
+badge: Beta 版
 hide: true
 hidefromtoc: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 >* 若要使用此功能，您必须首先同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 >
 >* 您必须对潜在客户记录以及您正在调查的计划或里程碑具有查看权限。
+
+>[!AVAILABILITY]
+>
+>此功能处于封闭测试阶段，当前在接下来的几个月内分阶段推出。 当您在“我的Marketo”屏幕上看到&#x200B;_Build with AI_&#x200B;拼贴时，就会知道已为您的订阅启用了该功能。
 
 ## 使用方法 {#how-to-use}
 
