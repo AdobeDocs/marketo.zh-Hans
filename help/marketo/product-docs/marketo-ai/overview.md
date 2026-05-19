@@ -1,26 +1,26 @@
 ---
-description: 探索旨在自动执行营销任务（如项目QA、商机导入、数据标准化等）的Marketo Engage AI代理套件。
-title: Marketo Engage AI概述
+description: 探索旨在自动执行营销任务（如项目QA、商机导入、数据标准化等）的Marketo AI代理套件。
+title: Marketo AI概述
 badge: Beta 版
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
 
-# Marketo Engage AI概述 {#overview}
+# Marketo AI概述 {#overview}
 
-Marketo Engage AI提供了代理，这些代理旨在自动执行耗时但重要的营销功能。
-
->[!PREREQUISITES]
->
->若要使用此功能，您必须首先同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+Marketo AI提供了代理，这些代理旨在自动执行耗时但重要的营销功能。
 
 >[!AVAILABILITY]
 >
->此功能处于封闭测试阶段，当前在接下来的几个月内分阶段推出。 当您在“我的Marketo”屏幕上看到&#x200B;_Build with AI_&#x200B;拼贴时，就会知道已为您的订阅启用了该功能。
+>此功能仅在有限范围内可用。 要请求访问您的订阅，请联系Adobe客户团队（您的客户经理）。
+
+>[!PREREQUISITES]
+>
+>若要使用此功能，您必须首先同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 有关详细信息，请与您的客户经理联系。
 
 >[!IMPORTANT]
 >
