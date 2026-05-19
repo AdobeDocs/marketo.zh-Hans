@@ -1,11 +1,11 @@
 ---
 description: 克隆程序会将现有Marketo程序复制到具有新名称的新文件夹中，从而保留其结构，同时允许您自定义新营销活动。
 title: 克隆程序
-beta: true
+badge: Beta 版
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '501'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 >* 您必须具有在目标文件夹中创建程序的权限。
 >
 >* 要克隆的源程序必须已存在于您的Marketo环境中。
+
+>[!AVAILABILITY]
+>
+>此功能处于封闭测试阶段，当前在接下来的几个月内分阶段推出。 当您在“我的Marketo”屏幕上看到&#x200B;_Build with AI_&#x200B;拼贴时，就会知道已为您的订阅启用了该功能。
 
 ## 使用方法 {#how-to-use}
 

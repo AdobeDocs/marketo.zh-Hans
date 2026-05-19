@@ -1,0 +1,58 @@
+---
+unique-page-id: 2953144
+description: 了解Marketo Engage中的高级程序报告概述，包括高级程序报告概述。 使用本指南完成您的下一步。
+title: 高级项目报告概述
+exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 2%
+
+---
+
+# 高级项目报告概述 {#advanced-program-reporting-overview}
+
+**Revenue Cycle Explorer**&#x200B;包括几个分析领域和各种新的量度，使您能够衡量计划的有效性。
+
+![](assets/rev.png)
+
+这里有很多好东西。 我们来看看吧！
+
+![](assets/image2015-4-30-10-3a15-3a17.png)
+
+## 什么是分析区域？ {#whats-an-analysis-area}
+
+每个分析区域在[!UICONTROL Revenue Explorer]中包含不同的数据集和量度。 每个区域都与您选择查看的报告主题相关。
+
+## 项目分析领域 {#program-analysis-areas}
+
+* **[项目成本分析](understanding-the-program-cost-analysis-area.md)** — 查看所有项目的ROI。
+
+* **[计划会员资格分析](understanding-the-program-membership-analysis-area.md)** — 按渠道、参与率、成功标准等查看结果。
+
+* **[计划机会分析](understanding-the-program-opportunity-analysis-area.md)** — 根据分配、收入和ROI生成的机会。
+
+* **[计划收入阶段分析](understanding-the-program-revenue-stage-analysis-area.md)** — 在收入周期模型中已达到特定成功阶段的新名称。
+
+## 程序分析器 {#program-analyzers}
+
+* **项目分析器** — 快速识别成功或不成功的项目，并适当集中您的资源。
+
+* **机会影响分析器** — 通过衡量产生机会的计划和关键参与的影响来证明营销的贡献。
+
+## [!UICONTROL Report Options] {#report-options}
+
+在每个报表中，都有多个选项可帮助您自定义体验。
+
+![](assets/report-options.png)
+
+>[!CAUTION]
+>
+>虽然您可以选择显示测量单元格留空的行/列（第一个复选框），但我们建议不要执行此操作，因为这样做可能会减慢处理速度，甚至可能使报表超时。
+
+>[!NOTE]
+>
+>Revenue Cycle Explorer中的数据每晚都会从您的Marketo实例中进行更新。 因此，您在Marketo中人员和帐户活动发生的任何更改都将反映在Revenue Cycle Explorer的下一个工作日中。
+
+熟悉Revenue Analytics将使您全面了解insight中的项目及其影响。

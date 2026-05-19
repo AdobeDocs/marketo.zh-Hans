@@ -1,0 +1,62 @@
+---
+unique-page-id: 4718651
+description: 了解了解Marketo Engage中的电子邮件分析区域，包括了解电子邮件分析区域。 使用本指南完成您的下一步。
+title: 了解电子邮件分析区域
+exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+workflow-type: tm+mt
+source-wordcount: '383'
+ht-degree: 2%
+
+---
+
+# 了解电子邮件分析区域 {#understanding-the-email-analysis-area}
+
+电子邮件分析区域侧重于电子邮件量度。 本文介绍了该报表包中所有可用的报表。
+
+>[!AVAILABILITY]
+>
+>这适用于具有Select Edition或[Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)加载项的用户。 有关详细信息，请与您的销售代表联系。
+
+## 电子邮件点击活动热网格 {#email-click-activity-heat-grid}
+
+此报告向您展示在一周中的哪一天以及在一天中的哪个时间您的潜在客户点击电子邮件。 箱子越绿，在特定日期和时间点击的次数就越多。 当前过滤器包括过去7天内发送的所有电子邮件。 时间在CST。
+
+![](assets/image2015-5-6-17-3a17-3a34.png)
+
+## 电子邮件点击时间分布 {#email-clicked-time-distribution}
+
+此报表显示一天中每个时间的电子邮件总点击次数百分比。 当前过滤器包括过去7天内发送的所有电子邮件。 时间在CST。
+
+![](assets/image2015-5-6-17-3a20-3a55.png)
+
+## 电子邮件点击率衰减 {#email-click-rate-decay}
+
+此报告向您显示在发送电子邮件的同一天以及随后的几天中发生的电子邮件点击总数百分比。 当前过滤器包含7天前发送的所有电子邮件。
+
+![](assets/image2015-5-6-17-3a26-3a50.png)
+
+## 电子邮件打开活动热网格 {#email-open-activity-heat-grid}
+
+此报告向您展示在一周中的哪一天以及在一天中的哪个时间打开您的潜在客户。 箱子越绿色，在特定日期和时间打开得就越多。 当前过滤器包括过去7天内发送的所有电子邮件。 时间在CST。
+
+![](assets/image2015-5-6-17-3a30-3a35.png)
+
+## 打开率衰减 {#open-rate-decay}
+
+此报告向您显示在发送电子邮件的同一天以及随后的日期中发生的电子邮件打开总数百分比。 当前过滤器包含7天前发送的所有电子邮件。
+
+![](assets/image2015-5-6-17-3a37-3a25.png)
+
+## 打开时间分布 {#open-time-distribution}
+
+此报告显示一天中每个时间的电子邮件总打开次数的百分比。 当前过滤器包括过去7天内发送的所有电子邮件。 时间在CST。
+
+![](assets/image2015-5-6-17-3a39-3a15.png)
+
+## 已发送活动热网格 {#sent-activity-heat-grid}
+
+此报表可向您显示在一周中的哪一天以及在一天中的哪个时间发送电子邮件。 包装盒越环保，在特定日期和时间发送的电子邮件就越多。 当前过滤器包括过去7天内发送的所有电子邮件。 时间在CST。
+
+![](assets/seven.png)
