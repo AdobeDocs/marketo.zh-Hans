@@ -5,39 +5,21 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
 TQID: https://experienceleague.adobe.com/T4P378JxWQuCWzPMUsgXoQvnPhaRxdAnZUxVzpZuqWo
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: ffdd6159-0e10-4a57-8021-94e93bab8183
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1800
-ht-degree: 4%
+source-wordcount: 1727
+ht-degree: 2%
 
 ---
 
 # 电子邮件创作 {#email-authoring}
 
-了解如何在新的Marketo Engage Email Designer中创建、个性化和预览电子邮件。
-
->[!PREREQUISITES]
->
->要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。 如果您的订阅尚未完成迁移，且希望加快进度，请联系 Adobe 客户团队（您的客户经理）或 [Marketo 支持团队](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+了解如何在电子邮件Designer中创建、个性化和预览电子邮件。
 
 ## 创建电子邮件 {#create-an-email}
 
@@ -73,7 +55,7 @@ ht-degree: 4%
 
    ![](assets/create-an-email-5.png)
 
-1. 要创建新电子邮件，您有两个选项。 右键单击您的电子邮件计划名称并选择&#x200B;**新建本地资产**，或者单击仪表板“电子邮件”框中的&#x200B;**+新建电子邮件**&#x200B;按钮。 在本例中，我们将执行前者。
+1. 要创建新电子邮件，您有两个选项。 右键单击您的电子邮件计划名称并选择&#x200B;**新建本地资产**，或者单击仪表板“电子邮件”框中的&#x200B;**+新建电子邮件**&#x200B;按钮。 在此示例中，使用第一个选项。
 
    ![](assets/create-an-email-6.png)
 
@@ -221,7 +203,7 @@ ht-degree: 4%
 >
 >如果希望片段占据电子邮件中的整个水平布局，请添加1:1列结构，然后将片段拖放到其中。
 
-保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_&#x200B;选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
+保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
 
 ### 添加Assets {#add-assets}
 
@@ -253,13 +235,13 @@ ht-degree: 4%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
    * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
@@ -380,9 +362,9 @@ ht-degree: 4%
 
 电子邮件Designer电子邮件可通过电子邮件、参与、默认和事件程序（交互式网络研讨会程序除外）访问。 如果您在Design Studio中创建了电子邮件，则可以从智能营销活动和/或智能列表中引用该电子邮件，就像使用任何其他电子邮件一样。
 
-* 按照常规步骤[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，在智能列表中引用它。
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，[在智能列表中引用它。
 
-* 按照常规步骤[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，在Smart Campaign中引用它。
+* 按照常规步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，[在Smart Campaign中引用它。
 
 >[!NOTE]
 >

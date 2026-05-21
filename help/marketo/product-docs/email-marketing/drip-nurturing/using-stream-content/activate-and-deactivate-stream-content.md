@@ -5,13 +5,11 @@ title: 激活和停用流内容
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/-5qT7OIR29IJib-BobRgtR5ySF4heXLGR-buzjj6pCU
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 129
+source-wordcount: 115
 ht-degree: 10%
 
 ---
@@ -41,8 +39,6 @@ ht-degree: 10%
    >[!TIP]
    >
    >您还可以通过单击顶级的齿轮图标，然后单击&#x200B;**[!UICONTROL Activate all content]**&#x200B;来激活流中的所有内容。
-
-   做得不错！ 现在您知道如何激活流中的内容了。
 
 ## 取消激活流内容 {#deactivate-stream-content}
 

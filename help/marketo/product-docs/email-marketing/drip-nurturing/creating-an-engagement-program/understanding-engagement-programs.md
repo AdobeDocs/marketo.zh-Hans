@@ -5,14 +5,12 @@ title: 了解参与项目
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 290
-ht-degree: 93%
+ht-degree: 87%
 
 ---
 
@@ -85,7 +83,7 @@ ht-degree: 93%
 
 ## 已耗尽 {#exhausted}
 
-当某位人员已接收该流中的所有内容后，该人员会被标记为&#x200B;**已耗尽**。
+一旦用户收到流中的每一条内容，该用户将称为&#x200B;**已耗尽**。
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 

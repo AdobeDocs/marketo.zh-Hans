@@ -5,26 +5,20 @@ title: 向登录页面添加代码段
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/OVrga4yZ4oPGHy3G9-1K5vgqlBnMTUChVLt3iVWNIGQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 112
+source-wordcount: 110
 ht-degree: 12%
 
 ---
 
 # 向登录页面添加代码段 {#add-a-snippet-to-a-landing-page}
 
-代码片段是HTML中的小部分，可以遵循规则并包含个性化内容。
+片段是HTML中可重复使用的块，可以遵循规则并包含个性化内容。
 
 >[!PREREQUISITES]
 >
@@ -50,4 +44,4 @@ ht-degree: 12%
    >
    >如果要向引导式登陆页面添加代码片段，请参阅[本文](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
 
-干得漂亮！ 现在，您已了解如何向登陆页面添加代码片段。
+您现在知道如何向登陆页面添加代码片段。

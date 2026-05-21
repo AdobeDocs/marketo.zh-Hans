@@ -5,14 +5,10 @@ title: 引导式登录页面模板列表
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 348
 ht-degree: 62%
@@ -21,7 +17,7 @@ ht-degree: 62%
 
 # 引导式登录页面模板列表 {#guided-landing-page-template-list}
 
-浏览我们的示例模板集合，以用于[引导式登陆页面编辑器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)。 每个模板均完全响应，并基于Bootstrap框架。
+浏览我们与[引导式登陆页面编辑器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)一起使用的示例模板集合。 每个模板均完全响应，并基于Bootstrap框架。
 
 >[!NOTE]
 >
@@ -31,10 +27,10 @@ ht-degree: 62%
 
 1. 单击模板名称以查看大图。
 1. 下载所选模板。
-1. 在Marketo中，导航到&#x200B;**[!UICONTROL Design Studio].**
-1. 单击左侧树中的&#x200B;**[!UICONTROL Landing Pages]**，然后选择&#x200B;**[!UICONTROL Templates].**
+1. 在Marketo中，导航到&#x200B;**[!UICONTROL Design Studio]**。
+1. 单击左侧树中的&#x200B;**[!UICONTROL Landing Pages]**，然后选择&#x200B;**[!UICONTROL Templates]**。
 
-1. 在菜单栏中，单击&#x200B;**[!UICONTROL Import Template].**
+1. 在菜单栏中，单击&#x200B;**[!UICONTROL Import Template]**。
 1. 选择下载的文件，输入模板名称，然后单击&#x200B;**[!UICONTROL Import]** （确保选择描述性名称并指示编辑模式为&#x200B;**[!UICONTROL Guided]**）。
 
 <table>

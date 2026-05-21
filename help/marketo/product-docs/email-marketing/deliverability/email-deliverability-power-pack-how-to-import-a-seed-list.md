@@ -5,11 +5,10 @@ title: 电子邮件可投放性功能包 — 如何导入种子列表
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 328
+source-wordcount: 321
 ht-degree: 5%
 
 ---
@@ -20,7 +19,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->本文适用于目前拥有活跃珠穆朗玛峰订阅的用户。 如果您使用Inbox Tracker by Bird （以前称为MessageBird），则可以在此处[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}找到您的教程。
+>本文适用于目前拥有活跃珠穆朗玛峰订阅的用户。 如果您使用Inbox Tracker by Bird （以前称为MessageBird），则可以在此处](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}找到您的教程[。
 
 ## 导入种子列表 {#import-a-seed-list}
 
@@ -50,7 +49,7 @@ ht-degree: 5%
 
    >[!TIP]
    >
-   >请确保以易于查找的方式命名您的列表。
+   >以易于查找的方式命名您的列表。
 
    >[!CAUTION]
    >
@@ -58,6 +57,6 @@ ht-degree: 5%
 
 ## 获取新种子列表 {#acquiring-new-seedlists}
 
-您的种子列表每月可能会发生更改。 请务必定期登录Email Deliverability Power Pack并检查您的种子列表的状态。 添加新地址或需要您这端的更新时，将通过应用程序左下角的通知图标向您发出警报。
+您的种子列表每月可能会发生更改。 请务必定期登录Email Deliverability Power Pack并检查您的种子列表的状态。 添加新地址或需要您终端更新时，将通过应用程序左下角的通知图标向您发送警报。
 
 在Marketo中创建静态列表后，您可以开始向其发送以测试电子邮件的收件箱位置。

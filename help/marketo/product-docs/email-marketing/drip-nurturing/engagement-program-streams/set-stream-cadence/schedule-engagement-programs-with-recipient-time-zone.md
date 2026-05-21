@@ -5,20 +5,18 @@ title: 按收件人时区安排参与计划
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 202
-ht-degree: 8%
+source-wordcount: 200
+ht-degree: 9%
 
 ---
 
 # 按收件人时区安排参与计划 {#schedule-engagement-programs-with-recipient-time-zone}
 
-当您计划参与项目程序流并且收件人时区处于活动状态时，程序转换将在第一个时区的午夜开始运行(UTC +14:00)。 我们要求您将第一个演员安排在未来&#x200B;**至少25小时**，因为全球每个时区可能有符合演员资格的人。 在第一个时区中的此时开始处理，可以保证我们将在计划的日期和时间为每个收件人发送电子邮件。
+当您计划参与项目程序流并且收件人时区处于活动状态时，程序转换将在第一个时区的午夜开始运行(UTC +14:00)。 第一个演员必须安排在未来至少&#x200B;**25小时**，因为全球每个时区可能有符合该演员资格的人。 在第一个时区的这个时间开始处理，可保证每个收件人的电子邮件在计划的日期和时间投放。
 
 1. 在您的参与计划中，导航到&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡，然后单击流的节奏计划以进行编辑。
 
@@ -28,7 +26,7 @@ ht-degree: 8%
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
-1. 请注意，在收件人时区处于活动状态时，节奏计划不会显示特定时区，因为可能会有多个时区。 它只显示小时。
+1. 请注意，如果收件人时区处于活动状态，节奏计划将不会显示特定时区，因为可能存在多个时区。 它只显示小时。
 
    ![](assets/image2017-12-5-13-3a56-3a21.png)
 

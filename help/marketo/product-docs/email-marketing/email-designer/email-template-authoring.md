@@ -5,25 +5,15 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 TQID: https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1872
-ht-degree: 4%
+source-wordcount: 1787
+ht-degree: 1%
 
 ---
 
@@ -31,13 +21,9 @@ ht-degree: 4%
 
 为了加快并改进设计过程，您可以创建独立的电子邮件模板以轻松重用自定义内容。
 
->[!PREREQUISITES]
->
->要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果您的订阅尚未完成迁移，且希望加快进度，请联系 Adobe 客户团队（您的客户经理）或 [Marketo 支持团队](https://nation.marketo.com/t5/support/ct-p/Support)。
-
 >[!NOTE]
 >
->新电子邮件设计器中的电子邮件模板只能用于新电子邮件设计器中的创建电子邮件。 在旧电子邮件编辑器中无法引用它们。
+>Email Designer中的电子邮件模板只能用于在Email Designer中创建电子邮件。 在经典电子邮件编辑器中无法引用它们。
 
 ## 创建电子邮件模板 {#create-an-email-template}
 
@@ -177,7 +163,7 @@ ht-degree: 4%
 >
 >如果希望片段占据电子邮件中的整个水平布局，请添加1:1列结构，然后将片段拖放到其中。
 
-保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_&#x200B;选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
+保存电子邮件后，该电子邮件会显示在片段详细信息页面的&#x200B;_[!UICONTROL Used By]_选项卡中。 添加到电子邮件模板的片段在模板中不可编辑；源片段定义内容。
 
 ### 添加资源 {#add-assets}
 
@@ -185,7 +171,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->您现在只能在新设计器中添加图像，不能添加其他文件类型。
+>您现在只能在Email Designer中添加图像，不能添加其他文件类型。
 
 1. 要访问您的图像，请单击资产选择器图标。
 
@@ -209,13 +195,13 @@ ht-degree: 4%
 
 1. 直接在画布中选择结构组件中的列，或使用左侧显示的&#x200B;_导航树_。
 
-1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_&#x200B;工具并选择要编辑的工具。
+1. 从列工具栏中，单击&#x200B;_[!UICONTROL Select a column]_工具并选择要编辑的工具。
 
-   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;选项卡中。
+   也可以从结构树中选择它。 该列的可编辑参数显示在右侧的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;选项卡中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_&#x200B;选项卡，然后根据需要进行更改：
+1. 要编辑列属性，请单击右侧的&#x200B;_[!UICONTROL Styles]_选项卡，然后根据需要进行更改：
 
    * 对于&#x200B;**[!UICONTROL Background]**，根据需要更改背景颜色。
 
@@ -236,7 +222,7 @@ ht-degree: 4%
 
 ### 个性化内容 {#personalize-content}
 
-令牌在新编辑器中的工作方式与在旧编辑器中的工作方式相同，但图标的外观不同。 以下示例概述了如何使用回退文本添加名字令牌。
+令牌在电子邮件Designer中的工作方式与在经典编辑器中相同，但图标看起来有所不同。 以下示例概述了如何使用回退文本添加名字令牌。
 
 1. 选择文本组件。 将光标放在您希望令牌出现的位置，然后单击&#x200B;**添加个性化**&#x200B;图标。
 
@@ -252,7 +238,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >“回退文本”是适用于默认值的新编辑器术语。 示例：``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
+   >“回退文本”是电子邮件Designer的默认值术语。 示例：``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
 
 1. 设置您的回退文本，然后单击&#x200B;**添加**。
 
@@ -384,4 +370,4 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->[电子邮件创作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：了解如何在新的设计器中创建、设计和引用电子邮件。
+>[电子邮件创作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

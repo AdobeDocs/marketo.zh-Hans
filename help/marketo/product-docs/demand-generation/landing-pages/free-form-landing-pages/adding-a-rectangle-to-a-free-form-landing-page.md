@@ -5,18 +5,17 @@ title: 向自由格式登录页面添加矩形
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/jKfwONyZaf3HXfYg2i1bl0ncsuXp5ALCh6HuCw-Vf5M
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 133
-ht-degree: 14%
+source-wordcount: 130
+ht-degree: 13%
 
 ---
 
 # 向自由格式登录页面添加矩形 {#adding-a-rectangle-to-a-free-form-landing-page}
 
-登陆页面上的矩形非常适合突出显示文本区域。
+登陆页面上的矩形可用于高亮显示内容部分或在视觉上分隔内容部分。
 
 1. 选择一个自由格式登陆页面，然后单击&#x200B;**[!UICONTROL Edit Draft]**。
 
@@ -38,4 +37,4 @@ ht-degree: 14%
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-恭喜！ 现在，您可以在自由格式登陆页面上创建矩形。
+现在，您可以在自由格式登陆页面中添加矩形。

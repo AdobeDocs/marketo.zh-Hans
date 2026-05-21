@@ -5,20 +5,18 @@ title: 永久取消订阅
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/Zr7XyDDSHtWW4lp4ATAM6xlPrNnTJlqoOOjjln-YuqI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 304
+source-wordcount: 301
 ht-degree: 1%
 
 ---
 
 # 永久取消订阅 {#durable-unsubscribe}
 
-Marketo改进了取消订阅功能的行为，使其具有“持久性”。 我们添加了主电子邮件状态，该状态与人员详细信息记录中显示的取消订阅标记不同。
+Marketo改进了取消订阅功能的行为，使其具有“持久性”。 已添加主电子邮件状态，该状态与人员详细信息记录中显示的取消订阅标记不同。
 
 如果取消订阅标志从false设置为true，则会更新主电子邮件状态，并且更改会传播给具有相同电子邮件地址的其他人。 如果删除人员后重新创建，或者使用相同的电子邮件地址创建了新记录，则取消订阅标志将&#x200B;**不会**&#x200B;被覆盖。
 
@@ -38,13 +36,13 @@ Marketo改进了取消订阅功能的行为，使其具有“持久性”。 我
 
 ![清除人员记录中的取消订阅框](assets/durable-unsubscribe-2.png)
 
-对一个或多个用户运行&#x200B;_更改数据值_&#x200B;流程步骤，如下所示。
+对一个或多个用户运行&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流程步骤，如下所示。
 
 ![更改数据值流程步骤](assets/durable-unsubscribe-3.png)
 
 ## 创建新人员 {#creating-a-new-person}
 
-创建新人员后，Marketo会根据主电子邮件状态表检查该人员。 如果人员之前已取消订阅，我们将更新要取消订阅的记录。
+创建新人员后，Marketo会根据主电子邮件状态表检查该人员。 如果人员之前已取消订阅，记录将更新为取消订阅。
 
 ## 更改电子邮件地址 {#changing-an-email-address}
 
@@ -52,7 +50,7 @@ Marketo改进了取消订阅功能的行为，使其具有“持久性”。 我
 
 ## 重新订阅 {#re-subscribing}
 
-正如取消订阅将导致所有拥有相同电子邮件地址的人被取消订阅一样，重新订阅实际上将重新订阅拥有相同电子邮件地址的每个人。
+正如取消订阅将导致所有拥有同一电子邮件地址的人员被取消订阅一样，重新订阅还将使用同一电子邮件地址重新订阅每个人。
 
 >[!MORELIKETHIS]
 >

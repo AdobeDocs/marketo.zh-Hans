@@ -1,17 +1,17 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 标题
+title: 将主题应用于您的电子邮件内容
 description: 了解如何将品牌主题应用于电子邮件，以实现一致的设计。 在Email Designer中使用可重用主题和模块。
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 4%
+source-wordcount: '725'
+ht-degree: 5%
 
 ---
 
@@ -128,9 +128,9 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 
      >[!CAUTION]
      >
-     >如果选择&#x200B;_手动样式_&#x200B;模式，除非重置电子邮件，否则无法应用任何主题。
+     >* 如果选择&#x200B;_手动样式_&#x200B;模式，除非重置电子邮件，否则无法应用任何主题。
      >
-     >若要在&#x200B;_使用主题_&#x200B;模式下使用[片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md)，此片段必须已使用&#x200B;_使用主题_&#x200B;模式自行创建。
+     >* 若要在&#x200B;_使用主题_&#x200B;模式下使用[片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md)，此片段必须已使用&#x200B;_使用主题_&#x200B;模式自行创建。
 
 1. 进入电子邮件Designer后，单击右边栏上的&#x200B;**[!UICONTROL Themes]**&#x200B;按钮。 将显示默认主题或模板主题。 您可以在此主题的两个颜色变体之间切换。
 

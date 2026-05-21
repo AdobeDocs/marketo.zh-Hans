@@ -5,14 +5,12 @@ title: 创建参与项目
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/GpU-1BhLyA-LWGaSJZl6cHOzZsFyzylKkoxAuQefE78
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 89
-ht-degree: 74%
+source-wordcount: 74
+ht-degree: 68%
 
 ---
 
@@ -31,8 +29,6 @@ ht-degree: 74%
 1. 输入 **[!UICONTROL Name]**，在 **[!UICONTROL Program Type]** 中选择 **[!UICONTROL Engagement]**，然后点击 **[!UICONTROL Create]**
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
-
-1. 很好，现在您已经创建了一个参与项目，接下来我们继续进行配置和完善。
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 

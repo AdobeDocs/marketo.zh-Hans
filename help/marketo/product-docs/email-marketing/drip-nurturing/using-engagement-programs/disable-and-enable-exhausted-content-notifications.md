@@ -5,20 +5,18 @@ title: 禁用和启用内容耗尽通知
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/hbRQJScd6cxiS8k63hwN2HRKSZtviMFHB9xaBAeWt8U
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 96
-ht-degree: 16%
+source-wordcount: 93
+ht-degree: 15%
 
 ---
 
 # 禁用和启用内容耗尽通知 {#disable-and-enable-exhausted-content-notifications}
 
-当人们耗尽流中的所有内容时，Marketo可以向您发送通知。 您可以根据需要禁用/启用通知。 操作方法如下：
+当人们耗尽流中的所有内容时，Marketo可以向您发送通知。 您可以根据需要禁用/启用通知。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -36,4 +34,4 @@ ht-degree: 16%
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
-   太棒了！ 如果启用通知，您将在流本身看到一些内容，并收到电子邮件通知。
+   如果启用通知，您将在流本身看到一些内容，并收到电子邮件通知。

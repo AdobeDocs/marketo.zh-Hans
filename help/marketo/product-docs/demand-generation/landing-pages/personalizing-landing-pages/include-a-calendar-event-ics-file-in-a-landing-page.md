@@ -5,11 +5,10 @@ title: 在登录页面中包含日程表事件 ICS 文件
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/tOmjiK0qx5Tp8hnENTMdG1rQpZPfD53Tnin-mL5PMGo
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 120
+source-wordcount: 121
 ht-degree: 17%
 
 ---
@@ -42,7 +41,7 @@ ht-degree: 17%
 
    ![](assets/image2015-1-6-16-3a42-3a51.png)
 
-真贴心！ 现在一切应该都很顺利。 确保进行测试。
+确保在批准登陆页面之前测试日历链接。
 
 >[!MORELIKETHIS]
 >

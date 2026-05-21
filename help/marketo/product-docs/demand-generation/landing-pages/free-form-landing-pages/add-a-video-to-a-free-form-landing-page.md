@@ -6,14 +6,12 @@ exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/JAniDUx7doRNOSnpsdkLIgNnyGO3tAwZGgtpQCKaqPc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 238
-ht-degree: 7%
+source-wordcount: 208
+ht-degree: 8%
 
 ---
 
@@ -49,8 +47,4 @@ ht-degree: 7%
 >
 >为了节省时间，您可以使用&#x200B;**[!UICONTROL Clone From]**&#x200B;选项从现有视频共享复制所有设置。
 
-恭喜！ 您已将视频共享添加到自由格式登陆页面。 批准登陆页面，并且您的视频共享已上线。 您还可以[将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)或&#x200B;_将视频共享放在您的网站上_。
-
->[!MORELIKETHIS]
->
->已完成，但您可以根据需要更改视频共享的设置。 从&#x200B;_自定义共享流_&#x200B;开始（共享提示打开的时间和位置）。
+您已将视频共享添加到自由格式登陆页面。 批准登陆页面，并且您的视频共享已上线。 您还可以[将登陆页面发布到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)，或者将视频共享放在您的网站上。

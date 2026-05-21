@@ -5,12 +5,11 @@ title: 导出包含个性化 URL 的列表
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 173
-ht-degree: 6%
+source-wordcount: 156
+ht-degree: 7%
 
 ---
 
@@ -21,7 +20,7 @@ ht-degree: 6%
 >* [为您的帐户启用个性化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [为登陆页面启用个性化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. 选择您的列表或智能列表，单击&#x200B;**[!UICONTROL Leads]**&#x200B;选项卡以获取结果，然后单击Excel图标。 内联确保您有&#x200B;**[!UICONTROL Marketo Unique Code]**&#x200B;和&#x200B;**[!UICONTROL Marketo Unique Name]**&#x200B;个[列可见](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
+1. 选择您的列表或智能列表，单击&#x200B;**[!UICONTROL Leads]**&#x200B;选项卡以获取结果，然后单击Excel图标。 确保您有&#x200B;**[!UICONTROL Marketo Unique Code]**&#x200B;和&#x200B;**[!UICONTROL Marketo Unique Name]**&#x200B;个[可见列](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -35,7 +34,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >如果您看到同一登陆页面有多个URL，则可能是因为您在过去的某个时间更改了页面URL并创建了重定向。
+   >如果您看到同一登陆页面有多个URL，则可能是因为您在过去的某个时间更改了页面的URL并创建了重定向。
 
 1. 选择&#x200B;**[!UICONTROL Style]**&#x200B;并单击&#x200B;**[!UICONTROL Export]**。
 
@@ -44,8 +43,6 @@ ht-degree: 6%
 1. 导出完成后，单击&#x200B;**[!UICONTROL Download Now]**&#x200B;链接以保存文件。
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
-
-   你完蛋了！ 现在，您拥有了一个潜在客户和个性化URL列表。
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 

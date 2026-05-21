@@ -5,20 +5,18 @@ title: 添加流
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/DjV7-AOEPHtFnooWkPCntLq0hwGlRk4Zl-Pbn3-1YPc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 68
-ht-degree: 13%
+source-wordcount: 59
+ht-degree: 15%
 
 ---
 
 # 添加流 {#add-a-stream}
 
-参与计划可以包含多个流。 以下是如何添加新密码。
+参与计划可以包含多个流。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -35,7 +33,5 @@ ht-degree: 13%
    >[!NOTE]
    >
    >每个参与计划最多可添加25个流。
-
-   然后……完成了！
 
    ![](assets/image2014-9-15-16-3a56-3a27.png)

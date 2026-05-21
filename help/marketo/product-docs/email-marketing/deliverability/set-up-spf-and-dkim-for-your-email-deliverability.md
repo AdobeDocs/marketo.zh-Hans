@@ -5,12 +5,11 @@ title: 为提高电子邮件送达率设置 SPF 和 DKIM
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 89%
+source-wordcount: 432
+ht-degree: 71%
 
 ---
 
@@ -20,7 +19,7 @@ ht-degree: 89%
 
 >[!CAUTION]
 >
->您需要联系网络管理员，在 DNS 记录中完成此项更改。
+>您的网络管理员需要在DNS记录中进行此更改。
 
 ## 设置 SPF {#set-up-spf}
 
@@ -44,16 +43,16 @@ DKIM 是一种身份验证协议，供电子邮件接收方用来判断电子邮
 
 **DKIM 是如何工作的？**
 
-在您在 DNS 记录中设置公钥，并在“管理员”区域中激活发送域名（A）后，我们将为您的外发电子邮件启用自定义 DKIM 签名。此后，我们代您发送的每封电子邮件都会包含一个加密的数字签名（B）。 电子邮件接收方可以通过在发送域名的 DNS 中查找“公钥”来解密该数字签名（C）。 如果电子邮件中的密钥与 DNS 记录中的密钥一致，接收电子邮件服务器将更有可能接受 Marketo 代表您发送的电子邮件。
+在DNS记录中设置公钥并在“管理员”部分激活发送域后(A)，Marketo将为传出邮件启用自定义DKIM签名，其中包括代表您发送的每个电子邮件的加密数字签名(B)。 电子邮件接收方可以通过在发送域名的 DNS 中查找“公钥”来解密该数字签名（C）。 如果电子邮件中的密钥与 DNS 记录中的密钥一致，接收电子邮件服务器将更有可能接受 Marketo 代表您发送的电子邮件。
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
 **如何设置 DKIM？**
 
-请参阅[设置自定义 DKIM 签名](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}。
+请参阅[设置自定义DKIM签名](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
->* 详细了解 SPF 及其工作原理`: http://www.open-spf.org/Introduction/`
+>* 详细了解SPF及其工作方式： `http://www.open-spf.org/Introduction/`
 >* 我的 SPF 是否配置正确？：`https://www.kitterman.com/spf/validate.html`
 >* 我是否使用了正确的语法？：`http://www.open-spf.org/SPF_Record_Syntax/`

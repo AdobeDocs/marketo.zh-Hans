@@ -5,18 +5,17 @@ title: 重定向 URL 路径
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/tLOxmCH9CqI7FkYXOxTe9FPs5h77fQRt-H9B-J-i2p0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 135
-ht-degree: 10%
+source-wordcount: 133
+ht-degree: 8%
 
 ---
 
 # 重定向 URL 路径 {#redirect-a-url-path}
 
-通过Marketo，可以轻松将URL路径重定向到您选择的任意页面。 操作方法如下：
+通过Marketo，可以轻松将URL路径重定向到您选择的任意页面。
 
 >[!NOTE]
 >
@@ -48,7 +47,7 @@ ht-degree: 10%
 
    您也可以[使用Marketo登陆页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)作为目标。
 
-恭喜！ 您已成功重定向URL路径。
+已成功重定向您的URL路径。
 
 >[!MORELIKETHIS]
 >

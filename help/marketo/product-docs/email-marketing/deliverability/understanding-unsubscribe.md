@@ -5,11 +5,9 @@ title: 了解取消订阅
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/zmsCI3a7GECVNiuFjtjqgDQsjelBoccugPeuzAF4c4k
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 238
 ht-degree: 4%
@@ -18,7 +16,7 @@ ht-degree: 4%
 
 # 了解取消订阅 {#understanding-unsubscribe}
 
-Marketo中实际上有多种不同类型的内置取消订阅。 它们全部由人员对象上的字段表示，就像“名字”一样。
+Marketo中有多种不同类型的内置取消订阅。 它们全部由人员对象上的字段表示，就像“名字”一样。
 
 所有这些字段均内置到您的Marketo订阅中。 它们是布尔型（复选框）类型。 它们可以在Forms或[更改数据值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)流程步骤中使用。
 
@@ -36,10 +34,10 @@ Marketo中实际上有多种不同类型的内置取消订阅。 它们全部由
 
 >[!NOTE]
 >
->即使24小时期限结束后，已暂停的电子邮件仍会保持选中状态，以便您可以引用历来已将此电子邮件标记为已暂停的人员。 要查看此人是否可邮寄，只需在电子邮件暂停后24小时内计算即可。
+>即使24小时期限结束后，已暂停的电子邮件仍会保持选中状态，以便您可以引用历来已将此电子邮件标记为已暂停的人员。 要查看此人是否可邮寄，请在电子邮件暂停后24小时内计算。
 
 ## 已列入阻止列表 {#blocklisted}
 
-[将此用于竞争对手等人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)。 您希望接收&#x200B;**no**&#x200B;电子邮件的任何人 — 运营、营销等。他们什么也得不到！
+[将此用于竞争对手等人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)。 您希望接收&#x200B;**no**&#x200B;电子邮件的任何人 — 运营、营销等。他们不会收到电子邮件。
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

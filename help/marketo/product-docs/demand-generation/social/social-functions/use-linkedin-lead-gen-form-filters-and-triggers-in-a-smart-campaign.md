@@ -5,21 +5,18 @@ title: 在智能活动中使用 LinkedIn 潜在客户收集表单过滤器和触
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
 TQID: https://experienceleague.adobe.com/dJLqOLSz1zp-6ZErolBmv-xl0SwsJECvW-942Ghf7oI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: 137
 ht-degree: 17%
 
 ---
 
 # 在智能活动中使用 LinkedIn 潜在客户收集表单过滤器和触发器 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
-启用LinkedIn潜在客户Forms后，您可以在智能营销活动中将这些受众用作过滤器和触发器。
+启用LinkedIn Lead Gen Forms后，您可以在智能营销活动中将它们用作过滤器和触发器。
 
 >[!NOTE]
 >

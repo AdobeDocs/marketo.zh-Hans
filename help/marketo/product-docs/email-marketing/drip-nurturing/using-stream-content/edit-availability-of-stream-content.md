@@ -5,20 +5,18 @@ title: 编辑流内容的可用性
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/nQXJWaWOVHjixXZjZm4wNCeP-Jq0cEr9b2SWJUBut4Y
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 116
-ht-degree: 10%
+ht-degree: 8%
 
 ---
 
 # 编辑流内容的可用性 {#edit-availability-of-stream-content}
 
-您可以设置内容在流中处于活动状态的时间范围。 操作方法如下：
+您可以设置内容在流中处于活动状态的时间范围。 具体方法如下。
 
 1. 选择您的参与计划，然后转到&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡。
 
@@ -36,6 +34,6 @@ ht-degree: 10%
    >
    >您可以将&#x200B;**[!UICONTROL Active Through]**&#x200B;保留为空以使内容永久可用。
 
-   完美！ 您将在计划内容旁边看到时钟图标。 它会根据您设置的计划变为活动和非活动。
+   您将在计划内容旁边看到时钟图标。 它会根据您设置的计划变为活动和非活动。
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)

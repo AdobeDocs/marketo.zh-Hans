@@ -5,13 +5,11 @@ title: 使用 CNAME 自定义登录页面 URL
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/8G3a-7YZlycD5xXJLqlny12XL7M-T2ouYDhjBnRAMfo
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 235
+source-wordcount: 233
 ht-degree: 9%
 
 ---
@@ -82,4 +80,4 @@ ht-degree: 9%
 >
 >如果您的Marketo登录页面不可用，您的回退页面将成为潜在客户将被重定向到的页面。
 
-做得好！ 您的登陆页面现在使用您的公司域进行标记。
+您的登陆页面现在使用您的公司域进行标记。
