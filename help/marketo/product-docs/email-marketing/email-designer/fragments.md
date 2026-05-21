@@ -7,11 +7,20 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
 TQID: https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 1905
@@ -42,7 +51,7 @@ ht-degree: 1%
 
 ![访问片段](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
-默认情况下，该表按&#x200B;_[!UICONTROL Modified]_列排序。 单击其他列标题以更改表的排序依据。 再次单击同一标题可在升序和降序之间切换。
+默认情况下，该表按&#x200B;_[!UICONTROL Modified]_&#x200B;列排序。 单击其他列标题以更改表的排序依据。 再次单击同一标题可在升序和降序之间切换。
 
 ### 查找和筛选
 
@@ -178,7 +187,7 @@ ht-degree: 1%
 您可以使用以下任一方法删除片段：
 
 * 从右侧的片段详细信息中，单击&#x200B;**[!UICONTROL Delete]**。
-* 从&#x200B;_[!UICONTROL Fragments]_列表页面，单击片段旁边的省略号并选择&#x200B;**[!UICONTROL Delete]**。
+* 从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面，单击片段旁边的省略号并选择&#x200B;**[!UICONTROL Delete]**。
 
 此操作将打开确认对话框。 您可以通过单击&#x200B;**[!UICONTROL Cancel]**&#x200B;或单击&#x200B;**[!UICONTROL Delete]**&#x200B;确认删除来中止该进程。
 
@@ -196,7 +205,7 @@ ht-degree: 1%
 
 >[!TAB 草稿]
 
-1. 从&#x200B;_[!UICONTROL Fragments]_列表页面中，单击片段名称以将其打开。
+1. 从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面中，单击片段名称以将其打开。
 
    随后将显示可视内容的预览，其中片段详细信息位于右侧。
 
@@ -212,7 +221,7 @@ ht-degree: 1%
 
 >[!TAB 已发布]
 
-1. 从&#x200B;_[!UICONTROL Fragments]_列表页面中，单击片段名称以将其打开。
+1. 从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面中，单击片段名称以将其打开。
 
    随后将显示可视内容的预览，其中片段详细信息位于右侧。
 
@@ -236,7 +245,7 @@ ht-degree: 1%
 
 >[!TAB 已发布草稿]
 
-有两种方法可以打开草稿版本以便从&#x200B;_[!UICONTROL Fragments]_列表页面进行编辑：
+有两种方法可以打开草稿版本以便从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面进行编辑：
 
 * 单击&#x200B;_更多_&#x200B;图标(**...**) 在片段名称旁边并选择&#x200B;**[!UICONTROL Open draft version]**。
 
@@ -264,7 +273,7 @@ ht-degree: 1%
 
 您可以使用以下任一方法复制片段：
 
-* 从&#x200B;_[!UICONTROL Fragments]_列表页面，单击_&#x200B;更多&#x200B;_图标(**...**) 在片段名称旁边并选择&#x200B;**[!UICONTROL Duplicate]**。
+* 从&#x200B;_[!UICONTROL Fragments]_&#x200B;列表页面，单击_&#x200B;更多&#x200B;_图标(**...**) 在片段名称旁边并选择&#x200B;**[!UICONTROL Duplicate]**。
 * 在片段详细信息页面的右上方，单击&#x200B;**[!UICONTROL ... More]**&#x200B;并选择&#x200B;**[!UICONTROL Duplicate]**。
 
 ![复制片段](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
@@ -307,7 +316,7 @@ ht-degree: 1%
 >
 >如果希望片段占据电子邮件中的整个水平布局，请添加[!UICONTROL 1:1列]结构，然后将片段拖放到其中。
 
-保存电子邮件/电子邮件模板后，在选择&#x200B;_[!UICONTROL Used By]_选项卡时，该模板会显示在片段详细信息页面中。 添加的片段在电子邮件或模板中不可编辑 — 发布的源片段定义内容。
+保存电子邮件/电子邮件模板后，在选择&#x200B;_[!UICONTROL Used By]_&#x200B;选项卡时，该模板会显示在片段详细信息页面中。 添加的片段在电子邮件或模板中不可编辑 — 发布的源片段定义内容。
 
 ## 电子邮件和模板创作期间的片段操作 {#fragment-actions-during-email-and-template-authoring}
 

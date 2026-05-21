@@ -2,9 +2,39 @@
 title: 2021
 description: 2021年 — Marketo文档 — 产品文档
 feature: Release Information
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: fc9b09fe-b844-4544-887b-e420c3b82065id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
 workflow-type: tm+mt
 source-wordcount: 4732
@@ -81,7 +111,7 @@ ht-degree: 1%
 
 **_公告和弃用_**
 
-* 所有用户都必须在2021年1月15日&#x200B;**之前升级到Sales Insight**&#x200B;的最新版本。 如果您尚未完成升级，则在登录应用程序时会提示您完成升级。 按照本指南](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的说明[操作。 更新版本包括一个针对已识别安全漏洞的修补程序。 该修补程序最初于2016年4月6日发布。 注意：**版本1.4363或更高版本**&#x200B;不需要执行升级。
+* 所有用户都必须在2021年1月15日&#x200B;**之前升级到Sales Insight**&#x200B;的最新版本。 如果您尚未完成升级，则在登录应用程序时会提示您完成升级。 按照本指南[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的说明操作。 更新版本包括一个针对已识别安全漏洞的修补程序。 该修补程序最初于2016年4月6日发布。 注意：**版本1.4363或更高版本**&#x200B;不需要执行升级。
 * Form 1.0服务的弃用将在&#x200B;**2021年5月**&#x200B;版本中生效。 Forms 1.0服务将被完全弃用，从而导致仍在使用的所有其余Forms 1.0资源失去功能。 此外，通过不受支持的方法（如向leadCapture/save和leadCapture/save2端点提供的程序化表单POST ）提交的表单将被拒绝。 有关更多信息和修正，请参阅[我们在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)的帖子。
 * 2021年，Marketo Engage将更改登陆页面、表单以及图像和文件资源的URL结构。 对于现有Marketo Engage订购，我们将从2021年4月1日开始逐步推出。 有关推出时间表的更多详细信息将于2021年3月发布。 有关每个受影响的资产类型将如何更改的详细信息，请参阅[我们在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)中的帖子。
 
@@ -221,7 +251,7 @@ ht-degree: 1%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn]潜在客户Forms集成**：营销人员现在可以对在[!DNL LinkedIn]通过他们的潜在客户Forms广告单元捕获表单填写时发生的转化执行收入归因。 这些见解随后可用于优化表单性能和付费媒体投资。[!DNL LinkedIn] 潜在客户Gen Forms是[!DNL LinkedIn]增长最快的付费媒体产品之一，这项新功能包含在我们与[!DNL Bizible]的现有[!DNL LinkedIn]广告集成中。
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn]潜在客户Forms集成**：营销人员现在可以对在[!DNL LinkedIn]通过他们的潜在客户Forms广告单元捕获表单填写时发生的转化执行收入归因。 这些见解随后可用于优化表单性能和付费媒体投资。[!DNL LinkedIn] 潜在客户Gen Forms是[!DNL LinkedIn]增长最快的付费媒体产品之一，这项新功能包含在我们与[!DNL Bizible]的现有[!DNL LinkedIn]广告集成中。
 
 * **改进了Velocity功能板**：我们新增了一个新的Velocity量度和功能板筛选器，以便获得更深入的见解。 营销人员使用此仪表板来了解分阶段潜在客户和商机周转率以及不同营销和销售参与形式的效率。
 
@@ -233,7 +263,7 @@ ht-degree: 1%
 
 * **[!DNL Bizible]与Adobe Privacy Service**&#x200B;的集成（2021年9月推出）： [!DNL Bizible]与Adobe Privacy Service的集成可跨Adobe Experience Cloud应用程序集中管理对关键数据隐私法规（如GDPR）的合规性。 现在，您可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映传入[!DNL Bizible]和其他Adobe产品的更改请求。
 
-* Adobe Unified Shell **上的**[!DNL Bizible]： [!DNL Bizible]采用Adobe Unified Shell为用户提供了新的功能，这些功能将显示在[!DNL Bizible]应用程序标题栏中，并包括更好地访问支持资源和应用程序切换。 Adobe Unified Shell有助于在[!DNL Bizible]和其他Adobe Experience Cloud应用程序之间创建一致的体验。
+* Adobe Unified Shell **上的**&#x200B;[!DNL Bizible]： [!DNL Bizible]采用Adobe Unified Shell为用户提供了新的功能，这些功能将显示在[!DNL Bizible]应用程序标题栏中，并包括更好地访问支持资源和应用程序切换。 Adobe Unified Shell有助于在[!DNL Bizible]和其他Adobe Experience Cloud应用程序之间创建一致的体验。
 
 * **[!DNL Bizible]域所有权和自我管理**： [!DNL Bizible]用户可以利用Adobe Admin Console管理他们希望[!DNL Bizible]跟踪的域。 这可以为之前手动执行的流程引入自助服务，并提供有关如何跨Adobe Experience Cloud应用程序管理域所有权和跟踪的一致体验。
 
@@ -285,13 +315,13 @@ ht-degree: 1%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Microsoft Dynamics 365]销售额&#x200B;**的**[!DNL Sales Insight]
+[!DNL Microsoft Dynamics 365]销售额&#x200B;**的**&#x200B;[!DNL Sales Insight]
 
 * **[!UICONTROL Best Bets]增强功能**： [!DNL Sales Insight]中的[!UICONTROL Best Bets]选项卡为销售人员提供按质量和紧迫性排定优先顺序的最热门联系人和潜在客户的实时视图。 我们增加了销售代表执行操作的功能，例如：直接从[!DNL Best Bets]页面查看人员得分、发送电子邮件或将潜在客户添加到指定的Marketo Engage营销活动，从而提高效率并加快响应时间。
 
 * **新电子邮件、Web活动、匿名Web活动仪表板**：我们添加了新销售仪表板，以便通知销售商有关其潜在客户和联系人最近电子邮件和Web活动的信息。 通过新的筛选功能，功能板现在可将insight用于电子邮件打开、点击和网页访问，以获取完整的帐户列表或特定帐户。 Marketo Engage会跟踪所有Web活动，并为销售人员提供关键信息，从而将匿名流量转化为潜在客户。 销售人员能够个性化参与并更快地将潜在客户转化为销售人员，因为他们能够更好地了解潜在客户行为，并根据所有接触点的相关性行事。
 
-[!DNL Salesforce]**的**[!DNL Sales Insight]
+[!DNL Salesforce]&#x200B;**的**&#x200B;[!DNL Sales Insight]
 
 * **帐户和机会级别[!UICONTROL Best Bets]**： [!DNL Sales Insight]现在允许销售代表查看他们拥有的帐户或机会的所有联系人的最佳匹配，即使联系人已分配给其他团队成员。 这可以让客户和机会所有者全面了解相关联系人的活动，并有助于他们基于对客户或机会的更全面的了解而采取行动。
 
