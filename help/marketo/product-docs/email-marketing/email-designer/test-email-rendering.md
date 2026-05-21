@@ -16,9 +16,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 395
+source-wordcount: 394
 ht-degree: 3%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 3%
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**可选步骤**：如果您决定更改电子邮件，在单击&#x200B;**渲染电子邮件**&#x200B;查看更改后，请务必也单击Litmus _电子邮件预览_&#x200B;屏幕右上角的&#x200B;**重新测试**&#x200B;按钮。
+**可选步骤**：如果您决定更改电子邮件，请单击&#x200B;**渲染电子邮件**&#x200B;查看更改后，请记得同时单击Litmus _电子邮件预览_&#x200B;屏幕右上角的&#x200B;**重新测试**&#x200B;按钮。
 
 ![](assets/test-email-rendering-with-litmus-7.png)
 

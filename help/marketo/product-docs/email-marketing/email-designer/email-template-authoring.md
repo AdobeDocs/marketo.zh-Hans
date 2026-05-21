@@ -20,10 +20,10 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1872
-ht-degree: 4%
+source-wordcount: 1787
+ht-degree: 1%
 
 ---
 
@@ -31,13 +31,9 @@ ht-degree: 4%
 
 为了加快并改进设计过程，您可以创建独立的电子邮件模板以轻松重用自定义内容。
 
->[!PREREQUISITES]
->
->要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果您的订阅尚未完成迁移，且希望加快进度，请联系 Adobe 客户团队（您的客户经理）或 [Marketo 支持团队](https://nation.marketo.com/t5/support/ct-p/Support)。
-
 >[!NOTE]
 >
->新电子邮件设计器中的电子邮件模板只能用于新电子邮件设计器中的创建电子邮件。 在旧电子邮件编辑器中无法引用它们。
+>Email Designer中的电子邮件模板只能用于在Email Designer中创建电子邮件。 在经典电子邮件编辑器中无法引用它们。
 
 ## 创建电子邮件模板 {#create-an-email-template}
 
@@ -185,7 +181,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->您现在只能在新设计器中添加图像，不能添加其他文件类型。
+>您现在只能在Email Designer中添加图像，不能添加其他文件类型。
 
 1. 要访问您的图像，请单击资产选择器图标。
 
@@ -236,7 +232,7 @@ ht-degree: 4%
 
 ### 个性化内容 {#personalize-content}
 
-令牌在新编辑器中的工作方式与在旧编辑器中的工作方式相同，但图标的外观不同。 以下示例概述了如何使用回退文本添加名字令牌。
+令牌在电子邮件Designer中的工作方式与在经典编辑器中相同，但图标看起来有所不同。 以下示例概述了如何使用回退文本添加名字令牌。
 
 1. 选择文本组件。 将光标放在您希望令牌出现的位置，然后单击&#x200B;**添加个性化**&#x200B;图标。
 
@@ -252,7 +248,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >“回退文本”是适用于默认值的新编辑器术语。 示例：``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
+   >“回退文本”是电子邮件Designer的默认值术语。 示例：``{{lead.First Name:default=Friend}}``。 如果所选字段中没有人员的值，则建议使用此字段。
 
 1. 设置您的回退文本，然后单击&#x200B;**添加**。
 
@@ -384,4 +380,4 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->[电子邮件创作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：了解如何在新的设计器中创建、设计和引用电子邮件。
+>[电子邮件创作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

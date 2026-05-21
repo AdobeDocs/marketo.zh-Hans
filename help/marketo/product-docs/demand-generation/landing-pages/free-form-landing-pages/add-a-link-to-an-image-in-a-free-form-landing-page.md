@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 124
-ht-degree: 21%
+source-wordcount: 122
+ht-degree: 19%
 
 ---
 
 # 在自由格式登录页面中为图像添加链接 {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-希望将登陆页面上的图像作为指向其他页面/网站的链接吗？ 操作方法如下：
+要使登陆页面上的图像成为可单击的链接，请执行以下步骤。
 
 >[!PREREQUISITES]
 >
@@ -34,8 +34,8 @@ ht-degree: 21%
 
    ![](assets/add-link.png)
 
-   恭喜！ 您现在已成功添加指向登陆页面上图像的链接。 您现在可以[预览页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以查看其实际操作情况。
+   您已成功添加指向登陆页面上图像的链接。 您现在可以[预览页面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以查看其实际操作情况。
 
 >[!TIP]
 >
->始终测试您的页面！
+>始终测试您的页面。

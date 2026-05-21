@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: 228
 ht-degree: 5%
 
 ---
 
 # 在参与流之间转移人员 {#transition-people-between-engagement-streams}
 
-参与计划可以有多个流。 如果您[添加流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您将需要定义用户从一个流移动到另一个流的方法。 这些规则称为&#x200B;**过渡规则。**
+参与计划可以有多个流。 如果您[添加流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，请定义用户从一个流移动到另一个流的方法。 这些规则称为&#x200B;**过渡规则。**
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -36,23 +36,23 @@ ht-degree: 5%
    >
    >过渡规则提取到流中；始终定义要提取到的流中的规则。
 
-   打开过渡规则窗口后，在您选择的触发器中进行查找和拖动。 在本例中，我们希望将添加到机会中的人员移入[!UICONTROL Mid Stage]。
+   打开过渡规则窗口后，在您选择的触发器中进行查找和拖动。 在此示例中，将人员添加到机会后将移入[!UICONTROL Mid Stage]。
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. 让我们将运算符设置为&#x200B;**[!UICONTROL is any]**，这样人员就可以移过该运算符来查找任何添加的机会。
+1. 将运算符设置为&#x200B;**[!UICONTROL is any]**，以便人员可以移动以访问任何添加的机会。
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
-   >您可以将多个触发器和过滤器添加到过渡规则，但过渡规则会使用所有过滤器（使用所有过滤器是唯一的选项）。 如果您需要在过渡规则中使用OR，我们建议您改为设置外部智能营销活动。
+   >您可以将多个触发器和过滤器添加到过渡规则，但过渡规则会使用所有过滤器（使用所有过滤器是唯一的选项）。 如果需要在过渡规则中使用OR，建议改为设置外部智能营销活动。
 
 1. 单击 **[!UICONTROL Close]**。
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   太棒了！ 现在，您的参与计划中添加到商机的任何人员都将移到[!UICONTROL Mid Stage]流中。
+   现在，您的参与计划中添加到商机的任何人员都将移到[!UICONTROL Mid Stage]流中。
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 

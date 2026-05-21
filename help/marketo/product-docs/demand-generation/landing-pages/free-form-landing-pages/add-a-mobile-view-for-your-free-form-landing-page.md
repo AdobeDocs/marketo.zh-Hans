@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 143
-ht-degree: 19%
+source-wordcount: 140
+ht-degree: 20%
 
 ---
 
 # 为您的自由格式登录页面添加移动端视图 {#add-a-mobile-view-for-your-free-form-landing-page}
 
-在智能手机上，很容易让您的自由格式登陆页面看起来很棒。
+您可以优化自由格式登陆页面，以便在智能手机上正确显示。
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ ht-degree: 19%
    >
    >可能需要升级自由格式模板。 如果您看到该消息，请快速阅读如何[使现有的自由格式登陆页面模板移动设备兼容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)。
 
-1. 太棒了！ 您现在已激活登陆页面的移动版本。 单击 **[!UICONTROL Close]**。
+1. 您现在已激活登陆页面的移动版本。 单击 **[!UICONTROL Close]**。
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

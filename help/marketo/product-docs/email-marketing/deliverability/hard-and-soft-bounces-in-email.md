@@ -9,20 +9,20 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: 310
 ht-degree: 14%
 
 ---
 
 # 电子邮件中的硬退回和软退回 {#hard-and-soft-bounces-in-email}
 
-硬退回是在邮件服务器告知 Marketo 无法投递电子邮件时，将人员电子邮件地址视为无效。 软退回意味着将电子邮件交付给人员时出现问题；此问题会自动解决，有时可能需要几天。 硬退回和软退回都包含[多个类别](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)。
+硬退回是在邮件服务器告知 Marketo 无法投递电子邮件时，将人员电子邮件地址视为无效。 软退回意味着在将电子邮件交付给人员时出现问题；此问题会自动解决，有时可能需要几天时间。 硬退回和软退回都包含[多个类别](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)。
 
 ## 退回分类 {#bounce-classification}
 
-Marketo中有5个人员字符串与存在问题的电子邮件投放相关。
+Marketo中有5个人员字段与存在问题的电子邮件投放相关。
 
 1. **电子邮件已暂停** — 当发生特定类型的硬退回时，设置为True。
 1. **电子邮件挂起原因** — 可能有很多原因。 此字段试图解释原因。
@@ -34,7 +34,7 @@ Marketo中有5个人员字符串与存在问题的电子邮件投放相关。
 >
 >在人员达到&#x200B;**电子邮件已暂停**&#x200B;状态后，无法清除“电子邮件已暂停”复选框。 然而，该人仍将在最初被停职后24小时被邮寄。
 >
->当某人标记为&#x200B;**电子邮件无效**&#x200B;时，只能通过取消选中其记录的“人员信息”选项卡中的“电子邮件无效”框来手动重置他们（我们建议您仅在您知道其电子邮件有效时才手动重置）。
+>当某人标记为&#x200B;**电子邮件无效**&#x200B;时，只能通过取消选中其记录的“人员信息”选项卡中的“电子邮件无效”框来手动重置他们（仅当确认电子邮件地址有效时才建议这样做）。
 
 >[!PREREQUISITES]
 >

@@ -7,9 +7,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '844'
 ht-degree: 1%
 
 ---
@@ -167,7 +167,7 @@ ht-degree: 1%
 
 1. 如果需要，请选择要更新或删除的准则或排除项。
 
-1. 单击“编辑”可编辑您的示例，单击“删除”图标可将其删除。
+1. 单击&#x200B;**[!UICONTROL Edit]**&#x200B;图标编辑您的条目，或单击&#x200B;**[!UICONTROL Delete]**&#x200B;图标删除条目。
 
    屏幕快照
 

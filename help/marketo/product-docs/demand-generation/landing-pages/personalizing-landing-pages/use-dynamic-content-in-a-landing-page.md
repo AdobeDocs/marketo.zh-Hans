@@ -15,10 +15,10 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 188
-ht-degree: 9%
+source-wordcount: 191
+ht-degree: 8%
 
 ---
 
@@ -86,7 +86,7 @@ ht-degree: 9%
    >
    >在修改各种区段的内容之前，请创建默认登陆页面。
 
-看！ 您现在可以发送目标内容。
+您现在可以将目标内容发送到区段。
 
 >[!MORELIKETHIS]
 >

@@ -24,20 +24,16 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1800
-ht-degree: 4%
+source-wordcount: 1727
+ht-degree: 2%
 
 ---
 
 # 电子邮件创作 {#email-authoring}
 
-了解如何在新的Marketo Engage Email Designer中创建、个性化和预览电子邮件。
-
->[!PREREQUISITES]
->
->要访问新的电子邮件设计器，必须将您的Marketo Engage订阅迁移到[Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。 如果您的订阅尚未完成迁移，且希望加快进度，请联系 Adobe 客户团队（您的客户经理）或 [Marketo 支持团队](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+了解如何在电子邮件Designer中创建、个性化和预览电子邮件。
 
 ## 创建电子邮件 {#create-an-email}
 
@@ -73,7 +69,7 @@ ht-degree: 4%
 
    ![](assets/create-an-email-5.png)
 
-1. 要创建新电子邮件，您有两个选项。 右键单击您的电子邮件计划名称并选择&#x200B;**新建本地资产**，或者单击仪表板“电子邮件”框中的&#x200B;**+新建电子邮件**&#x200B;按钮。 在本例中，我们将执行前者。
+1. 要创建新电子邮件，您有两个选项。 右键单击您的电子邮件计划名称并选择&#x200B;**新建本地资产**，或者单击仪表板“电子邮件”框中的&#x200B;**+新建电子邮件**&#x200B;按钮。 在此示例中，使用第一个选项。
 
    ![](assets/create-an-email-6.png)
 

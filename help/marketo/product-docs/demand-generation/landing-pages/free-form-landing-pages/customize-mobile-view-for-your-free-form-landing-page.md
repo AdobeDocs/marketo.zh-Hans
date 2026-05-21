@@ -10,10 +10,10 @@ product_v2:
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 376
-ht-degree: 7%
+source-wordcount: 365
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 >
 >[为您的自由格式登陆页面添加移动视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-自由格式登陆页面的移动设备视图大多是自动的，但您可以对其进行自定义。 操作方法如下：
+自由格式登陆页面的移动设备视图大多是自动的，但您可以对其进行自定义。
 
 1. 选择您的自由格式登陆页面。
 
@@ -51,7 +51,7 @@ ht-degree: 7%
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## 重要须知： {#important-things-to-know}
+## 重要须知 {#important-things-to-know}
 
 * 图像将扩展至移动设备的宽度。 如果您需要更小的图像，请拉入富文本元素并从此处添加图像。
 * 仅使用Forms 2.0表单。 它们具有响应性，并将自动进行调整。
@@ -63,13 +63,13 @@ ht-degree: 7%
 
 >[!TIP]
 >
->手机越少越好。 使用更少的词语让客户更快乐。
+>手机越少越好。
 
 1. 要隐藏元素，请单击移动列下对应的复选框。
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. 完美！ 该元素将不再显示在移动设备视图中。
+1. 该元素将不再显示在移动设备视图中。
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
@@ -77,7 +77,7 @@ ht-degree: 7%
 
 >[!TIP]
 >
->制作专门用于移动视图的特殊（较短）内容。
+>缩短移动设备视图的内容。
 
 1. 要添加元素，请将其拖放到自由格式登陆页面上。
 
@@ -97,15 +97,15 @@ ht-degree: 7%
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 想看点很酷的东西吗？ 选择 **[!UICONTROL Side By Side]**。
+1. 选择&#x200B;**[!UICONTROL Side By Side]**&#x200B;以同时比较桌面和移动设备版本。
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
-1. 现在，您可以同时查看登陆页面的桌面和移动设备版本！
+1. 现在，您可以同时查看登陆页面的桌面和移动设备版本。
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. 如果您喜欢它，请单击&#x200B;**[!UICONTROL Approve and Close]**。
+1. 单击 **[!UICONTROL Approve and Close]**。
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -113,7 +113,6 @@ ht-degree: 7%
    >
    >预览不是交互式的。 每部智能手机的显示方式都略有不同。 我们建议您在几个设备上预览登陆页面，以确切了解登陆页面的行为。
 
-尽情体验吧！
 
 >[!MORELIKETHIS]
 >

@@ -11,9 +11,9 @@ feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 499
+source-wordcount: 494
 ht-degree: 4%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 4%
 
    ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
-1. 输入服务的&#x200B;_显示名称_，从下拉列表中选择&#x200B;**[!UICONTROL LinkedIn Lead Gen]**&#x200B;服务，然后单击&#x200B;**[!UICONTROL Next]**。
+1. 为您的服务输入&#x200B;**[!UICONTROL Display Name]**，从下拉列表中选择&#x200B;**[!UICONTROL LinkedIn Lead Gen]**&#x200B;服务，然后单击&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
@@ -58,13 +58,13 @@ ht-degree: 4%
 
    ![](assets/set-up-linkedin-lead-gen-forms-6.png)
 
-1. 您会发现您现在已获得授权。 单击 **[!UICONTROL Next]**。
+1. 您会注意到您现在已获得授权。 单击 **[!UICONTROL Next]**。
 
    ![](assets/set-up-linkedin-lead-gen-forms-7.png)
 
    >[!CAUTION]
    >
-   >该服务在获得授权后一年自动过期。 要重新获得访问权限，只需单击&#x200B;**[!UICONTROL Re-Authorize]**。 根据您的浏览器设置，您可能需要重新输入LinkedIn密码。
+   >该服务在获得授权后一年自动过期。 要重新获得访问权限，请单击&#x200B;**[!UICONTROL Re-Authorize]**。 根据您的浏览器设置，您可能需要重新输入LinkedIn密码。
 
 1. 选择希望LinkedIn潜在客户能够从中进入Marketo的帐户，然后单击&#x200B;**[!UICONTROL Next]**。
 
@@ -74,7 +74,7 @@ ht-degree: 4%
 
    ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
-1. 要接受默认的LinkedIn到Marketo字段映射，只需单击&#x200B;**[!UICONTROL Create]**&#x200B;即可。 如果要更改默认字段映射、删除字段映射或添加新字段映射，可以通过以下模式基于每个字段执行此操作。
+1. 要接受默认的LinkedIn到Marketo字段映射，请单击&#x200B;**[!UICONTROL Create]**。 如果要更改默认字段映射、删除字段映射或添加新字段映射，可以通过以下模式基于每个字段执行此操作。
 
    >[!CAUTION]
    >
@@ -88,7 +88,7 @@ ht-degree: 4%
 
    ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
-做得好！ 当您在LinkedIn端成功运行营销活动时，提交LinkedIn潜在客户群表单的人员将开始流入Marketo。
+当您在LinkedIn端成功运行营销活动时，提交LinkedIn潜在客户群表单的人员将开始流入Marketo。
 
 >[!NOTE]
 >

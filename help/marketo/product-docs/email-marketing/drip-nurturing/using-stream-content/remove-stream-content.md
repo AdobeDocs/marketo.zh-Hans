@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 121
 ht-degree: 6%
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # 移除流内容 {#remove-stream-content}
 
-您可以删除或存档一段内容。 与删除流内容不同，[存档](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)保留与该内容关联的所有历史记录。 如果您不介意丢失某些内容的历史统计信息并想将其删除，请查看下面介绍操作方法。
+您可以删除或存档一段内容。 与删除流内容不同，[存档](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)保留与该内容关联的所有历史记录。 如果您不介意丢失某些内容的历史统计信息并想将其删除，下面是具体操作方法。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

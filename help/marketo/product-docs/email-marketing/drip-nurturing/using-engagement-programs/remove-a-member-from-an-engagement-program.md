@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: 118
 ht-degree: 13%
 
 ---
 
 # 从参与计划中移除成员 {#remove-a-member-from-an-engagement-program}
 
-糟糕！ 那些人怎么进去的？ 您可以使用&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步骤从参与计划中删除成员。
+您可以使用&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步骤从参与计划中删除成员。
 
 >[!TIP]
 >
@@ -34,11 +34,11 @@ ht-degree: 13%
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   格罗维。 您在[智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中定义的所有成员将不再在此参与计划中。
+   您在[智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中定义的所有成员将不再在此参与计划中。
 
 ## 暂停人员  {#pause-people}
 
-有时，您只想暂停参与项目中的人而不想删除他们。 这用&#x200B;**[!UICONTROL Change Engagement Program Cadence]**&#x200B;完成。
+有时，您想要暂停参与项目中的人而不是删除他们。 这用&#x200B;**[!UICONTROL Change Engagement Program Cadence]**&#x200B;完成。
 
 >[!MORELIKETHIS]
 >

@@ -17,9 +17,9 @@ subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: 471
 ht-degree: 4%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 4%
 
 >[!TIP]
 >
->请确保在智能列表中使用&#x200B;**[!UICONTROL Member of Engagement Program]**&#x200B;筛选器。
+>在智能列表中使用&#x200B;**[!UICONTROL Member of Engagement Program]**&#x200B;筛选器。
 
 ## 不符合智能列表条件的用户会出现什么情况？ {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 

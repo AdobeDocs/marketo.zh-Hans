@@ -7,10 +7,10 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/As1NwttcwB-zbe-UNOF1tuYcot34gZcb3UH-lnQcRAM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 106
-ht-degree: 17%
+source-wordcount: 103
+ht-degree: 16%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 17%
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-做得好！ 现在您已经为帐户启用了PURL，接下来可以为各个登陆页面启用它。
+您已为帐户启用PURL。 您现在可以为各个登陆页面启用它们。
 
 >[!NOTE]
 >

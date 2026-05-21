@@ -7,16 +7,14 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 174
-ht-degree: 12%
+source-wordcount: 161
+ht-degree: 13%
 
 ---
 
 # 向引导式登录页面添加表单 {#add-a-form-to-a-guided-landing-page}
-
-表单，满足登陆页面要求。 登陆页面，满足表单要求。
 
 >[!PREREQUISITES]
 >
@@ -52,12 +50,10 @@ ht-degree: 12%
    >
    >跟进页面是用户提交表单后看到的页面。
 
-1. 在此示例中，我们将使用[!UICONTROL Form Defined]。 单击 **[!UICONTROL Insert]**。
+1. 在此示例中，选择[!UICONTROL Form Defined]。 单击 **[!UICONTROL Insert]**。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   做得好！
-
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-现在，只需关闭登陆页面编辑器并[批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+关闭登陆页面编辑器并[批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。

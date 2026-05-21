@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 867
 ht-degree: 14%
@@ -66,7 +66,7 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 >
 >SSL可能最多需要3分钟才能处于READY状态。 刷新页面以显示更改。
 
-## 编辑现有域别名的SSL
+## 编辑现有域别名的SSL {#edit-ssl-existing-domain}
 
 按照以下步骤为现有域别名启用SSL。
 
@@ -128,6 +128,6 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 
 * **自定义SSL**：如果您需要自定义SSL，请提交[支持票证](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 请勿使用自助复选框来创建SSL。
 
-* **预先存在的SSL**：在添加域时，系统会检查预先存在的SSL，这些SSL可能在之前已手动创建。 如果您遇到此验证，请在不选择SSL创建的情况下创建您的域，我们将为您连接它们。 [联系支持人员](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}其他详细信息/选项。
+* **预先存在的SSL**：在添加域时，系统会检查预先存在的SSL，这些SSL可能在之前已手动创建。 如果您遇到此验证，请在不选择SSL创建的情况下创建您的域，我们将为您连接它们。 [联系支持人员](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以获取更多详细信息或选项。
 
 * **删除域**：自动删除域&#x200B;**不会**&#x200B;删除SSL证书。 此护栏可防止导致网站没有SSL证书的用户错误。 如果您确实要删除SSL证书，请[联系支持人员](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。

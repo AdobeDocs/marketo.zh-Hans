@@ -10,14 +10,14 @@ product_v2:
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 240
-ht-degree: 7%
+source-wordcount: 238
+ht-degree: 11%
 
 ---
 
-# 生成现有的自由格式登陆页面模板[!UICONTROL Mobile Compatible] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# 使现有自由格式登录页面模板兼容移动端 {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 可以在模板编辑器和登陆页面编辑器这两个位置执行此操作。
 
@@ -57,9 +57,15 @@ ht-degree: 7%
 
 ## 是什么构成了模板[!UICONTROL Mobile Compatible]？ {#what-makes-a-template-mobile-compatible}
 
-好问题！ 您的模板必须具有以下标记：
+您的模板必须具有以下标记：
 
-`Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`
+```
+Must have <!DOCTYPE HTML> 
+Must have a <HEAD> element 
+Must have a <TITLE> in the <HEAD> element 
+Must have <META CHARSET="UTF-8"> within the <HEAD> element 
+Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>
+```
 
 如果一切正常，您将看到此消息。
 
@@ -69,7 +75,7 @@ ht-degree: 7%
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-如果您对模板进行了任何更改，请单击[!UICONTROL Template Actions]并选择[!UICONTROL Validate Mobile Compatibility]。
+如果您对模板进行了任何更改，请单击&#x200B;**[!UICONTROL Template Actions]**&#x200B;并选择&#x200B;**[!UICONTROL Validate Mobile Compatibility]**。
 
 ## 从自由格式登陆页面编辑器升级模板 {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
@@ -87,4 +93,4 @@ ht-degree: 7%
    >
    >激活模板的移动版本将会创建使用该模板的任何登陆页面的草稿。
 
-太棒了！ 您现在可以[自定义使用此模板的所有登陆页面的移动设备视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)。
+您现在可以[自定义使用此模板的所有登陆页面的移动设备视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)。

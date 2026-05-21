@@ -7,9 +7,9 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 222
+source-wordcount: 219
 ht-degree: 7%
 
 ---
@@ -64,7 +64,7 @@ ht-degree: 7%
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. 输入您的&#x200B;**[!UICONTROL Domain Alias].** 如果访客未置入URL，则会显示&#x200B;**[!UICONTROL Default Page]**。 输入在这种情况下，他们应该前往的位置。
+1. 输入您的&#x200B;**[!UICONTROL Domain Alias]**。 如果访客未置入URL，则会显示&#x200B;**[!UICONTROL Default Page]**。 输入在这种情况下，他们应该前往的位置。
 
    >[!NOTE]
    >
@@ -76,4 +76,4 @@ ht-degree: 7%
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-太好了！ 如果您希望添加CNAME，现在知道该怎么做。
+您现在知道如何向登陆页面添加CNAME。

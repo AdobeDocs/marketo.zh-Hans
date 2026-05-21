@@ -12,10 +12,10 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 157
-ht-degree: 7%
+source-wordcount: 150
+ht-degree: 6%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   好吧！ 现在，让我们检查设置。
+   现在配置设置。
 
 ## 编辑设置 {#edit-settings}
 
@@ -62,7 +62,7 @@ ht-degree: 7%
 
 ## 运行报告 {#run-report}
 
-1. 要运行报告，只需单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
+1. 要运行报告，请单击&#x200B;**[!UICONTROL Report]**&#x200B;选项卡。
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
@@ -70,4 +70,4 @@ ht-degree: 7%
    >
    >参与度分数是本报表中的一栏，但并未进行插图。 有关参与度得分的详细信息，请参阅[了解参与度得分](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
-   做得好！ 请注意，报告按参与计划分组。
+   请注意，报告按参与计划分组。

@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1184'
-ht-degree: 14%
+source-wordcount: '1181'
+ht-degree: 11%
 
 ---
 
@@ -135,7 +135,7 @@ ht-degree: 14%
 
 >[!NOTE]
 >
->要简单地使外部内容与电子邮件设计器兼容，Adobe 建议从头开始创建邮件并将现有电子邮件中的内容复制到组件中。
+>要使外部内容与Email Designer兼容，Adobe建议从头开始创建消息，并将现有电子邮件的内容复制到组件中。
 
 ## 图像 {#image}
 
@@ -198,7 +198,7 @@ ht-degree: 14%
 
    屏幕快照
 
-1. 从下拉菜单中选择您的&#x200B;**[!UICONTROL Placements]**。  然后，选择要添加到内容中的&#x200B;**[!UICONTROL Offer decision]**&#x200B;并单击&#x200B;**[!UICONTROL Add]**。
+1. 从下拉菜单中选择您的&#x200B;**[!UICONTROL Placements]**。 然后，选择要添加到内容中的&#x200B;**[!UICONTROL Offer decision]**&#x200B;并单击&#x200B;**[!UICONTROL Add]**。
 
    屏幕快照
 

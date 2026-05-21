@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 59
-ht-degree: 10%
+source-wordcount: 45
+ht-degree: 13%
 
 ---
 
 # 重命名流 {#rename-a-stream}
 
-如果您希望保持井然有序，可以重命名您的流。 下面是操作方法。
+如果您希望保持井然有序，可以重命名您的流。
 
 1. 查找并选择您的参与计划，然后单击&#x200B;**[!UICONTROL Streams]**。
 
@@ -31,5 +31,3 @@ ht-degree: 10%
 1. 输入新流&#x200B;**[!UICONTROL Name]**&#x200B;并单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
-
-   瞧！ 您现在知道如何重命名流。

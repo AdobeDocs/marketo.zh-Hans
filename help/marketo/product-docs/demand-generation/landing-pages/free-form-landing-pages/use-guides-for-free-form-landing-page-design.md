@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 115
+source-wordcount: 118
 ht-degree: 13%
 
 ---
 
 # 使用参考线进行自由格式登录页面设计 {#use-guides-for-free-form-landing-page-design}
 
-设计自由格式登陆页面时，您可以使用指南来帮助对齐组件。
+设计自由格式登陆页面时，您可以使用参考线来帮助对齐页面上的元素。
 
 >[!NOTE]
 >
@@ -38,4 +38,4 @@ ht-degree: 13%
 
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
-   眼睛对准的物体很容易！
+   正确对齐的元素可创建更清晰、更专业的布局。

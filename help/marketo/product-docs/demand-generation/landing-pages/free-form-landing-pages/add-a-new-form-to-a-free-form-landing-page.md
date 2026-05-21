@@ -9,16 +9,14 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 149
-ht-degree: 15%
+source-wordcount: 138
+ht-degree: 16%
 
 ---
 
 # 向自由格式登录页面添加新表单 {#add-a-new-form-to-a-free-form-landing-page}
-
-表单，满足登陆页面要求。 登陆页面，满足表单要求。
 
 >[!PREREQUISITES]
 >
@@ -57,6 +55,4 @@ ht-degree: 15%
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
-   做得好！
-
-只需关闭登陆页面编辑器并[批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+关闭登陆页面编辑器并[批准登陆页面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
