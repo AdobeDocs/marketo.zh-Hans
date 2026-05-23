@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 模板 19B {#template-19b}
 
-右键单击以[下载模板19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+右键单击以[下载模板19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=zh-Hans)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -33,4 +33,4 @@ ht-degree: 5%
 
 **右键单击以下内容以下载此模板：**
 
-[模板19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+[模板19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=zh-Hans)

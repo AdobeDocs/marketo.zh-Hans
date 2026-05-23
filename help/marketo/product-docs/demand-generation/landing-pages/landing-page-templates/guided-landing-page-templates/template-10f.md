@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 模板 10F {#template-10f}
 
-右键单击以[下载模板10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+右键单击以[下载模板10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html?lang=zh-Hans)
 
 ![](assets/image2015-7-27-11-3a14-3a42.png)
 
@@ -33,4 +33,4 @@ ht-degree: 5%
 
 **右键单击以下内容以下载此模板：**
 
-[模板10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+[模板10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html?lang=zh-Hans)
