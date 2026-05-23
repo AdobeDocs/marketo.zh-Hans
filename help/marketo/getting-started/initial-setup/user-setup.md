@@ -59,9 +59,9 @@ ht-degree: 6%
   </tr>
   <tr>
     <td>用户</td>
-    <td><li>创建有关何时<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">创建用户</a>的策略。</li> <li>创建有关何时删除用户的策略。</li>
+    <td><li>创建有关何时<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=zh-Hans">创建用户</a>的策略。</li> <li>创建有关何时删除用户的策略。</li>
     <p><img src="assets/note-icon.png" alt="注释图标"> 注意：您必须是系统管理员才能删除用户。
-    <li>确定谁应具有<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=zh-Hans">Adobe系统管理员和Marketo Engage产品管理员权限。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">将用户</a>添加到所需的产品配置文件。</li>
+    <li>确定谁应具有<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=zh-Hans">Adobe系统管理员和Marketo Engage产品管理员权限。</a> <li><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">将用户</a>添加到所需的产品配置文件。</li>
     <li>为每个API用例创建一个API用户。</li></td>
   </tr>
   <tr>
