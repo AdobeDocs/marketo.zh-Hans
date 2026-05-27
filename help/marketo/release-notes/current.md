@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
 workflow-type: tm+mt
-source-wordcount: 700
+source-wordcount: 704
 ht-degree: 19%
 
 ---
@@ -115,7 +115,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 错过的聊天状态</strong>：现在，当代理不接受聊天时，新的“错过的聊天”状态将显示在聊天人员的活动详细信息中。
+   <td><strong>Dynamic Chat — 错过的聊天状态</strong>：当座席不接受聊天时，新的“错过的聊天”状态将显示在聊天人员的个人记录的“活动详细信息”中。
    </td>
    <td>已发布</td>
    <td>不适用</td>
@@ -126,7 +126,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 新属性同步行为</strong>：以前，添加新属性会在同步完成期间最多阻止24小时环境中的更改，从而阻止对话框编辑和发布。 现在，虽然添加新属性仍需要完全数据同步（可能需要24小时），但在此过程中不再阻止环境。
+   <td><strong>Dynamic Chat — 新属性同步行为</strong>：以前，添加新属性会在同步完成期间最多阻止24小时环境中的更改，从而阻止对话框编辑和发布。 现在，虽然添加新属性仍需要完全数据同步（这最多可能需要24小时），但在此过程中不再阻止环境。
    </td>
    <td>已发布</td>
    <td>不适用</td>
