@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: 543
-ht-degree: 23%
+source-wordcount: 700
+ht-degree: 19%
 
 ---
 
@@ -86,6 +86,50 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    </td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat — 正在键入</strong>：现在，访客和代理均看到“正在键入……” 通知，防止一方打断另一方。
+   </td>
+   <td>已发布</td>
+   <td>不适用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Marketo选择列表/下拉字段</strong>： Marketo选择列表/下拉人员字段（包括Salesforce同步的值）现在可用作聊天配置文件编辑器中的下拉值。
+   </td>
+   <td>已发布</td>
+   <td>不适用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat — 错过的聊天状态</strong>：现在，当代理不接受聊天时，新的“错过的聊天”状态将显示在聊天人员的活动详细信息中。
+   </td>
+   <td>已发布</td>
+   <td>不适用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat — 新属性同步行为</strong>：以前，添加新属性会在同步完成期间最多阻止24小时环境中的更改，从而阻止对话框编辑和发布。 现在，虽然添加新属性仍需要完全数据同步（可能需要24小时），但在此过程中不再阻止环境。
+   </td>
+   <td>已发布</td>
+   <td>不适用</td>
   </tr>
   </tbody>
 </table>
