@@ -3,9 +3,9 @@ description: 克隆程序会将现有Marketo程序复制到具有新名称的新
 title: 克隆程序
 badge: Beta 版
 hide: true
-source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能处于封闭测试阶段，当前在接下来的几个月内分阶段推出。 当您在“我的Marketo”屏幕上看到&#x200B;_Build with AI_&#x200B;拼贴时，就会知道已为您的订阅启用了该功能。
+>此功能目前处于封闭测试阶段。 请不要分发此文档。
 
 ## 使用方法 {#how-to-use}
 

@@ -1,0 +1,71 @@
+---
+description: 了解如何审核您的项目以获得所有组件（如电子邮件、登陆页面、营销活动等）的最佳实践。
+title: 验证程序
+badge: Beta 版
+exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 0%
+
+---
+
+# 验证程序 {#validate-programs}
+
+审核您的项目以获得所有组件（如电子邮件、登陆页面、营销活动等）的最佳实践。
+
+>[!AVAILABILITY]
+>
+>此功能仅在有限范围内可用。 若要请求访问权限，请填写[此表单](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}。 确保准备好您的订阅Munchkin ID。
+
+>[!PREREQUISITES]
+>
+>若要使用此功能，您必须首先同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 有关详细信息，请与您的客户经理联系。
+
+## 使用方法 {#how-to-use}
+
+1. 在“我的Marketo”中，单击&#x200B;**使用AI构建**&#x200B;图块。
+
+   ![](assets/program-qa-1.png)
+
+1. 选择&#x200B;**验证程序**&#x200B;代理。
+
+1. 在右窗格中选择要验证的程序。
+
+   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
+
+   所选程序的摘要将显示在中心窗格中。
+
+   ![](assets/program-qa-4.png){width="450" zoomable="yes"}
+
+1. 在提示窗口中，输入“验证程序”并单击&#x200B;**发送**。
+
+   AI助手提供选定项目的QA，向您显示哪些项目通过以及哪些项目失败。
+
+   ![](assets/program-qa-6.png)
+
+<!--
+   You have three validation paths to choose from:
+
+   | Path | What You Provide | Verification Type | Best For |
+   | --- | --- | --- | --- |
+   | Rules Only | Nothing | Compliance checks | Org compliance & audits |
+   | + Test Plan | Your team's test document | Rules + Custom checks | Team or channel-specific checks |
+   | + Campaign Brief | Campaign brief document | Exact field matching | Pre-launch readiness |
+
+1. To Upload a Test Plan, a Campaign Brief, or both, click the upload icon, add your files and click **Send**. To proceed with rules only, enter "Proceed with Rules Only" in the prompt window and click **Send**. In this example, we are proceeding with rules only.
+
+PICC
+
+1. To start validation, click **Run QA Validation**.
+
+PICC
+
+1. The report generates. To see the full report, click View Full Report.
+
+PICC
+
+1. The report appears in the center console. Scroll down to view. You can also download the report via .docx file.
+
+PICC
+-->
