@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '8896'
+source-wordcount: '8897'
 ht-degree: 96%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [Classic图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
       + [帮助中心](getting-started/things-to-know/help-center.md)
       + [订阅系统状态通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[产品知识的AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 产品知识的{hide-from-toc}[AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[营销国家社区](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS迁移](getting-started/things-to-know/aws-migration.md)
    + 快速上手 {#quick-wins}
@@ -1113,12 +1113,12 @@ ht-degree: 96%
       + {hide-from-toc}[设置和设置](product-docs/marketo-ai/settings-setup-old.md)
       + 代理 {#agents}
          + {hide-from-toc}[产品知识](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
-         + {hide-from-toc}[创建程序](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[表面分析](product-docs/marketo-ai/agents/surface-insights.md)
+         + {hide-from-toc}[生成程序](product-docs/marketo-ai/agents/create-program.md)
          + {hide-from-toc}[克隆程序](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[调查潜在客户](product-docs/marketo-ai/agents/investigate-lead.md)
+         + {hide-from-toc}[调查潜在客户](product-docs/marketo-ai/agents/investigate-leads.md)
          + [导入潜在客户](product-docs/marketo-ai/agents/import-leads.md)
-         + [程序QA](product-docs/marketo-ai/agents/program-qa.md)
+         + [验证程序](product-docs/marketo-ai/agents/validate-programs.md)
    + Marketo Engage 现代用户体验 {#marketo-engage-modern-ux}
       + [概述](product-docs/marketo-engage-modern-ux/overview.md)
       + [使用全局搜索](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
