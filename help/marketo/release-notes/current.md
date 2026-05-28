@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
+source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
 workflow-type: tm+mt
-source-wordcount: 704
-ht-degree: 19%
+source-wordcount: 698
+ht-degree: 18%
 
 ---
 
@@ -52,11 +52,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <th style="width:65%">功能</th>
-   <th style="width:10%">状态</th>
-   <th style="width:25%">文档</th>
-  </tr>
-  <tr>
    <td><strong>Marketo Engage MCP服务器</strong>： Marketo Engage MCP服务器充当AI助手与Marketo Engage之间的桥梁。 它会公开跨表单、项目、智能营销活动、人员/潜在客户、电子邮件、代码片段、列表和文件夹的100多项操作。</td>
    <td>可用性有限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">请求访问此处</a>）</td>
    <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP服务器</a></td>
@@ -65,11 +60,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
    <td> </td>
    <td> </td>
-  </tr>
- <tr>
-   <th style="width:65%">功能</th>
-   <th style="width:10%">状态</th>
-   <th style="width:25%">文档</th>
   </tr>
   <tr>
    <td><strong>电子邮件Designer — 电子邮件片段的条件内容</strong>： <i>与旧电子邮件编辑器对等</i>。 片段现在支持条件内容。</td>
