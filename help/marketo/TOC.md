@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
+source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
 workflow-type: tm+mt
 source-wordcount: '8896'
 ht-degree: 96%
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [Classic图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
       + [帮助中心](getting-started/things-to-know/help-center.md)
       + [订阅系统状态通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[产品知识的AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 产品知识的{hide-from-toc}[AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[营销国家社区](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS迁移](getting-started/things-to-know/aws-migration.md)
    + 快速上手 {#quick-wins}
@@ -59,18 +59,6 @@ ht-degree: 96%
       + [继承实例：记录您的设置](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [回顾核心技能](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + 产品文档 {#product-docs}
-   + Marketo人工智能 {#marketo-ai}
-      + [概述](product-docs/marketo-ai/overview.md)
-      + [设置和设置](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[设置和设置](product-docs/marketo-ai/settings-setup-old.md)
-      + 代理 {#agents}
-         + {hide-from-toc}[产品知识](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
-         + {hide-from-toc}[创建程序](product-docs/marketo-ai/agents/create-program.md)
-         + {hide-from-toc}[克隆程序](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[调查潜在客户](product-docs/marketo-ai/agents/investigate-lead.md)
-         + [导入潜在客户](product-docs/marketo-ai/agents/import-leads.md)
-         + [项目QA](product-docs/marketo-ai/agents/program-qa.md)
    + 附加应用程序 {#additional-apps}
       + SEO {#seo}
          + 关键词 {#keywords}
@@ -1119,6 +1107,18 @@ ht-degree: 96%
             + [使用发送警报信息令牌](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [在我的令牌中使用 URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [电子邮件抄送](product-docs/email-marketing/general/email-cc.md)
+   + Marketo人工智能 {#marketo-ai}
+      + [概述](product-docs/marketo-ai/overview.md)
+      + [设置和设置](product-docs/marketo-ai/settings-setup.md)
+      + {hide-from-toc}[设置和设置](product-docs/marketo-ai/settings-setup-old.md)
+      + 代理 {#agents}
+         + {hide-from-toc}[产品知识](product-docs/marketo-ai/agents/product-knowledge.md)
+         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
+         + {hide-from-toc}[创建程序](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[克隆程序](product-docs/marketo-ai/agents/clone-program.md)
+         + {hide-from-toc}[调查潜在客户](product-docs/marketo-ai/agents/investigate-lead.md)
+         + [导入潜在客户](product-docs/marketo-ai/agents/import-leads.md)
+         + [程序QA](product-docs/marketo-ai/agents/program-qa.md)
    + Marketo Engage 现代用户体验 {#marketo-engage-modern-ux}
       + [概述](product-docs/marketo-engage-modern-ux/overview.md)
       + [使用全局搜索](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
