@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -131,7 +131,7 @@ ht-degree: 96%
          + [隐藏和取消隐藏字段](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [在电子邮件中对令牌进行 HTML 编码](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [将字段标记为敏感](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + {hide-from-toc}[选择列表管理](product-docs/administration/field-management/picklist-management.md)
+         + [选取列表管理](product-docs/administration/field-management/picklist-management.md)
          + [重命名字段](product-docs/administration/field-management/rename-a-field.md)
          + [了解系统管理字段](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [查看 Marketo 和 Salesforce 之间的字段映射](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)

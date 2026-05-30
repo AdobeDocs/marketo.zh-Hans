@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
-source-wordcount: 698
+source-wordcount: 655
 ht-degree: 18%
 
 ---
@@ -74,8 +74,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>Picklist管理</strong>：您现在可以指定可以在Marketo Engage的字段中使用的值。
    </td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">选取列表管理</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -83,7 +83,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 正在键入</strong>：现在，访客和代理均看到“正在键入……” 通知，防止一方打断另一方。
+   <td><strong>Dynamic Chat — 正在键入</strong>：现在，访客和代理均在另一方键入时看到“正在键入……”通知，以防止一方打断另一方。
    </td>
    <td>已发布</td>
    <td>不适用</td>
@@ -116,7 +116,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 新属性同步行为</strong>：以前，添加新属性会在同步完成期间最多阻止24小时环境中的更改，从而阻止对话框编辑和发布。 现在，虽然添加新属性仍需要完全数据同步（这最多可能需要24小时），但在此过程中不再阻止环境。
+   <td><strong>Dynamic Chat — 新属性同步行为</strong>：以前，添加新属性会在同步完成期间最多阻止24小时环境中的更改，从而阻止对话框编辑和发布。现在，虽然添加新属性仍需要完全数据同步（这最多可能需要24小时），但在此过程中不再阻止环境。
    </td>
    <td>已发布</td>
    <td>不适用</td>
