@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [Classic图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
       + [帮助中心](getting-started/things-to-know/help-center.md)
       + [订阅系统状态通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[产品知识的AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 产品知识的{hide-from-toc}[AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[营销国家社区](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS迁移](getting-started/things-to-know/aws-migration.md)
    + 快速上手 {#quick-wins}
@@ -1114,7 +1114,7 @@ ht-degree: 96%
       + 代理 {#agents}
          + {hide-from-toc}[产品知识](product-docs/marketo-ai/agents/product-knowledge.md)
          + {hide-from-toc}[表面分析](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[生成程序](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[生成程序](product-docs/marketo-ai/agents/build-programs.md)
          + {hide-from-toc}[克隆程序](product-docs/marketo-ai/agents/clone-program.md)
          + {hide-from-toc}[调查潜在客户](product-docs/marketo-ai/agents/investigate-leads.md)
          + [导入潜在客户](product-docs/marketo-ai/agents/import-leads.md)
