@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -1114,7 +1114,7 @@ ht-degree: 96%
       + 代理 {#agents}
          + {hide-from-toc}[产品知识](product-docs/marketo-ai/agents/product-knowledge.md)
          + {hide-from-toc}[表面分析](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[生成程序](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[生成程序](product-docs/marketo-ai/agents/build-programs.md)
          + {hide-from-toc}[克隆程序](product-docs/marketo-ai/agents/clone-program.md)
          + {hide-from-toc}[调查潜在客户](product-docs/marketo-ai/agents/investigate-leads.md)
          + [导入潜在客户](product-docs/marketo-ai/agents/import-leads.md)
