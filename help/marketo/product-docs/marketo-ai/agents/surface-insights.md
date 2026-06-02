@@ -3,9 +3,9 @@ description: 与Marketo人工智能讨论您的Marketo Engage性能数据。 以
 title: 表面洞察
 badge: Beta 版
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 5b459e82e0a3bc9a335483b66ca975d39121d025
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -48,4 +48,4 @@ ht-degree: 0%
 * 超大日期范围或宽泛的问题可能会返回高级别的摘要，而不是精细的细节。 例如，“在过去的两年中，我的所有项目都表现如何？”
 * Marketo AI可以显示数据，但无法根据它找到的内容对程序或报表进行更改。
 * 对于包含特定过滤器和划分的详细自定义报表，Marketo内置报表工具或BI集成可能更合适。
-* 跨多触点营销活动的归因需要正确的项目设置。 Marketo AI将报告跟踪的内容，而不是推断未配置的归因。
+* 跨多触点营销活动的归因需要正确的项目设置。 Marketo AI会报告跟踪的内容，而不是推断未配置的归因。
