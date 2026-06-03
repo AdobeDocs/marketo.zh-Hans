@@ -4,7 +4,7 @@ title: AWS迁移
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 1%
@@ -58,7 +58,7 @@ ht-degree: 1%
    <th style="width:30%">时间</th>
   </tr>
   <tr>
-   <td>2026年6月5日</td>
+   <td>2026年6月19日</td>
    <td>AB46</td>
    <td>下午5点（太平洋标准时间）</td>
   </tr>
@@ -76,9 +76,9 @@ ht-degree: 1%
    <td>下午5点（太平洋标准时间）<br>
    下午6点（太平洋标准时间）</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## 更新和支持
 
-有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support)中的支持门户联系Adobe支持部门。
+有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/en/support)中的支持门户联系Adobe支持部门。
