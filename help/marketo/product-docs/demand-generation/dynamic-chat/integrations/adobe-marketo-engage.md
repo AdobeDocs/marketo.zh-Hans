@@ -4,20 +4,13 @@ title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
 TQID: https://experienceleague.adobe.com/n8HC8kkHZguZoZ2eBijiUetTrX1rY0ZLN0lIhZGUUcg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: 317
 ht-degree: 3%
 
 ---
@@ -30,7 +23,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->Dynamic Chat支持同步[Marketo native](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}以及自定义人员字段和公司字段。
+>Dynamic Chat支持同步[Marketo native](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}以及自定义人员字段和公司字段。
 
 1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Dynamic Chat]**&#x200B;磁贴。
 
@@ -38,9 +31,9 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >如果您看不到图块，请联系您的Marketo管理员。
+   >如果您在“我的Marketo”屏幕中未看到Dynamic Chat磁贴，请从experience.adobe.com上的“应用程序”菜单访问Dynamic Chat，并通过&#x200B;**配置** > **集成**&#x200B;连接到Marketo。 连接后，将显示拼贴。
 
-1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Dynamic Chat。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Dynamic Chat。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
 1. 要连接您的Marketo实例，请选择&#x200B;**[!UICONTROL Integrations]**。
 
