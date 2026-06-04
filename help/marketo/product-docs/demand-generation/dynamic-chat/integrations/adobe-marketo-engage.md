@@ -15,9 +15,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: 317
 ht-degree: 3%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >如果您看不到图块，请联系您的Marketo管理员。
+   >如果您在“我的Marketo”屏幕中未看到Dynamic Chat磁贴，请从experience.adobe.com上的“应用程序”菜单访问Dynamic Chat，并通过&#x200B;**配置** > **集成**&#x200B;连接到Marketo。 连接后，将显示拼贴。
 
 1. 如果您之前曾使用Adobe ID访问过应用程序，则会直接转到Dynamic Chat。 如果没有，[请设置您的Adobe ID](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
