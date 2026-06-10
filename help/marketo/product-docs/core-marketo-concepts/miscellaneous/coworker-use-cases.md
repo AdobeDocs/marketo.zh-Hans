@@ -1,16 +1,16 @@
 ---
 description: 浏览CX Enterprise Co-worker的实际提示模式，按跨客户获取、参与、事件、转化和保留促销活动的用例进行整理。
 title: 用例
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
 
 # 用例 {#use-cases}
 
-下面是生命周期和增长营销人员目前在CX Enterprise Co-worker中使用的真实提示模式。 每个报表包都设计为可复制、与自己的受众和品牌详细信息交换并在对话中进行优化。
+以下是生命周期和增长营销人员在CX Enterprise Co-worker中使用的真实提示模式。 每个报表包都设计为可复制、与自己的受众和品牌详细信息交换并在对话中进行优化。
 
 ## 使用方法
 
