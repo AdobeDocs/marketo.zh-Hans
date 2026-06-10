@@ -1,9 +1,9 @@
 ---
-description: 待定。
+description: 在CX Enterprise Co-worker中构建电子邮件促销活动的分步指南，从编写提示到查看和导出促销活动。
 title: 构建和生成电子邮件营销活动
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
