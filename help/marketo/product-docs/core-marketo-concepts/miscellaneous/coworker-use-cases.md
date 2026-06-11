@@ -1,9 +1,9 @@
 ---
 description: 浏览CX Enterprise Co-worker的实际提示模式，按跨客户获取、参与、事件、转化和保留促销活动的用例进行整理。
 title: 用例
-source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
+source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -24,33 +24,25 @@ ht-degree: 0%
 
 最适合：企业帐户激活、新的SaaS注册、售后移交。
 
-```
-"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."
-```
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
 
 ### 新成员载入，B2C
 
 最适合：会员计划、应用程序注册、忠诚度计划。
 
-```
-"Create a marketing campaign to onboard new members with a welcome email series that introduces key features, provides getting-started guides, and offers personalized recommendations based on their interests."
-```
+`"Create a marketing campaign to onboard new members with a welcome email series that introduces key features, provides getting-started guides, and offers personalized recommendations based on their interests."`
 
 ### 品牌介绍序列， B2C
 
 最适合：首次购买者、新订阅的新闻稿、注册后跟进。
 
-```
-"Create a single-touch follow-up email introducing our brand, what we sell, and how to place a first order. Use a CSV list, and personalize by first name and company name."
-```
+`"Create a single-touch follow-up email introducing our brand, what we sell, and how to place a first order. Use a CSV list, and personalize by first name and company name."`
 
 ### 新的粉丝入门历程，B2C（体育和娱乐）
 
 最适合的客户：首次购票者、新季购票者、购票后粉丝激活。
 
-```
-"Create a 4-email post-purchase journey to onboard first-time fans and drive repeat attendance."
-```
+`"Create a 4-email post-purchase journey to onboard first-time fans and drive repeat attendance."`
 
 ## 参与和培养
 
@@ -60,33 +52,25 @@ ht-degree: 0%
 
 最适合：客户维系、产品意识、思想领导力。
 
-```
-"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."
-```
+`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### 每月新闻稿， B2C
 
 最适合：零售、生活方式和电子商务品牌。
 
-```
-"Create a monthly newsletter for our customers. Highlight new products, inspiration ideas, and a featured collection with CTAs."
-```
+`"Create a monthly newsletter for our customers. Highlight new products, inspiration ideas, and a featured collection with CTAs."`
 
 ### 产品提示系列， B2B
 
 最适合：产品培训、功能采用、缩短实现价值的时间。
 
-```
-"Generate an educational 2-touch email nurture that helps users get more value from this product with simple tips. Use a CSV uploaded list and personalize by first name, product used, and signup date."
-```
+`"Generate an educational 2-touch email nurture that helps users get more value from this product with simple tips. Use a CSV uploaded list and personalize by first name, product used, and signup date."`
 
 ### 季节性目录发布，B2C
 
 最适合：零售业季节性推送、系列骤减、刷新时刻。
 
-```
-"Build a 2-touch email series, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."
-```
+`"Build a 2-touch email series, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## 事件和时刻驱动
 
@@ -96,41 +80,31 @@ ht-degree: 0%
 
 最适合：潜在客户拓展、产品教育、思想领导力。
 
-```
-"Create a webinar invite about [TOPIC]. I need one invite email and one reminder email with a clear registration CTA."
-```
+`"Create a webinar invite about [TOPIC]. I need one invite email and one reminder email with a clear registration CTA."`
 
 ### 网络研讨会跟进活动， B2B
 
 最适合：事件后培养、MQL转化、内容分发。
 
-```
-"Create a webinar follow-up campaign for customers who attended a webinar about [TOPIC]. Include a strong CTA."
-```
+`"Create a webinar follow-up campaign for customers who attended a webinar about [TOPIC]. Include a strong CTA."`
 
 ### 产品发布， B2B和B2C
 
 最适合：启动、提前访问、新功能显示。
 
-```
-"Create a product announcement campaign for our [PRODUCT NAME] launch. Build an early-access invitation and a launch-day email."
-```
+`"Create a product announcement campaign for our [PRODUCT NAME] launch. Build an early-access invitation and a launch-day email."`
 
 ### 主题活动或推票活动，B2C（体育和娱乐）
 
 最适合：单游戏门票销售、主题夜晚、特别活动。
 
-```
-"Create a 2-touch email campaign to drive ticket sales for a themed home game event."
-```
+`"Create a 2-touch email campaign to drive ticket sales for a themed home game event."`
 
 ### 开始前须知+收看、B2C（体育和娱乐）
 
 最适合：游戏日或活动日的粉丝就绪性。
 
-```
-"Create a 3-touch moment-driven campaign to maximize attendance and fan readiness around game day."
-```
+`"Create a 3-touch moment-driven campaign to maximize attendance and fan readiness around game day."`
 
 ## 转换和追加销售
 
@@ -140,33 +114,25 @@ ht-degree: 0%
 
 最适合：SaaS试用用户、免费升级、试用后激活。
 
-```
-"Generate a campaign to target users whose trial has ended but are still active in the app, offering them a special incentive to convert to a paid plan."
-```
+`"Generate a campaign to target users whose trial has ended but are still active in the app, offering them a special incentive to convert to a paid plan."`
 
 ### 重新排序微调，B2C
 
 最适合：消耗品、补充类别、重复购买周期。
 
-```
-"Give me a 1-step reorder reminder email that nudges purchasers to restock based on typical buying cycles. Use my CSV list with each purchaser's first name, last order date, and product last purchased to tailor the content."
-```
+`"Give me a 1-step reorder reminder email that nudges purchasers to restock based on typical buying cycles. Use my CSV list with each purchaser's first name, last order date, and product last purchased to tailor the content."`
 
 ### 高级体验追加销售，B2C（体育和娱乐）
 
 最适合：将标准票证持有人升级到高级层。
 
-```
-"Create a personalized 3-email campaign to move fans from standard tickets into premium tiers."
-```
+`"Create a personalized 3-email campaign to move fans from standard tickets into premium tiers."`
 
 ### 季成员资格入门，B2C（体育和娱乐）
 
 最适合：季节票证激活、高级成员资格、区段个性化欢迎。
 
-```
-"Create a 4-email welcome series for new season plan holders with segment-personalized benefits."
-```
+`"Create a 4-email welcome series for new season plan holders with segment-personalized benefits."`
 
 ## 保留和重新参与
 
@@ -176,28 +142,20 @@ ht-degree: 0%
 
 最适合：流失客户、休眠购买者、季节性重新激活。
 
-```
-"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."
-```
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### 废风扇重新接合，B2C（体育和娱乐）
 
 最适合：不活跃的订阅者、过期的季票持有者、单游戏转化。
 
-```
-"Create a 3-email win-back campaign to convert lapsed fans into single-game ticket buyers."
-```
+`"Create a 3-email win-back campaign to convert lapsed fans into single-game ticket buyers."`
 
 ### 常规回馈活动、B2B和B2C
 
 最适合：所有安静的观众。
 
-```
-"Create a win-back campaign targeting inactive guests who haven't engaged recently. Highlight what's new and offer special incentives to re-engage."
-```
+`"Create a win-back campaign targeting inactive guests who haven't engaged recently. Highlight what's new and offer special incentives to re-engage."`
 
 ## 准备好进行构建了吗？
 
 选择上述用例，访问&#x200B;_构建并生成营销活动_&#x200B;以进行完整的分步测试。
-
-[对于KEITH：可选，添加CTA横幅或按钮：“在CX Enterprise Co-worker中开始新聊天”，其中包含指向应用程序的链接。]
