@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
 workflow-type: tm+mt
-source-wordcount: '8905'
+source-wordcount: '8907'
 ht-degree: 96%
 
 ---
@@ -468,7 +468,7 @@ ht-degree: 96%
                + [共享 Moment](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + 其他 {#miscellaneous}
          + {hide-from-toc}[同事概述](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-         + {hide-from-toc}[同事内部版本营销活动](product-docs/core-marketo-concepts/miscellaneous/coworker-build-campaigns.md)
+         + {hide-from-toc}[同事创建电子邮件营销活动](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
          + {hide-from-toc}[同事用例](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[配置Adobe Experience Manager集成](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [创建新营销活动文件夹](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
