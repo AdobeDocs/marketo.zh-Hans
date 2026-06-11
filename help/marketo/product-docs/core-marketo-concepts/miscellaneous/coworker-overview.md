@@ -1,16 +1,16 @@
 ---
 description: 了解CX Enterprise Co-worker，它是一种AI原生营销应用程序，可将单个提示转换为可供审核的营销活动。
 title: CX Enterprise Co-worker概述
-source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
 # CX Enterprise Co-worker概述 {#overview}
 
-CX Enterprise Co-worker是一款AI原生营销应用程序，可在几分钟内将您从单个提示引导到可审核的营销活动。
+CX Enterprise Co-worker是一种AI原生营销应用程序，可将您从一个提示引导到一个完整的审查就绪型营销活动。
 
 ## 如何访问
 
