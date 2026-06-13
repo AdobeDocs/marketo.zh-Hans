@@ -31,7 +31,7 @@ ht-degree: 3%
 >* [链接Adobe Connect和Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [创建新的活动计划](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-首先，确认您已在Adobe Connect中创建了会议或研讨会。 如果您需要帮助，请参阅[Adobe Connect用户指南](https://help.adobe.com/en_US/connect/9.0/using/index.html)。
+首先，确认您已在Adobe Connect中创建了会议或研讨会。 如果您需要帮助，请参阅[Adobe Connect用户指南](https://help.adobe.com/zh_CN/connect/9.0/using/index.html)。
 
 您在Adobe Connect中创建的会议和研讨会必须在您在Marketo中输入凭据时指定的文件夹下创建。 创建会议或研讨会后，记下任何相关的后勤信息（如电话号码），以便在确认电子邮件和ICS文件中使用。
 
