@@ -1,12 +1,11 @@
 ---
 description: 了解如何启用Marketo AI权限、配置组织规则以及管理集成和通知等设置。
 title: 设置和设置
-badge: Beta 版
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 2%
+source-wordcount: '579'
+ht-degree: 1%
 
 ---
 
