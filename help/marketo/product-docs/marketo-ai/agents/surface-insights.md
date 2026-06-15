@@ -3,9 +3,9 @@ description: 与Marketo人工智能讨论您的Marketo Engage性能数据。 以
 title: 表面洞察
 badge: Beta 版
 hide: true
-source-git-commit: 5b459e82e0a3bc9a335483b66ca975d39121d025
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 使用方法 {#how-to-use}
 
-1. 在“我的Marketo”中，单击&#x200B;**使用AI构建**&#x200B;图块。
+1. 在“我的Marketo”中，单击&#x200B;**Marketo AI**&#x200B;图块。
 
 1. 在提示窗口中，询问性能问题。 如果您有时间范围或计划，请具体说明。
 
