@@ -4,9 +4,9 @@ title: 调查潜在客户
 badge: Beta 版
 hide: true
 hidefromtoc: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 使用方法 {#how-to-use}
 
-1. 在“我的Marketo”中，单击&#x200B;**使用AI构建**&#x200B;图块。
+1. 在“我的Marketo”中，单击&#x200B;**Marketo AI**&#x200B;图块。
 
 1. 在提示窗口中，描述您正在调查的内容。 包括潜在客户（通过电子邮件或名称）以及您预期发生的情况。
 
