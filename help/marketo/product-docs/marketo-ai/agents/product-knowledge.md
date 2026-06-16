@@ -1,11 +1,9 @@
 ---
 description: 使用产品知识向Marketo AI询问有关Marketo Engage功能、最佳实践和操作方法的信息。 答案基于Adobe的官方文档。
 title: 产品知识
-badge: Beta 版
-hide: true
-source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
