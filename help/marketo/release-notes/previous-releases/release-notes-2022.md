@@ -2,30 +2,10 @@
 title: 2022
 description: 2022 - Marketo文档 — 产品文档
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4254
 ht-degree: 6%
@@ -46,7 +26,7 @@ ht-degree: 6%
 
 以下功能将于&#x200B;**2022年1月21日**&#x200B;开始发布，并在接下来的几周内分阶段推出每个功能（除非另有说明）。
 
-## 新一代体验 {#modern-ux}
+## 新一代体验
 
 * **更新了新一代体验中的Screens**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
@@ -81,7 +61,7 @@ ht-degree: 6%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Salesforce] CRM **的**&#x200B;[!DNL Sales Insight]
+[!DNL Salesforce] CRM **的**[!DNL Sales Insight]
 
 * **适用于[!UICONTROL Best Bets]**&#x200B;的新类型列：销售商将通过标记为“类型”的新列快速获得见解，以区分[!UICONTROL Best Bets]页面上的潜在客户和联系人。
 
@@ -89,7 +69,7 @@ ht-degree: 6%
 
 * **已更新品牌**：正在更新所有[!DNL Sales Insight]页面，以与Adobe品牌保持一致。
 
-[!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;[!DNL Sales Insight]
+[!DNL Microsoft Dynamics]**的**[!DNL Sales Insight]
 
 * **更新了帐户布局**：销售人员可以获取热门活动的集体视图，例如：电子邮件活动、Web活动、有趣的时刻以及帐户中所有联系人的得分更改。
 
@@ -133,7 +113,7 @@ ht-degree: 6%
 
 * **电子邮件机器人活动筛选增强功能**：作为以前发布的[电子邮件机器人活动筛选](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}功能的增强功能，您现在可以选择加入标识为机器人的日志记录活动。 然后，您可以根据被识别为机器人正在执行的活动过滤和触发操作。
 
-## 新一代体验 {#modern-ux}
+## 新一代体验
 
 * **更新了新一代体验中的Screens**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
@@ -215,7 +195,7 @@ ht-degree: 6%
 
 电子邮件跟踪链接的&#x200B;**[STS标头](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**：符合安全最佳实践，能够应用Secure Transport Security标头，以确保跟踪链接的流量始终安全。
 
-## 新一代体验 {#modern-ux}
+## 新一代体验
 
 **切换开关默认为新一代体验**：切换开关将在所有可用屏幕中都默认为新体验，使用户更容易发现更新的设计和可用性增强功能。
 
@@ -265,7 +245,7 @@ ht-degree: 6%
 
 * **已改进[!DNL Dynamic Chat]**&#x200B;的流Designer可用性：无需拖放，即可直接从Designer流画布添加信息卡。 [!DNL Dynamic Chat]界面也已得到改进，可更好地显示各个信息卡中的内容。
 
-* [!DNL Dynamic Chat]&#x200B;**的**&#x200B;高级约会路由规则： [!DNL Dynamic Chat]为目标约会路由提供了更多选项。 指定应根据Marketo Engage属性路由哪些座席约会，确保将潜在客户路由到适当的座席。
+* [!DNL Dynamic Chat]**的**&#x200B;高级约会路由规则： [!DNL Dynamic Chat]为目标约会路由提供了更多选项。 指定应根据Marketo Engage属性路由哪些座席约会，确保将潜在客户路由到适当的座席。
 
 * **适用于[!DNL Dynamic Chat]**&#x200B;的高级对话框报表：使用参与和转化量度的全新数据可视化图表，更详细地查看[!DNL Dynamic Chat]营销活动的性能。
 
@@ -336,7 +316,7 @@ ht-degree: 6%
 
 ## 下一代体验
 
-* **Adobe品牌**：更新了编辑和人员详细信息页面的外观和风格，并新增了Adobe Experience Cloud品牌。
+* **Adobe品牌**：更新了编辑和人员详细信息页面的外观，并新增了Adobe Experience Cloud品牌。
 
 * **在移动对话框中显示目标文件夹的文件夹层次结构**：查看每个文件夹的文件夹层次结构可简化移动资产的过程，并降低将资产放入错误文件夹的可能性。
 
@@ -357,7 +337,7 @@ ht-degree: 6%
 
 * **Webhook自定义标头可见性**： Webhook自定义标头现在显示在[!UICONTROL Admin] > [!UICONTROL Webhooks]选项卡中，可见性更高。
 
-* **CAPTCHA**：使用reCAPTCHA v3[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}评估表单提交的有效性以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
+* **CAPTCHA**：使用reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}评估表单提交的有效性[以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
 
 * **批准表单的权限**：新权限可控制哪些设计人员可以批准对表单的更改，这些更改与其他[!UICONTROL Design Studio]资源一致。 这可以防止其他设计人员在没有获得批准权限的其他人审阅表单的情况下，将更改推送到表单中。
 
@@ -413,7 +393,7 @@ ht-degree: 6%
   </tbody>
 </table>
 
-* **Adobe Privacy Service集成**：与Privacy Service协调，自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入Adobe Identity Management System的Marketo Engage客户。
+* **Adobe Privacy Service集成**：与Privacy Service协调以自动遵守Experience Cloud产品中的数据隐私法规。 目前，此服务仅适用于已载入Adobe Identity Management System的Marketo Engage客户。
 
 <table>
   <tr>
@@ -427,7 +407,7 @@ ht-degree: 6%
   </tbody>
 </table>
 
-### 下一代体验 {#modern-ux}
+### 下一代体验
 
 </br>
 
@@ -565,3 +545,4 @@ ht-degree: 6%
 * **Forms 1.0**：将在10月版本中完成Forms 1.0的弃用。 Forms 1.0资源将不再能够向Marketo Engage提交数据，如果尝试，则将返回错误。
 
 * **无脚本Forms**：在浏览器中禁用Javascript后，Forms将不再正常运行。 提交表单需要启用Javascript。
+
