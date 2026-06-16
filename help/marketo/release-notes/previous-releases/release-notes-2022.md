@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4254
 ht-degree: 6%
@@ -46,7 +46,7 @@ ht-degree: 6%
 
 以下功能将于&#x200B;**2022年1月21日**&#x200B;开始发布，并在接下来的几周内分阶段推出每个功能（除非另有说明）。
 
-## 新一代体验 {#modern-ux}
+## 新一代体验
 
 * **更新了新一代体验中的Screens**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
@@ -133,7 +133,7 @@ ht-degree: 6%
 
 * **电子邮件机器人活动筛选增强功能**：作为以前发布的[电子邮件机器人活动筛选](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}功能的增强功能，您现在可以选择加入标识为机器人的日志记录活动。 然后，您可以根据被识别为机器人正在执行的活动过滤和触发操作。
 
-## 新一代体验 {#modern-ux}
+## 新一代体验
 
 * **更新了新一代体验中的Screens**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
@@ -215,7 +215,7 @@ ht-degree: 6%
 
 电子邮件跟踪链接的&#x200B;**[STS标头](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**：符合安全最佳实践，能够应用Secure Transport Security标头，以确保跟踪链接的流量始终安全。
 
-## 新一代体验 {#modern-ux}
+## 新一代体验
 
 **切换开关默认为新一代体验**：切换开关将在所有可用屏幕中都默认为新体验，使用户更容易发现更新的设计和可用性增强功能。
 
@@ -336,7 +336,7 @@ ht-degree: 6%
 
 ## 下一代体验
 
-* **Adobe品牌**：更新了编辑和人员详细信息页面的外观和风格，并新增了Adobe Experience Cloud品牌。
+* **Adobe品牌**：更新了编辑和人员详细信息页面的外观，并新增了Adobe Experience Cloud品牌。
 
 * **在移动对话框中显示目标文件夹的文件夹层次结构**：查看每个文件夹的文件夹层次结构可简化移动资产的过程，并降低将资产放入错误文件夹的可能性。
 
@@ -413,7 +413,7 @@ ht-degree: 6%
   </tbody>
 </table>
 
-* **Adobe Privacy Service集成**：与Privacy Service协调，自动跨Experience Cloud产品遵守数据隐私法规。 目前，此服务仅适用于已载入Adobe Identity Management System的Marketo Engage客户。
+* **Adobe Privacy Service集成**：与Privacy Service协调以自动遵守Experience Cloud产品中的数据隐私法规。 目前，此服务仅适用于已载入Adobe Identity Management System的Marketo Engage客户。
 
 <table>
   <tr>
@@ -427,7 +427,7 @@ ht-degree: 6%
   </tbody>
 </table>
 
-### 下一代体验 {#modern-ux}
+### 下一代体验
 
 </br>
 
@@ -565,3 +565,4 @@ ht-degree: 6%
 * **Forms 1.0**：将在10月版本中完成Forms 1.0的弃用。 Forms 1.0资源将不再能够向Marketo Engage提交数据，如果尝试，则将返回错误。
 
 * **无脚本Forms**：在浏览器中禁用Javascript后，Forms将不再正常运行。 提交表单需要启用Javascript。
+
