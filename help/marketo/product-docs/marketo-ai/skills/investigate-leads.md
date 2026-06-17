@@ -2,7 +2,7 @@
 description: Investigate销售线索代理回答了营销人员最常提出的问题。 它比手动查看活动日志、智能活动历史记录和评分记录更快、更可靠。
 title: 调查潜在客户
 badge: beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -54,3 +54,4 @@ ht-degree: 0%
 * 潜在客户调查是只读的。 它可告知您发生了什么情况，但不会更改潜在客户记录或计划会员资格。
 * 对于最终证明是数据质量问题（缺少字段值，潜在客户来源不正确）的问题，必须在潜在客户记录中手动进行修复。
 * 如果调查显示存在影响许多潜在客户的智能营销活动逻辑问题，请使用项目QA来查看完整的项目配置。
+

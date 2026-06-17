@@ -3,7 +3,7 @@ description: 克隆程序会将现有Marketo程序复制到具有新名称的新
 title: 克隆程序
 badge: Beta 版
 hide: true
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -29,15 +29,10 @@ ht-degree: 0%
 ## 使用方法 {#how-to-use}
 
 1. 在“我的Marketo”中，单击&#x200B;**Marketo AI**&#x200B;图块。
-
 1. 在提示窗口中，键入说明。 例如，“将我的第2季度网络研讨会计划克隆到第3季度促销活动文件夹，并将其称为第3季度产品演示网络研讨会。”
-
 1. Marketo人工智能确认源程序、目标文件夹和新名称。 查看并确认。
-
 1. 将创建克隆。 Marketo人工智能会在完成时进行确认，并告诉您应在何处查找它。
-
 1. 在Marketo中打开新项目并更新新增内容：电子邮件内容、日期、受众过滤器、令牌等。
-
 1. 在激活前运行[程序QA](/help/marketo/product-docs/marketo-ai/skills/program-qa.md)代理。
 
 ## 用例 {#use-cases}
