@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: b6cd3c664558bba94330221dc6280e50df22888b
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '8909'
+source-wordcount: '8899'
 ht-degree: 96%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [Classic图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
       + [帮助中心](getting-started/things-to-know/help-center.md)
       + [订阅系统状态通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[产品知识的AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 产品知识的{hide-from-toc}[AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[营销国家社区](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS迁移](getting-started/things-to-know/aws-migration.md)
       + {hide-from-toc}[新UI](getting-started/things-to-know/new-ui.md)
@@ -468,9 +468,6 @@ ht-degree: 96%
                + [发送样本](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [共享 Moment](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + 其他 {#miscellaneous}
-         + {hide-from-toc}[同事概述](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-         + {hide-from-toc}[同事创建电子邮件营销活动](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
-         + {hide-from-toc}[同事用例](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[配置Adobe Experience Manager集成](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [创建新营销活动文件夹](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[键盘快捷键术语表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -1115,14 +1112,14 @@ ht-degree: 96%
       + [概述](product-docs/marketo-ai/overview.md)
       + [设置和设置](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[设置和设置](product-docs/marketo-ai/settings-setup-old.md)
-      + 代理 {#agents}
-         + [产品知识](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[表面分析](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[生成程序](product-docs/marketo-ai/agents/build-programs.md)
-         + {hide-from-toc}[克隆程序](product-docs/marketo-ai/agents/clone-program.md)
-         + [调查潜在客户](product-docs/marketo-ai/agents/investigate-leads.md)
-         + [导入潜在客户](product-docs/marketo-ai/agents/import-leads.md)
-         + [验证程序](product-docs/marketo-ai/agents/validate-programs.md)
+      + 技能 {#skills}
+         + [产品知识](product-docs/marketo-ai/skills/product-knowledge.md)
+         + {hide-from-toc}[表面分析](product-docs/marketo-ai/skills/surface-insights.md)
+         + {hide-from-toc}[生成程序](product-docs/marketo-ai/skills/build-programs.md)
+         + {hide-from-toc}[克隆程序](product-docs/marketo-ai/skills/clone-program.md)
+         + [调查潜在客户](product-docs/marketo-ai/skills/investigate-leads.md)
+         + [导入潜在客户](product-docs/marketo-ai/skills/import-leads.md)
+         + [验证程序](product-docs/marketo-ai/skills/validate-programs.md)
    + Marketo Engage 现代用户体验 {#marketo-engage-modern-ux}
       + [概述](product-docs/marketo-engage-modern-ux/overview.md)
       + [使用全局搜索](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
