@@ -1,11 +1,12 @@
 ---
 description: 了解如何启用Marketo AI权限、配置组织规则以及管理集成和通知等设置。
 title: 设置和设置
+badge: beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 1%
+source-wordcount: '537'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +16,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->此功能仅在有限范围内可用。 若要请求访问权限，请填写[此表单](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}。 确保准备好您的订阅Munchkin ID。
-
->[!PREREQUISITES]
->
->若要使用此功能，您必须首先同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 有关详细信息，请与您的客户经理联系。
+>此功能当前处于公开测试阶段。 要请求访问权限，请联系您的帐户管理员。 您还必须同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
 
 ## 权限和角色 {#permission-and-role}
 
