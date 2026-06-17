@@ -1,7 +1,7 @@
 ---
 description: 使用产品知识向Marketo AI询问有关Marketo Engage功能、最佳实践和操作方法的信息。 答案基于Adobe的官方文档。
 title: 产品知识
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 # 产品知识 {#product-knowledge}
 
-通过产品知识，您能够按需访问Marketo专业知识，而无需离开平台。 用浅显的语言提问，Marketo人工智能会利用Adobe的官方文档来回答这个问题。
+通过产品知识，您能够按需访问Marketo专业知识，而无需离开平台。 使用简单的语言提问，Marketo人工智能就会利用Adobe的官方文档来回答这个问题。
 
 >[!PREREQUISITES]
 >
