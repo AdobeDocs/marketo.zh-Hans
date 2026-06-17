@@ -2,7 +2,7 @@
 description: 使用产品知识向Marketo AI询问有关Marketo Engage功能、最佳实践和操作方法的信息。 答案基于Adobe的官方文档。
 title: 产品知识
 badge: beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -20,9 +20,7 @@ ht-degree: 0%
 ## 使用方法 {#how-to-use}
 
 1. 在“我的Marketo”中，单击&#x200B;**Marketo AI**&#x200B;图块。
-
 1. 在提示窗口中，以自然语言键入您的问题；无需特殊语法。
-
 1. 已提供答案。 如果您需要更多细节或不同的角度，请要求跟进。
 
 ## 用例 {#use-cases}
