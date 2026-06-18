@@ -35,7 +35,7 @@ topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4732
 ht-degree: 1%
@@ -56,13 +56,13 @@ ht-degree: 1%
 
 以下功能将于&#x200B;**2021年1月15日发布**。
 
-## 新一代用户体验 {#next-generation-user-experience}
+## 新一代用户体验
 
-* 工作区支持：Marketo Engage的新一代用户体验将Adobe Experience Cloud的外观与效果与工作效率创新相结合，帮助营销从业人员更快、更智能地工作。 在最新版本中，我们将添加对工作区和分区的完全支持，包括跨工作区共享文件夹的功能。 右侧画布将提供一个切换开关，允许您在每个功能的新旧体验之间无缝过渡，而不会丢失上下文。 [从有关Marketing Nation的新一代体验常见问题解答中了解更多信息](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124)。
+* 工作区支持：Marketo Engage的新一代用户体验将Adobe Experience Cloud的外观与工作效率创新相结合，帮助营销从业人员更快、更智能地工作。 在最新版本中，我们将添加对工作区和分区的完全支持，包括跨工作区共享文件夹的功能。 右侧画布将提供一个切换开关，允许您在每个功能的新旧体验之间无缝过渡，而不会丢失上下文。 [从有关Marketing Nation的新一代体验常见问题解答中了解更多信息](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124)。
 
 ## 多渠道Personalization {#multi-channel-personalization}
 
-* **[Adobe Experience Cloud Audience Sync阶段3](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：现有的Adobe Experience Cloud (AEC) Audience Sync功能现在支持从Marketo Engage到其他AEC应用程序(包括Adobe Experience Platform (AEP)产品，如Real-time Customer Data Platform和Adobe Experience Platform Activation)的连续、双向B2B受众同步。  在向受众区段添加和删除潜在客户时，Marketo Engage将自动在连接的AEC应用程序中同步更新的受众。 借助它，您可以在AEC技术栈栈中利用Adobe的多渠道编排、重新定位、受众抑制、个性化和报告用例。
+* **[Adobe Experience Cloud Audience Sync阶段3](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：现有Adobe Experience Cloud (AEC) Audience Sync功能现在支持从Marketo Engage到其他AEC应用程序的连续、双向B2B受众同步，包括Adobe Experience Platform (AEP)产品，如Real-time Customer Data Platform和Adobe Experience Platform Activation。  在向受众区段添加和删除潜在客户时，Marketo Engage将自动在连接的AEC应用程序中同步更新的受众。 借助它，您可以在AEC技术栈栈中利用Adobe的多渠道编排、重新定位、受众抑制、个性化和报告用例。
 * **[将受众连续同步到Google、 [!DNL Facebook]和 [!DNL LinkedIn]](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**：可以在静态列表上启用与广告网络的连续自动同步，将广告网络更新为列表成员资格更改而无需用户干预。
 * **[程序成员自定义字段的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)**：我们扩展了程序成员自定义字段功能以支持令牌框架。 营销人员可以将项目成员自定义字段令牌插入电子邮件、登陆页、短信消息、推送通知和Webhook中。 在营销活动流程操作中使用新令牌来更改数据值、创建任务或有趣的时刻。
 
@@ -89,7 +89,7 @@ ht-degree: 1%
 
 以下功能采用非季度周期，并将在未来几个月发布。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -99,7 +99,7 @@ ht-degree: 1%
 * **[[!DNL Sales Insight] 对于非本机 [!DNL Salesforce] CRM集成](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**：具有自定义Salesforce CRM集成的GA订阅可以安装[!DNL Sales Insight]程序包，并帮助销售团队优先考虑最有前途的潜在客户和机会并与之交互。
 * **[最佳匹配增强功能](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**：通过电子邮件将热门潜在客户发送或添加到Marketo Engage营销活动，从而从“最佳匹配”选项卡快速联系热门潜在客户。 在Marketo Engage中查看潜在客户或将其添加到您的关注列表。 [!UICONTROL Best Bets]选项卡上的批量操作和排序选项可节省时间并提高销售团队的效率。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -135,11 +135,11 @@ ht-degree: 1%
 
 * **帐户智能列表（正式发布）** ![](assets/yellow-star.png)：通过跨渠道营销活动中定位的所需帐户和人员属性，动态识别并限定帐户，并及时向销售人员发送警报，以更快地完成交易。 这项新功能允许对基于帐户的营销策略实现强大的自动化功能。 帐户智能列表适用于具有新一代用户体验中的Target帐户管理的客户。
 
-## 新一代用户体验 {#next-generation-user-experience}
+## 新一代用户体验
 
 通过全局搜索预览，营销人员可以快速查看共享资产在其实例中的位置。 浏览器选项卡显示位置以改进[!UICONTROL Marketing Activities]或[!UICONTROL Design Studio]中的导航。 其他树和全局搜索筛选器有助于优化您的搜索条件。 树中的拖放功能已恢复，允许您在主应用程序区域中快速高效地移动文件夹和资产。 最新更新的图标（符合Adobe的辅助功能标准）和状态徽章允许营销人员在树中快速轻松地区分文件夹和资源，并识别项目和资源的状态。
 
-## 体验自动化 {#experience-automation}
+## 体验自动化
 
 * **执行营销活动流程步骤**：通过智能营销活动的新流程步骤，简化营销活动创建工作流并提高营销活动效果。 为工作区中的重复任务（如国家/地区代码标准化）创建和保存集中式模板营销活动，以便通过新的“执行营销活动”流程步骤从任何Smart Campaign调用和运行。 链接的营销活动将以指定顺序运行，并确保任务在进入下一个流程步骤之前完成。 在一个集中式活动中快速编辑流，以更新使用它的每个Smart Campaign来简化数据管理、领导评分和路由工作流。
 
@@ -153,7 +153,7 @@ ht-degree: 1%
 
 * **过滤掉电子邮件机器人活动**：通过新的电子邮件机器人活动过滤功能防止意外销售警报和不准确的电子邮件报告。 识别并过滤掉可能与电子邮件机器人相关的打开次数和点击次数，检查导致错误触发器和销售警报，或报告不正确的链接。
 
-## API增强功能 {#api-enhancements}
+## API增强功能
 
 对Bulk API和Lead API进行了几项关键更新，包括能够批量导出自定义对象数据，将公司与潜在客户批量关联，能够根据主要属性筛选批量活动提取，以及能够创建和更新计划成员资格。
 
@@ -161,7 +161,7 @@ ht-degree: 1%
 
 * **增强删除程序API**：允许集成应用程序删除包含其他资源类型的程序，而无需用户从Adobe Marketo Engage手动执行此操作。
 
-* **计划成员资格**：营销人员可以根据不同的条件（如计划成员状态）查询选定计划的所有计划成员记录。 与外部应用程序、商业智能工具或Adobe Experience Cloud共享此信息，以改进细分并创建更有针对性的参与。
+* **计划成员资格**：营销人员可以根据不同的条件（如计划成员状态）查询选定计划的所有计划成员记录。 与外部应用程序、商业智能工具或Adobe Experience Cloud共享此信息，以改进分段并创建更有针对性的参与。
 
 * **批量自定义对象提取**：批量数据导出补充了数据分析人员在Adobe Marketo Engage中已有的导入功能。 现在，他们可以批量提取存储在第一级Adobe Marketo Engage自定义对象中的数据，并将该数据加载到其他应用程序、数据仓库或BI (Business Intelligence)工具中，以便更好地了解Adobe Marketo Engage实例中的数据。  自定义对象批量数据移动是双向的，可以在方便的时间进行调度。
 
@@ -169,7 +169,7 @@ ht-degree: 1%
 
 * **批量活动提取API**：在执行批量提取时获得对数据量和类型的控制。 过滤掉不必要的数据点并控制批量提取活动数据所需的API调用数。  例如，选择打开的电子邮件、访问网页或更改潜在客户得分，并保留您不希望分析的值中的其他更改。 简化流程，减少API调用和数据清理的次数。
 
-* **潜在客户API**：识别Adobe Marketo Engage中与Adobe ECID (Experience Cloud ID)关联的潜在客户。  Adobe Marketo Engage客户可以通过选定的营销活动创建潜在客户列表，并使用ECID (Experience Cloud ID)在Adobe Analytics中为该特定列表创建报表。 Adobe Marketo Engage与Adobe Experience Cloud之间的集成为分段、定位和报表带来了无限商机。
+* **潜在客户API**：识别Adobe Marketo Engage中具有Adobe ECID (Experience Cloud ID)关联的潜在客户。  Adobe Marketo Engage客户可以通过选定的营销活动创建潜在客户列表，并使用ECID (Experience Cloud ID)在Adobe Analytics中为该特定列表创建报表。 Adobe Marketo Engage与Adobe Experience Cloud之间的集成为分段、定位和报表带来了无限商机。
 
 * **批量潜在客户导入API**：控制批量潜在客户导入及其使用的资源。 此增强功能在批量商机导入过程中在商机与公司之间创建了关联。 如果API调用，则提高处理数据的效率和效率，并减少用量。
 
@@ -181,17 +181,17 @@ ht-degree: 1%
 
 * **按潜在客户ID搜索**：快速访问在潜在客户数据库或静态列表中按Adobe Marketo Engage潜在客户ID搜索的潜在客户记录。 在“快速查找”窗口中，只需键入具有相应编号的`[id]`即可，然后将显示潜在客户信息。 用户可以快速查看潜在客户、公司或商机的详细信息。
 
-## Bizible {#bizible}
+## Bizible
 
 ![](assets/yellow-star.png)
 
 * **与[!DNL LinkedIn] Lead Gen Forms (Beta)集成**：通过Bizible Premium归因解决方案深入了解您的[!DNL LinkedIn]渠道支出和ROI。 通过与[!DNL LinkedIn]的Lead Gen Forms的最新集成，Bizible将insight纳入已在[!DNL LinkedIn]平台中提交的表单中。 这些表单填写会根据您的CRM（客户关系管理）或Adobe Marketo Engage实例中的潜在客户进行匹配，以便他们符合归因条件，并且可以根据您的其他营销参与进行跟踪。
 
-## 公告 {#announcements}
+## 公告
 
 * **Marketo产品文档切换平台**：我们很高兴地宣布，从5月7日星期五起，Marketo产品文档已加入Adobe Experience League。 您仍可以使用URL： docs.marketo.com，如果您有任何已添加书签的现有文章，您将被重定向。 新平台上提供了所有产品文档，并计划在今年晚些时候进行增强。
 
-* **由Adobe Identity System提供支持的简化用户管理和单点登录**：从2021年7月开始，将使用Adobe Marketo Engage用户凭据登记新的Adobe客户。 在2022年年中之前不会将当前客户迁移到集成的Identity System，在进一步通知之前，无需客户采取任何行动。 通过单点登录，IT/安全管理员可以管理多个Adobe Marketo Engage产品实例及其他Experience Cloud解决方案，并通过通用控制台配置SSO (Shared Services Organization)。 管理员可以通过公共Admin Console方便地管理用户组和用户权限。
+* **由Adobe Identity System提供支持的简化用户管理和单点登录**：从2021年7月开始，将使用Adobe Marketo Engage用户凭据登记新的Adobe客户。 在2022年年中之前不会将当前客户迁移到集成的Identity System，在进一步通知之前，无需客户采取任何行动。 通过单点登录，IT/安全管理员可以管理多个Adobe Marketo Engage产品实例以及其他Experience Cloud解决方案，并通过通用控制台配置SSO(Shared Services Organization)。 管理员可以通过公共Admin Console方便地管理用户组和用户权限。
 
 **_产品发布网络研讨会_**
 
@@ -209,7 +209,7 @@ ht-degree: 1%
 
 以下功能将于&#x200B;**2021年8月20日发布**。
 
-## 体验自动化 {#experience-automation}
+## 体验自动化
 
 * **通过Marketo Engage Identity进行的Adobe用户身份验证**：不久将使用Adobe ID用户凭据载入新的具有Enterprise包的Marketo Engage用户。 到2022年年中，才将当前用户迁移到综合身份系统，在进一步通知之前，无需采取任何行动。 Adobe身份用户身份验证允许IT/安全管理员管理多个Marketo Engage产品实例及其他Experience Cloud解决方案，以及通过通用控制台配置SSO。 管理员可以方便地在一个位置管理用户组和用户权限。
 
@@ -219,7 +219,7 @@ ht-degree: 1%
 
 * **[自定义活动导出](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**：元数据导出现在支持可用于共享、分析和设计您的订阅数据模型的所有对象和相应的元数据。
 
-## API增强功能 {#api-enhancements}
+## API增强功能
 
 * **提交表单API**：当电子邮件地址在两个或更多Lead记录中重复时，我们会更新“上次更新”记录而不是完全跳过。 提供与Forms 2.0 API的对等功能。
 
@@ -229,13 +229,13 @@ ht-degree: 1%
 
 以下功能采用非季度周期，并将在未来几个月发布。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
 * **增强了Salesforce CRM用户的Lead、Contact、Account和Opportunity活动的可见性**：由于[!DNL Sales Insight]中的参与记录数量增加，在较长的销售周期内与潜在客户进行参与将更加有用。 有趣的时刻、Web活动、电子邮件和分数选项卡显示Lead、Contact、Account和Opportunity对象中多达400个活动。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -247,7 +247,7 @@ ht-degree: 1%
 
 * **增强的销售活动见解**：根据销售团队先前的活动捕获和激活个性化参与。 在Marketo Engage智能列表中可以使用新的属性，例如“销售呼叫记录链接”、“销售活动名称”和“销售电子邮件主题”。  这些活动可以通过Marketo Engage REST API或批量导出导出进行导出和报告，并作为智能列表的附加限制条件在筛选器和触发器上可用。
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
@@ -257,17 +257,17 @@ ht-degree: 1%
 
 * **新同类群组瀑布历程仪表板**：这将使营销人员能够查看选定同类群组在经典“需求瀑布”阶段集中的进度，从而逐阶段快速了解转化率和隐含的阶段转化因果关系。
 
-## [!DNL Bizible]与Adobe Experience Cloud集成 {#bizible-integration-with-adobe-experience-cloud}
+## [!DNL Bizible]与Adobe Experience Cloud的集成 {#bizible-integration-with-adobe-experience-cloud}
 
 此部分包含适用于已完成其Adobe Identity Management System (IMS)迁移的Bizible用户的新功能。 如果您已迁移，则将在Adobe ID选项卡下的[!DNL Bizible]设置中看到新的Adobe ID。 所有帐户都应在2021年底之前迁移。
 
-* **[!DNL Bizible]与Adobe Privacy Service**&#x200B;的集成（2021年9月推出）： [!DNL Bizible]与Adobe Privacy Service的集成可跨Adobe Experience Cloud应用程序集中管理对关键数据隐私法规（如GDPR）的合规性。 现在，您可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映传入[!DNL Bizible]和其他Adobe产品的更改请求。
+* **[!DNL Bizible]与Adobe Privacy Service**&#x200B;的集成（2021年9月推出）： [!DNL Bizible]与Adobe Privacy Service的集成可集中管理跨Adobe Experience Cloud应用程序对关键数据隐私法规（如GDPR）的合规性。 现在，您可以利用此服务并集中管理所有隐私请求，以便跨应用程序反映传入[!DNL Bizible]和其他Adobe产品的更改请求。
 
 * Adobe Unified Shell **上的**&#x200B;[!DNL Bizible]： [!DNL Bizible]采用Adobe Unified Shell为用户提供了新的功能，这些功能将显示在[!DNL Bizible]应用程序标题栏中，并包括更好地访问支持资源和应用程序切换。 Adobe Unified Shell有助于在[!DNL Bizible]和其他Adobe Experience Cloud应用程序之间创建一致的体验。
 
-* **[!DNL Bizible]域所有权和自我管理**： [!DNL Bizible]用户可以利用Adobe Admin Console管理他们希望[!DNL Bizible]跟踪的域。 这可以为之前手动执行的流程引入自助服务，并提供有关如何跨Adobe Experience Cloud应用程序管理域所有权和跟踪的一致体验。
+* **[!DNL Bizible]域所有权和自我管理**： [!DNL Bizible]用户可以利用Adobe Admin Console管理他们希望[!DNL Bizible]跟踪的域。 这将自助服务引入以前的手动流程，并在如何跨Adobe Experience Cloud应用程序管理域所有权和跟踪方面提供一致的体验。
 
-## 公告 {#announcements}
+## 公告
 
 * **更新到订阅通用ID设置**：为了支持现有用户即将集成的Marketo Engage和Adobe标识，所有Marketo Engage订阅将在启用通用ID支持时统一起来。
 
@@ -299,7 +299,7 @@ ht-degree: 1%
 
 * **监视任务**：通过全局导航栏中的新任务通知任务栏，监视新体验后台运行的任务的状态。 任务栏会为从表单详细信息和登陆页面列表的新体验视图启动的任务捕获通知，包括更改登陆页面上的状态和使用新体验执行的一般成批操作。
 
-## 体验自动化 {#experience-automation}
+## 体验自动化
 
 * **提交表单API程序成员自定义字段支持**：提交表单API终结点已升级，可支持程序成员自定义字段，从而允许自定义表单集成收集程序特定数据。
 
@@ -311,7 +311,7 @@ ht-degree: 1%
 
 * **Adobe Experience Platform Marketo Data Source Connector**： Adobe Experience Platform和Marketo Engage的用户都可以使用Marketo Source Connector将数据从Marketo引入到AEP。 您将能够在AEP中从Marketo流式传输数据（及其更改），以在这两种产品之间保持数据一致。 可以通过“Marketo应用程序”下列出的“源”目录来查看Adobe Connector。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -325,7 +325,7 @@ ht-degree: 1%
 
 * **帐户和机会级别[!UICONTROL Best Bets]**： [!DNL Sales Insight]现在允许销售代表查看他们拥有的帐户或机会的所有联系人的最佳匹配，即使联系人已分配给其他团队成员。 这可以让客户和机会所有者全面了解相关联系人的活动，并有助于他们基于对客户或机会的更全面的了解而采取行动。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -333,13 +333,13 @@ ht-degree: 1%
 
 * **简化的用户体验**：此更新引入了基于Adobe Spectrum设计系统的[!DNL Sales Connect]的新字体、颜色、按钮和模式。 通过这些更新，我们正在提供更加高效的体验，让销售商可以在需要时专注于所需的内容。
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
 * **[!DNL Bizible]与Adobe Privacy Service (GA)的集成**：与Adobe Privacy Service的[!DNL Bizible]集成可集中管理对关键数据隐私法规的合规性，例如Adobe Experience Cloud应用程序中的GDPR（通用数据隐私条例）或CCPA（加州消费者隐私法案）。 您现在可以利用此服务并通过Adobe的Privacy Service集中管理所有隐私请求，以便跨应用程序反映对[!DNL Bizible]和其他Adobe产品发出的更改请求。
 
-## 公告 {#announcements}
+## 公告
 
 * **关联潜在客户弃用/Munchkin Beta 161更新**： 2021年9月7日，在启用了Munchkin Beta的情况下，10%的订阅开始采用Munchkin版本161,9月16日采用的是50%，9月30日采用的是100%。 此更改会影响Marketo Engage登陆页面，以及提供给外部登陆页面（从最新版本已转出的订阅加载）的文件munchkin-beta.js的版本。 此版本完全弃用[!DNL Munchkin] Associate Lead方法，该方法允许将个人数据提交到Marketo Engage订阅以及具有已知个人记录的关联Web浏览历史记录。 关联商机将被删除，以支持更现代和更安全的替代方案，如Forms JS API、表单提交API和关联商机REST API。 [在此了解关于此弃用的更多信息](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)。
 
@@ -348,3 +348,4 @@ ht-degree: 1%
 **_产品发布网络研讨会_**
 
 [2021年10月Marketo Engage发布网络研讨会](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
+

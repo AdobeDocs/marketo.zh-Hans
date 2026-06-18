@@ -25,7 +25,7 @@ topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 2739
 ht-degree: 0%
@@ -387,3 +387,4 @@ Marketo管理员现在可以通过Marketo自定义活动定义建模器定义和
 ## [对Marketo Salesforce Sync的更改](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 Marketo的[!DNL Salesforce]集成正在不断发展，以改进Marketo字段与[!DNL Salesforce]同步的方式。 现在，您无需同步大量您可能需要（也可能不需要）的字段，而是可以选择您要包括的字段。 请在此处查看我们的文档以了解更多信息：[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
+

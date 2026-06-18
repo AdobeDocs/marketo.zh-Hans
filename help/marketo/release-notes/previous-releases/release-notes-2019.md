@@ -31,7 +31,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 2528
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 >
 >Marketo正在将GoToWebinar的OAuth版本从1.0升级到2.0。 对OAuth 1.0的支持将于2019年1月弃用。 如果您是GoTo网络研讨会客户，则需要在&#x200B;**2019年1月31日**&#x200B;之前通过LaunchPoint（在管理区域）重新验证您的登录，以确保您的集成继续工作。 有关详细信息，请参阅我们的[社区页面](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019)。
 
-## 核心平台增强功能 {#core-platform-enhancements}
+## 核心平台增强功能
 
 **[电子邮件抄送Marketo电子邮件](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 * **选择退出管理**：通过将选择退出Cookie域与[!DNL Munchkin]跟踪Cookie域进行匹配，轻松管理选择退出。
 * **域级决策器参数**：双字母域（即&quot; [website.io](https://website.io)&quot;）将在Marketo中自动跟踪，无需额外的设置要求。
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **[!DNL Salesforce]自定义配置文件**： Sales Engage现在支持无限自定义配置文件。
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 * 适用于&#x200B;[!DNL Windows]&#x200B;**的** OWA插件：通过一个加载项，Sales Engage将支持所有[!DNL Windows Office365]客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
 * **活动推送器**：将Sales Engage同步到核心Marketo平台，以利用实时营销见解。
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 >[!NOTE]
 >
@@ -108,7 +108,7 @@ ht-degree: 0%
 * **电子邮件计划可用性增强功能**：我们将继续在经典的Marketo潜在客户管理平台和新的[!DNL Marketo Sky]体验之间实现电子邮件计划功能的对等性。
 * **网络研讨会计划**： [!DNL Marketo Sky]中现在提供网络研讨会活动计划（注意：此版本仅支持GoToWebinar，并且会随着时间的推移建立进一步的集成）。
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 **[ABM基于角色的分段和筛选](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
@@ -159,7 +159,7 @@ ht-degree: 0%
 
 以下功能于2019年3月15日发布。
 
-## 核心平台增强功能 {#core-platform-enhancements}
+## 核心平台增强功能
 
 * **轮候：**&#x200B;轮候成员的新程序/事件状态，在您想[将其置于保留状态](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)直到空缺打开为止。 这适用于Marketo Classic中与“事件”计划关联的渠道，以及[!DNL Marketo Sky]中与“事件”和“事件”相关的网络研讨会计划。 默认情况下，“轮候”具有与“已注册”相同的步骤值。
 * **[自定义通信限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理员现在可以设置自定义每日或每周通信限制。
@@ -177,19 +177,19 @@ Account-Based Marketing
 
 预计将在整个日历季度并在2019年第二季度初发布以下功能。
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * **完整的电子邮件计划功能**：发送电子邮件、创建A/B测试并跟踪结果，从而提供用户友好的体验。
 * **智能营销活动功能**：在新的用户界面中享受增强的稳定性，因为智能营销活动功能在Sky中继续推出。
 * **管理Design Studio Assets**：添加了从Design Studio列表视图批量管理模板、图像、Forms、代码片段、文件、电子邮件和登陆页面的功能。
 * **在收件人时区投放，仪表板**：了解客户对使用Sky中的在收件人时区投放，功能发送的电子邮件的报告行为。
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **增强审核**：在实例中新增了对所有人员、电子邮件和[内容的可见性](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)，该实例添加了由其他用户创建的[结束现有营销活动](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)的功能。
 * **[取消订阅管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：通过[阻止电子邮件域](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)的联系功能，最大限度地提高可投放性和合规性。 Marketo还将在发送电子邮件之前交叉引用潜在客户数据库以取消订阅。
 
-## Marketo的[!DNL Bizible] {#bizible-by-marketo}
+## Marketo的[!DNL Bizible]
 
 * **[!DNL Bizible]发现功能增强**：新的功能板分段功能使营销人员能够更好地了解性能。
 * **多货币支持**：通过[!DNL Bizible]基于CRM货币表构建的新自动货币兑换功能，在您的公司货币和任何本地货币之间切换。
@@ -212,7 +212,7 @@ Account-Based Marketing
 >
 >自2019年6月18日起，Email 1.0不再可用。 您可以在[此处](https://nation.marketo.com/docs/DOC-7038)了解有关Email 2.0和Email 1.0弃用的更多信息。
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 * **[!DNL LinkedIn]帐户匹配(BETA)** ：现已推出测试版中的新ABM功能，通过该功能，您可以直接从Marketo将已知和空白帐户列表发送到LinkedIn。 此功能自动包含在所有Marketo ABM客户中。
 
@@ -222,7 +222,7 @@ Account-Based Marketing
 
 预计将在整个日历季度以及2019年第三季度初发布以下功能。
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * **事件上限**&#x200B;和&#x200B;**事件目标**&#x200B;通常在[!DNL Marketo Sky]的Premium Events加载项下提供。
 
@@ -246,7 +246,7 @@ Account-Based Marketing
 
 * **系统电子邮件模板**：更新了设计、响应能力和国际化功能。
 
-## Marketo的[!DNL Bizible] {#bizible-by-marketo}
+## Marketo的[!DNL Bizible]
 
 * **对[!DNL Dynamics]**&#x200B;的多货币支持：[!DNL Bizible]现在可适应[!DNL Microsoft Dynamics]货币表，因此您可以轻松地在公司货币和本地货币之间切换。 （注意：对SFDC的支持已于2019年第一季度发布。）
 * **漂移集成**：了解漂移对话如何影响客户的历程。 [!DNL Bizible]还将从对话中提取电子邮件地址，以创建新潜在客户或将接触点连接到现有潜在客户。
@@ -294,3 +294,4 @@ _&#x200B;**产品发布网络研讨会**&#x200B;_&#x200B;在[此处](https://eng
 >**要保持您的Marketo Engage访问权限，请确保在2019年12月13日之前所有客户端系统都符合TLS 1.2**。 更多详细信息可在[此处](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)找到。
 
 **_产品发布网络研讨会_** [于8月28日1:00PM PT / 4:00PM ET参加我们](https://engage.marketo.com/August_19_Release_Webinar.html)由我们的产品团队主办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。
+
