@@ -2,19 +2,10 @@
 title: 2013
 description: 2013 - Marketo文档 — 产品文档
 feature: Release Information
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5520579-b31f-4df7-9281-f0d9f91e2edc
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 2480
 ht-degree: 0%
@@ -429,3 +420,4 @@ Explicit设置将只检查具有角色的联系人（当前行为）。 隐式�
 ## 增强的[!DNL BrightTALK]事件适配器 {#enhanced-brighttalk-event-adapter}
 
 现在，您可以从您的[!DNL BrightTALK]渠道和活动将注册者拉入Marketo。 您可以使用此信息为其他营销活动提供信息！
+
