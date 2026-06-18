@@ -5,7 +5,8 @@ title: SFDC同步 — 合并潜在客户/联系人/人员
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
 workflow-type: tm+mt
 source-wordcount: 268
@@ -36,4 +37,4 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->深入了解Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中有关[合并人员的详细信息。
+>深入了解Marketo[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中有关合并人员的详细信息。
