@@ -60,7 +60,7 @@ ht-degree: 1%
 * 按项目ID获取潜在客户
 * 获取已删除的潜在客户
 
-此外，还为Sync Lead提供了一个新选项，用于异步写入潜在客户更改以实现更快的API调用。 发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
+此外，还为Sync Lead提供了一个新选项，用于异步写入潜在客户更改以实现更快的API调用。 发布后，可在[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
 
 **电子邮件脚本自定义对象支持**
 
@@ -91,7 +91,7 @@ ht-degree: 1%
 1. 不具有CDN的异步标记
 1. 不带CDN的同步标记
 
-为获得最佳性能，建议在`<head>`之后将标记放在网页标题的顶部。 所有标记都允许使用[RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 有关如何部署RTP标记的信息，请参阅[此处](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
+为获得最佳性能，建议在`<head>`之后将标记放在网页标题的顶部。 所有标记都允许使用[RTP API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 有关如何部署RTP标记的信息，请参阅[此处](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -161,7 +161,7 @@ ht-degree: 1%
 
 ## 新资产REST API {#new-asset-rest-apis}
 
-[新资产REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[新资产REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/assets)
 
 我们现在支持通过API [&#128279;](https://developer.adobe.com/marketo-apis/api/asset/)创建和编辑电子邮件、模板、我的令牌、文件和代码片段！
 
