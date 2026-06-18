@@ -2,38 +2,10 @@
 title: 2020
 description: 2020 - Marketo文档 — 产品文档
 feature: Release Information
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
-  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
-  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1id: d1956f52-ecfd-4e01-8941-47af238acb0did: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: f5e85a9b-a883-40d0-8759-f3651efb32e9id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4148
 ht-degree: 1%
@@ -67,7 +39,7 @@ ht-degree: 1%
 * **电子邮件模板依赖项API**：获取依赖于电子邮件模板的资源的列表，以了解可能的更改范围，并且可以更快地更改和删除对模板的依赖项。
 * **多实例管理增强功能**：使用订阅的可滚动按字母顺序排序的下拉菜单，快速导航到所需的实例。
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 ![（星形）](assets/yellow-star.png)
 
@@ -79,7 +51,7 @@ ht-degree: 1%
 
 以下功能采用非季度周期，并将在未来几个月发布。
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -88,15 +60,15 @@ ht-degree: 1%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=zh-Hans#design-studio)：无需离开Adobe即可访问Marketo Engage的编辑功能。 这项新功能允许您轻松地直接在[!UICONTROL Design Studio]中增强、裁切文本并将其添加到图像。
+* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：无需离开Adobe即可访问Marketo Engage的编辑功能。 这项新功能允许您轻松地直接在[!UICONTROL Design Studio]中增强、裁切文本并将其添加到图像。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 * **[!DNL Salesforce Lightning]批量操作**：提高销售效率并使购买者能够持续参与，从而向营销活动添加最多200个联系人/潜在客户，并批量向他们发送带有[!DNL Salesforce Lightning]的Marketo Engage电子邮件。
 * **针对[!DNL Salesforce1]**&#x200B;的移动支持：您现在可以在[!DNL Salesforce1]应用程序中移动访问所有[!DNL Sales Insight]功能，如“有趣的时刻”和“Web活动和电子邮件”。
 * **UI增强**：更新了界面，增强了可读性，并提供了与我们[!DNL Marketo Sky]体验一致的设计。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 * **网格组件**：使用新的网格自定义功能优化您的[!DNL Sales Connect]实例。 选择要显示的列，搜索列，选择/取消选择所有列，并确定要在每个页面上查看多少行数据。
 * **[内容锁定](/help/marketo/product-docs/marketo-sales-connect/admin/content-lockdown.md)**：通过全订阅设置（控制非管理员是否能够创建和编辑模板和营销活动）最大限度地实现品牌一致性。
@@ -119,7 +91,7 @@ ht-degree: 1%
 
 **_季度发布_**&#x200B;以下功能发布于&#x200B;**2020年2月21日**。
 
-## 核心Marketo Engage {#core-marketo-engage}
+## 核心Marketo Engage
 
 * **[!DNL Microsoft Dynamics]“在Microsoft中更改所有者”流程操作**：保持对[!DNL Microsoft Dynamics] CRM数据的控制，并能够直接从Marketo Engage更改潜在客户/联系所有者。 这是对我们的本机CRM集成功能的增强。
 * **用户管理API**：通过外部标识和组织管理系统自动管理用户和角色。 这是对我们API调用功能的增强。
@@ -133,7 +105,7 @@ ht-degree: 1%
 
 以下功能采用非季度周期，并将在未来几个月发布。
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -141,18 +113,18 @@ ht-degree: 1%
 * **保存筛选器**：保存每个用户特有的仪表板特定筛选器，以便快速一致地分析您的仪表板。
 * **导出到PDF**：通过将Bizible功能板导出为PDF，可在您的组织内共享有价值的见解。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 * **撰写窗口更新**：我们已简化通过[!DNL Sales Connect]选择模板和发送电子邮件的流程。 使用我们的Web客户端和Salesforce中的“撰写”窗口，可一站式查找销售者，并保存模板类别、计划电子邮件、批量发送电子邮件以及发送包含查看和点击跟踪的电子邮件。
 * **命令中心更新**：我们正在重建[!DNL Sales Connect]命令中心，以便向销售商insight提供其从[!DNL Sales Connect]启动的所有电子邮件、呼叫和任务。 他们还可以从指挥中心查看电子邮件参与度和可投放性等信息。
 
 <br> 
 
-## 公告 {#announcements}
+## 公告
 
 * **Marketo Engage成功中心**：我们将在2020年2月启动Marketo成功中心。 成功中心是一个产品内帮助中心，它允许您搜索产品文档和社区、启动操作指南、访问采用内容（如Marketo University和同事最佳实践视频）等，并直接从您的Marketo Engage实例中进行搜索。 **注意**：此功能将作为测试版在澳新银行推出，并将在本季度晚些时候推出到北美。
 
-## 弃用 {#deprecations}
+## 弃用
 
 * **Asset API“_method”参数**： 2020年9月之后，Asset API端点将不再接受在POST正文中传递“_method”以绕过URI长度限制。 为了适应需要此参数的请求，资产API的URI限制将从6KiB增加到65KiB，以便可以提交较长的请求URI。
 * **弃用Internet Explorer支持**：从2020年7月31日发行的7月版本开始，Internet Explorer将不再支持Marketo Engage用户界面。
@@ -169,11 +141,11 @@ ht-degree: 1%
 
 **_季度发布_**&#x200B;以下功能将于&#x200B;**2020年6月5日发布**。
 
-## 核心Marketo Engage {#core-marketo-engage}
+## 核心Marketo Engage
 
-* **[预测受众](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=zh-Hans#predictive-audiences)** ![（星型）](assets/yellow-star.png)：通过Adobe AI提供的新智能列表和智能营销活动过滤器，可为电子邮件、事件和网络研讨会营销项目创建AI支持的受众区段。 使用AI帮助您根据潜在客户注册事件、参加事件或取消订阅的可能性细分受众。 根据过去的计划构建相似受众以高效地复制以前的成功案例。 通过预测目标跟踪实现转化目标，并获得有关如何优化事件项目的受众区段的建议。
+* **[预测受众](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![（星型）](assets/yellow-star.png)：通过Adobe AI提供的新智能列表和智能营销活动过滤器，可为电子邮件、事件和网络研讨会营销项目创建AI支持的受众区段。 使用AI帮助您根据潜在客户注册事件、参加事件或取消订阅的可能性细分受众。 根据过去的计划构建相似受众以高效地复制以前的成功案例。 通过预测目标跟踪实现转化目标，并获得有关如何优化事件项目的受众区段的建议。
 * **批量电子邮件提升** ![(star)](assets/yellow-star.png)：增强了我们的电子邮件营销功能，允许您每小时最多发送300万封批量电子邮件。 我们重新设计了批量活动和电子邮件报表处理，以增强电子邮件项目和批量电子邮件活动的性能。 这缩短了发送的前置时间，并缩短了完成时间。 按照常规方式设置电子邮件发送，不会增加复杂性。 此增强功能作为产品加载项提供，它还包含一个Delivery Services Launch Pack、电子邮件投放工具和多个专用IP地址。
-* **[与Adobe Experience Cloud (AEC)的受众集成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：新的Adobe Experience Cloud (AEC)集成，可让您将Marketo Engage中的已知商机的静态列表与多个AEC应用程序同步，以增强现有计划、解锁新用例并编排多渠道营销活动。 此集成包括Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager和Adobe Advertising Cloud。
+* **[与Adobe Experience Cloud (AEC)的受众集成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：新的Adobe Experience Cloud (AEC)集成，允许您将Marketo Engage中的已知商机的静态列表与多个AEC应用程序同步，以增强现有项目、解锁新用例并编排多渠道营销活动。 此集成包括Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager和Adobe Advertising Cloud。
 * **[项目群成员自定义字段](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**：捕获并利用项目群成员的相关自定义字段。 在Marketo Engage表单中使用这些新字段，在项目的成员列表中查看它们，在智能列表过滤器和触发器中利用它们，并将它们包含在新的智能营销活动流量操作中，以增强自动化和更精细的个性化。 这些也可以通过UI和API导入和导出。 增强了我们的自定义数据对象和字段功能。
 * **描述项目群成员**：检索项目群成员元数据，使您能够使用REST API导入和导出项目群成员自定义字段数据。 对我们的API进行了增强。
 * **[在 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)**&#x200B;中创建任务：使用基于Marketo Engage中捕获的客户行为的新流程操作，在[!DNL Microsoft Dynamics]内创建销售任务。 增强了我们的本机[!DNL Microsoft Dynamics] CRM集成。
@@ -181,7 +153,7 @@ ht-degree: 1%
 * **通过API设置电子邮件标头**：启用电子邮件标头字段的自动翻译和本地化。 对我们的API进行了增强。
 * **图像和文件缓存**：我们正在通过从60秒的缓存中提供图像和文件资源来增强Marketo Engage服务器的稳定性。
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 ![（星形）](assets/yellow-star.png)
 
@@ -195,17 +167,17 @@ ht-degree: 1%
 
 以下功能采用非季度周期，并将在未来几个月发布。
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![（星形）](assets/yellow-star.png)
 
 * **Marketo Engage程序集成**：直接从Marketo Engage中提取程序数据以在[!DNL Bizible]中的归因历程中创建接触点，从而适当地对电子邮件和参与程序计分。 增强了Marketo Engage集成。
 * **Marketo Engage活动集成(BETA)**：将Marketo Engage活动数据直接引入[!DNL Bizible]，以在客户历程和所有归因模型中创建接触点。 示例包括商机得分更改、有趣的时刻、电子邮件点击或任何自定义活动。 增强了Marketo Engage集成。
-* **[!DNL Bizible]B2B客户属性集成(BETA)**：这是与Adobe Analytics的Adobe Experience Cloud集成，允许您将选定的Bizible数据直接引入Adobe Analytics以进行更深入的分析。 示例包括基于帐户的网站流量和按公司名称、帐户属性、CRM机会以及由[!DNL Bizible]归因收入和funnel阶段定义的高价值个人进行的内容分析。
+* **[!DNL Bizible]B2B客户属性集成(BETA)**：这是Adobe Experience Cloud与Adobe Analytics的集成，允许您将选定的Bizible数据直接引入Adobe Analytics以进行更深入的分析。 示例包括基于帐户的网站流量和按公司名称、帐户属性、CRM机会以及由[!DNL Bizible]归因收入和funnel阶段定义的高价值个人进行的内容分析。
 * **[!DNL Bizible]发现过滤器和增强功能**：跨功能板使用渠道、子渠道、营销活动和区段过滤器分析您的数据。 使用更多向下钻取属性增强数据可见性。 这是对探索讨论区的增强。
-* [!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;活动同步：通过将[!DNL Microsoft Dynamics]个CRM活动引入接触点历程来归因销售交互，并跟踪与潜在客户或联系人关联的呼叫、约会或任务等事件。 增强我们的[!DNL Microsoft Dynamics] CRM集成。
+* [!DNL Microsoft Dynamics]**的**&#x200B;活动同步：通过将[!DNL Microsoft Dynamics]个CRM活动引入接触点历程来归因销售交互，并跟踪与潜在客户或联系人关联的呼叫、约会或任务等事件。 增强我们的[!DNL Microsoft Dynamics] CRM集成。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -213,13 +185,13 @@ ht-degree: 1%
 
 <br> 
 
-## 公告 {#announcements}
+## 公告
 
 * **ITP 2.1+ RTP更新**：由于对[!DNL Safari]的Cookie策略进行了更改，ITP将根据访客使用的浏览器和浏览器版本，将RTP Cookie在同一域上跨会话跟踪用户的能力限制为1天或7天。 为此，我们正在实施一项新的Web服务，以允许通过HTTP响应使用Set-Cookie标头设置RTP Cookie。 可在[此处](https://nation.marketo.com/t5/Knowledgebase/Browser-Cookie-Updates-How-Marketo-RTP-Is-Affected/ta-p/299603)找到更多信息。
 
 * **Batch Campaign基础架构更改**：我们将在今年剩余时间升级我们的批处理Campaign服务。 这将是无缝更新，不会影响任何正在进行的批量营销活动，也不会导致行为更改。 无需执行任何操作。 在此[国家/地区帖子](https://nation.marketo.com/t5/Product-Documents/Batch-Campaign-Processing-Infrastructure-Update/ta-p/301374)中查找更多详细信息。
 
-## 弃用 {#deprecations}
+## 弃用
 
 * **[Munchkin关联潜在客户](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：从[!DNL Munchkin] JS的版本159版本开始，在调用“关联潜在客户”方法时，浏览器控制台中将记录弃用警告，这表示在将来的版本中将删除该功能。  之后将宣布完整的弃用计划。
 
@@ -235,11 +207,11 @@ ht-degree: 1%
 
 **_季度发布_**&#x200B;以下功能将于&#x200B;**2020年7月31日发布**。
 
-## 管理 {#administration}
+## 管理
 
 * 字段管理中的&#x200B;**[“使用者”导出](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)**：管理员现在可以将选定字段的所有“使用者”资产链接导出到CSV文件。 此增强功能可帮助管理员和非管理员清除未使用的字段。 此外，现在还可以在新的浏览器选项卡或窗口中打开资产。
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 ![（星形）](assets/yellow-star.png)
 
@@ -259,13 +231,13 @@ ht-degree: 1%
 
 * **提高了资源API URI大小限制**：在删除“_method”参数之前，统一资源标识符(URI)大小限制将从8 KB增加到65 KB。 执行长查询字符串时，增加此大小限制将允许更轻松地传递数据。 即将进行的安全升级中包含删除“_method”参数。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
 * **[[!DNL Sales Insight] 为具有非本机 [!DNL Salesforce] CRM集成的客户启用](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**：具有非本机[!DNL Salesforce] CRM集成的Marketo Engage客户现在可以使用[!DNL Sales Insight]帮助其销售团队了解、优先考虑最热门的潜在客户和机会并与之交互，以实现智能销售和更快的交易。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -273,11 +245,11 @@ ht-degree: 1%
 
 <br> 
 
-## 公告和弃用 {#announcements-deprecations}
+## 公告和弃用
 
 * **Asset API“_method”参数删除**： 2020年9月之后，Asset API端点将不再接受在POST正文中传递“_method”以绕过URI长度限制。 为了适应需要此参数的请求，资产API的URI限制将从8 KB增加到65 KB。
 * **[[!DNL Munchkin] 关联潜在客户](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：通过此版本的Munchkin JavaScript客户端版本159，我们将开始弃用[!DNL Munchkin]关联潜在客户方法。 如果调用，您将收到一则警告，指示将在未来版本中删除该方法。 一旦删除，此方法将无法再正常使用，并且尝试使用它将失败。 最近使用此方法的Marketo Engage客户将单独收到有关其使用的通知。
-* **对Internet Explorer**&#x200B;的支持：如之前宣布的，Marketo Engage对Internet Explorer 11的支持将于&#x200B;**2020年7月31日**&#x200B;终止。 我们将继续支持[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL &#x200B; Apple Safari]和[!DNL Microsoft Edge]。
+* **对Internet Explorer**&#x200B;的支持：如之前宣布的，Marketo Engage对Internet Explorer 11的支持将于&#x200B;**2020年7月31日**&#x200B;终止。 我们将继续支持[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL  Apple Safari]和[!DNL Microsoft Edge]。
 * **Sky默认体验**：将在此版本中删除管理员或用户将[!DNL Marketo Sky]设置为默认体验的选项，以便为更新主用户体验做准备。 有关更新主要体验的更多详细信息，计划在今年晚些时候发布，将于7月发布。 已将[!DNL Marketo Sky]设置为默认体验或已授予[!DNL Marketo Sky]访问权限的用户可以继续从“我的Marketo”主页上的图块访问[!DNL Marketo Sky]。
 * **EdgeHTML（非Chromium） [!DNL Microsoft Edge]支持**： 2020年底，Marketo Engage将不再支持Microsoft Edge的EdgeHTML版本。 从2021年1月1日开始，我们将仅支持最新的Microsoft Edge版本。
 
@@ -319,7 +291,7 @@ ht-degree: 1%
 
 * **[!DNL Facebook]潜在客户广告集成**：现在可以通过LaunchPoint服务为[!DNL Facebook]个潜在客户广告捕获[!DNL Facebook]表单跟踪参数。 这些隐藏字段现在可以映射到Marketo字段，允许营销人员存储宝贵的营销活动跟踪数据并对其执行操作。
 
-## 管理 {#administration}
+## 管理
 
 * **导出角色和权限**：将角色和权限导出到电子表格，以便在组织中的团队之间轻松共享。 更轻松、更快速地执行角色和权限审核。
 
@@ -335,13 +307,13 @@ ht-degree: 1%
 
 以下功能采用非季度周期，并将在未来几个月发布。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
 * **API优化和新的治理配置选项**：通过增强的API优化和添加的治理功能改进[!DNL Sales Insight]用户体验。 通过配置设置，管理员可以定义如何将营销活动和事件加载到Sales Insight功能板。 灵活的日历活动显示选项可减少API使用并改善整体体验。
 
-## 公告和弃用 {#announcements-deprecations}
+## 公告和弃用
 
 * **新Marketo Engage外观**：折线图、条形图、柱形图和饼形图的新版本提供了整个Marketo Engage的更新可视化图表，包括营销活动和所有报表功能以及在营销活动中显示的数据可视化图表。 此更新是针对2020年12月31日结束的Adobe Flash而发布的。
 
@@ -354,3 +326,4 @@ ht-degree: 1%
 ## 产品发布网络研讨会 {#product-release-webinar}
 
 在[此处](https://engage.marketo.com/Oct_20_Release_OnDemand.html)观看我们的产品发布网络研讨会的录像。
+

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: a87250f519eff511c158e9f949761f090a565a45
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: '8896'
 ht-degree: 96%
@@ -14,7 +14,7 @@ ht-degree: 96%
 # Marketo 指南 {#using}
 
 + [主页](home.md)
-+ Marketo Engage 快速入门 {#getting-started}
++ Marketo Engage 快速入门
    + [什么是 Adobe Marketo Engage？](getting-started/what-is-adobe-marketo-engage.md)
    + 初始设置 {#initial-setup}
       + [设置步骤](getting-started/initial-setup/setup-steps.md)
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [Classic图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
       + [帮助中心](getting-started/things-to-know/help-center.md)
       + [订阅系统状态通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[产品知识的AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 产品知识的{hide-from-toc}[AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[AWS迁移](getting-started/things-to-know/aws-migration.md)
       + {hide-from-toc}[新UI](getting-started/things-to-know/new-ui.md)
    + 快速上手 {#quick-wins}
@@ -69,7 +69,7 @@ ht-degree: 96%
             + {hide-from-toc}[SEO — 使用竞争对手KW趋势报表](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + {hide-from-toc}[SEO — 使用关键词趋势报告](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + 管理 {#administration}
-      + 设置 {#setup}
+      + 设置
          + [了解您拥有的权限](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [最低系统要求](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
@@ -131,7 +131,7 @@ ht-degree: 96%
          + [隐藏和取消隐藏字段](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [在电子邮件中对令牌进行 HTML 编码](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [将字段标记为敏感](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + [选取列表管理](product-docs/administration/field-management/picklist-management.md)
+         + [选项列表管理](product-docs/administration/field-management/picklist-management.md)
          + [重命名字段](product-docs/administration/field-management/rename-a-field.md)
          + [了解系统管理字段](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [查看 Marketo 和 Salesforce 之间的字段映射](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -546,7 +546,7 @@ ht-degree: 96%
          + [删除潜在客户或联系人](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce 同步 {#salesforce-sync}
          + [了解 Salesforce 同步](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-         + 设置 {#setup}
+         + 设置
             + 企业版/无限制版 {#enterprise-unlimited-edition}
                + [第 1 步（共 3 步）：将 Marketo 字段添加到 Salesforce（企业版/无限制版）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
                + [第 2 步（共 3 步）：为 Marketo 创建 Salesforce 用户（企业版/无限制版）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
@@ -593,7 +593,7 @@ ht-degree: 96%
          + [使用人员帐户](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Veeva CRM 同步 {#veeva-crm-sync}
          + [了解 Veeva CRM 同步](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
-         + 设置 {#setup}
+         + 设置
             + [第 1 步（共 3 步）：将 Marketo 字段添加到 Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [第 2 步（共 3 步）：为 Marketo Engage 创建 Veeva CRM 用户](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
             + [第 3 步（共 3 步）：连接 Marketo Engage 和 Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
@@ -640,7 +640,7 @@ ht-degree: 96%
             + [创建对话](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [受众标准](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [流设计器](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
-         + 集成 {#integrations}
+         + 集成
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF 嵌入式 API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
             + [Demandbase](product-docs/demand-generation/dynamic-chat/integrations/demandbase.md)
@@ -1107,7 +1107,7 @@ ht-degree: 96%
             + [使用发送警报信息令牌](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [在我的令牌中使用 URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [电子邮件抄送](product-docs/email-marketing/general/email-cc.md)
-   + Marketo人工智能 {#marketo-ai}
+   + Marketo AI {#marketo-ai}
       + [概述](product-docs/marketo-ai/overview.md)
       + [设置和设置](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[设置和设置](product-docs/marketo-ai/settings-setup-old.md)
@@ -1126,18 +1126,18 @@ ht-degree: 96%
    + Marketo 通知 {#marketo-notifications}
       + {hide-from-toc}[通知： Websocket连接](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + 快速入门 {#getting-started}
+      + 快速入门
          + [Sales Connect 概述](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [访问您的新 Sales Connect 实例](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect 管理员快速入门](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [管理您的轮廓](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
          + [更改您的 Sales Connect 密码](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
-         + 电子邮件设置 {#email-settings}
+         + 电子邮件设置
             + [添加身份标识](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [添加您的电子邮件签名](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
             + [从未收到验证电子邮件](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
             + [验证您的电子邮件](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
-      + 管理员 {#admin}
+      + 管理员
          + [附加管理员](product-docs/marketo-sales-connect/admin/additional-admins.md)
          + [已阻止的域名](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [内容锁定](product-docs/marketo-sales-connect/admin/content-lockdown.md)
@@ -1146,12 +1146,12 @@ ht-degree: 96%
          + [在 Sales Connect 中通过 SAML 2.0 设置单点登录 (SSO)](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [共享设置](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [用户访问详情](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analytics {#analytics}
+      + Analytics
          + [Analytics 页面概述](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [了解“内容”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [了解“我”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [了解“团队”选项卡](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
-      + 营销活动 {#campaigns}
+      + 营销活动
          + [将人员添加到您的营销活动](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
          + [添加到营销活动](product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)
          + [营销活动步骤类型](product-docs/marketo-sales-connect/campaigns/campaign-step-types.md)
@@ -1163,8 +1163,8 @@ ht-degree: 96%
          + [了解发送选项](product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)
          + [在营销活动中使用任务](product-docs/marketo-sales-connect/campaigns/using-tasks-in-campaigns.md)
          + [以其他用户身份查看营销活动列表](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
-      + CRM {#crm}
-         + Salesforce 自定义 {#salesforce-customization}
+      + CRM
+         + Salesforce 自定义
             + [任务中的活动类型字段（SFDC）](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
             + [将 Sales Connect 按钮添加到 Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
             + [使用 Sales Connect 数据创建 Salesforce 优先呼叫报告](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
@@ -1184,7 +1184,7 @@ ht-degree: 96%
             + [在 Salesforce Lightning 中使用批量操作](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
             + [从 Salesforce Classic 中卸载 Marketo Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
             + [从 Salesforce Lightning 中卸载 Marketo Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
-         + Salesforce 集成 {#salesforce-integration}
+         + Salesforce 集成
             + [配置 Salesforce 活动详情自定义](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [将您的 Sales Connect 帐户连接到 Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [将 Salesforce 从您的 Sales Connect 帐户断开](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
@@ -1194,7 +1194,7 @@ ht-degree: 96%
             + [Salesforce 同步设置](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
             + [跟踪活动未显示](product-docs/marketo-sales-connect/crm/salesforce-integration/tracking-activity-not-showing.md)
       + 电子邮件插件 {#email-plugins}
-         + Gmail {#gmail}
+         + Gmail
             + [将电子邮件添加到 Salesforce](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [附加内容](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [日程表功能](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
@@ -1217,8 +1217,8 @@ ht-degree: 96%
             + Office 365 加载项 {#office-365-add-in}
                + [将电子邮件添加到 Salesforce（Office 365）](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [为 Outlook（在线版、Mac 和 Windows）安装 Sales Connect 电子邮件插件](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
-      + 电子邮件 {#email}
-         + 指挥中心 {#command-center}
+      + 电子邮件
+         + 指挥中心
             + [指挥中心概述](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [高级搜索概述](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
             + [将任务分配给团队成员](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
@@ -1231,18 +1231,18 @@ ht-degree: 96%
             + [视图跟踪的工作原理](product-docs/marketo-sales-connect/email/common-tracking-questions/how-view-tracking-works.md)
             + [防止自我查看](product-docs/marketo-sales-connect/email/common-tracking-questions/preventing-self-views.md)
             + [测试电子邮件未显示为已查看](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
-         + 电子邮件发送 {#email-delivery}
+         + 电子邮件发送
             + [发送渠道概述](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
             + [电子邮件连接节流](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [设置自定义发送渠道](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + 发送销售电子邮件 {#send-a-sales-email}
+         + 发送销售电子邮件
             + [活动已结束](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [电子邮件中的抄送或密送](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [电子邮件被标记为垃圾电子邮件](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
          + 实时信息流 {#the-live-feed}
             + [收件人位置不正确](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [实时信息流概述](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
-         + 取消订阅 {#unsubscribes}
+         + 取消订阅
             + [自动附加取消订阅信息设置](product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
             + [自定义取消订阅链接信息](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Marketo 取消订阅检查](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
@@ -1252,7 +1252,7 @@ ht-degree: 96%
             + [取消订阅历史记录卡片](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-history-card.md)
             + [取消订阅链接登陆页面](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-link-landing-page.md)
             + [取消订阅概述](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
-         + 使用撰写窗口 {#using-the-compose-window}
+         + 使用撰写窗口
             + [向电子邮件添加附件或可跟踪内容](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
             + [向电子邮件添加 Highspot 内容](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [批量发送选项](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
@@ -1261,7 +1261,7 @@ ht-degree: 96%
             + [发送可跟踪电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [在撰写窗口中使用模板](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + 常见问题解答 {#faq}
+      + 常见问题解答
          + [我可以恢复已删除的联系人或群组吗？](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [内容和文件附件常见问题](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect 是否有 iPhone 或 Android 应用程序？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1274,19 +1274,19 @@ ht-degree: 96%
          + [为什么我的任何联系人都没有被推送到 Sales Connect？](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [为什么我无法删除联系人？](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [为什么我的联系人没有全部被推送至 Sales Connect？](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
-      + 集成 {#integrations}
+      + 集成
          + [如何将电子邮件记录到其他 CRM](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
-      + Marketo {#marketo}
+      + Marketo
          + [设置您的 Marketo 连接](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [授予用户访问权限](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Sales Connect 中的关键时刻](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [使营销活动对 Sales Connect 用户可见](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [销售活动术语表](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [销售活动触发器和过滤器](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + 人员 {#people}
+      + 人员
          + [人员详情视图](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect 与 GDPR 合规性](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
-         + 管理联系人 {#managing-contacts}
+         + 管理联系人
             + [批量操作人员](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [创建和删除联系人](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [群组类型](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
@@ -1294,7 +1294,7 @@ ht-degree: 96%
             + [通过 CSV 导入联系人](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [管理群组](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [人员页面列](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
-      + 电话 {#phone}
+      + 电话
          + [通话未记录到 Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [通话结果](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [通话原因](product-docs/marketo-sales-connect/phone/call-reasons.md)
@@ -1307,11 +1307,11 @@ ht-degree: 96%
          + [销售电话概述](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
          + [与团队共享通话录音](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [双方同意设置](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
-      + 任务 {#tasks}
+      + 任务
          + [创建并分配提醒任务](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [提醒任务与 Salesforce 同步](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [首次将 Sales Connect 任务与 Salesforce 同步](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
-      + 模板 {#templates}
+      + 模板
          + [管理模板](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [添加超链接文本](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
          + [推荐模板](product-docs/marketo-sales-connect/templates/recommended-templates.md)
@@ -1328,17 +1328,17 @@ ht-degree: 96%
    + Marketo 销售洞察 {#marketo-sales-insight}
       + 操作 {#actions}
          + [Sales Insight Actions 功能概述](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + 快速入门 {#getting-started}
+         + 快速入门
             + [Sales Insight Actions 用户快速入门](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Sales Insight Actions 用户入门检查清单](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions 管理员设置指南](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [更改您的 Marketo Sales 密码](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [产品使用限制](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
-            + 电子邮件设置 {#email-settings}
+            + 电子邮件设置
                + [验证您的电子邮件](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [添加或更新您的电子邮件签名](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [添加身份标识](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-         + 管理员 {#admin}
+         + 管理员
             + [从 Salesforce 自动登录](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [已阻止的域名](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [将新管理员连接到 Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1350,13 +1350,13 @@ ht-degree: 96%
             + [共享设置](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [将销售操作数据与 Marketo 和 Salesforce 同步](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [用户访问详情](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analytics {#analytics}
+         + Analytics
             + [Analytics 页面概述](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [了解“内容”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [了解“我”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [了解“团队”选项卡](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [模板互动情况](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
-         + 营销活动 {#campaigns}
+         + 营销活动
             + {hide-from-toc}[添加到营销活动](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [活动已结束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [创建销售营销活动](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
@@ -1364,10 +1364,10 @@ ht-degree: 96%
             + [销售营销活动步骤类型和提醒任务](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [了解销售营销活动电子邮件步骤的发送选项](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [以其他用户身份查看营销活动列表](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
-         + CRM {#crm}
-            + Salesforce 自定义 {#salesforce-customization}
+         + CRM
+            + Salesforce 自定义
                + {hide-from-toc}[文档](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
-            + Salesforce 集成 {#salesforce-integration}
+            + Salesforce 集成
                + [配置 Salesforce 活动详情自定义](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [将您的 Sales Insight Actions 帐户连接到 Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
                + {hide-from-toc}[断开Salesforce与销售Insight操作的连接](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
@@ -1383,36 +1383,36 @@ ht-degree: 96%
             + Salesforce 中的操作 {#actions-in-salesforce}
                + [在 Salesforce 中批量发送销售电子邮件](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
                + [在 Salesforce 中批量添加到销售营销活动](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
-         + 电子邮件 {#email}
-            + 指挥中心 {#command-center}
+         + 电子邮件
+            + 指挥中心
                + [高级搜索概述](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [将任务分配给团队成员](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
                + [指挥中心概述](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [电子邮件列和电子邮件页面布局](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [指挥中心中的快速操作](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
-            + 电子邮件发送 {#email-delivery}
+            + 电子邮件发送
                + [发送渠道概述](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [电子邮件连接节流](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [为您的团队设置自定义发送渠道](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + 取消订阅 {#unsubscribes}
+            + 取消订阅
                + [取消订阅概述](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [自动附加取消订阅信息设置](product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
                + [自定义取消订阅链接信息](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo 取消订阅检查](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [将取消订阅与 Salesforce 同步](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
                + [交易型销售电子邮件模板](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
-            + 使用撰写窗口 {#using-the-compose-window}
+            + 使用撰写窗口
                + [向电子邮件添加附件或可跟踪内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [批量发送电子邮件选项](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + {hide-from-toc}[使用Select和Send编写批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [在撰写窗口中使用模板](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + 电子邮件集成 {#email-integrations}
-            + Gmail {#gmail}
+            + Gmail
                + [连接到 Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [连接到 Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + 常见问题解答 {#faq}
+         + 常见问题解答
             + [我可以恢复已删除的联系人或群组吗？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [我能跟踪带有抄送/密送的多个收件人吗？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [内容和文件附件常见问题](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1434,23 +1434,23 @@ ht-degree: 96%
             + [为什么我的电子邮件会被标记为垃圾电子邮件？](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
             + [为什么我的活动已结束？](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [为什么跟踪活动未显示在 Salesforce 活动中？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
-         + 集成 {#integrations}
+         + 集成
             + [Highspot 集成](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
-         + Marketo {#marketo}
+         + Marketo
             + [授予用户 Marketo 访问权限](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Insight Actions 中的关键时刻](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [使营销活动对 Sales Connect 用户可见](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [销售活动触发器和过滤器](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Sales Insight Actions 活动术语表](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + {hide-from-toc}[设置您的Marketo连接](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + 人员 {#people}
+         + 人员
             + {hide-from-toc}[人员详细信息视图](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight Actions 与 GDPR 合规性](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-            + 管理联系人 {#managing-contacts}
+            + 管理联系人
                + [批量操作人员](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [管理群组](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + {hide-from-toc}[人员页面列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
-         + 电话 {#phone}
+         + 电话
             + [通话结果](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
             + [通话原因](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
             + [将通话原因和通话结果记录到 Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
@@ -1458,11 +1458,11 @@ ht-degree: 96%
             + [国际呼叫](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [本地显示](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [双方同意设置](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + 发送销售电子邮件 {#send-a-sales-email}
+         + 发送销售电子邮件
             + [电子邮件跟踪概述](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
-         + 任务 {#tasks}
+         + 任务
             + [提醒任务与 Salesforce 同步](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-         + 模板 {#templates}
+         + 模板
             + [添加超链接文本](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [动态字段](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [字段提示](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
@@ -1478,9 +1478,9 @@ ht-degree: 96%
          + [使用 Google Chrome 版 Marketo Insights](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [在 Google Mail 中查看人员和帐户信息及活动](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + Microsoft Dynamics 版 MSI {#msi-for-microsoft-dynamics}
-         + 功能 {#features}
+         + 功能
             + [功能概述](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
-            + Marketo 选项卡 {#marketo-tab}
+            + Marketo 选项卡
                + [设置 MSI 视图](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
                + [最佳推荐](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
                + [电子邮件活动](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
@@ -1517,7 +1517,7 @@ ht-degree: 96%
             + [向轮廓中添加 Sales Insight 访问权限](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
             + [向 Salesforce Classic 添加批量操作按钮](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Salesforce Lightning 中的批量操作](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
-         + 功能 {#features}
+         + 功能
             + [MSI 功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [洞察仪表板功能概述](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + [Dynamic Chat 集成](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
@@ -1530,7 +1530,7 @@ ht-degree: 96%
                + [发送测试电子邮件](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 语言支持 {#language-support}
                + [在 Salesforce 中为 Sales Insight 启用多语言支持](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
-            + Marketo 选项卡 {#marketo-tab}
+            + Marketo 选项卡
                + [最佳推荐](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [使用潜在客户信息流](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI 配置选项卡 {#msi-configuration-tab}
@@ -1571,7 +1571,7 @@ ht-degree: 96%
    + Marketo Sky {#marketo-sky}
       + {hide-from-toc}[预期行为](product-docs/marketo-sky/expected-behavior.md)
    + 移动营销 {#mobile-marketing}
-      + 管理员 {#admin}
+      + 管理员
          + [添加移动应用程序](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [将 Vibes 添加为 LaunchPoint 服务](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
          + [验证移动访问安全性](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
@@ -1641,7 +1641,7 @@ ht-degree: 96%
       + [预测性内容摘要](product-docs/predictive-content/the-predictive-content-summary.md)
       + [为预测性内容活动定义智能列表](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [预测性 Content Analytics 概述](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + 快速入门 {#getting-started}
+      + 快速入门
          + [算法目标设置](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [创建内容模式](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [部署 Content-AI 的 JavaScript](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1796,7 +1796,7 @@ ht-degree: 96%
          + [高级 BI 分析概述](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [量度和维度](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
    + 目标帐户管理 {#target-account-management}
-      + 设置 {#setup}
+      + 设置
          + [目标帐户管理概述](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM 快速入门](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [发放许可证](product-docs/target-account-management/setup-tam/issue-a-license.md)
@@ -1843,7 +1843,7 @@ ht-degree: 96%
          + [结合 TAM 的基于帐户的 Web 营销](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [创建新帐户列表](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [使用帐户列表创建区段](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + 快速入门 {#getting-started}
+      + 快速入门
          + [在帐户设置中添加子域名](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [编辑区域](product-docs/web-personalization/getting-started/edit-regions.md)
          + [登录与用户管理](product-docs/web-personalization/getting-started/login-and-user-management.md)
