@@ -33,7 +33,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->在2026年3月版中，API合并中的布尔字段行为发生了更改。 现在，False值会正确被视为具有该字段的值。 在评估冲突字段时，只有null值被视为“空”。 查看[此社区帖子](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}的更多详细信息。
+>在2026年3月版中，API合并中的布尔字段行为发生了更改。 现在，False值会正确被视为具有该字段的值。 在评估冲突字段时，只有null值被视为“空”。 查看[此社区帖子](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hans){target="_blank"}的更多详细信息。
 
 >[!MORELIKETHIS]
 >
