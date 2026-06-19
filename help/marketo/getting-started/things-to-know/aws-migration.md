@@ -4,7 +4,7 @@ title: AWS迁移
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 2778f5a4fdc2221b9b46fbda5df90f9e35fa6b9f
+source-git-commit: 1f54476f0f7d66f6250299464b3c1145b11e86b1
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -104,4 +104,4 @@ ht-degree: 3%
 
 ## 更新和支持
 
-有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support)中的支持门户联系Adobe支持部门。
+有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}中的支持门户联系Adobe支持部门。
