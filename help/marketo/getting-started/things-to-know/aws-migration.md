@@ -4,7 +4,7 @@ title: AWS迁移
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -31,7 +31,7 @@ ht-degree: 3%
 
 * **审核并更新IP**&#x200B;登录、API访问、电子邮件发送、Web跟踪和集成。
 
-* **添加新IP地址**&#x200B;并保留您当前的IP不变。 通过下面[&#128279;](#ip-addresses)的表查看要添加的IP地址。
+* **添加新IP地址**&#x200B;并保留您当前的IP不变。 通过下面](#ip-addresses)的[表查看要添加的IP地址。
 
 ## 预期的服务影响
 
@@ -74,34 +74,34 @@ ht-degree: 3%
    <td>下午5点（太平洋标准时间）<br>
    下午6点（太平洋标准时间）</td>
   </tr>
-  &lt;/body>
-  </table>
+  </body>
+</table>
 
 ## 要添加的IP地址 {#ip-addresses}
 
 根据您的数据中心，与您的IT部门合作，添加各自的IP地址。
 
 <table>
- <tbody>
-  <tr>
-   <th style="width:25%">数据中心</th>
-   <th style="width:75%">IP地址</th>
-  </tr>
-  <tr>
-   <td>AB</td>
-   <td>54.160.246.246<br>
-   54.237.141.197<br>
-   52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>NLD</td>
-   <td>34.247.24.245<br>
+<tbody>
+<tr>
+  <th style="width:25%">数据中心</th>
+  <th style="width:75%">IP地址</th>
+</tr>
+<tr>
+  <td>AB</td>
+  <td>54.160.246.246<br>
+  54.237.141.197<br>
+  52.20.211.99</td>
+</tr>
+<tr>
+  <td>NLD</td>
+  <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
-  </tr>
-  &lt;/body>
-  </table>
+</tr>
+</body>
+</table>
 
 ## 更新和支持
 
-有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}中的支持门户联系Adobe支持部门。
+有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}中的支持门户联系Adobe支持部门。
