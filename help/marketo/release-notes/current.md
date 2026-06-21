@@ -4,22 +4,14 @@ title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 5debaa373787b2e02c6af0da8d5c054a1e4f1aa7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
 workflow-type: tm+mt
-source-wordcount: 695
-ht-degree: 17%
+source-wordcount: 758
+ht-degree: 16%
 
 ---
 
@@ -44,7 +36,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><strong>Marketo AI</strong>：利用一套旨在自动执行耗时但重要的营销功能的代理（现在提供两个代理，更多代理即将推出）。
 </td>
    <td>开放Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI概述</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI概述</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +46,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>Marketo Engage MCP服务器</strong>： Marketo Engage MCP服务器充当AI助手与Marketo Engage之间的桥梁。 它会公开跨表单、项目、智能营销活动、人员/潜在客户、电子邮件、代码片段、列表和文件夹的100多项操作。</td>
    <td>开放Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hans" target="_blank">Marketo MCP服务器</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP服务器</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -75,7 +67,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><strong>Picklist管理</strong>：您现在可以指定可以在Marketo Engage的字段中使用的值。
    </td>
    <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">选取列表管理</a></td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">选项列表管理</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -137,10 +129,12 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 今年早些时候，剩下的相关油田从Marketo被移除。 不久，引用某些与社交相关的潜在客户字段的API请求返回“字段未找到”错误，导致中断。 在受影响的字段再次可用后，服务已恢复，因此为防止进一步中断，Marketo已将Social字段与Social功能永久性分离（因此，将在您的Marketo帐户中提供）。 建议用户审查引用Marketo Social相关字段的API查询和集成，并确定这些字段是否仍为持续业务流程所必需。
 
-* **布尔字段的API合并功能**： API合并中的布尔字段行为在2026年3月版本中发生了更改。 现在，False值会正确被视为具有该字段的值。 在评估冲突字段时，只有null值被视为“空”。 有关详细信息，请参阅[此社区帖子](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hans){target="_blank"}。
+* **布尔字段的API合并功能**： API合并中的布尔字段行为在2026年3月版本中发生了更改。 现在，False值会正确被视为具有该字段的值。 在评估冲突字段时，只有null值被视为“空”。 有关详细信息，请参阅[此社区帖子](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}。
 
 * **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年7月31日之后不可用。 所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
+* **REST API合并潜在客户限制**：从2026年7月31日开始，在合并潜在客户API调用的leadIds参数中包含超过25个ID的调用将导致1080错误代码，并且将跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
+
 * **SOAP API弃用**：对Marketo SOAP API的支持将于2026年7月31日终止。 使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
-* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标静态列表包含10,000个或更多潜在客户，则对Get Lead活动和包含`listId`参数的Get Lead Changes端点的调用将返回1003错误代码。 有关详细信息，请参阅[迁移指南](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标静态列表包含10,000个或更多潜在客户，则对Get Lead活动和包含`listId`参数的Get Lead Changes端点的调用将返回1003错误代码。 有关详细信息，请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
