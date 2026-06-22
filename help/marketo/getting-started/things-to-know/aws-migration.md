@@ -4,10 +4,10 @@ title: AWS迁移
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: 51020c6772c6a81ef53f3a0effcf43cda01f85f4
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 3%
+source-wordcount: '390'
+ht-degree: 2%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 3%
 
 * **审核并更新IP**&#x200B;登录、API访问、电子邮件发送、Web跟踪和集成。
 
-* **添加新IP地址**&#x200B;并保留您当前的IP不变。 通过下面[&#128279;](#ip-addresses)的表查看要添加的IP地址。
+* **添加新IP地址**&#x200B;并保留您当前的IP不变。 通过下面](#ip-addresses)的[表查看要添加的IP地址。
 
 ## 预期的服务影响
 
@@ -58,23 +58,42 @@ ht-degree: 3%
   <tr>
    <td>2026年6月19日</td>
    <td>AB46</td>
-   <td>下午5点（太平洋标准时间）</td>
+   <td>已延迟</td>
   </tr>
   <tr>
    <td>2026年7月8日</td>
    <td>AB69<br>
    AB64</td>
-   <td>下午5点（太平洋标准时间）<br>
-   下午6点（太平洋标准时间）</td>
+   <td>下午5点（太平洋夏令时间）<br>
+   下午6点（太平洋夏令时间）</td>
   </tr>
   <tr>
    <td>2026年7月9日</td>
    <td>AB70<br>
    AB43</td>
-   <td>下午5点（太平洋标准时间）<br>
-   下午6点（太平洋标准时间）</td>
+   <td>下午5点（太平洋夏令时间）<br>
+   下午6点（太平洋夏令时间）</td>
   </tr>
-  &lt;/body>
+  <tr>
+   <td>2026年7月13日</td>
+   <td>NLD101</td>
+   <td>上午10:00（太平洋夏令时间）</td>
+  </tr>
+  <tr>
+   <td>2026年7月15日</td>
+   <td>NLD102<br>
+   NLD104</td>
+   <td>上午10:00（太平洋夏令时间）<br>
+   上午11:00（太平洋夏令时间）</td>
+  </tr>
+  <tr>
+   <td>2026年7月17日</td>
+   <td>NLD103<br>
+   NLD105</td>
+   <td>上午10:00（太平洋夏令时间）<br>
+   上午11:00（太平洋夏令时间）</td>
+  </tr>
+  </body>
 </table>
 
 ## 要添加的IP地址 {#ip-addresses}
@@ -99,9 +118,9 @@ ht-degree: 3%
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
 ## 更新和支持
 
-有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}中的支持门户联系Adobe支持部门。
+有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}中的支持门户联系Adobe支持部门。
