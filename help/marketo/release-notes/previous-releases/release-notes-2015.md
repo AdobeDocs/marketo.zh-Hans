@@ -1,5 +1,5 @@
 ---
-title: 2015
+title: "2015"
 description: 2015 - Marketo文档 — 产品文档
 feature: Release Information
 feature_v2:
@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
-source-wordcount: 2807
+source-wordcount: 2862
 ht-degree: 1%
 
 ---
@@ -281,8 +281,7 @@ RTP： [拖放区段编辑器](/help/marketo/product-docs/web-personalization/us
 
 ## 富文本编辑器更新 {#rich-text-editor-update}
 
-更新了具有现代外观和风格的文本编辑器，包括简化的文本格式、图像编辑、链接插入和HTML编辑。HTML编辑器现在具有极少的验证功能，允许进行限制性较少的代码编辑。
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>`此更新将在7月发布后的几天内自动推出。之后，您将能够从&#x200B;**[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;在编辑器的新版本和旧版本之间进行切换。
+更新了具有现代外观和风格的文本编辑器，包括简化的文本格式、图像编辑、链接插入和HTML编辑。 HTML编辑器现在具有极少的验证功能，允许进行限制性较少的代码编辑。`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>`此更新将在7月发布后的几天内自动推出。 之后，您将能够从&#x200B;**[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;在编辑器的新版本和旧版本之间进行切换。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 

@@ -28,9 +28,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
+source-wordcount: 1338
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 1%
 * 访问`Data.com` — 授予用户访问Data.com流操作的权限
 * 访问电子邮件管理员 — 赋予用户访问电子邮件管理员的权限，以更改默认设置，如取消订阅和品牌化域
 * 访问事件合作伙伴 — 以管理员身份授予用户访问LaunchPoint的权限
-* 访问Experience Cloud受众共享 — 通过受众，用户可以将受众从Adobe Experience Cloud同步到Marketo Engage
+* 访问Experience Cloud受众共享 — 赋予用户将受众从Adobe Experience Cloud同步到Marketo Engage的权限
 * 访问字段管理 — 允许用户访问管理员中的字段管理
 * 访问文件上传 — 使用户能够将图像和文件上传到Design Studio
 * 访问登陆页面 — 允许用户在Admin中访问登陆页面
@@ -234,15 +234,10 @@ ht-degree: 1%
 * 删除营销资产
 * 编辑营销活动限制
 * 编辑营销资产
-* 导出营销活动活动&#42;
+* 导出营销活动活动
 * 导入项目群
 * 列表导入
 * 计划批处理活动
-
-访问SEO
-
-* 管理SEO
-* 标准SEO
 
 ## 定位和Personalization {#targeting-and-personalization}
 

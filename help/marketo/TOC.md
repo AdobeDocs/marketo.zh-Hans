@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: b0f4d348a51b5f3c0f0ec79d3467810c83aa4231
+source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
 workflow-type: tm+mt
-source-wordcount: '8896'
+source-wordcount: '8898'
 ht-degree: 96%
 
 ---
@@ -502,12 +502,12 @@ ht-degree: 96%
                + [步骤 1（共 3 步）：安装 Marketo 解决方案 - 2015 本地部署 / 2016 Dynamics 365 本地部署](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [步骤 2（共 3 步）：在 Dynamics 2015 本地部署 / 2016 Dynamics 365 本地部署中设置 Marketo 同步用户](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [步骤 3（共 3 步）：将 Marketo 与 Dynamics 2015 本地部署 / 2016 Dynamics 365 本地部署连接](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365（ROPC 连接）{#microsoft-dynamics-365-with-ropc-connection}
+            + Microsoft Dynamics 365（ROPC 连接） {#microsoft-dynamics-365-with-ropc-connection}
                + [步骤 1（共 4 步）：安装带有 ROPC 连接的 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [步骤 2（共 4 步）：设置带有 ROPC 连接的 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
                + [步骤 3（共 4 步）：在 MS Dynamics 中设置客户端应用程序](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
                + [步骤 4（共 4 步）：连接带有 ROPC 连接的 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-            + Microsoft Dynamics 365（S2S 连接）{#microsoft-dynamics-365-with-s2s-connection}
+            + Microsoft Dynamics 365（S2S 连接） {#microsoft-dynamics-365-with-s2s-connection}
                + [步骤 1（共 3 步）：安装带有 S2S 连接的 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [步骤 2（共 3 步）：设置带有 S2S 连接的 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [步骤 3（共 3 步）：连接带有 S2S 连接的 Marketo 解决方案](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
@@ -1110,7 +1110,7 @@ ht-degree: 96%
    + Marketo AI {#marketo-ai}
       + [概述](product-docs/marketo-ai/overview.md)
       + [设置和设置](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[设置和设置](product-docs/marketo-ai/settings-setup-old.md)
+      + {hide-from-toc}[Marketo AI数据信息表](product-docs/marketo-ai/data-information.md)
       + 技能 {#skills}
          + [产品知识](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[表面分析](product-docs/marketo-ai/skills/surface-insights.md)
@@ -1286,7 +1286,7 @@ ht-degree: 96%
       + 人员 {#people}
          + [人员详情视图](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect 与 GDPR 合规性](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
-         + 管理联系人 {#manging-contacts}
+         + 管理联系人 {#managing-contacts}
             + [批量操作人员](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [创建和删除联系人](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [群组类型](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
