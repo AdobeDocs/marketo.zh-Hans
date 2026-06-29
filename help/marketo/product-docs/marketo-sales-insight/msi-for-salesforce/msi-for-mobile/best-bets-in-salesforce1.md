@@ -5,13 +5,11 @@ title: Salesforce1 中的最佳推荐
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/yjT8JEOPeB6rr69mRMoM3xfYe8TYWno1Yj2FaI2Ldmk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 84
+source-wordcount: 94
 ht-degree: 4%
 
 ---
@@ -19,6 +17,10 @@ ht-degree: 4%
 # [!DNL Salesforce1]中的[!DNL Best Bets] {#best-bets-in-salesforce}
 
 您的[[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)是紧急性和相对分数最高的潜在客户和联系人。 只有您拥有的潜在客户会显示在列表中，并且列表会随着潜在客户分数的更改而更新。
+
+>[!AVAILABILITY]
+>
+>最佳匹配在Salesforce平台许可证中不可用。
 
 1. 转到[!DNL Salesforce]应用程序中的Marketo区域。
 
@@ -28,5 +30,5 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->* [!UICONTROL Salesforce1][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)中的个有趣时刻
+>* [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)中的[个有趣时刻
 >* [在[!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)中发送Marketo电子邮件和营销活动及监视列表操作

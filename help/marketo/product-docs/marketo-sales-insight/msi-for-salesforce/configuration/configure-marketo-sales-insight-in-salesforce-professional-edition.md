@@ -5,16 +5,12 @@ title: 在 Salesforce 专业版中配置 Marketo Sales Insight
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/ixHyQT01yLz6LIoEG5L0wm9WKUSOgShHmXZUCI-R4Pw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 688
+source-wordcount: 719
 ht-degree: 3%
 
 ---
@@ -27,7 +23,7 @@ ht-degree: 3%
 >
 >* 在[!DNL Salesforce] Professional Edition中安装Marketo。
 >
->* 在 [!DNL Salesforce] AppExchange[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}中安装 [!DNL Marketo Sales Insight] 包
+>* 在 [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}中[安装 [!DNL Marketo Sales Insight] 包
 
 >[!NOTE]
 >
@@ -53,7 +49,7 @@ ht-degree: 3%
    >
    >您的API密钥与组织的密码类似，应当是安全的。
 
-1. 要填充凭据，请单击&#x200B;_[!UICONTROL Rest API Configuration]_&#x200B;面板中的&#x200B;**[!UICONTROL View]**。
+1. 要填充凭据，请单击&#x200B;_[!UICONTROL Rest API Configuration]_面板中的&#x200B;**[!UICONTROL View]**。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
@@ -86,6 +82,10 @@ ht-degree: 3%
 1. 输入远程站点名称（可以是“MarketoRestAPI”之类的名称）。 输入远程站点URL，它是您在Marketo的Rest API配置面板中的API URL。 单击 **[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
 
 ## 授予Sales Insight用户配置文件对标准Salesforce对象的访问权限 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSI的完整功能需要标准Salesforce许可证。 具有Salesforce平台许可证（一个有限的许可证类）的用户在执行某些操作或访问某些选项卡时可能会看到错误。
 
 由于Salesforce安全增强，AppExchange包无法再向标准对象授予权限，必须从Salesforce用户的配置文件向相关的Salesforce对象授予访问权限。 按照以下步骤授予所需权限。
 
