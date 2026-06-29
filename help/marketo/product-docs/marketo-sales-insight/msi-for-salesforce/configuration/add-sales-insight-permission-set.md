@@ -10,10 +10,10 @@ feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 348
-ht-degree: 3%
+source-wordcount: 379
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,9 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->如果您之前授予了所有配置文件的[!DNL Sales Insight]访问权限，并且/或者为所有的用户实施了[!DNL Sales Insight]，则您必须[删除配置文件级别的访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}才能使用此权限集。
+>* 如果您之前授予了所有配置文件的[!DNL Sales Insight]访问权限，并且/或者为所有的用户实施了[!DNL Sales Insight]，则您必须[删除配置文件级别的访问权限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}才能使用此权限集。
+>
+>* MSI的完整功能需要标准Salesforce许可证。 具有Salesforce平台许可证（一个有限的许可证类）的用户在执行某些操作或访问某些选项卡时可能会看到错误。
 
 ## 概述 {#overview}
 

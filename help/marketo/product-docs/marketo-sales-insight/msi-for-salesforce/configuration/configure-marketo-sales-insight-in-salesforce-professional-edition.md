@@ -12,9 +12,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 688
+source-wordcount: 719
 ht-degree: 3%
 
 ---
@@ -86,6 +86,10 @@ ht-degree: 3%
 1. 输入远程站点名称（可以是“MarketoRestAPI”之类的名称）。 输入远程站点URL，它是您在Marketo的Rest API配置面板中的API URL。 单击 **[!UICONTROL Save]**。 您现在已为Rest API创建了远程站点设置。
 
 ## 授予Sales Insight用户配置文件对标准Salesforce对象的访问权限 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSI的完整功能需要标准Salesforce许可证。 具有Salesforce平台许可证（一个有限的许可证类）的用户在执行某些操作或访问某些选项卡时可能会看到错误。
 
 由于Salesforce安全增强，AppExchange包无法再向标准对象授予权限，必须从Salesforce用户的配置文件向相关的Salesforce对象授予访问权限。 按照以下步骤授予所需权限。
 

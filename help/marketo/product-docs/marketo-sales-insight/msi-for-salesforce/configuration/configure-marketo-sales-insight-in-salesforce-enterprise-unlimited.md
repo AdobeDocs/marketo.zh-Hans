@@ -12,9 +12,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 822
+source-wordcount: 853
 ht-degree: 2%
 
 ---
@@ -104,6 +104,10 @@ ht-degree: 2%
    >_您_&#x200B;选择您的&#x200B;**[!UICONTROL Remote Site Name]** （此处使用了`MarketoAPI`）。 **[!UICONTROL Remote Site URL]**&#x200B;位于“在Marketo中配置Sales Insight”部分步骤3中“编辑API配置”对话框的“Marketo主机”字段中。
 
 ## 授予Sales Insight用户配置文件对标准Salesforce对象的访问权限 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSI的完整功能需要标准Salesforce许可证。 具有Salesforce平台许可证（一个有限的许可证类）的用户在执行某些操作或访问某些选项卡时可能会看到错误。
 
 由于Salesforce安全增强，AppExchange包无法再向标准对象授予权限，必须从Salesforce用户的配置文件向相关的Salesforce对象授予访问权限。 要授予所需的权限，请执行以下步骤。
 
