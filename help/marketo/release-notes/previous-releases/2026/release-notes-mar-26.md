@@ -1,11 +1,11 @@
 ---
 description: 发行说明 — 2026年3月 — Marketo文档 — 产品文档
-title: 发行说明 — 2026年2月
+title: 发行说明 — 2026年3月
 feature: Release Information
-source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
+source-wordcount: '533'
+ht-degree: 18%
 
 ---
 
@@ -37,10 +37,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer — 片段中的可编辑HTML组件</strong>：在可视片段中，通过组件属性面板支持图像、文本和按钮组件上的可编辑字段。对于HTML组件，可编辑字段的配置方式不同，在HTML组件本身的源代码中使用基于变量的语法。
-   </td>
+   <td><strong>电子邮件Designer — 片段中的可编辑HTML组件</strong>：在可视片段中，通过组件属性面板支持图像、文本和按钮组件上的可编辑字段。 对于HTML组件，可编辑字段的配置方式不同，在HTML组件本身的源代码中使用基于变量的语法。</td>
    <td>已发布</i></td>
-   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">片段中的可编辑HTML组件</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">片段中的可编辑HTML组件</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -48,8 +47,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>向Designer发送电子邮件 — 快速操作</strong>： <i>与旧电子邮件编辑器对等</i>。快速操作现在可用于所有电子邮件Designer资源（电子邮件、电子邮件模板、片段）。支持的快速操作包括：复制、删除、移动、创建/编辑草稿。
-   </td>
+   <td><strong>向Designer发送电子邮件 — 快速操作</strong>： <i>与旧电子邮件编辑器对等</i>。 快速操作现在可用于所有电子邮件Designer资源（电子邮件、电子邮件模板、片段）。 支持的快速操作包括：复制、删除、移动、创建/编辑草稿。</td>
    <td>已发布</i></td>
    <td>不适用</td>
   </tr>
@@ -59,8 +57,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
    <tr>
-   <td><strong>电子邮件Designer - Outlook渲染修复</strong>：此更新修复了渲染问题，尤其是在MS Outlook中。高级HTML模式允许您进行细微的HTML/CSS编辑，或向电子邮件模板添加脚本标记。
-   </td>
+   <td><strong>电子邮件Designer - Outlook渲染修复</strong>：此更新修复了渲染问题，尤其是在MS Outlook中。 高级HTML模式允许您进行细微的HTML/CSS编辑，或向电子邮件模板添加脚本标记。</td>
    <td>已发布</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">使用高级HTML编辑器编辑电子邮件模板</a></td>
   </tr>
@@ -91,7 +88,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hans){target="_blank"}。
+* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API合并潜在客户限制**：从2026年7月31日开始，在合并潜在客户API调用的leadIds参数中包含超过25个ID的调用将导致1080错误代码，并且将跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
 
