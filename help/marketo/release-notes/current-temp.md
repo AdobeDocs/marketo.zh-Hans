@@ -17,22 +17,22 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: 421
-ht-degree: 28%
+source-wordcount: 483
+ht-degree: 22%
 
 ---
 
-# 发行说明：2026年5月 {#release-notes-may-26}
+# 发行说明： 2026年7月#12月 {#release-notes-july-26-one}
 
-在下方，您会找到2026年5月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
+在下面，您会找到2026年7月第一个版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
 
 Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2026年5月22日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2026年7月10日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
 
 <table style="table-layout:auto">
  <tbody>
@@ -42,9 +42,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer — 电子邮件片段的条件内容</strong>： <i>与旧电子邮件编辑器对等</i>。 片段现在支持条件内容。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td><strong>Marketo AI技能 — 产品知识</strong>：通过产品知识，您可以按需访问Marketo专业知识，而无需离开平台。 使用简单的语言提问，Marketo人工智能就会利用Adobe的官方文档来回答这个问题。</td>
+   <td>开放Beta版</td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Marketo AI概述</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,10 +52,21 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Picklist管理</strong>：您现在可以指定可以在Marketo Engage的字段中使用的值。
-   </td>
+   <td><strong>Marketo AI技能 — 调查潜在客户</strong>：了解为什么特定人员/潜在客户未达到里程碑（如MQL、计划资格或营销活动），并对所发生的情况获得直白的解释。
+</td>
+   <td>开放Beta版</td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Marketo AI概述</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>电子邮件Designer - AI助手上下文菜单</strong>：现在可以从上下文菜单（黑色栏）访问Email Designer的AI助手功能。 例如，当您选择文本内容时，AI助手图标会出现在上下文菜单中，允许您从该处执行快速操作。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
+  </tr>
   </tr>
   </tbody>
 </table>
@@ -63,17 +74,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **社交功能弃用字段**：在2025年，Marketo Engage弃用了以下社交功能：
-
-   * 投票
-   * 社交按钮
-   * 推荐优惠
-   * 分享视频
-   * 抽奖活动
-
-今年早些时候，剩下的相关油田从Marketo被移除。 不久，引用某些与社交相关的潜在客户字段的API请求返回“字段未找到”错误，导致中断。 在受影响的字段再次可用后，服务已恢复，因此为防止进一步中断，Marketo已将Social字段与Social功能永久性分离（因此，将在您的Marketo帐户中提供）。 建议用户审查引用Marketo Social相关字段的API查询和集成，并确定这些字段是否仍为持续业务流程所必需。
-
 * **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年7月31日之后不可用。 所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+
+* **REST API合并潜在客户限制**：从2026年7月31日开始，在合并潜在客户API调用的leadIds参数中包含超过25个ID的调用将导致1080错误代码，并且将跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
 
 * **SOAP API弃用**：对Marketo SOAP API的支持将于2026年7月31日终止。 使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
