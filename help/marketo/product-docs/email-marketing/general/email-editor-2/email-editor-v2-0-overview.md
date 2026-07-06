@@ -5,14 +5,12 @@ title: 电子邮件编辑器 v2.0 概述
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
 workflow-type: tm+mt
-source-wordcount: 429
-ht-degree: 78%
+source-wordcount: 453
+ht-degree: 70%
 
 ---
 
@@ -24,31 +22,31 @@ ht-degree: 78%
 >
 >虽然没有确切日期，但经典电子邮件编辑器最终将被弃用（我们将宣布有确切日期）。 强烈建议开始采用高级[Email Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}，因为它具有许多经典编辑器中不可用的功能。
 
-**电子邮件模板选择器**
+## 电子邮件模板选取器 {#email-template-picker}
 
 创建新电子邮件时，您将转到[电子邮件模板选取器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)。
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**电子邮件编辑器**
+## 电子邮件编辑器 {#email-editor}
 
 开始编辑电子邮件时，您会注意到编辑器采用了全新的界面设计。
 
 ![](assets/email-editor-v2-overview-2.png)
 
-**模块**
+### 模块 {#modules}
 
 编辑器右侧显示的这些内容称为模块。 了解如何[将模块添加到电子邮件中](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)。
 
 ![](assets/email-editor-v2-overview-3.png)
 
-**文本版本**
+### 文本版本 {#text-version}
 
 现在，您可以通过底部的便捷选项卡在电子邮件的 HTML 版本和文本版本之间进行切换。 了解如何[编辑电子邮件的文本版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**电子邮件页眉**
+### 电子邮件标题 {#email-header}
 
 想要更多设计空间吗？ 电子邮件标头在您完成[编辑后](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)可以隐藏。 只需点击该图标…
 
@@ -58,7 +56,7 @@ ht-degree: 78%
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**预览电子邮件**
+### 预览电子邮件 {#preview-your-email}
 
 默认情况下，电子邮件会以桌面端显示效果进行展示，如高亮显示的蓝色图标所示。 如果点击其右侧的图标…
 
@@ -80,7 +78,7 @@ ht-degree: 78%
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**[!UICONTROL Email Actions]**
+## 电子邮件操作 {#email-actions}
 
 在 **[!UICONTROL Email Actions]** 下，您会注意到一些新功能。 **[!UICONTROL Upload an Image or File]** 和 **[!UICONTROL Grab Images from Web]**。 您还可以将当前电子邮件保存为新的电子邮件模板。 只需为其指定名称和保存位置即可。
 
@@ -94,11 +92,17 @@ ht-degree: 78%
 >
 >**[[!UICONTROL Grab Images from Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** 的工作方式与 [!UICONTROL Design Studio] 中相同。
 
-**[!UICONTROL Disable Open Tracking]** 在 **[!UICONTROL Edit Settings]** 下，您可以根据需要禁用打开追踪。
+## 电子邮件设置 {#email-settings}
+
+从各种其他设置中进行选择，这些设置允许您自定义电子邮件。
+
+### 禁用打开跟踪
+
+在&#x200B;**[!UICONTROL Edit Settings]**&#x200B;下，您可以根据需要禁用打开跟踪。
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**[!UICONTROL Edit Settings]**
+### 添加预编译标头 {#add-a-preheader}
 
 您可以选择添加 [!UICONTROL Preheader]。 [!UICONTROL Preheader] 是在收件箱中查看电子邮件时，显示在主题行后的一小段摘要文本。
 
