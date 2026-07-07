@@ -4,7 +4,7 @@ title: AWS迁移
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
+source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 2%
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 您将在迁移前约30天收到电子邮件以及应用程序内通知。 使用本指南进行准备。
 
-## 建议的操作
+## 建议的操作 {#actions}
 
 在迁移期间，所有Marketo Engage服务将不可用。 我们建议您采取以下步骤来减轻对您的业务产生的任何影响。
 
@@ -31,9 +31,9 @@ ht-degree: 2%
 
 * **审核并更新IP**&#x200B;登录、API访问、电子邮件发送、Web跟踪和集成。
 
-* **添加新IP地址**&#x200B;并保留您当前的IP不变。 通过下面[&#128279;](#ip-addresses)的表查看要添加的IP地址。
+* **添加新IP地址**&#x200B;并保留您当前的IP不变。 通过下面](#ip-addresses)的[表查看要添加的IP地址。
 
-## 预期的服务影响
+## 预期的服务影响 {#impacts}
 
 您无需对以下影响执行任何操作。
 
@@ -93,7 +93,7 @@ ht-degree: 2%
    <td>上午10:00（太平洋夏令时间）<br>
    上午11:00（太平洋夏令时间）</td>
   </tr>
-  &lt;/body>
+  </body>
 </table>
 
 ## 要添加的IP地址 {#ip-addresses}
@@ -118,9 +118,9 @@ ht-degree: 2%
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
-## 更新和支持
+## 更新和支持 {#support}
 
-有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}中的支持门户联系Adobe支持部门。
+有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}中的支持门户联系Adobe支持部门。
