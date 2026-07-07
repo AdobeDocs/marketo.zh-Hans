@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: f5f3d0cf1068c09308388dd1455666d5ac3555b6
 workflow-type: tm+mt
-source-wordcount: '8902'
+source-wordcount: '8906'
 ht-degree: 96%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [Classic图标术语表](getting-started/things-to-know/classic-icon-glossary.md)
       + [帮助中心](getting-started/things-to-know/help-center.md)
       + [订阅系统状态通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[产品知识的AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 产品知识的{hide-from-toc}[AI助手](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[AWS迁移](getting-started/things-to-know/aws-migration.md)
       + {hide-from-toc}[新UI](getting-started/things-to-know/new-ui.md)
    + 快速上手 {#quick-wins}
@@ -1011,6 +1011,7 @@ ht-degree: 96%
          + [电子邮件协作](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [电子邮件Designer的AI助手](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [使用 SpamAssassin 生成电子邮件垃圾报告](product-docs/email-marketing/email-designer/spam-report.md)
+         + {hide-from-toc}[CNIL打开跟踪指南](product-docs/email-marketing/email-designer/cnil-guidance.md)
       + 电子邮件项目 {#email-programs}
          + 创建电子邮件项目 {#creating-an-email-program}
             + [创建电子邮件项目](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
