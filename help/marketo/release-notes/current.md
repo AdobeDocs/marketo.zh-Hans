@@ -4,21 +4,13 @@ title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 14cdc585c2c5b972dd3743c5eb3e253a8a91f608
 workflow-type: tm+mt
-source-wordcount: 483
+source-wordcount: 481
 ht-degree: 22%
 
 ---
@@ -41,9 +33,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI技能 — 产品知识</strong>：通过产品知识，您可以按需访问Marketo专业知识，而无需离开平台。 使用简单的语言提问，Marketo人工智能就会利用Adobe的官方文档来回答这个问题。</td>
+   <td><strong>Marketo AI技能 — 产品知识</strong>：产品知识可让您按需访问Marketo专业知识，而无需离开平台。 使用简单的语言提问，Marketo人工智能就会利用Adobe的官方文档来回答这个问题。</td>
    <td>开放Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Marketo AI概述</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">产品知识</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -51,10 +43,10 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Marketo AI技能 — 调查潜在客户</strong>：了解为什么特定人员/潜在客户未达到里程碑（如MQL、计划资格或营销活动），并对所发生的情况获得直白的解释。
+   <td><strong>Marketo AI技能 — 调查潜在客户</strong>：了解为什么特定人员/潜在客户未达到里程碑（如MQL、计划资格或营销活动），并简单解释所发生的情况。
 </td>
    <td>开放Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Marketo AI概述</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">调查潜在客户</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -79,4 +71,4 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **SOAP API弃用**：对Marketo SOAP API的支持将于2026年7月31日终止。 使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
-* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标静态列表包含10,000个或更多潜在客户，则对Get Lead活动和包含`listId`参数的Get Lead Changes端点的调用将返回1003错误代码。 有关详细信息，请参阅[迁移指南](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标静态列表包含10,000个或更多潜在客户，则对Get Lead活动和包含`listId`参数的Get Lead Changes端点的调用将返回1003错误代码。 有关详细信息，请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
