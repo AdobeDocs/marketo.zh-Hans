@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 第2步：填充同意字段 {#populate}
 
-1. 通过数据导入（API同步或[CSV上传](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）为每个人设置电子邮件像素跟踪字段值。
+1. 通过数据导入（API同步或[CSV上传](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）为每个人设置电子邮件像素跟踪字段值。
 
    ![](assets/cnil-3.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 步骤4：配置Smart Campaign {#smart-campaign}
 
-[创建Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}以确定每个人收到的电子邮件。
+[创建Smart Campaign](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}以确定每个人收到的电子邮件。
 
 1. 在Smart Campaign的&#x200B;_流程_&#x200B;选项卡中，插入&#x200B;**发送电子邮件**&#x200B;流程步骤。
 
