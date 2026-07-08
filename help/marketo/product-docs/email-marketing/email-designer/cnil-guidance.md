@@ -1,21 +1,20 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: CNIL指导合规性 — 条件电子邮件打开跟踪
+title: CNIL指南 — 条件电子邮件打开跟踪
 description: 了解如何使用自定义布尔字段配置Marketo Engage以符合CNIL要求，从而根据每个人的同意状态路由电子邮件打开跟踪。
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: b8d1872fc697e42a82675a2b45ce01f21bb83edd
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
 
-# CNIL指导合规性：条件电子邮件打开跟踪 {#cnil}
+# CNIL指南：有条件的电子邮件打开跟踪 {#cnil}
 
-了解如何根据CNIL准则(COMMUNITY LINK)，配置Marketo Engage以遵循最终用户对电子邮件打开（像素）跟踪的同意。 该方法使用自定义布尔字段确定用户将收到的电子邮件变体，一个是启用了打开跟踪的变体，一个是禁用了打开跟踪的变体。
+了解如何根据[CNIL准则](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=zh-Hans){target="_blank"}，配置Marketo Engage以遵循最终用户对电子邮件打开（像素）跟踪的同意。 该方法使用自定义布尔字段确定用户将收到的电子邮件变体，一个是启用了打开跟踪的变体，一个是禁用了打开跟踪的变体。
 
 ## 步骤1：创建自定义布尔字段 {#custom-field}
 
