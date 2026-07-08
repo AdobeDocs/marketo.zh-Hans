@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # CNIL指南：有条件的电子邮件打开跟踪 {#cnil}
 
-了解如何根据[CNIL准则](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632){target="_blank"}，配置Marketo Engage以遵循最终用户对电子邮件打开（像素）跟踪的同意。 该方法使用自定义布尔字段确定用户将收到的电子邮件变体，一个是启用了打开跟踪的变体，一个是禁用了打开跟踪的变体。
+了解如何根据[CNIL准则](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=zh-Hans){target="_blank"}，配置Marketo Engage以遵循最终用户对电子邮件打开（像素）跟踪的同意。 该方法使用自定义布尔字段确定用户将收到的电子邮件变体，一个是启用了打开跟踪的变体，一个是禁用了打开跟踪的变体。
 
 ## 步骤1：创建自定义布尔字段 {#custom-field}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 第2步：填充同意字段 {#populate}
 
-1. 通过数据导入（API同步或[CSV上传](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）为每个人设置电子邮件像素跟踪字段值。
+1. 通过数据导入（API同步或[CSV上传](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）为每个人设置电子邮件像素跟踪字段值。
 
    ![](assets/cnil-3.png)
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 步骤4：配置Smart Campaign {#smart-campaign}
 
-[创建Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}以确定每个人收到的电子邮件。
+[创建Smart Campaign](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}以确定每个人收到的电子邮件。
 
 1. 在Smart Campaign的&#x200B;_流程_&#x200B;选项卡中，插入&#x200B;**发送电子邮件**&#x200B;流程步骤。
 
