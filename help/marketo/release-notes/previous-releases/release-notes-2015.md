@@ -1,38 +1,13 @@
 ---
-title: "2015"
+title: 2015
 description: 2015 - Marketo文档 — 产品文档
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: c954475c-8548-4e33-a0b8-6b550d956115
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: c954475c-8548-4e33-a0b8-6b550d956115id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: df8eb12b-4f82-491f-acbb-d74012ca5654id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c18d9e03-ac7d-4811-9c92-3e92ddc70adeid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2862
+source-wordcount: 2865
 ht-degree: 1%
 
 ---
@@ -50,7 +25,7 @@ ht-degree: 1%
 
 您现在可以从登陆页面编辑器中[构建登陆页面的移动视图](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)。 无论使用什么设备，您都可以有效地传递您的消息，并通过定制内容以方便移动使用，从而增加参与度。 此功能将在版本发布后的一周内逐步推出。
 
-[&#x200B; — 登陆页面演练视频 — &#x200B;](https://youtu.be/aPQHlG2X6c0)
+[ — 登陆页面演练视频 — ](https://youtu.be/aPQHlG2X6c0)
 
 **个新的REST API调用**
 
@@ -60,7 +35,7 @@ ht-degree: 1%
 * 按项目ID获取潜在客户
 * 获取已删除的潜在客户
 
-此外，还为Sync Lead提供了一个新选项，用于异步写入潜在客户更改以实现更快的API调用。 发布后，可在[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
+此外，还为Sync Lead提供了一个新选项，用于异步写入潜在客户更改以实现更快的API调用。 发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
 
 **电子邮件脚本自定义对象支持**
 
@@ -91,7 +66,7 @@ ht-degree: 1%
 1. 不具有CDN的异步标记
 1. 不带CDN的同步标记
 
-为获得最佳性能，建议在`<head>`之后将标记放在网页标题的顶部。 所有标记都允许使用[RTP API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 有关如何部署RTP标记的信息，请参阅[此处](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
+为获得最佳性能，建议在`<head>`之后将标记放在网页标题的顶部。 所有标记都允许使用[RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。 有关如何部署RTP标记的信息，请参阅[此处](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)。
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -161,9 +136,9 @@ ht-degree: 1%
 
 ## 新资产REST API {#new-asset-rest-apis}
 
-[新资产REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/assets)
+[新资产REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我们现在支持通过API [&#128279;](https://developer.adobe.com/marketo-apis/api/asset/)创建和编辑电子邮件、模板、我的令牌、文件和代码片段！
+我们现在支持通过API ](https://developer.adobe.com/marketo-apis/api/asset/)创建和编辑电子邮件、模板、我的令牌、文件和代码片段[！
 
 ## [!DNL Microsoft Dynamics] 2015年内部部署 {#microsoft-dynamics-on-premise}
 
@@ -267,7 +242,9 @@ RTP： [拖放区段编辑器](/help/marketo/product-docs/web-personalization/us
 
 2015年6月版本中包含以下功能。 请检查您的Marketo版本以了解功能可用性。 发布后，请务必返回以查找每个功能的详细文章链接！
 
-## [归因电子邮件报告](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## 归因电子邮件报表 {#attribution-email-report}
+
+[归因电子邮件报表](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 查看个性化的价值以及推荐的内容为您的营销活动提供的内容。 [归因电子邮件报表](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)显示从RTP的个性化和推荐的内容营销活动归因的直接和辅助潜在客户。 在RTP的用户设置和电子邮件报表中，添加归因电子邮件报表，以接收每月或每季的电子邮件。
 
@@ -281,7 +258,8 @@ RTP： [拖放区段编辑器](/help/marketo/product-docs/web-personalization/us
 
 ## 富文本编辑器更新 {#rich-text-editor-update}
 
-更新了具有现代外观和风格的文本编辑器，包括简化的文本格式、图像编辑、链接插入和HTML编辑。 HTML编辑器现在具有极少的验证功能，允许进行限制性较少的代码编辑。`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>`此更新将在7月发布后的几天内自动推出。 之后，您将能够从&#x200B;**[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;在编辑器的新版本和旧版本之间进行切换。
+更新了具有现代外观和风格的文本编辑器，包括简化的文本格式、图像编辑、链接插入和HTML编辑。 HTML编辑器现在具有极少的验证功能，允许进行限制性较少的代码编辑。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>`此更新将在7月发布后的几天内自动推出。 之后，您将能够从&#x200B;**[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;在编辑器的新版本和旧版本之间进行切换。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -347,7 +325,7 @@ RTP： [拖放区段编辑器](/help/marketo/product-docs/web-personalization/us
 
 ## [!DNL Google Chrome]的Marketo分析 {#marketo-insights-for-google-chrome}
 
-[&#x200B; [!DNL Google Chrome]的Marketo分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[ [!DNL Google Chrome]的Marketo分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 我们很高兴地宣布发布[!DNL Google Mail] [!DNL Sales Insight]扩展的更新！ 在[[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中查看它。
 
