@@ -4,10 +4,10 @@ title: AWS迁移
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 7f91d1423f25ba0e1572673cbd55099b0000cb03
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 2%
+source-wordcount: '459'
+ht-degree: 6%
 
 ---
 
@@ -51,9 +51,10 @@ ht-degree: 2%
 <table>
  <tbody>
   <tr>
-   <th style="width:50%">日期</th>
-   <th style="width:20%">数据中心/面板</th>
-   <th style="width:30%">时间</th>
+   <th style="width:25%">日期</th>
+   <th style="width:25%">数据中心/面板</th>
+   <th style="width:25%">时间</th>
+   <th style="width:25%">状态</th>
   </tr>
   <tr>
    <td>2026年7月8日</td>
@@ -61,21 +62,26 @@ ht-degree: 2%
    AB64</td>
    <td>下午5点（太平洋夏令时间）<br>
    下午6点（太平洋夏令时间）</td>
+   <td>已完成<br>
+   已完成</td>
   </tr>
   <tr>
    <td>2026年7月9日</td>
    <td>AB70</td>
    <td>下午5点（太平洋夏令时间）</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年7月11日</td>
    <td>AB46</td>
    <td>上午10:00（太平洋夏令时间）</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年7月13日</td>
    <td>NLD101</td>
    <td>上午10:00（太平洋夏令时间）</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年7月15日</td>
@@ -83,6 +89,8 @@ ht-degree: 2%
    NLD104</td>
    <td>上午10:00（太平洋夏令时间）<br>
    上午11:00（太平洋夏令时间）</td>
+   <td>按计划进行<br>
+   按计划</td>
   </tr>
   <tr>
    <td>2026年7月17日</td>
@@ -90,6 +98,8 @@ ht-degree: 2%
    NLD105</td>
    <td>上午10:00（太平洋夏令时间）<br>
    上午11:00（太平洋夏令时间）</td>
+   <td>按计划进行<br>
+   按计划</td>
   </tr>
   <tr>
    <td>2026年7月21日</td>
@@ -97,16 +107,20 @@ ht-degree: 2%
    AB56</td>
    <td>下午5点（太平洋夏令时间）<br>
    下午6点（太平洋夏令时间）</td>
+   <td>按计划进行<br>
+   按计划</td>
   </tr>
   <tr>
    <td>2026年7月23日</td>
    <td>AB48</td>
    <td>下午5点（太平洋夏令时间）</td>
+   <td>按计划进行</td>
   </tr>
   <tr>
    <td>2026年7月31日</td>
    <td>AB43</td>
    <td>下午3点（太平洋夏令时间）</td>
+   <td>按计划进行</td>
   </tr>
   <tr>
    <td>2026年8月12日</td>
@@ -114,10 +128,13 @@ ht-degree: 2%
    AB17</td>
    <td>下午3点（太平洋夏令时间）<br>
    下午4点（太平洋夏令时间）</td>
+   <td>按计划进行<br>
+   按计划</td>
   </tr>
   <td>2026年8月13日</td>
    <td>AB68</td>
    <td>下午4点（太平洋夏令时间）</td>
+   <td>按计划进行</td>
   </tr>
   </body>
 </table>
