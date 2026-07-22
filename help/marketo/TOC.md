@@ -1119,7 +1119,7 @@ ht-degree: 96%
       + [调查潜在客户](product-docs/marketo-ai/skills/investigate-leads.md)
       + [导入潜在客户](product-docs/marketo-ai/skills/import-leads.md)
       + [验证程序](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket连接](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
