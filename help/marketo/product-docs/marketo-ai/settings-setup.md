@@ -3,9 +3,9 @@ description: 了解如何启用Marketo AI权限、配置组织规则以及管理
 title: 设置和设置
 badge: beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '535'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 2%
 
 ## 设置 {#settings}
 
-1. 在“我的Marketo”中，单击&#x200B;**Marketo AI**&#x200B;图块。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Marketo AI]**&#x200B;磁贴。
 
    ![](assets/settings-setup-7.png)
 
