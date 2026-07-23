@@ -14,9 +14,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 656
+source-wordcount: 663
 ht-degree: 17%
 
 ---
@@ -39,8 +39,8 @@ ht-degree: 17%
 
 * **已更新新版UX中的Screens**：新版UX（以前称为下一代体验）中，我们将提供额外的刷新屏幕，这些屏幕提供更新的设计和可用性增强功能，可通过切换开关进行访问：
 
-   * 代码段列表视图
-   * 登录页面模板列表
+  * 代码段列表视图
+  * 登录页面模板列表
 
   <table>
   <tr>
@@ -49,7 +49,7 @@ ht-degree: 17%
   </tr>
   <tr>
    <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切换开关</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/home">切换开关</a></td>
   </tr>
   </tbody>
 

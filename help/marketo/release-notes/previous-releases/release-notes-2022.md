@@ -25,9 +25,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4254
+source-wordcount: 4283
 ht-degree: 6%
 
 ---
@@ -50,8 +50,8 @@ ht-degree: 6%
 
 * **更新了新一代体验中的Screens**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
-   * [!UICONTROL Design Studio]中的登陆页面资产详细信息
-   * [!UICONTROL Marketing Activities]中的登陆页面资产详细信息
+  * [!UICONTROL Design Studio]中的登陆页面资产详细信息
+  * [!UICONTROL Marketing Activities]中的登陆页面资产详细信息
 
 ## [!DNL Microsoft Dynamics]集成 {#microsoft-dynamics-integration}
 
@@ -129,7 +129,7 @@ ht-degree: 6%
 
 ## 跨渠道编排
 
-* **[!DNL Dynamic Chat]**：通过主动、主动和1:1次个性化对话，将潜在客户和客户都定位到一起，从而最大限度地利用您网站上的每一个机会。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}允许Marketo Engage用户开始将聊天用作B2B营销和销售用例的集成式跨渠道体验的关键部分。 功能包括：直接在聊天中预约会议、潜在客户路由、入门模板、拖放式对话创建等。 Dynamic Chat包含在所有Marketo Engage包中，并将于今年向所有Marketo Engage用户推出。
+* **[!DNL Dynamic Chat]**：通过主动、主动和1:1的个性化对话，针对潜在客户和客户，最大限度地利用您网站上的每一个机会。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}允许Marketo Engage用户开始将聊天用作B2B营销和销售用例的集成式跨渠道体验的关键部分。 功能包括：直接在聊天中预约会议、潜在客户路由、入门模板、拖放式对话创建等。 Dynamic Chat包含在所有Marketo Engage包中，并将于今年向所有Marketo Engage用户推出。
 
 * **电子邮件机器人活动筛选增强功能**：作为以前发布的[电子邮件机器人活动筛选](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}功能的增强功能，您现在可以选择加入标识为机器人的日志记录活动。 然后，您可以根据被识别为机器人正在执行的活动过滤和触发操作。
 
@@ -137,7 +137,7 @@ ht-degree: 6%
 
 * **更新了新一代体验中的Screens**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
-   * [!UICONTROL Design Studio]中的表单列表视图（包括新的批量操作）
+  * [!UICONTROL Design Studio]中的表单列表视图（包括新的批量操作）
 
 * **导入程序工作流更新**：导入程序工作流将在下一代体验中交付，并包含更新的设计和可用性增强功能。 这将是一个无需切换开关的自动更改。
 
@@ -275,8 +275,8 @@ ht-degree: 6%
 
 **新的切换开关视图**：以下视图现在可在下一代体验中使用：
 
-* [电子邮件详情视图](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [电子邮件列表视图](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [电子邮件详情视图](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/home){target="_blank"}
+* [电子邮件列表视图](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/home){target="_blank"}
 
 ## 体验自动化
 
@@ -340,10 +340,10 @@ ht-degree: 6%
 
 * **在移动对话框中显示目标文件夹的文件夹层次结构**：查看每个文件夹的文件夹层次结构可简化移动资产的过程，并降低将资产放入错误文件夹的可能性。
 
-* **[更新了新一代体验中的Screens](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
+* **[更新了新一代体验中的Screens](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/home){target="_blank"}**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
-   * 代码片段详细信息
-   * “图像和文件”详细信息
+  * 代码片段详细信息
+  * “图像和文件”详细信息
 
 >[!NOTE]
 >
@@ -433,8 +433,8 @@ ht-degree: 6%
 
 * **更新了新一代体验中的Screens**：我们将在新一代体验中提供其他更新的屏幕，这些屏幕提供了可通过切换开关访问的最新设计和可用性增强功能：
 
-   * 登录页面模板详情
-   * 电子邮件模板列表
+  * 登录页面模板详情
+  * 电子邮件模板列表
 
 <table>
   <tr>
@@ -443,7 +443,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>已发布</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切换开关</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/home">切换开关</a></td>
   </tr>
   </tbody>
 </table>
