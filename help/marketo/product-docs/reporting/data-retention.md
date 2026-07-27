@@ -93,7 +93,7 @@ Marketo以滚动方式保留营销活动数据。 活动和促销活动会员资
 
 ## 导出数据
 
-Marketo提供了[批量提取REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract)，可让您导出人员活动并将其存储在本地。 一旦通过API提取数据，您就可以根据需要对用例进行存储和排序。
+Marketo提供了[批量提取REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract)，可让您导出人员活动并将其存储在本地。 一旦通过API提取数据，您就可以根据需要对用例进行存储和排序。
 
 >[!TIP]
 >
