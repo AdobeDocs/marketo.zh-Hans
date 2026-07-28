@@ -4,10 +4,10 @@ title: AWS迁移
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 5%
+source-wordcount: '531'
+ht-degree: 6%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 5%
 
 ## 计划 {#schedule}
 
-新的日期和数据中心/面板信息会定期添加，因此请务必返回此处查看详细信息。
+新的日期和数据中心/面板信息会定期添加或更改，因此请监视此计划的更新。
 
 <table>
  <tbody>
@@ -150,6 +150,24 @@ ht-degree: 5%
    AB44</td>
    <td>下午5点（太平洋夏令时间）<br>
    下午6点（太平洋夏令时间）</td>
+   <td>按计划进行<br>
+   按计划</td>
+  </tr>
+  <tr>
+   <td>2026年8月26日</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>下午5点（太平洋夏令时间）<br>
+   下午6点（太平洋夏令时间）</td>
+   <td>按计划进行<br>
+   按计划</td>
+  </tr>
+  <tr>
+   <td>2026年8月28日</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>下午3点（太平洋夏令时间）<br>
+   下午4点（太平洋夏令时间）</td>
    <td>按计划进行<br>
    按计划</td>
   </tr>
