@@ -3,9 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+nudge: toc
+source-git-commit: 6fc98c8f6a47c184831964e5613aa9bd05e9b737
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 96%
 
 ---
@@ -163,6 +164,7 @@ ht-degree: 96%
       + [营销活动检查器](product-docs/administration/settings/campaign-inspector.md)
       + [更改分析的归因设置](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [为人员详情页创建自定义选项卡](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+      + {hide-from-toc}[在存档上禁用智能营销活动](product-docs/administration/settings/disable-smart-campaigns-archive.md)
       + [编辑“请勿跟踪”浏览器支持设置](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
       + [编辑登录页面设置](product-docs/administration/settings/edit-landing-page-settings.md)
       + [编辑报告和警报中的链接过期时间](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
