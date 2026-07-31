@@ -1,9 +1,8 @@
 ---
 description: 探索旨在自动执行营销任务（如项目QA、商机导入、数据标准化等）的Marketo AI代理套件。
 title: Marketo AI概述
-badge: beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f500c305c3e5c1331e9bb34c01cfec5974cf329e
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -16,7 +15,7 @@ Marketo AI提供代理技能，旨在自动执行耗时但重要的营销功能�
 
 >[!AVAILABILITY]
 >
->此功能当前处于公开测试阶段。 要请求访问权限，请联系您的帐户管理员。 您还必须同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 Marketo AI目前仅针对英语进行了优化。
+>此功能适用于所有订阅。 如果您在“我的Marketo”屏幕上看不到Marketo人工智能拼贴，请联系您的客户经理。 您还必须同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
 
 >[!IMPORTANT]
 >
@@ -64,4 +63,4 @@ Marketo AI提供代理技能，旨在自动执行耗时但重要的营销功能�
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP服务器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hans){target="_blank"}充当您的AI助手与Marketo Engage之间的桥梁。
+>[Marketo Engage MCP服务器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}充当您的AI助手与Marketo Engage之间的桥梁。

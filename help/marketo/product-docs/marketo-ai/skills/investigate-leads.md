@@ -1,10 +1,9 @@
 ---
 description: Investigate销售线索代理回答了营销人员最常提出的问题。 它比手动查看活动日志、智能活动历史记录和评分记录更快、更可靠。
 title: 调查潜在客户
-badge: beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -13,15 +12,9 @@ ht-degree: 0%
 
 了解为什么特定人员/商机未达到里程碑（如MQL、计划资格或营销活动），并简单解释所发生的情况。
 
->[!AVAILABILITY]
+>[!PREREQUISITES]
 >
->此功能当前处于公开测试阶段。 要请求访问权限，请联系您的帐户管理员。 您还必须同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
->
->* 您必须对人员/潜在客户记录以及您正在调查的计划或里程碑具有查看权限。
-
->[!AVAILABILITY]
->
->此功能当前处于公开测试阶段。 如需访问权限，请联系您的帐户管理员。
+>您必须对人员/潜在客户记录以及您正在调查的计划或里程碑具有查看权限。
 
 ## 使用方法 {#how-to-use}
 
