@@ -1,10 +1,9 @@
 ---
 description: 跨关键工作流程（如商机导入、项目QA和数据标准化）查看Marketo AI的数据范围、治理控制和PII注意事项。
 title: Marketo AI数据信息表
-badge: beta
-source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '1454'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---

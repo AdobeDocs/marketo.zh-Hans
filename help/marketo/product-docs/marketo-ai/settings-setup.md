@@ -1,11 +1,10 @@
 ---
 description: 了解如何启用Marketo AI权限、配置组织规则以及管理集成和通知等设置。
 title: 设置和设置
-badge: beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '545'
 ht-degree: 2%
 
 ---
@@ -16,7 +15,7 @@ ht-degree: 2%
 
 >[!AVAILABILITY]
 >
->此功能当前处于公开测试阶段。 要请求访问权限，请联系您的帐户管理员。 您还必须同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
+>此功能适用于所有订阅。 如果您在“我的Marketo”屏幕上看不到Marketo人工智能拼贴，请联系您的客户经理。 您还必须同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
 
 ## 权限和角色 {#permission-and-role}
 
