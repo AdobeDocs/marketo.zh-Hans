@@ -2,9 +2,9 @@
 description: 了解如何使用导入商机代理上传CSV、应用业务规则、映射字段并将商机直接导入Marketo Engage数据库。
 title: 导入潜在客户
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 66029f852408996cf816a3fd9f3e8cc9cc504126
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ ht-degree: 0%
 
    ![](assets/import-leads-3.png)
 
-1. 要开始导入潜在客户，请单击附件图标并通过.CSV文件上传它们。
+1. 要开始导入您的潜在客户，请单击&#x200B;**+**&#x200B;图标，然后选择&#x200B;**上传文件**。 查找并上传您的CSV文件。
 
    ![](assets/import-leads-4.png)
 
-1. 键入“导入列表”并单击&#x200B;**发送**。
+1. 单击向上箭头图标。
 
    ![](assets/import-leads-5.png)
 
-   您的列表将在中心控制台中预览。
+1. 单击&#x200B;**查看**&#x200B;可在中心控制台中查看您的列表。
 
    ![](assets/import-leads-6.png)
 
-1. 输入所需的业务规则并单击&#x200B;**发送**。
+1. 检查可用的业务规则以清理列表。 输入所需的项，然后单击向上箭头图标。
 
    ![](assets/import-leads-7.png)
 
@@ -51,15 +51,14 @@ ht-degree: 0%
 
 1. 要查看映射的字段，请单击&#x200B;**映射**&#x200B;选项卡。
 
-1. 如果有任何字段映射不正确，请在此处修复它们。
+1. 如果有任何字段映射不正确，请通过更改&#x200B;**目标字段**&#x200B;在此处修复它们。
 
    ![](assets/import-leads-9.png)
 
 1. 准备导入列表时，单击&#x200B;**导入到Marketo**&#x200B;选项卡。
 
-1. 选择目标文件夹并输入名称。 选中每个同意框并单击&#x200B;**批准并导入到Marketo**。
+1. 选择目标文件夹并输入名称。 选中每个同意框并单击&#x200B;**开始导入**。
 
    ![](assets/import-leads-10.png)
 
-导入完成后，将显示验证摘要，其中显示已处理的潜在客户、行失败以及任何警告。
-
+   导入完成后，将显示验证摘要，其中显示已处理的潜在客户、行失败以及任何警告。
