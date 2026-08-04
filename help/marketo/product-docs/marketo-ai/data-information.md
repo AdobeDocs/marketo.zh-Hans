@@ -1,9 +1,9 @@
 ---
 description: 跨关键工作流程（如商机导入、项目QA和数据标准化）查看Marketo AI的数据范围、治理控制和PII注意事项。
 title: Marketo AI数据信息表
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 03ad8c4d06e8dd011cd8fb0d49a7f7c436a18c16
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1382'
 ht-degree: 0%
 
 ---
@@ -28,25 +28,33 @@ Marketo AI是Adobe Marketo Engage中的本机代理功能，它使营销运营�
 
 **函数：**&#x200B;处理用户提供的潜在客户数据，以便进行映射、标准化、删除重复项并将其导入Marketo Engage。
 
-### 项目QA
+### 验证程序
 
 **功能：**&#x200B;根据Skill Markdown文件中用户定义的组织规则（如命名标准、审批状态、电子邮件合规性和流逻辑）评估Marketo程序。
 
-### 从简介创建项目
+<!--
 
-**函数：**&#x200B;使用自然语言提示直接在用户环境中生成Marketo项目结构，包括智能营销活动、流程步骤和内容占位符。
+### Create program from brief
 
-### 可调用代理
+**Function:** Uses natural-language prompts to generate Marketo program structures, including smart campaigns, flow steps, and content placeholders, directly within the user's environment.
 
-**函数：**&#x200B;在Smart Campaign流程步骤中执行流程操作触发的AI操作，以用于验证、规范化和机器人检测等用例。
+### Callable agents
 
-### 潜在客户调查
+**Function:** Executes flow action-triggered AI actions within Smart Campaign flow steps for use cases such as validation, normalization, and bot detection.
+
+-->
+
+### 调查潜在客户
 
 **功能：**&#x200B;通过检查流程步骤执行和智能列表成员资格，提供对人员是否进入里程碑的对话分析。
 
-### 测量和分析
+<!--
 
-**功能：**&#x200B;显示营销活动和项目性能分析，包括推荐和根本原因分析。
+### Measurement and analytics
+
+**Function:** Surfaces campaign and program performance analysis, including recommendations and root-cause insights.
+
+-->
 
 ### 产品知识
 
@@ -58,11 +66,9 @@ Marketo AI是Adobe Marketo Engage中的本机代理功能，它使营销运营�
 
 ## 可用性和转出状态
 
-**资格：**&#x200B;初始用户支持仅限于已接受Adobe Gen AI附加程序的合格Marketo Engage用户。
+**资格：**&#x200B;配置仅限于已同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}的Marketo Engage用户。
 
-**配置：**&#x200B;访问通过Marketo Engage Experience中的现有产品启用控件和功能标志配置进行管理。
-
-**转出模型：**&#x200B;在更广泛的公共Beta扩展之前，部署将通过Alpha和Private Beta进行。
+**转出模型：**&#x200B;部署过程先是通过Alpha和Private Beta进行，然后是更广泛的公共Beta扩展，最后是正式发布。
 
 **地理范围：**&#x200B;初始版本面向全球Marketo Engage用户，不包括中国大陆。
 
