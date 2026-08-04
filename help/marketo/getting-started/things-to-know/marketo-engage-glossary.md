@@ -5,43 +5,10 @@ title: Marketo Engage 术语表
 feature: Getting Started
 exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
 TQID: https://experienceleague.adobe.com/PTGIP2b0gv2iYVUC6dXES-Sh2XNeCLZJT-VnWZ5-1Yk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: c954475c-8548-4e33-a0b8-6b550d956115
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: be80ef53-082b-4612-a88f-dfce57d36b02
-  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-  - id: cfb57412-021b-4a60-afde-b402d442e24f
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
-  - id: edda586e-0147-48f2-b791-992622a00783
-  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c2dbad80-0f5c-4d96-a798-2a65f93b8721id: c5f60233-d5ea-4453-a799-0ad258b4d399id: c954475c-8548-4e33-a0b8-6b550d956115id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: ad89fb33-8541-4339-afe7-bb13d1633714id: be80ef53-082b-4612-a88f-dfce57d36b02id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: cfb57412-021b-4a60-afde-b402d442e24fid: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: df8eb12b-4f82-491f-acbb-d74012ca5654id: ea6641cb-8461-4151-a8a9-9faaa44a928aid: edda586e-0147-48f2-b791-992622a00783id: fc5011cf-5b46-40b1-a5de-d7f042f85633id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
 source-wordcount: 6103
@@ -95,7 +62,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong>客户获取计划</strong></td>
-   <td colspan="1">负责获取人员的计划。 此人员可能原本是匿名的，而该计划负责将其转化为已知人员。 这有助于建立首次触达归因。</td>
+   <td colspan="1">负责获取人员的项目。 此人员可能原本是匿名的，而该计划负责将其转化为已知人员。 这有助于建立首次触达归因。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>活动</strong></td>
@@ -188,7 +155,7 @@ ht-degree: 62%
     <div>
      <p><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" rel="nofollow">退回</a></strong></p>
     </div></td>
-   <td>当发送给收件人的电子邮件被退回时的情况。 退回分为硬退回和软退回。 硬退回是在邮件服务器告知 Marketo 无法投递电子邮件时，将人员电子邮件地址视为无效。 软退回表示在投递电子邮件时出现了问题，但该问题会自动解决。 硬退回和软退回都包含<a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">多个类别</a>。</td>
+   <td>当发送给收件人的电子邮件被退回时的情况。 退回分为硬退回和软退回。 当邮件服务器告知 Marketo 该人员的电子邮件无法投递时，硬退回可能会导致该人员的电子邮件地址变为无效。 软退回表示在投递电子邮件时出现了问题，但该问题会自动解决。 硬退回和软退回都包含<a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">多个类别</a>。</td>
   </tr>
  </tbody>
 </table>
@@ -295,7 +262,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" rel="nofollow">自定义对象</a></strong></td>
-   <td colspan="1">自定义对象可帮助您跟踪特定于业务的量度。</td>
+   <td colspan="1">自定义对象可帮助您跟踪特定于您的业务的量度。</td>
   </tr>
   <tr>
    <td colspan="1">
@@ -343,7 +310,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong>供应能力</strong></td>
-   <td colspan="1">电子邮件到达目标收件人收件箱的能力，可能会受到<strong>垃圾邮件</strong>过滤器和客户端过滤器的影响。 与“已投递”不同，“已投递”仅表示电子邮件已交付给收件人服务器。</td>
+   <td colspan="1">电子邮件到达目标收件人收件箱的能力，可能会受到<strong>垃圾邮件</strong>过滤器和客户端过滤器的影响。 与“已投放”不同，后者仅表示电子邮件已交付给收件人服务器。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>需求开发</strong></td>
@@ -375,7 +342,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domain Keys Identified Mail</a> (DKIM)</strong></td>
-   <td colspan="1">一种保护发件域的身份验证机制，使发件人能够将发件人地址中的域名与特定电子邮件关联。 这使收件人能够确认该电子邮件是由该域的所有者合法发送的。 发件人将在电子邮件的消息头中使用数字签名对邮件进行签署。 收件人可以使用域名所有者在 DNS 中发布的公钥解密该签名，从而确保邮件确实由该域名的所有者合法发送。</td>
+   <td colspan="1">一种保护发件域的身份验证机制，使发件人能够将发件人地址中的域名与特定电子邮件消息相关联。 这使收件人能够确认该电子邮件是由该域的所有者合法发送的。 发件人将在电子邮件的消息头中使用数字签名对邮件进行签署。 收件人可以使用域名所有者在 DNS 中发布的公钥解密该签名，从而确保邮件确实由该域名的所有者合法发送。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>草稿</strong></td>
@@ -697,7 +664,7 @@ ht-degree: 62%
    <td colspan="1">此字段由<strong>用户</strong>手动设置，用于使 Marketo <strong>数据库</strong>中的某人暂时不可邮寄。</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Marketo 潜在客户管理（MLM）</strong></td>
+   <td colspan="1"><strong>Marketo 销售线索管理（MLM）</strong></td>
    <td colspan="1">用于描述 Marketo 经典核心应用程序界面的通俗用语。</td>
   </tr>
   <tr>
@@ -810,7 +777,7 @@ ht-degree: 62%
     <div>
      <p><a href="/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md" rel="nofollow"><strong> 性能洞察</strong></a></p>
     </div></td>
-   <td colspan="1">原称 Marketo 绩效洞察（MPI）。 一项附加分析功能，利用多种工具帮助您发现趋势并识别持续有效的成功策略。</td>
+   <td colspan="1">原称 Marketo 绩效洞察（MPI）。 一项附加组件分析功能，利用多种工具帮助您发现趋势并识别持续有效的成功策略。</td>
   </tr>
   <tr>
    <td><strong>人员</strong></td>
@@ -818,7 +785,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">人员分区</a></strong></td>
-   <td colspan="1">人员分区的作用类似于独立的<strong>数据库</strong>。 每个分区都有自己独立的人员，不会与其他分区去重或混合。</td>
+   <td colspan="1">人员分区的作用类似于独立的<strong>数据库</strong>。 每个分区都有自己独立的人员，这些人员不会与其他分区中的人员去重或混合。</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>用户画像</strong></a></td>
@@ -857,7 +824,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>项目性能报告</strong></a></td>
-   <td colspan="1">Marketo 中的一种报告类型。 它可用于查看项目执行情况。 可按<strong>标记</strong>、<strong>期间成本</strong>等进行筛选。</td>
+   <td colspan="1">Marketo 中的一种报告类型。 它可用于查看您的项目表现如何。 可按<strong>标记</strong>、<strong>期间成本</strong>等进行筛选。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>渐进式配置</strong></td>
@@ -1138,7 +1105,7 @@ ht-degree: 62%
    <td colspan="1">与特定区段关联的定制化反应 在 <strong>Web 个性化</strong>中，web 活动包括<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">对话框</a>、<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">区域内活动</a>和<strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">小组件</a></strong>。</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Web 页面活动报告</a></strong></td>
+   <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">网页活动报告</a></strong></td>
    <td>Marketo 中的一种报告类型。 可让您查看访问您网站的已知<i>或</i>匿名访客。</td>
   </tr>
   <tr>
@@ -1159,7 +1126,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td><strong>所见即所得（WYSIWYG）</strong></td>
-   <td>一个常用术语，指可以在创建过程中实时看到<strong>内容</strong>最终效果的应用程序或编辑器。 Marketo 配备了 WYSIWYG 编辑器。</td>
+   <td>一个常用术语，指可以在创建过程中实时看到<strong>内容</strong>最终效果的应用程序或编辑器。 Marketo 配备了所见即所得编辑器。</td>
   </tr>
   <tr>
    <td><strong>小组件</strong></td>
