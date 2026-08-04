@@ -3,16 +3,20 @@ description: 当您的订阅使用Adobe IMS时，如何在Marketo Engage中创�
 title: 为启用 Adobe IMS 的订阅添加仅限 API 用户
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: cfbc8488d05cb25263fc71501def2ba74f945c0e
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 15%
+source-wordcount: '154'
+ht-degree: 14%
 
 ---
 
 # 为启用 Adobe IMS 的订阅添加仅限 API 用户 {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
 
 虽然Marketo Engage营销用户和管理员在Adobe Admin Console中进行管理，但必须在Marketo Engage中创建和管理仅Marketo Engage API用户。
+
+>[!NOTE]
+>
+>仅API在Marketo Engage UI中创建的用户不计入您的用户分配。
 
 以下步骤描述了如何在Marketo Engage中添加仅API用户。 在执行此操作之前，必须[已建立仅API角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)。
 
