@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 使用 AI 助手
-description: 了解如何使用AI助手将文本和图像添加到电子邮件。 在Email Designer中使用Adobe generative AI获取内容建议。
+title: 在电子邮件Designer中生成内容
+description: 了解如何生成内容以将文本和图像添加到电子邮件。 在Email Designer中使用Adobe generative AI获取内容建议。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
@@ -14,20 +14,20 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
-source-wordcount: 936
+source-wordcount: 914
 ht-degree: 1%
 
 ---
 
-# 电子邮件Designer的AI助手 {#ai-assistant-email-designer}
+# 在电子邮件Designer中生成内容 {#generate-content}
 
-Marketo Engage Email Designer中的AI Assistant可帮助您创建即时、高性能、直观的电子邮件。 这是通过Adobe的创作AI技术和提示库以及图像生成Firefly来实现的，该图像生成可帮助为特定角色/购买群体、营销历程阶段、沟通策略、语调等创建合适的内容。还可以使用特定的品牌资产来创建内容。
+在Marketo Engage Email Designer中生成内容可帮助您创建即时、高性能、直观的电子邮件。 这是通过Adobe的创作AI技术和提示库以及图像生成Firefly来实现的，该图像生成可帮助为特定角色/购买群体、营销历程阶段、沟通策略、语调等创建合适的内容。还可以使用特定的品牌资产来创建内容。
 
 >[!PREREQUISITES]
 >
->默认情况下，未启用AI助手。 您必须首先同意[核心Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在Email Designer中使用Gen-AI功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
+>默认情况下不启用此功能。 您必须首先同意[核心Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在Email Designer中使用Gen-AI功能。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 
 ## 设置权限 {#set-up-permissions}
 
@@ -59,15 +59,13 @@ _在遵循上述先决条件后_，Marketo管理员必须先将访问权限应�
 
 ## 用例 {#use-cases}
 
-AI Assistant有几个主要用例：
-
 * [为您的电子邮件创建主题行和/或预标题](#create-a-subject-line-preheader)
 * [为电子邮件的特定部分](#create-content-for-a-specific-section)创建内容
 * [从选定模板创建整个电子邮件](#create-an-entire-email)
 
 ## 创建主题行/预编译标题 {#create-a-subject-line-preheader}
 
-您可以使用AI Assistant创建主题行和/或预编译标头。
+创建主题行和/或预编译标题。
 
 ![](assets/use-the-ai-assistant-1.png)
 
@@ -75,11 +73,11 @@ AI Assistant有几个主要用例：
 
 使用新建电子邮件Designer创建电子邮件时，输入临时主题行。
 
-创建电子邮件后，主题行位于右侧的&#x200B;_详细信息_&#x200B;列中。 单击它旁边的AI助手按钮（![过滤器图标](assets/icon-ai-assistant.png)）以获取有关使用Gen AI功能创建新主题行的帮助。
+创建电子邮件后，主题行位于右侧的&#x200B;_详细信息_&#x200B;列中。 单击其旁边的“生成内容”按钮（![过滤器图标](assets/icon-ai-assistant.png)）以获得有关使用Gen AI功能创建新主题行的帮助。
 
 ![](assets/use-the-ai-assistant-2.png)
 
-为AI助手启用&#x200B;**使用引用内容**&#x200B;选项，以根据所选内容对新内容进行个性化设置。
+启用&#x200B;**使用引用内容**&#x200B;选项，以根据所选内容对新内容进行个性化设置。
 
 输入提示以自定义主题行。 输入相关文本设置并上传要用作引用的任何品牌资产，以创建相应的主题行。
 
@@ -135,7 +133,7 @@ AI Assistant有几个主要用例：
 
 ![](assets/use-the-ai-assistant-7.png)
 
-在本例中，我们使用财务模板。 如果一个或多个现有图像无法满足您的需求，您可以指示AI助手根据您的描述创建新图像。 选择所需的图像并单击AI助手图标。
+在本例中，我们使用财务模板。 如果一个或多个现有映像不能满足您的需要，您可以根据您的描述创建新映像。 选择所需的图像并单击生成内容图标。
 
 ![](assets/use-the-ai-assistant-8.png)
 
@@ -161,7 +159,7 @@ AI Assistant有几个主要用例：
 
 仅当使用现有模板创建电子邮件时，此选项才可用。 它可以是Email Designer提供的标准模板、已创建的已保存模板或使用“导入HTML”选项导入的模板。 如果您为电子邮件选择[从头开始设计](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch)，则此选项不可用。
 
-选择模板，而不选择模板中的任何组件，然后单击Email Designer中的AI助手按钮。
+选择模板，而不选择模板中的任何组件，然后单击电子邮件Designer中的生成内容按钮。
 
 ![](assets/use-the-ai-assistant-12.png)
 

@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
 workflow-type: tm+mt
-source-wordcount: '8917'
+source-wordcount: '8918'
 ht-degree: 96%
 
 ---
@@ -1011,7 +1011,7 @@ ht-degree: 96%
       + [GenStudio 与 Marketo Engage 的集成](product-docs/email-marketing/email-designer/genstudio.md)
       + [内容锁定](product-docs/email-marketing/email-designer/content-locking.md)
       + [电子邮件协作](product-docs/email-marketing/email-designer/email-collaboration.md)
-      + [电子邮件Designer的AI助手](product-docs/email-marketing/email-designer/ai-assistant.md)
+      + [在电子邮件Designer中生成内容](product-docs/email-marketing/email-designer/generate-content.md)
       + [使用 SpamAssassin 生成电子邮件垃圾报告](product-docs/email-marketing/email-designer/spam-report.md)
       + [CNIL开放跟踪指南](product-docs/email-marketing/email-designer/cnil-guidance.md)
     + 电子邮件项目 {#email-programs}
