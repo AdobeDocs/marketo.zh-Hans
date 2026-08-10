@@ -4,22 +4,14 @@ title: 最新发行说明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 46d547255d27dfe7d176694cf68de0ec99a5773e
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 2b3c872bfdef4b5cd8e80f754609dd0059c164b2
 workflow-type: tm+mt
-source-wordcount: 406
-ht-degree: 28%
+source-wordcount: 434
+ht-degree: 21%
 
 ---
 
@@ -76,8 +68,10 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年8月31日之后不可用。 所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **REST API营销活动运行ID**：对Marketo SOAP API的支持将于2026年7月31日终止。 使用 SOAP API 功能的服务应迁移至 [REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **REST API营销活动运行ID**：在某些情况下，有时在两对引号（例如，`"campaignRunId": ""102938""`）之间返回活动的营销活动运行ID值格式不正确。<br/>从8月版本开始，此值将始终以正确的数字格式(`"campaignRunId": 102938`)返回
 
-* **获取潜在客户活动和获取潜在客户更改的静态列表大小限制**：在某些情况下，有时在两对引号（例如，`"campaignRunId": ""102938""`）之间返回活动的促销活动运行ID值格式不正确。<br/>从8月版本开始，此值将始终以正确的数字格式(`"campaignRunId": 102938`)返回
+* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标列表包含10,000个或更多潜在客户，并且1003错误代码指示目标静态列表包含过多记录，则对Get Lead活动或Get Lead Changes端点（包括`listId`参数）的调用将失败。
+
+请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
 
 * **REST API合并潜在客户限制**：从2026年7月31日起，合并潜在客户API调用的leadIds参数中包含超过25个ID的调用会导致1080错误代码，并跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
