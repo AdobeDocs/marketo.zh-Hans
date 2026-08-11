@@ -3,14 +3,12 @@ description: 了解Marketo Engage中适用于GDPR、CCPA等的隐私管理工具
 title: 隐私管理
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 TQID: https://experienceleague.adobe.com/MzzRnGGXqzNNFzl2VYU0fZDsdyqhKqJ5BDwfdw1fQaY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 2cfe050fe4844f44815b9842cffafa4c1eb37c13
 workflow-type: tm+mt
-source-wordcount: 439
-ht-degree: 0%
+source-wordcount: 268
+ht-degree: 4%
 
 ---
 
@@ -26,19 +24,11 @@ Marketo Engage提供一套工具来帮助您遵守隐私法规。
 >
 >**— 或 —**
 >
->* Marketo Engage用户使用Adobe Identity Management System中已存在的其他Experience Cloud产品（例如RT-CDP、B2B和B2P版本、Audience Manager）。
+>* Marketo Engage用户使用Adobe Identity Management System上已存在的其他Experience Cloud产品（例如，RT-CDP、B2B和B2P版本、Audience Manager）。
 
 ## 隐私管理法规 {#regulations-on-privacy-management}
 
-Marketo Engage的功能帮助您遵守以下法规：
-
-* **[!DNL GDPR]** [通用数据保护条例](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en)是欧盟(EU)的隐私法律，旨在协调欧盟国家或地区的数据保护要求并使之现代化。
-* **[!DNL CCPA]** [加州消费者隐私法案](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=)为加利福尼亚州居民提供与其个人信息相关的权利，并对在加利福尼亚开展业务的特定实体施加数据保护责任。
-* **[!DNL PDPA]** [个人数据保护法案](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/)是隐私法律，旨在协调泰国的数据保护要求并使之现代化。
-* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf)自2021年初生效，适用于巴西境内所有收集或处理个人数据的公司。
-* **[!DNL NZPA]** [隐私法案2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html)是隐私法律，旨在协调新西兰的数据保护要求并使之现代化。
-
-上述所有法规均适用于为居住在上述地区或国家（欧盟、加利福尼亚、泰国、巴西、新西兰）的持有数据主体的数据的Marketo Engage客户。
+Marketo Engage功能可帮助您遵守多个隐私法规。 有关支持的法规列表，请参阅[隐私法规概述](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/privacy/regulations/overview){target="_blank"}。
 
 ## 访问权与被遗忘权 {#right-to-access-and-right-to-be-forgotten}
 
