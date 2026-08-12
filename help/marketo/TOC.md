@@ -4,7 +4,7 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
+source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
 workflow-type: tm+mt
 source-wordcount: '8918'
 ht-degree: 96%
@@ -993,7 +993,7 @@ ht-degree: 96%
       + [概述](product-docs/email-marketing/email-designer/overview.md)
       + [功能对比](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [电子邮件创作](product-docs/email-marketing/email-designer/email-authoring.md)
-      + {hide-from-toc}[在电子邮件Designer中使用模块](product-docs/email-marketing/email-designer/email-modules.md)
+      + [使用电子邮件设计器中的模块](product-docs/email-marketing/email-designer/email-modules.md)
       + [条件内容](product-docs/email-marketing/email-designer/conditional-content.md)
       + [电子邮件模板创作](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [导入模板](product-docs/email-marketing/email-designer/import-template.md)

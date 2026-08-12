@@ -1,22 +1,21 @@
 ---
 solution: Marketo Engage
 product: Marketo Engage
-title: 在电子邮件Designer中使用模块
+title: 使用电子邮件设计器中的模块
 description: 了解如何在Email Designer中访问、插入和自定义预建模块，包括页眉、英雄和页脚，以实现一致的电子邮件设计。
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-hide: true
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 在电子邮件Designer中使用模块 {#email-modules}
+# 使用电子邮件设计器中的模块 {#email-modules}
 
-Email Designer包括&#x200B;_个模块的库_：现成的完全结构化的内容块，旨在加快电子邮件汇编并提升通信中的设计一致性。
+Email Designer包含一个模块库：现成可用的完全结构化的内容块，旨在加快电子邮件汇编并提升通信中的设计一致性。
 
 与从头开始配置的空占位符[内容组件](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content)不同，模块是预建部分（如品牌标题、产品卡网格或带选择退出链接的页脚），您可以将这些部分直接拖放到画布上并从那里进行自定义。
 

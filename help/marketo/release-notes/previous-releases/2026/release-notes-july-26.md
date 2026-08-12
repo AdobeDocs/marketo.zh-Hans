@@ -2,9 +2,9 @@
 description: 发行说明 — 2026年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2026年7月
 feature: Release Information
-source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '505'
 ht-degree: 20%
 
 ---
@@ -29,7 +29,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>Marketo AI技能 — 产品知识</strong>：产品知识可让您按需访问Marketo专业知识，而无需离开平台。 使用简单的语言提问，Marketo人工智能会利用Adobe的官方文档提供答案。
 </td>
-   <td>开放Beta版</td>
+   <td>已发布</td>
    <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">产品知识</a></td>
   </tr>
   <tr>
@@ -40,8 +40,19 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>Marketo AI技能 — 调查潜在客户</strong>：了解为什么特定人员/潜在客户未达到里程碑（如MQL、计划资格或营销活动），并简单解释所发生的情况。
 </td>
-   <td>开放Beta版</td>
+   <td>已发布</td>
    <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">调查潜在客户</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>向Designer发送电子邮件 — 模块</strong>：您现在可以访问现成的完全结构化的内容块，这些内容块旨在加快电子邮件汇编速度。</td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">使用电子邮件设计器中的模块</a></td>
+  </tr>
   </tr>
   <tr>
    <td> </td>
@@ -51,12 +62,14 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>电子邮件Designer — 生成内容上下文菜单</strong>：现在可以从上下文菜单（黑色栏）访问Email Designer的“生成内容”功能。 例如，当您选择文本内容时，生成内容图标会出现在上下文菜单中，允许您从该处执行快速操作。</td>
    <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+<td><i>即将推出</i></td>
   </tr>
   </tr>
   </tbody>
 </table>
 <br/>
+
+
 
 ## 公告 {#announcements}
 

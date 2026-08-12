@@ -2,11 +2,10 @@
 description: AWS迁移 — Marketo Engage文档 — 产品文档
 title: AWS迁移
 feature: Getting Started
-hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '835'
 ht-degree: 5%
 
 ---
@@ -42,7 +41,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->如果您使用[外部表单](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}并希望在迁移期间保留数据，请联系[Adobe支持](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}，并提供表单ID和您的订阅Munchkin ID。
+>如果您使用[外部表单](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，并且希望避免丢失在Marketo Engage在迁移期间不可用时收集的表单提交数据，请提前联系[Adobe支持](https://experienceleague.adobe.com/zh-hans/support){target="_blank"} **至少两个工作日**，并提供表单ID和您的订阅Munchkin ID。
 
 ## 识别您的数据中心/面板 {#identify}
 
