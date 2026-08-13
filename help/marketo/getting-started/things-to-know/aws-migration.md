@@ -3,9 +3,9 @@ description: AWS迁移 — Marketo Engage文档 — 产品文档
 title: AWS迁移
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+source-git-commit: 78940c808e61be8a702b50df253071182d176942
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '834'
 ht-degree: 5%
 
 ---
@@ -142,8 +142,8 @@ ht-degree: 5%
    AB17</td>
    <td>下午3点（太平洋夏令时间）<br>
    下午4点（太平洋夏令时间）</td>
-   <td>按计划进行<br>
-   按计划</td>
+   <td>已完成<br>
+   已完成</td>
   </tr>
   <tr>
   <td>2026年8月13日</td>
@@ -155,7 +155,7 @@ ht-degree: 5%
   <td>2026年8月18日</td>
    <td>AB39</td>
    <td>下午5点（太平洋夏令时间）</td>
-   <td>按计划进行</td>
+   <td>已延迟（日期待定）</td>
   </tr>
   <tr>
    <td>2026年8月20日</td>
@@ -212,11 +212,11 @@ ht-degree: 5%
    按计划</td>
   </tr>
   <tr>
-   <td>2026年9月18日</td>
+   <td>2026年9月17日</td>
    <td>AB07<br>
    AB08</td>
-   <td>下午3点（太平洋夏令时间）<br>
-   下午4点（太平洋夏令时间）</td>
+   <td>下午5点（太平洋夏令时间）<br>
+   下午6点（太平洋夏令时间）</td>
    <td>按计划进行<br>
    按计划</td>
   </tr>
