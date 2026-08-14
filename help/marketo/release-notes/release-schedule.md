@@ -5,15 +5,12 @@ title: 发行计划
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: eb36cf28856d8f889f39d69825bb2e0046e1b197
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7116fe4f2b7f909e023be05fdb5ad53f9d49cf15
 workflow-type: tm+mt
-source-wordcount: 152
+source-wordcount: 151
 ht-degree: 83%
 
 ---
@@ -60,14 +57,14 @@ _发布日期/功能可能会有所变更_
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">’26年7月</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-july-26.md">’26年7月</a></td>
    <td>2026年7月10日</td>
-   <td>进行中</td>
+   <td>完成</td>
   </tr>
   <tr>
-  <td>’26年8月</td>
+  <td><a href="/help/marketo/release-notes/current.md">’26年8月</a></td>
    <td>2026年8月14日</td>
-   <td>按计划进行</td>
+   <td>进行中</td>
   </tr>
   <tr>
   <td>’26年9月</td>
