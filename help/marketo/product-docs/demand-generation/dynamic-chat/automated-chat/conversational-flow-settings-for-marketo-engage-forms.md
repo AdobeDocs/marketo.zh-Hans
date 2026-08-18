@@ -8,9 +8,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b85314d3e3117a0a4ddd45fa6ebf15963566e716
 workflow-type: tm+mt
-source-wordcount: 281
+source-wordcount: 306
 ht-degree: 1%
 
 ---
@@ -65,7 +65,9 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >将标准逻辑设置为“全部”意味着必须符合每个属性才能符合条件。 标准逻辑设置为“任意”表示任意一个属性都将足够。
+   >* 将标准逻辑设置为“全部”意味着必须符合每个属性才能符合条件。 标准逻辑设置为“任意”表示任意一个属性都将足够。
+   >
+   >* 对于“智能列表的成员”，下拉列表中的值表示属于任何程序的所有智能列表。 它们显示为`<program name>.<smart list name>`。
 
    **可选步骤**：如果添加两个或更多选项，可以通过单击它们的上/下箭头对它们重新排序。
 

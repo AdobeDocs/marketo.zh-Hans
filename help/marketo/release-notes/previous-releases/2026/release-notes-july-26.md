@@ -2,7 +2,7 @@
 description: 发行说明 — 2026年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2026年7月
 feature: Release Information
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 20%
@@ -68,8 +68,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tbody>
 </table>
 <br/>
-
-
 
 ## 公告 {#announcements}
 
