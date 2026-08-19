@@ -2,9 +2,9 @@
 description: 发行说明 — 2026年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2026年7月
 feature: Release Information
-source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
+source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '503'
 ht-degree: 20%
 
 ---
@@ -60,7 +60,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>电子邮件Designer — 生成内容上下文菜单</strong>：现在可以从上下文菜单（黑色栏）访问Email Designer的“生成内容”功能。 例如，当您选择文本内容时，生成内容图标会出现在上下文菜单中，允许您从该处执行快速操作。</td>
+   <td><strong>电子邮件Designer — 生成内容上下文菜单</strong>：现在可以从上下文菜单（黑色栏）访问Email Designer的“生成内容”功能。 例如，当您选择文本内容时，上下文菜单上会显示生成内容图标，允许您执行快速操作。</td>
    <td><i>即将推出</i></td>
 <td><i>即将推出</i></td>
   </tr>
