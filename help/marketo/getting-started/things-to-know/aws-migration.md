@@ -41,7 +41,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->如果您使用[外部表单](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，并且希望避免丢失在Marketo Engage在迁移期间不可用时收集的表单提交数据，请提前联系[Adobe支持](https://experienceleague.adobe.com/en/support){target="_blank"} **至少两个工作日**，并提供表单ID和您的订阅Munchkin ID。
+>如果您使用[外部表单](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，并且希望避免丢失在Marketo Engage在迁移期间不可用时收集的表单提交数据，请提前联系[Adobe支持](https://experienceleague.adobe.com/zh-hans/support){target="_blank"} **至少两个工作日**，并提供表单ID和您的订阅Munchkin ID。
 
 ## 识别您的数据中心/面板 {#identify}
 
@@ -268,7 +268,7 @@ ht-degree: 5%
 
 ## 更新和支持 {#support}
 
-有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}中的支持门户联系Adobe支持部门。
+有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}中的支持门户联系Adobe支持部门。
 
 ## 常见问题解答 {#faq}
 
