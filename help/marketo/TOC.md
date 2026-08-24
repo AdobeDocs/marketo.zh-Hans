@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: ad7e1cef03a03e43198d91a6dd8f30ee3c2a5732
+source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
 workflow-type: tm+mt
-source-wordcount: '8922'
+source-wordcount: '8927'
 ht-degree: 96%
 
 ---
@@ -765,6 +765,7 @@ ht-degree: 96%
       + {hide-from-toc}[新添加图像文档](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [向 Marketo 添加图像和文件](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
       + {hide-from-toc}[使用Adobe Express编辑Assets](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
+      + [Marketo Engage中的C2PA元数据](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
       + [删除已上传的图像或文件](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [查找已上传图像或文件的 URL](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [从网页抓取图像](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -1122,7 +1123,7 @@ ht-degree: 96%
       + [调查潜在客户](product-docs/marketo-ai/skills/investigate-leads.md)
       + [导入潜在客户](product-docs/marketo-ai/skills/import-leads.md)
       + [验证程序](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket连接](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
