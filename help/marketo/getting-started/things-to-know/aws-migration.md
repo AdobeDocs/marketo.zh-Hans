@@ -3,9 +3,9 @@ description: AWS迁移 — Marketo Engage文档 — 产品文档
 title: AWS迁移
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 034bb35c7f1d46fb001c5380947f563d130b5ab9
+source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
 workflow-type: tm+mt
-source-wordcount: '856'
+source-wordcount: '855'
 ht-degree: 5%
 
 ---
@@ -167,7 +167,7 @@ ht-degree: 5%
    <td>下午<i>5 PDT</i><br>
    下午6点（太平洋夏令时间）</td>
    <td><i>已延迟（日期待定）</i><br>
-   按计划进行</td>
+   已完成</td>
   </tr>
   <tr>
    <td>2026年8月28日</td>
