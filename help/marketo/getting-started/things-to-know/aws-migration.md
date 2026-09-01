@@ -3,7 +3,7 @@ description: AWS迁移 — Marketo Engage文档 — 产品文档
 title: AWS迁移
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
+source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 5%
@@ -30,7 +30,7 @@ ht-degree: 5%
 
 * **审核并更新IP**&#x200B;登录、API访问、电子邮件发送、Web跟踪和集成。
 
-* **添加新IP地址**&#x200B;并保留您当前的IP不变。 通过下面[&#128279;](#ip-addresses)的表查看要添加的IP地址。
+* **添加新IP地址**&#x200B;并保留您当前的IP不变。 通过下面](#ip-addresses)的[表查看要添加的IP地址。
 
 ## 预期的服务影响 {#impacts}
 
@@ -41,7 +41,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->如果您使用[外部表单](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，并且希望避免丢失在Marketo Engage在迁移期间不可用时收集的表单提交数据，请提前联系[Adobe支持](https://experienceleague.adobe.com/zh-hans/support){target="_blank"} **至少两个工作日**，并提供表单ID和您的订阅Munchkin ID。
+>如果您使用[外部表单](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，并且希望避免丢失在Marketo Engage在迁移期间不可用时收集的表单提交数据，请提前联系[Adobe支持](https://experienceleague.adobe.com/en/support){target="_blank"} **至少两个工作日**，并提供表单ID和您的订阅Munchkin ID。
 
 ## 识别您的数据中心/面板 {#identify}
 
@@ -128,6 +128,8 @@ ht-degree: 5%
 
 +++
 
++++8月计划
+
 <table>
  <tbody>
   <tr>
@@ -153,12 +155,9 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>2026年8月20日</td>
-   <td>AB42<br>
-   <i>AB44</i></td>
-   <td>下午5点（太平洋夏令时间）<br>
-   下午<i>6点PDT</i></td>
-   <td>已完成<br>
-   <i>已延迟（日期待定）</i></td>
+   <td>AB42</td>
+   <td>下午5点（太平洋夏令时间）</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年8月26日</td>
@@ -176,7 +175,20 @@ ht-degree: 5%
    <td><i>下午3点PDT</i><br>
    下午4点（太平洋夏令时间）</td>
    <td><i>已延迟（日期待定）</i><br>
-   按计划进行</td>
+   已完成</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">日期</th>
+   <th style="width:25%">数据中心/面板</th>
+   <th style="width:25%">时间</th>
+   <th style="width:25%">状态</th>
   </tr>
   <tr>
    <td>2026年9月8日</td>
@@ -262,7 +274,7 @@ ht-degree: 5%
 
 ## 更新和支持 {#support}
 
-有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}中的支持门户联系Adobe支持部门。
+有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}中的支持门户联系Adobe支持部门。
 
 ## 常见问题解答 {#faq}
 
