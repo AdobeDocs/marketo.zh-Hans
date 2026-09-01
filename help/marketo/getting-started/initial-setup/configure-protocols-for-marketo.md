@@ -5,24 +5,11 @@ title: 为 Marketo Engage 配置协议
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/n72OlCpE-aAbj1MCQumumk-sh9TUZe-bNpreVmVl2q8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2:
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4feed2fefe2180d5a123684eaa33be21ce93da68
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e2290edd-b061-4880-9d79-dee306cf5aa9id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 261033a2f7d8eb2fde0d3b6b17aff933528fc109
 workflow-type: tm+mt
 source-wordcount: 2192
 ht-degree: 83%
@@ -313,6 +300,7 @@ Marketo Engage 的 [Salesforce CRM 同步](/help/marketo/product-docs/crm-sync/s
 下表列出了所有会发起出站调用的 Marketo Engage 服务器。 如果要将任何IP允许列表、服务器、防火墙、访问控制列表、安全组或第三方服务配置为从Marketo Engage接收传出连接，请使用以下列表。
 
 **IP块（CIDR表示法）**
+
 <table>
  <tbody>
    <tr>
@@ -335,6 +323,7 @@ Marketo Engage 的 [Salesforce CRM 同步](/help/marketo/product-docs/crm-sync/s
 </table>
 
 <br>
+
 **单个IP地址**
 <table>
   <tbody>
