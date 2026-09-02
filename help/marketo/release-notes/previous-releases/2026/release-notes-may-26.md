@@ -2,10 +2,10 @@
 description: 发行说明 — 2026年5月 — Marketo文档 — 产品文档
 title: 发行说明 — 2026年5月
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -17,7 +17,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2026年5月22日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2026年5月22日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁边的状态。
 
 <table style="table-layout:auto">
  <tbody>
@@ -27,10 +27,10 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:25%">文档</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong>：利用一套旨在自动执行耗时但重要的营销功能的代理（现在提供两个代理，更多代理即将推出）。
+   <td><strong>Marketo AI</strong>：利用一套旨在自动执行耗时但重要的营销功能的代理技能（现在提供了两种代理技能，更多技能即将推出）。
 </td>
    <td>开放Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI概述</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AI概述</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 正在键入</strong>：现在，访客和代理均在另一方键入时看到“正在键入……”通知，以防止一方打断另一方。
+   <td><strong>Dynamic Chat — 正在键入</strong>：现在，访客和代理均看到“正在键入……” 通知，防止一方打断另一方。
    </td>
    <td>已发布</td>
    <td>不适用</td>
@@ -102,7 +102,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 新属性同步行为</strong>：以前，添加新属性会在同步完成期间最多阻止24小时环境中的更改，从而阻止对话框编辑和发布。现在，虽然添加新属性仍需要完全数据同步（这最多可能需要24小时），但在此过程中不再阻止环境。
+   <td><strong>Dynamic Chat — 新属性同步行为</strong>：以前，添加新属性会在同步完成期间最多阻止24小时环境中的更改，从而阻止对话框编辑和发布。 现在，虽然添加新属性仍需要完全数据同步（这最多可能需要24小时），但在此过程中不再阻止环境。
    </td>
    <td>已发布</td>
    <td>不适用</td>

@@ -1,16 +1,16 @@
 ---
 description: 探索Co-worker for Marketo Engage代理套件，该套件旨在自动执行项目QA、商机导入、数据标准化等营销任务。
 title: Marketo Engage的同事概述
-source-git-commit: 7526f4d10f9ee6da85677a6f709220e1390c6896
+source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 1%
 
 ---
 
 # Marketo Engage的同事概述 {#overview}
 
-Marketo Engage的同事提供代理技能，旨在自动执行耗时但重要的营销功能。
+Marketo Engage（以前称为Marketo AI）的Co-worker提供了代理技能，这些技能旨在自动执行耗时但重要的营销功能。
 
 >[!AVAILABILITY]
 >
@@ -18,9 +18,9 @@ Marketo Engage的同事提供代理技能，旨在自动执行耗时但重要的
 
 >[!IMPORTANT]
 >
->* 为您的订阅启用了Marketo Engage的同事后，您必须执行一些[设置步骤](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"}以确保所需用户具有访问权限。
+>* 为您的订阅启用了Marketo Engage的同事后，您必须执行一些[设置步骤](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}以确保所需用户具有访问权限。
 >
->* 查看Marketo Engage [协同工作数据信息表](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"}中的数据范围、治理控制和PII注意事项。
+>* 查看Marketo Engage [协同工作数据信息表](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}中的数据范围、治理控制和PII注意事项。
 
 ## 如何访问 {#access}
 
@@ -38,19 +38,19 @@ Marketo Engage的同事提供代理技能，旨在自动执行耗时但重要的
 
 ### 调查潜在客户 {#investigate-leads}
 
-了解为什么特定人员/商机未达到里程碑（如MQL、计划资格或营销活动），并简单解释所发生的情况。 详细了解[调查潜在客户技能](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}。
+了解为什么特定人员/商机未达到里程碑（如MQL、计划资格或营销活动），并简单解释所发生的情况。 详细了解[调查潜在客户技能](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}。
 
 ### 产品知识 {#product-knowledge}
 
-通过产品知识，您能够按需访问Marketo专业知识，而无需离开平台。 用浅显的语言提问，Marketo Engage的同事利用Adobe的官方文档来回答问题。 了解有关[产品知识技能](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}的更多信息。
+通过产品知识，您能够按需访问Marketo专业知识，而无需离开平台。 用浅显的语言提问，Marketo Engage的同事利用Adobe的官方文档来回答问题。 了解有关[产品知识技能](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}的更多信息。
 
 ### 验证程序 {#validate-programs}
 
-验证程序会在启动之前根据Marketo最佳实践和执行问题自动检查您的设置。 详细了解[验证计划技能](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}。
+验证程序会在启动之前根据Marketo最佳实践和执行问题自动检查您的设置。 详细了解[验证计划技能](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}。
 
 ### 导入潜在客户 {#import-leads}
 
-借助字段映射帮助，将潜在客户列表导入到您的Marketo Engage数据库中并进行重复数据删除。 了解有关[导入潜在客户技能](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}的更多信息。
+借助字段映射帮助，将潜在客户列表导入到您的Marketo Engage数据库中并进行重复数据删除。 了解有关[导入潜在客户技能](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}的更多信息。
 
 ## 即将推出 {#coming-soon}
 
