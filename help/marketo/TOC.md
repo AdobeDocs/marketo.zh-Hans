@@ -498,7 +498,7 @@ ht-degree: 96%
       + {hide-from-toc}[调查潜在客户](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + {hide-from-toc}[导入潜在客户](product-docs/coworker-for-marketo/skills/import-leads.md)
       + {hide-from-toc}[验证程序](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
   + CRM 同步 {#crm-sync}
     + Microsoft Dynamics 同步 {#microsoft-dynamics}
       + [了解 Microsoft Dynamics 同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1136,7 +1136,7 @@ ht-degree: 96%
       + [调查潜在客户](product-docs/marketo-ai/skills/investigate-leads.md)
       + [导入潜在客户](product-docs/marketo-ai/skills/import-leads.md)
       + [验证程序](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket连接](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
