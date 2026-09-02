@@ -80,6 +80,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **REST API营销活动运行ID**：在某些情况下，有时在两对引号（例如，`"campaignRunId": ""102938""`）之间返回活动的营销活动运行ID值格式不正确。<br/>从8月版本开始，此值将始终以正确的数字格式(`"campaignRunId": 102938`)返回
 
-* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标列表包含10,000个或更多潜在客户，并且1003错误代码指示目标静态列表包含过多记录，则对Get Lead活动或Get Lead Changes端点（包括`listId`参数）的调用将失败。 请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
+* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标列表包含10,000个或更多潜在客户，并且1003错误代码指示目标静态列表包含过多记录，则对Get Lead活动或Get Lead Changes端点（包括`listId`参数）的调用将失败。 请参阅[迁移指南](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
 
 * **REST API合并潜在客户限制**：从2026年7月31日起，合并潜在客户API调用的leadIds参数中包含超过25个ID的调用会导致1080错误代码，并跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
