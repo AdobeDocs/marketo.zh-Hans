@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 714e57ba66fb5bab0a871f70950b88e474d1b818
 workflow-type: tm+mt
-source-wordcount: '8968'
+source-wordcount: '8957'
 ht-degree: 96%
 
 ---
@@ -487,18 +487,18 @@ ht-degree: 96%
       + [模型与洞察](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [预测型过滤器](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
   + Marketo Engage同事 {#coworker-for-marketo}
-    + {hide-from-toc}[概述](product-docs/coworker-for-marketo/overview.md)
-    + {hide-from-toc}[设置和设置](product-docs/coworker-for-marketo/settings-setup.md)
-    + {hide-from-toc}[Marketo Engage协同工作数据信息表](product-docs/coworker-for-marketo/data-information.md)
+    + [概述](product-docs/coworker-for-marketo/overview.md)
+    + [设置和设置](product-docs/coworker-for-marketo/settings-setup.md)
+    + [Marketo Engage的同事数据信息表](product-docs/coworker-for-marketo/data-information.md)
     + 技能 {#skills}
-      + {hide-from-toc}[产品知识](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + [产品知识](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[表面分析](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + {hide-from-toc}[生成程序](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[克隆程序](product-docs/coworker-for-marketo/skills/clone-program.md)
-      + {hide-from-toc}[调查潜在客户](product-docs/coworker-for-marketo/skills/investigate-leads.md)
-      + {hide-from-toc}[导入潜在客户](product-docs/coworker-for-marketo/skills/import-leads.md)
-      + {hide-from-toc}[验证程序](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
+      + [调查潜在客户](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + [导入潜在客户](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + [验证程序](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 同步 {#crm-sync}
     + Microsoft Dynamics 同步 {#microsoft-dynamics}
       + [了解 Microsoft Dynamics 同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1125,18 +1125,17 @@ ht-degree: 96%
         + [在我的令牌中使用 URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [电子邮件抄送](product-docs/email-marketing/general/email-cc.md)
   + Marketo AI {#marketo-ai}
-    + [概述](product-docs/marketo-ai/overview.md)
-    + [设置和设置](product-docs/marketo-ai/settings-setup.md)
-    + [Marketo AI数据信息表](product-docs/marketo-ai/data-information.md)
+    + {hide-from-toc}[概述](product-docs/marketo-ai/overview.md)
+    + {hide-from-toc}[设置和设置](product-docs/marketo-ai/settings-setup.md)
+    + {hide-from-toc}[Marketo AI数据信息表](product-docs/marketo-ai/data-information.md)
     + 技能 {#skills}
-      + [产品知识](product-docs/marketo-ai/skills/product-knowledge.md)
+      + {hide-from-toc}[产品知识](product-docs/marketo-ai/skills/product-knowledge.md)
       + {hide-from-toc}[表面分析](product-docs/marketo-ai/skills/surface-insights.md)
       + {hide-from-toc}[生成程序](product-docs/marketo-ai/skills/build-programs.md)
       + {hide-from-toc}[克隆程序](product-docs/marketo-ai/skills/clone-program.md)
-      + [调查潜在客户](product-docs/marketo-ai/skills/investigate-leads.md)
-      + [导入潜在客户](product-docs/marketo-ai/skills/import-leads.md)
-      + [验证程序](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
+      + {hide-from-toc}[调查潜在客户](product-docs/marketo-ai/skills/investigate-leads.md)
+      + {hide-from-toc}[导入潜在客户](product-docs/marketo-ai/skills/import-leads.md)
+      + {hide-from-toc}[验证程序](product-docs/marketo-ai/skills/validate-programs.md)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket连接](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
