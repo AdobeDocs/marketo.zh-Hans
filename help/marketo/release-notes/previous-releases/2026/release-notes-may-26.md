@@ -30,7 +30,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><strong>Marketo AI</strong>：利用一套旨在自动执行耗时但重要的营销功能的代理技能（现在提供了两种代理技能，更多技能即将推出）。
 </td>
    <td>开放Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AI概述</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AI概述</a></td>
   </tr>
   <tr>
    <td> </td>
