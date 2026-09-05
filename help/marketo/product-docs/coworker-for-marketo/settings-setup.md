@@ -1,9 +1,9 @@
 ---
 description: 了解如何为Marketo Engage权限启用同事、配置组织规则以及管理集成和通知等设置。
 title: 设置和设置
-source-git-commit: 73a09b315526dda5bd4d53646a17141a16943218
+source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
@@ -16,17 +16,13 @@ ht-degree: 1%
 >
 >此功能适用于所有订阅。 如果您在“我的Marketo”屏幕上看不到“Marketo Engage同事”拼贴，请联系您的客户经理。 您还必须同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
 
->[!IMPORTANT]
->
->此功能以前称为Marketo AI。 权限和用户角色名称尚未更新，将在未来版本中更改。 在此之前，您仍将在“管理员”部分中看到以前的名称。
-
 ## 权限和角色 {#permission-and-role}
 
-具有&#x200B;_访问Marketo人工智能_&#x200B;权限和&#x200B;_Marketo人工智能用户_&#x200B;角色，可让管理员更好地控制哪些用户可以访问&#x200B;**Marketo人工智能**&#x200B;功能。 权限在角色级别分配。 _Marketo AI用户_&#x200B;角色附带默认启用的&#x200B;_访问Marketo AI_&#x200B;权限。
+具有&#x200B;_访问Marketo Engage的辅助进程_&#x200B;权限和&#x200B;_访问Marketo Engage的辅助进程_&#x200B;角色，可让管理员更好地控制哪些用户可以访问&#x200B;**Marketo Engage的辅助进程**&#x200B;功能。 权限在角色级别分配。 默认情况下，_Marketo Engage User的辅助进程_&#x200B;角色具有&#x200B;_访问Marketo Engage的辅助进程_&#x200B;权限。
 
 >[!NOTE]
 >
->默认情况下，并非所有角色都启用&#x200B;_访问Marketo AI_&#x200B;权限。 有关详细信息，请参阅下表。
+>默认情况下，并非所有角色都启用&#x200B;_Access Co-worker for Marketo Engage_&#x200B;权限。 有关详细信息，请参阅下表。
 
 | 角色 | 默认状态 |
 | --- | --- |
@@ -34,12 +30,12 @@ ht-degree: 1%
 | Adobe产品管理员 | 已启用 |
 | 营销用户 | 已禁用 |
 | 标准用户 | 不可用 |
-| Marketo AI用户 | 已启用 |
+| Marketo Engage用户的同事 | 已启用 |
 | 自定义角色 | 已禁用 |
 
-### 访问Marketo AI权限 {#access-marketo-ai-permission}
+### 访问Marketo Engage的同事权限 {#access-coworker-marketo-permission}
 
-按照以下步骤启用&#x200B;_访问Marketo AI_，以授予尚未启用它的角色资格。
+按照以下步骤启用&#x200B;_Access Co-worker for Marketo Engage_，以授予尚未启用它的角色资格。
 
 1. 在“我的Marketo”中，单击&#x200B;**管理员**，然后单击&#x200B;**用户和角色**。
 
@@ -49,21 +45,21 @@ ht-degree: 1%
 
    ![](assets/settings-setup-2.png)
 
-1. 向下滚动并选中&#x200B;_访问Marketo AI_&#x200B;复选框，然后单击&#x200B;**保存**。
+1. 向下滚动，选中&#x200B;_访问Marketo Engage的辅助进程_&#x200B;复选框，然后单击&#x200B;**保存**。
 
    ![](assets/settings-setup-3.png)
 
    >[!NOTE]
    >
-   >您可以使用这些相同步骤通过&#x200B;**取消**&#x200B;选中&#x200B;_访问Marketo AI_&#x200B;复选框来删除权限。
+   >您可以使用这些相同步骤通过&#x200B;**取消**&#x200B;选中&#x200B;_访问Marketo Engage的协作程序_&#x200B;复选框来删除权限。
 
-### Marketo人工智能用户角色 {#marketo-ai-user-role}
+### Marketo Engage同事用户角色 {#coworker-marketo-user-role}
 
-按照以下步骤将特定用户分配给&#x200B;_Marketo AI用户_&#x200B;角色。
+按照以下步骤将特定用户分配给&#x200B;_Co-worker for Marketo Engage User_&#x200B;角色。
 
 >[!NOTE]
 >
->此角色&#x200B;**only**&#x200B;包含&#x200B;_访问Marketo AI_&#x200B;权限。
+>此角色&#x200B;**only**&#x200B;包含&#x200B;_Access Co-worker for Marketo Engage_&#x200B;权限。
 
 1. 在“我的Marketo”中，单击&#x200B;**管理员**，然后单击&#x200B;**用户和角色**。
 
@@ -73,13 +69,13 @@ ht-degree: 1%
 
    ![](assets/settings-setup-5.png)
 
-1. 在&#x200B;_角色和工作区_&#x200B;中，选中&#x200B;_Marketo AI用户_&#x200B;复选框。 如果您有多个工作区，则可以在&#x200B;**+**&#x200B;签名下拉列表中指定哪些工作区具有访问权限。 完成后单击&#x200B;**保存**。
+1. 在&#x200B;_角色和工作区_&#x200B;中，选中&#x200B;_Co-worker for Marketo Engage User_&#x200B;复选框。 如果您有多个工作区，则可以在&#x200B;**+**&#x200B;签名下拉列表中指定哪些工作区具有访问权限。 完成后单击&#x200B;**保存**。
 
    ![](assets/settings-setup-6.png)
 
 ### 自定义角色 {#custom-role}
 
-您还可以选择[创建新角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_访问Marketo AI_&#x200B;以及您需要的任何其他内容，并[将该角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
+您还可以选择[创建新角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_Access Co-worker for Marketo Engage_&#x200B;以及您需要的任何其他内容，并将[将该角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
 
 ## 设置 {#settings}
 
@@ -93,7 +89,7 @@ ht-degree: 1%
 
 ### 连接 {#connection}
 
-此选项卡不包含可编辑的字段。 它会显示您的Munchkin ID和IMS组织等帐户信息。
+此选项卡不包含可编辑的字段。 它会显示帐户信息，如您的Munchkin ID和IMS组织。
 
 ![](assets/settings-setup-9.png)
 
