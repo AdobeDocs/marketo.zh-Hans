@@ -55,7 +55,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><strong>在存档上禁用营销活动</strong>：存档文件夹现在会禁用并取消该文件夹树中的所有营销活动，从而防止意外执行已存档的智能营销活动。
 </td>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">在存档上禁用营销活动</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">在存档上禁用营销活动</a></td>
   </tr>
     <tr>
    <td> </td>
@@ -74,12 +74,12 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **Marketo AI现在是Marketo Engage的协作者**： Marketo Engage的协作者提供了旨在自动执行耗时的营销功能的代理技能。 所有用户都可以使用新名称、相同功能。 [了解详情](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
+* **Marketo AI现在是Marketo Engage的协作者**： Marketo Engage的协作者提供了旨在自动执行耗时的营销功能的代理技能。 所有用户都可以使用新名称、相同功能。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年8月31日之后不可用。 所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **REST API营销活动运行ID**：在某些情况下，有时在两对引号（例如，`"campaignRunId": ""102938""`）之间返回活动的营销活动运行ID值格式不正确。<br/>从8月版本开始，此值将始终以正确的数字格式(`"campaignRunId": 102938`)返回
 
-* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标列表包含10,000个或更多潜在客户，并且1003错误代码指示目标静态列表包含过多记录，则对Get Lead活动或Get Lead Changes端点（包括`listId`参数）的调用将失败。 请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
+* **Get Lead活动和Get Lead更改的静态列表大小限制**：从2026年9月30日开始，如果目标列表包含10,000个或更多潜在客户，并且1003错误代码指示目标静态列表包含过多记录，则对Get Lead活动或Get Lead Changes端点（包括`listId`参数）的调用将失败。 请参阅[迁移指南](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
 
 * **REST API合并潜在客户限制**：从2026年7月31日起，合并潜在客户API调用的leadIds参数中包含超过25个ID的调用会导致1080错误代码，并跳过该调用。 需要将超过25条记录合并为一个的工作应该被拆分为多个工作，以确保这些调用成功。
