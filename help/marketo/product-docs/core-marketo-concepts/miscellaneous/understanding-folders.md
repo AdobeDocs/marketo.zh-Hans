@@ -4,16 +4,11 @@ description: 了解计划内部用于组织智能营销活动和资产的文件�
 title: 了解文件夹
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 TQID: https://experienceleague.adobe.com/wAE129LK3Pk-CB5SSQqqSV50ng085soYsm4JHfh0CuI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: 7c035bd266b25d19ab7406ca989e8fc9f13126b9
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 413
+source-wordcount: 412
 ht-degree: 4%
 
 ---
@@ -30,11 +25,11 @@ ht-degree: 4%
 
 1. 右键单击项目并选择&#x200B;**[!UICONTROL New Folder]**。
 
-   ![](assets/image2015-4-20-18-3a45-3a14.png)
+   ![](assets/image2015-4-20-18-3a45-3a14.png){width="600" zoomable="yes"}
 
 1. 命名新文件夹并按&#x200B;**[!UICONTROL Enter]**。
 
-   ![](assets/image2015-4-20-18-3a46-3a57.png)
+   ![](assets/image2015-4-20-18-3a46-3a57.png){width="600" zoomable="yes"}
 
 新文件夹现已可供您的本地资产使用。
 
@@ -42,11 +37,11 @@ ht-degree: 4%
 
 1. 右键点击该文件夹，并选择 **[!UICONTROL Rename Folder]**。
 
-   ![](assets/image2015-4-20-18-3a49-3a10.png)
+   ![](assets/image2015-4-20-18-3a49-3a10.png){width="600" zoomable="yes"}
 
 1. 键入新名称并按&#x200B;**[!UICONTROL Enter]**。
 
-   ![](assets/image2015-4-20-18-3a52-3a30.png)
+   ![](assets/image2015-4-20-18-3a52-3a30.png){width="600" zoomable="yes"}
 
 ## 删除文件夹 {#delete-a-folder}
 
@@ -56,13 +51,13 @@ ht-degree: 4%
 
 1. 右键点击该文件夹，并选择 **[!UICONTROL Delete Folder]**。
 
-   ![](assets/image2015-4-20-18-3a55-3a51.png)
+   ![](assets/image2015-4-20-18-3a55-3a51.png){width="600" zoomable="yes"}
 
 ## 存档文件夹 {#archive-a-folder}
 
 在Marketo中，您可以将现有文件夹转换为存档文件夹。 存档文件夹存在于[!UICONTROL Marketing Activities]、[!UICONTROL Database]和[!UICONTROL Design Studio]中。
 
-![](assets/image2015-4-20-19-3a3-3a46.png)
+![](assets/image2015-4-20-19-3a3-3a46.png){width="600" zoomable="yes"}
 
 存档文件夹时：
 
@@ -76,7 +71,7 @@ ht-degree: 4%
 * 全局搜索仍会在已存档的文件夹中找到结果
 * 您可以使用过滤器选择存档的资产以用于报告
 
-### 存档时禁用智能营销活动 {#disable-smart-campaigns-archive}
+### 在存档上禁用营销活动 {#disable-campaigns-archive}
 
 存档文件夹或项目群，或将活动的智能营销活动移动到已存档的文件夹中时，Marketo Engage会停止运行受影响的营销活动：
 
