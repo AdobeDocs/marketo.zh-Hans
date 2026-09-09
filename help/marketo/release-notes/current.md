@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 477
-ht-degree: 19%
+source-wordcount: 496
+ht-degree: 18%
 
 ---
 
@@ -55,7 +55,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><strong>在存档上禁用营销活动</strong>：存档文件夹现在会禁用并取消该文件夹树中的所有营销活动，从而防止意外执行已存档的智能营销活动。
 </td>
    <td>已发布</td>
-   <td>不适用</td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">在存档上禁用营销活动</a></td>
   </tr>
     <tr>
    <td> </td>
