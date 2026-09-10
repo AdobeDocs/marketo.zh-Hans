@@ -3,9 +3,9 @@ description: AWS迁移 — Marketo Engage文档 — 产品文档
 title: AWS迁移
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: a314dd062a500c96d1bb5eab141adec5180a2c91
+source-git-commit: 157eb35db14f4aa425db32901f878b66fcb31330
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '993'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 在接下来的几个月中，所有Marketo Engage订阅都将从专用数据中心迁移到AWS公共云，以提高可靠性、可扩展性和速度。
 
-您将在迁移前约30天收到电子邮件以及应用程序内通知。 使用本指南进行准备。
+您将在[迁移](#identify)前约30天收到电子邮件以及应用程序内通知。 使用本指南进行准备。
 
 ## 建议的操作 {#actions}
 
@@ -37,19 +37,23 @@ ht-degree: 5%
 您无需对以下影响执行任何操作。
 
 * **CRM集成和LaunchPoint服务**&#x200B;将被禁用，但以后应自动恢复。
-* **登陆页面、表单和数据收集**&#x200B;将不可用，并且将改为显示维护消息。
+* **登陆页面、表单和数据收集**&#x200B;将不可用，并且将显示维护消息（请参阅下文）。
 
->[!NOTE]
+  ![客户在停机期间访问您的Marketo Engage登陆页面时看到的消息](assets/maintenance-in-progress.png)
+
+>[!IMPORTANT]
 >
 >如果您使用[外部表单](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，并且希望避免丢失在Marketo Engage在迁移期间不可用时收集的表单提交数据，请提前联系[Adobe支持](https://experienceleague.adobe.com/zh-hans/support){target="_blank"} **至少两个工作日**，并提供表单ID和您的订阅Munchkin ID。
 
 ## 识别您的数据中心/面板 {#identify}
 
-在查看以下表格之前，[了解如何识别](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)您的订阅所在的数据中心和面板/服务器。
+在查看下面的计划之前，[了解如何识别](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)您的订阅所在的数据中心和面板/服务器。
 
 ## 计划 {#schedule}
 
-新的日期和数据中心/面板信息会定期添加或更改，因此请监视此计划的更新。
+新的日期和数据中心/面板信息会定期添加或更改，因此请监视此计划的更新。 没有选择退出或请求将您的迁移移至其他日期的选项。
+
+如果由于某个原因迁移不成功，您将收到通知，我们将重新安排迁移。
 
 +++7月计划
 <table>
@@ -304,7 +308,11 @@ ht-degree: 5%
 
 ## 更新和支持 {#support}
 
-有关最新更新，请将此页加入书签。 如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}中的支持门户联系Adobe支持部门。
+有关最新信息，请将此页加入书签。
+
+有关状态更新，您可以[订阅以在迁移开始和完成时接收这些更新](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 您还可以在迁移时段访问[status.adobe.com](https://status.adobe.com/zh-cn/){target="_blank"}。
+
+如果您有任何问题，请通过Admin Console或[Experience League](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}中的支持门户联系Adobe支持部门。
 
 ## 常见问题解答 {#faq}
 
