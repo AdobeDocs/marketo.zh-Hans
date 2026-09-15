@@ -3,13 +3,11 @@ description: AWS迁移 — Marketo Engage文档 — 产品文档
 title: AWS迁移
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: ae8999e3dbf4f95f470c36f675c9a4b5798b8d07
+source-git-commit: 577eb59d80224137833c30979dda2c183c04af70
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '993'
 ht-degree: 5%
-
 ---
-
 # AWS迁移 {#aws-migration}
 
 在接下来的几个月中，所有Marketo Engage订阅都将从专用数据中心迁移到AWS公共云，以提高可靠性、可扩展性和速度。
@@ -215,11 +213,11 @@ ht-degree: 5%
   <tr>
    <td>2026年9月15日</td>
    <td>AB05<br>
-   AB06</td>
+   <i>AB06</i></td>
    <td>下午5点（太平洋夏令时间）<br>
-   下午6点（太平洋夏令时间）</td>
+   下午<i>6点PDT</i></td>
    <td>按计划进行<br>
-   按计划</td>
+   <i>已延迟（日期待定）</i></td>
   </tr>
   <tr>
    <td>2026年9月17日</td>
