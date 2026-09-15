@@ -4,7 +4,7 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: f812c2f442c39883e028735ce51efe607968142b
+source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
 workflow-type: tm+mt
 source-wordcount: '8930'
 ht-degree: 96%
@@ -491,12 +491,12 @@ ht-degree: 96%
     + 技能 {#skills}
       + [产品知识](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[表面分析](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + [构建程序](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[生成程序](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[克隆程序](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [调查潜在客户](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [导入潜在客户](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [验证程序](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 同步 {#crm-sync}
     + Microsoft Dynamics 同步 {#microsoft-dynamics}
       + [了解 Microsoft Dynamics 同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
