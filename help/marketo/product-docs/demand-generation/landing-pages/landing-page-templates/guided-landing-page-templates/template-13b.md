@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/dx-0M4HEASiEI4Tfu-X5vt1UzV7ZoKqxsF9PgFPkglg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 74
+source-wordcount: '74'
 ht-degree: 5%
-
 ---
-
 # 模板 13B {#template-13b}
 
-右键单击以[下载模板13B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=zh-Hans)
+右键单击以[下载模板13B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13b.html)
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -26,11 +26,11 @@ ht-degree: 5%
 
 * 主分区
 
-   * 包括主页标题和主页视频
+  * 包括主页标题和主页视频
 
 * 五个正文部分（可选）
 * 页脚（可选）
 
 **右键单击以下内容以下载此模板：**
 
-[模板13B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=zh-Hans)
+[模板13B.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13b.html)
