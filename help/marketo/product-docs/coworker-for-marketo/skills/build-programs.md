@@ -1,15 +1,11 @@
 ---
 description: 使用Co-worker for Marketo Engage从简单的语言简报中构建Marketo程序。 让智能营销活动、计划和资产占位符准备好进行审查和优化。
 title: 构建程序
-badge: Beta 版
-hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '582'
 ht-degree: 0%
-
 ---
-
 # 构建程序 {#build-programs}
 
 使用简单的语言描述营销活动，由Marketo Engage的同事构建项目结构，并使用资产占位符和计划安排进行构建。
@@ -19,10 +15,6 @@ ht-degree: 0%
 >* 若要使用此功能，您必须首先同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 有关详细信息，请联系Adobe客户团队（您的客户经理）。
 >
 >* 您必须具有在Marketo帐户中创建程序的权限。
-
->[!AVAILABILITY]
->
->此功能目前处于封闭测试阶段。 请不要分发此文档。
 
 ## 使用方法 {#how-to-use}
 
