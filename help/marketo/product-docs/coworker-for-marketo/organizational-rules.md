@@ -1,9 +1,9 @@
 ---
 description: 了解组织规则如何定义治理标准，并在项目创建、活动规划和验证期间指导Marketo Engage的协作者。
 title: 组织规则
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 0%
 ---
 # 组织规则 {#organizational-rules}
@@ -19,7 +19,7 @@ ht-degree: 0%
 * 合规性要求（取消订阅链接、UTM参数、排除过滤器）
 * 最佳实践（电子邮件设计、智能列表配置）
 
-每个Marketo实例都包含默认的组织规则。 您可以对其进行自定义以反映组织的特定治理需求。
+每个Marketo Engage环境都包含默认的组织规则。 您可以对其进行自定义以反映组织的特定治理需求。
 
 ## 使用组织规则的位置 {#where-organizational-rules-are-used}
 
