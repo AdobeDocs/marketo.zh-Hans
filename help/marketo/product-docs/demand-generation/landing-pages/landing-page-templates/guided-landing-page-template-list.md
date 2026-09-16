@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: c5aeb2888adf964f59d61f21a7bb0abf68ff4ba8
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '394'
 ht-degree: 55%
 ---
 # 引导式登录页面模板列表 {#guided-landing-page-template-list}
@@ -31,9 +31,9 @@ ht-degree: 55%
 
 ## 如何将模板导入Marketo Engage{#how-to-import}
 
-1. 单击位于[&#128279;](#all-templates)下的所需模板的名称，以转到其专用页面。
+1. 单击位于](#all-templates)下的所需[模板的名称，以转到其专用页面。
 
-1. 右键单击“下载模板”并选择&#x200B;**链接另存为**。 将文件保存到计算机上的所需位置。
+1. 右键单击“下载模板”并选择&#x200B;**链接另存为……**。将文件保存到计算机上的所需位置。
 
 1. 在Marketo Engage中，导航到&#x200B;**[!UICONTROL Design Studio]**。
 
@@ -49,7 +49,7 @@ ht-degree: 55%
 
    ![](assets/guided-landing-page-template-list-5.png)
 
-1. 选择下载的文件，然后单击&#x200B;**[!UICONTROL Create]**（选择&#x200B;**使用此名称替换任何现有模板**&#x200B;是可选的）。
+1. 选择您下载的模板文件，然后单击&#x200B;**[!UICONTROL Create]**（选择&#x200B;**使用此名称替换任何现有模板**&#x200B;是可选的）。
 
    ![](assets/guided-landing-page-template-list-6.png)
 
