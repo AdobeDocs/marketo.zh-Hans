@@ -7,18 +7,20 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Troubleshooting
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: 348
-ht-degree: 62%
-
+source-wordcount: '394'
+ht-degree: 55%
 ---
-
 # 引导式登录页面模板列表 {#guided-landing-page-template-list}
 
 浏览我们与[引导式登陆页面编辑器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)一起使用的示例模板集合。 每个模板均完全响应，并基于Bootstrap框架。
@@ -27,15 +29,35 @@ ht-degree: 62%
 >
 >未设置Marketo支持以帮助对HTML进行故障排除。 如果您在修改这些模板时需要帮助，请咨询Web开发人员。
 
-要将模板导入Marketo，请执行以下操作：
+## 如何将模板导入Marketo Engage{#how-to-import}
 
-1. 单击模板名称以查看大图。
-1. 下载所选模板。
-1. 在Marketo中，导航到&#x200B;**[!UICONTROL Design Studio]**。
-1. 单击左侧树中的&#x200B;**[!UICONTROL Landing Pages]**，然后选择&#x200B;**[!UICONTROL Templates]**。
+1. 单击位于[&#128279;](#all-templates)下的所需模板的名称，以转到其专用页面。
 
-1. 在菜单栏中，单击&#x200B;**[!UICONTROL Import Template]**。
-1. 选择下载的文件，输入模板名称，然后单击&#x200B;**[!UICONTROL Import]** （确保选择描述性名称并指示编辑模式为&#x200B;**[!UICONTROL Guided]**）。
+1. 右键单击“下载模板”并选择&#x200B;**链接另存为……**。将文件保存到计算机上的所需位置。
+
+1. 在Marketo Engage中，导航到&#x200B;**[!UICONTROL Design Studio]**。
+
+1. 选择 **[!UICONTROL Landing Page Templates]**。
+
+   ![](assets/guided-landing-page-template-list-3.png)
+
+1. 在&#x200B;**[!UICONTROL Landing page template actions]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL New landing page template]**。
+
+   ![](assets/guided-landing-page-template-list-4.png)
+
+1. 为您的模板提供一个名称。 在编辑模式下拉列表中，选择&#x200B;**[!UICONTROL Guided]**。 选中&#x200B;**[!UICONTROL Import template]**&#x200B;复选框。
+
+   ![](assets/guided-landing-page-template-list-5.png)
+
+1. 选择您下载的模板文件，然后单击&#x200B;**[!UICONTROL Create]**（选择&#x200B;**使用此名称替换任何现有模板**&#x200B;是可选的）。
+
+   ![](assets/guided-landing-page-template-list-6.png)
+
+1. 您的模板现已导入，可随时编辑。
+
+## 所有可用模板 {#all-templates}
+
+浏览自由模板库。
 
 <table>
 <tr>
