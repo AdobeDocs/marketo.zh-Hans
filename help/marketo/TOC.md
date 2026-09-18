@@ -4,7 +4,7 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
 source-wordcount: '8932'
 ht-degree: 96%
@@ -487,17 +487,17 @@ ht-degree: 96%
   + Marketo Engage同事 {#coworker-for-marketo}
     + [概述](product-docs/coworker-for-marketo/overview.md)
     + [设置和设置](product-docs/coworker-for-marketo/settings-setup.md)
-    + {hide-from-toc}[组织规则](product-docs/coworker-for-marketo/organizational-rules.md)
+    + [组织规则](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Marketo Engage的同事数据信息表](product-docs/coworker-for-marketo/data-information.md)
     + 技能 {#skills}
       + [产品知识](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[表面分析](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + {hide-from-toc}[生成程序](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + [构建程序](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[克隆程序](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [调查潜在客户](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [导入潜在客户](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [验证程序](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 同步 {#crm-sync}
     + Microsoft Dynamics 同步 {#microsoft-dynamics}
       + [了解 Microsoft Dynamics 同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
