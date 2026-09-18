@@ -2,13 +2,11 @@
 title: 之前版本
 description: Marketo Engage所有以前版本的发行说明（按年组织）。
 feature: Release Information
-source-git-commit: ebd911b99e1c4c8f8a76db3a14235ee0d4ee0485
+source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '108'
 ht-degree: 35%
-
 ---
-
 
 # 之前版本
 
@@ -23,6 +21,7 @@ ht-degree: 35%
 * [3 月 26 日](previous-releases/2026/release-notes-mar-26.md)
 * [5 月 26 日](previous-releases/2026/release-notes-may-26.md)
 * [’26年7月](previous-releases/2026/release-notes-july-26.md)
+* [’26年8月](previous-releases/2026/release-notes-aug-26.md)
 
 ## 2025
 
