@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # 发行说明：2026年9月 {#release-notes-sep-26}
@@ -80,6 +80,16 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>自助流程步骤 — 回调超时时间增加</strong>：自助流程步骤的回调超时时间从1小时增加到4小时。 您无需执行任何操作。</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>向Designer发送电子邮件 — 表</strong>：您现在可以将内容类型“表”拖放到电子邮件中，并可设置列数和行数。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
   </tr>
