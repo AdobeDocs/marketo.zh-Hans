@@ -1,14 +1,16 @@
 ---
 description: 使用Co-worker for Marketo Engage通过调整现有模板来构建Marketo项目。 让智能营销活动、计划和资产占位符准备好进行审查和优化。
 title: 构建程序
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '804'
 ht-degree: 0%
 ---
 # 构建程序 {#build-programs}
 
 以纯语言描述营销活动，Co-worker for Marketo Engage可调整现有项目模板以满足您的需求，自动更新电子邮件内容并通过复制模板结构创建其他资源。
+
+您组织的[组织规则](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}指南介绍了Marketo Engage的同事如何在创建过程中构建并验证项目。 这些规则确保新程序与您的命名惯例、所需令牌、文件夹结构和合规性标准保持一致。
 
 >[!PREREQUISITES]
 >

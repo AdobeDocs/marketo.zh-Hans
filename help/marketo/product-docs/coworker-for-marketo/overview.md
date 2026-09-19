@@ -1,9 +1,9 @@
 ---
 description: 探索Co-worker for Marketo Engage代理套件，该套件旨在自动执行项目QA、商机导入、数据标准化等营销任务。
 title: Marketo Engage的同事概述
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '439'
 ht-degree: 1%
 ---
 # Marketo Engage的同事概述 {#overview}
@@ -34,13 +34,9 @@ Marketo Engage（以前称为Marketo AI）的Co-worker提供了代理技能，�
 
 中心控制台具备不断增长的一组座席技能，可帮助您处理各种任务。 每项技能都是专门构建的AI助手，您可以通过自然语言与它交互以完成特定任务。
 
-<!--
+### 构建程序 {#build-programs}
 
-### Build programs {#build-programs}
-
-Describe a marketing campaign in plain language and Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
-
--->
+使用简单的语言描述营销活动，由Marketo Engage的同事构建项目结构，并使用资产占位符和计划安排进行构建。 了解有关[构建计划技能](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}的更多信息。
 
 ### 调查潜在客户 {#investigate-leads}
 
