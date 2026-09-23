@@ -3,9 +3,9 @@ description: AWS迁移 — Marketo Engage文档 — 产品文档
 title: AWS迁移
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 58db91f621e88382bb0c44524e59a43abfaa49d3
+source-git-commit: 662073adfb4fedc2a8f122cb60ae7c5a35672926
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1007'
 ht-degree: 5%
 ---
 # AWS迁移 {#aws-migration}
@@ -203,21 +203,15 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>2026年9月10日</td>
-   <td>AB03<br>
-   <i>AB04</i></td>
-   <td>下午5点（太平洋夏令时间）<br>
-   下午<i>6点PDT</i></td>
-   <td>已完成<br>
-   <i>已延迟（日期待定）</i></td>
+   <td>AB03</td>
+   <td>下午5点（太平洋夏令时间）</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年9月15日</td>
-   <td>AB05<br>
-   <i>AB06</i></td>
-   <td>下午5点（太平洋夏令时间）<br>
-   下午<i>6点PDT</i></td>
-   <td>已完成<br>
-   <i>已延迟（日期待定）</i></td>
+   <td>AB05</td>
+   <td>下午5点（太平洋夏令时间）</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年9月17日</td>
@@ -231,20 +225,20 @@ ht-degree: 5%
   <tr>
    <td>2026年9月22日</td>
    <td>AB09<br>
-   AB12</td>
+   <i>AB12</i></td>
    <td>下午5点（太平洋夏令时间）<br>
-   下午6点（太平洋夏令时间）</td>
-   <td>按计划进行<br>
-   按计划</td>
+   下午<i>6点PDT</i></td>
+   <td>已完成<br>
+   <i>已延迟（日期待定）</i></td>
   </tr>
   <tr>
    <td>2026年9月25日</td>
-   <td>AB10<br>
+   <td><i>AB10</i><br>
    AB11</td>
-   <td>下午4点（太平洋夏令时间）<br>
+   <td>下午<i>4 PDT</i><br>
    下午5点（太平洋夏令时间）</td>
-   <td>按计划进行<br>
-   按计划</td>
+   <td><i>已延迟（日期待定）</i><br>
+   按计划进行</td>
   </tr>
   <tr>
    <td>2026年9月29日</td>
