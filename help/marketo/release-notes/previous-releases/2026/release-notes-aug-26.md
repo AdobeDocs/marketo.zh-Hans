@@ -2,10 +2,10 @@
 description: 发行说明 — 2026年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2026年7月
 feature: Release Information
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: a1b00f94acf0fe9cd354a48bf40f17c3ad9b8ae6
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 15%
+source-wordcount: '578'
+ht-degree: 13%
 ---
 # 发行说明：2026年8月 {#release-notes-aug-26}
 
@@ -36,6 +36,16 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Marketo Engage MCP服务器</strong>： Marketo Engage MCP服务器充当AI助手与Marketo Engage之间的桥梁。 它会公开跨表单、项目、智能营销活动、人员/潜在客户、电子邮件、代码片段、列表和文件夹的100多项操作。</td>
+   <td>现已正式发布</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hans" target="_blank">Marketo MCP服务器</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>在存档上禁用营销活动</strong>：存档文件夹现在会禁用并取消该文件夹树中的所有营销活动，从而防止意外执行已存档的智能营销活动。
 </td>
    <td>已发布</td>
@@ -50,7 +60,6 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <td><strong>电子邮件Designer — 生成内容上下文菜单</strong>：现在可以从上下文菜单（黑色栏）访问Email Designer的“生成内容”功能。 例如，当您选择文本内容时，上下文菜单上会显示生成内容图标，允许您执行快速操作。</td>
    <td><i>即将推出</i></td>
    <td><i>即将推出</i></td>
-  </tr>
   </tr>
   </tbody>
 </table>
