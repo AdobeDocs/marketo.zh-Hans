@@ -2,9 +2,9 @@
 description: 发行说明 — 2026年7月 — Marketo文档 — 产品文档
 title: 发行说明 — 2026年7月
 feature: Release Information
-source-git-commit: a1b00f94acf0fe9cd354a48bf40f17c3ad9b8ae6
+source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '577'
 ht-degree: 13%
 ---
 # 发行说明：2026年8月 {#release-notes-aug-26}
@@ -37,7 +37,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>Marketo Engage MCP服务器</strong>： Marketo Engage MCP服务器充当AI助手与Marketo Engage之间的桥梁。 它会公开跨表单、项目、智能营销活动、人员/潜在客户、电子邮件、代码片段、列表和文件夹的100多项操作。</td>
-   <td>现已正式发布</td>
+   <td>正式提供</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hans" target="_blank">Marketo MCP服务器</a></td>
   </tr>
   <tr>
