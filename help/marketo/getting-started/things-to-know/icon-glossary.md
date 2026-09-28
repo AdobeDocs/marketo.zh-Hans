@@ -6,18 +6,18 @@ exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: dc8457cac3da6d128b39590ff6d54958f1622ee8
 workflow-type: tm+mt
-source-wordcount: 245
+source-wordcount: '231'
 ht-degree: 100%
-
 ---
-
 # Marketo Engage 图标术语表 {#icon-glossary}
 
-以下为当前 Adobe Marketo Engage 界面所使用的图标。 如需参考 Marketo 经典版本的图标，可在[此处查看](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)。
+以下为当前 Adobe Marketo Engage 界面所使用的图标。
 
 ## 通用图标 {#general-icons}
 
@@ -31,12 +31,12 @@ ht-degree: 100%
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
-   <td>帐户 Smart List</td>
+   <td>帐户智能列表</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
    <td><img src="assets/batch-active.png"></td>
-   <td>批量活动 – 启用</td>
+   <td>批量活动 – 活跃</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td>
@@ -46,17 +46,17 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
    <td><img src="assets/default-program.png"></td>
-   <td>默认程序</td>
+   <td>默认项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email.png"></td>
    <td><img src="assets/email.png"></td>
-   <td>电子邮件地址</td>
+   <td>电子邮件</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
    <td><img src="assets/email-program.png"></td>
-   <td>电子邮件程序</td>
+   <td>电子邮件项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-template.png"></td>
@@ -66,12 +66,12 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td>
    <td><img src="assets/engagement-program.png"></td>
-   <td>参与计划</td>
+   <td>参与项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-event-program.png"></td>
    <td><img src="assets/event-program.png"></td>
-   <td>活动计划</td>
+   <td>活动项目</td>
   </tr>
   <tr>
    <td><img src="assets/classic-executable-campaign.png"></td>
@@ -181,7 +181,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-smart-list.png"></td>
    <td><img src="assets/smart-list.png"></td>
-   <td>Smart List</td>
+   <td>智能列表</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
@@ -300,7 +300,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/active.png"></td>
-   <td>活跃</td>
+   <td>启用</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-is-requested.png"></td>
@@ -310,7 +310,7 @@ ht-degree: 100%
   <tr>
    <td><strong>不适用</strong></td>
    <td><img src="assets/inactive.png"></td>
-   <td>不活跃</td>
+   <td>停用</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
