@@ -201,4 +201,4 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->完成此操作后，您可以升级现有的MSI包，或安装新的MSI包，然后继续在Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}中配置[MSI操作。
+>完成此操作后，您可以升级现有的MSI包，或安装新的MSI包，然后继续在Salesforce[&#128279;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}中配置MSI操作。

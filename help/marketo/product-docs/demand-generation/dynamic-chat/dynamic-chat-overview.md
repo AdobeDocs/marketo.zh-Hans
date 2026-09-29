@@ -72,7 +72,7 @@ Dynamic Chat 的一个关键组成部分是其与 Marketo 订阅的原生集成�
 
 ## 生成式 AI {#generative-ai}
 
-Adobe Dynamic Chat 中的[生成式 AI ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"}会实时处理意图信号、用户偏好和历史行为，为聊天访客生成相关且个性化的消息。
+Adobe Dynamic Chat 中的[生成式 AI &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"}会实时处理意图信号、用户偏好和历史行为，为聊天访客生成相关且个性化的消息。
 
 ## 更改语言 {#changing-the-language}
 
