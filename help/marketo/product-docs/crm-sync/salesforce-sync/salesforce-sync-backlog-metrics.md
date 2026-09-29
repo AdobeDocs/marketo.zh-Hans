@@ -6,19 +6,22 @@ exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 1%
-
 ---
-
 # Salesforce 同步积压量度  {#salesforce-sync-backlog-metrics}
 
 同步积压是用于挂起同步的记录的名称。 它负责处理从Salesforce到Marketo Engage的待同步记录，反之亦然。 确保积压事项得到控制将实现平稳的时间同步。 积压事项包括两侧的待处理同步发布更新的数量，而不是同步流程步骤（如Sync Lead to SFDC流程步骤）处理的数量。
@@ -89,7 +92,8 @@ ht-degree: 1%
     <td>积压状态</td>
     <td>这会显示积压在过去6小时内是否有所增加。 如果当前积压大于6小时前记录的积压，则推断为“正在增长”。 否则，将显示为“正常”。 这是为了显示同步吞吐量是否正在赶上积压工作。</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## 导致同步积压的原因 {#what-causes-sync-backlogs}
 
@@ -107,9 +111,9 @@ ht-degree: 1%
 
 **频繁更新的字段**：某些字段容易频繁更新。 例如，货币字段可能会发生货币更改。 检查这些字段是否需要同步，或者字段的设计是否应不同。 如果您有其他频繁更新且不需要的字段，请向同步用户隐藏它们。 与您的SFDC管理员讨论可能正在更新字段的集成。
 
-**自定义对象**：定期查看[自定义对象](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，这些自定义对象已启用同步并禁用不再需要同步的自定义对象。
+**自定义对象**：定期查看[自定义对象](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，这些自定义对象已启用同步并禁用不再需要同步的自定义对象。
 
-**活动**： [检查是否有任何活动](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}启用了可从同步中删除的同步。  每个潜在客户每天只能同步一次这些活动。
+**活动**： [检查是否有任何活动](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}启用了可从同步中删除的同步。  每个潜在客户每天只能同步一次这些活动。
 
 **查看同步错误**：异常处理可能会减慢同步速度。 查看用户通知并解决错误可以改善同步运行状况。
 

@@ -7,25 +7,27 @@ feature: Web Personalization
 TQID: https://experienceleague.adobe.com/mZDrkTIuAbmAVulUumQZpjgWSzV837oipro2vaKtGLE
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 751
+source-wordcount: '751'
 ht-degree: 3%
-
 ---
-
 # 创建新对话 Web 营销活动 {#create-a-new-dialog-web-campaign}
 
 ## 创建Dialog Web营销活动 {#create-a-dialog-web-campaign}
 
 创建Web营销活动以实时个性化您的Web内容，并在适当的时间向适当的用户提供适当的消息。
 
-Web营销活动是与特定区段关联的自定义反应。 响应可以是您网站上的对话框、区域替换[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。
+Web营销活动是与特定区段关联的自定义反应。 响应可以是您网站上的对话框、区域替换](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、[构件功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或电子邮件警报。
 
 1. 前往 **[!UICONTROL Web Campaigns]**。
 

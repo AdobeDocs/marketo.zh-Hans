@@ -7,13 +7,12 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/wL4DvH6WwopQbqXlYcvSQJLPYyJbnmDENqvb7qCJo8w
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: '314'
 ht-degree: 5%
-
 ---
-
 # 添加到营销活动 {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
@@ -52,11 +51,11 @@ PICC
 
 1. 单击“工作区”下拉列表，然后选择包含要将组添加到其中的活动的工作区。
 
-PICC
+   PICC
 
->[!NOTE]
->
->如果您看不到所需的工作区，请确保管理员通过Marketo [!UICONTROL Team Access]页面进行配置。
+   >[!NOTE]
+   >
+   >如果您看不到所需的工作区，请确保管理员通过Marketo [!UICONTROL Team Access]页面进行配置。
 
 1. 选择所需的营销活动，然后单击&#x200B;**[!UICONTROL Next]**。
 
@@ -86,19 +85,19 @@ PICC
 
 1. 选择 **[!UICONTROL Marketing Campaign]**。
 
-PICC
+   PICC
 
->[!NOTE]
->
->要将人员从[!DNL Sales Connect]添加到Marketo营销活动，[!DNL Sales Connect]必须具有人员的Marketo潜在客户ID。
+   >[!NOTE]
+   >
+   >要将人员从[!DNL Sales Connect]添加到Marketo营销活动，[!DNL Sales Connect]必须具有人员的Marketo潜在客户ID。
 
 1. 单击“工作区”下拉列表，然后选择包含要将组添加到其中的活动的工作区。
 
-PICC
+   PICC
 
->[!NOTE]
->
->如果您看不到所需的工作区，请确保管理员通过Marketo团队访问页面进行了配置。
+   >[!NOTE]
+   >
+   >如果您看不到所需的工作区，请确保管理员通过Marketo团队访问页面进行了配置。
 
 1. 选择所需的营销活动，然后单击&#x200B;**[!UICONTROL Next]**。
 

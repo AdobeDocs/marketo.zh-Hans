@@ -6,15 +6,15 @@ feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 8%
-
 ---
-
 # 发送测试电子邮件 {#send-a-test-email}
 
 在发送电子邮件之前，您可以通过向自己发送任意电子邮件地址的测试电子邮件，来测试电子邮件格式和令牌。
