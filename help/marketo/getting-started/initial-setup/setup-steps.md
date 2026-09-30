@@ -1,26 +1,29 @@
 ---
 description: 设置步骤 - Marketo Docs - 产品文档
-short-description: 刚刚开始使用 Adobe Marketo Engage？ 了解深入之前需要完成哪些步骤。
+short-description: 刚刚开始使用 Adobe Marketo Engage？ 了解在开始之前需要完成哪些步骤。
 title: 设置步骤
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 TQID: https://experienceleague.adobe.com/RkW-U6fZa-sLIdAWdbLET8S2f8yEFYaELRktRXCrCho
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: 1681
-ht-degree: 85%
-
+source-wordcount: '1679'
+ht-degree: 84%
 ---
-
 # 设置步骤 {#setup-steps}
 
 **欢迎使用 Adobe Marketo Engage！**
@@ -52,7 +55,7 @@ ht-degree: 85%
 * **将 Marketo 添加到公司电子邮件允许列表。**。 在向真实收件人发送电子邮件之前，先向测试帐户发送测试电子邮件是一种常见的最佳做法。 通过将 Marketo 加入允许列表，可以防止这些测试电子邮件被拦截或标记为垃圾电子邮件。
 * **设置 SPF 和 DKIM**。 这些技术可向收件人证明，您通过 Marketo 发送的电子邮件并非垃圾电子邮件。 为避免收件人的垃圾电子邮件过滤器拒收您的 Marketo 电子邮件，请按照以下步骤操作：[设置 SPF 和 DKIM 以提升电子邮件的投递成功率](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)。
 * **为您的域设置MX记录。** 利用MX记录，可接收发往您发送电子邮件的域的邮件，以处理回复和自动回复。 如果您从公司域发送，则可能已配置此域。 如果尚未配置，通常可以将其映射到公司域名的 MX 记录。
-* **发件人地址的建议设置。** 您必须在所有电子邮件营销活动的“发件人地址”中使用有效的、现有的和工作电子邮件域。 相比直接使用公司主域名，从公司域名的子域发送电子邮件通常更有利。 这样可以避免公司电子邮件流的问题影响 Marketo 电子邮件流，反之亦然。 此外，从 `something@nonexistentdomain.com` 之类不存在的域名发送电子邮件，会导致电子邮件被过滤或拦截。 用于发送方 From 地址的任何域名，都必须具备有效且可用的 postmaster@ 和 abuse@ 邮件。
+* **发件人地址的建议设置。** 您必须在所有电子邮件营销活动的“发件人地址”中使用有效的、现有的和工作电子邮件域。 相比直接使用公司主域名，从公司域名的子域发送电子邮件通常更有利。 这样可以避免公司电子邮件流的问题影响 Marketo 电子邮件流，反之亦然。 此外，从 `something@nonexistentdomain.com` 之类不存在的域名发送电子邮件，会导致电子邮件被过滤或拦截。 用于发送方 From 地址的任何域名，都必须具备有效且可用的 postmaster@ 和 abuse@ 帐户。
 
 如果您使用Google Apps托管公司电子邮件，则无法在您的域下创建滥用@或邮递员@电子邮件。 为解决这一限制，您需要创建名为“abuse”和“postmaster”的群组。 属于这些群组的用户将会收到发送至对应地址（例如 <postmaster@domain.com>）的电子邮件。 有关创建群组的详细说明，请参阅[此处](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}。
 
@@ -66,7 +69,7 @@ ht-degree: 85%
 
 >[!CAUTION]
 >
->电子邮件 CNAME 与登陆页面 CNAME 必须不同。 此外，请避免使用“跟踪”或“链接”等CNAME。 它通常被标记为垃圾邮件
+>电子邮件 CNAME 与登陆页面 CNAME 必须不同。 此外，请避免使用“跟踪”或“链接”等CNAME。 它通常被标记为垃圾邮件。
 
 要查找您的 Marketo 跟踪链接，请前往 **[!UICONTROL Admin]** 区域。
 
@@ -86,7 +89,7 @@ ht-degree: 85%
 
 收集 “From” 域名。 列出您计划在 Marketo 中用于发送电子邮件的所有 “From” 域名（即 `[Sender]@[FromDomain].com`）。 对于大多数组织而言，通常只有一个。
 
-例如，“marketo.com,”“info.marketo.com,”。 这些是`[FromDomain1]`、`[FromDomain2]`等。保存它们。 您需要在第 5 步中将它们提供给 IT 团队。
+例如，&#39;marketo.com,&#39; &#39;info.marketo.com,&#39;。 这些是`[FromDomain1]`、`[FromDomain2]`等。保存它们。 您需要在第 5 步中将它们提供给 IT 团队。
 
 至此，您已经具备向 IT 团队提交请求所需的全部信息！
 
@@ -102,9 +105,9 @@ ht-degree: 85%
 
 为您的登陆页面选择一个 CNAME。 示例如下：
 
-    * **go**.[CompanyDomain].com
-    * **www2**.[CompanyDomain].com
-    * **lp**.[CompanyDomain].com
+* **转到**。[CompanyDomain].com
+* **www2**.[CompanyDomain].com
+* **lp**.[CompanyDomain].com
 
 >[!TIP]
 >
@@ -156,26 +159,26 @@ ht-degree: 85%
 
 `3)` 将 Marketo 加入允许列表。
 
-    * 如果我们的电子邮件允许列表基于 IP 地址，请将以下 IP 添加到允许列表中：
-    199.15.212.0/22
-    
-    192.28.144.0/20
-    
-    192.28.160.0/19
-    
-    185.28.196.0/22
-    
-    130.248.172.0/24
-    
-    130.248.173.0/24
-    
-    94.236.119.0/26
+* 如果在电子邮件允许列表中使用IP地址，请添加下面列出的IP：
+199.15.212.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+185.28.196.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+94.236.119.0/26
 
 >[!NOTE]
 >
 >如果您希望获得简略的IP列表，以便Adobe特定于您的环境的IP，请联系列入允许列表支持。
 
-    * 如果我们的反垃圾电子邮件系统基于 From 域名进行过滤，请添加以下域名：
+* 如果我们的反垃圾邮件系统使用来自域，请添加以下内容：
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
@@ -203,7 +206,7 @@ include:mktomail.com
 
 `5)`我们需要确保FROM域&#x200B;**`[FromDomain1]`**、**`[FromDomain2]`**&#x200B;等存在有效的MX记录。你能确认一下吗？ 如果不存在，请配置其映射至公司主域名的 MX 记录。 这样可以确保我们能够正常处理 Marketo 电子邮件的回复和自动回复。
 
-请在完成上述步骤后通知我，以便我继续完成 Marketo 的后续设置。
+请在完成这些步骤后通知我，以便我完成 Marketo 的设置流程。
 
 谢谢！ 非常感谢您的支持！
 
@@ -214,7 +217,7 @@ include:mktomail.com
 
 `----------------------------------------------`
 
-将该电子邮件发送给 IT 团队。 我们理解 IT 团队完成这些任务可能需要一些时间。 您可以继续进行下一步，但请记住，必须返回此步骤才能完成 Marketo Engage 的整体设置。
+将该电子邮件发送给 IT 团队。 我们理解 IT 团队完成这些任务可能需要一些时间。 您可以继续进行下一步，但请记住，必须返回此步骤才能完成 Marketo Engage 设置。
 
 ## 在 IT 完成配置后完成 Marketo 设置 {#complete-your-marketo-setup-after-it-finishes}
 
@@ -248,7 +251,7 @@ include:mktomail.com
 
 在“域名”字段中输入您的电子邮件跟踪域名。 其格式应为：
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. 单击 **[!UICONTROL Save]**。
+`[EmailTrackingCNAME].[CompanyDomain].com`. Click **[!UICONTROL Save]**.
 
 ![](assets/setup-steps-13.png)
 

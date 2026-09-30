@@ -4,14 +4,12 @@ description: 了解如何将AEM云服务连接到Marketo Engage。 在设计器�
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: yes
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 8%
-
 ---
-
 # 连接Adobe Experience Manager云服务 {#connect-adobe-experience-manager-cloud-services}
 
 了解如何将您的AEM Assets Cloud Services帐户连接到Adobe Marketo Engage实例，以便您可以在Marketo Engage Email Designer中使用AEM资源存储库。

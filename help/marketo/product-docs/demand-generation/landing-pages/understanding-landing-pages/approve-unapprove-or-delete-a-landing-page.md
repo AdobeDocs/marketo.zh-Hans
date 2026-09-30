@@ -7,18 +7,20 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/ZkdN49ElH-F1AGiGJGkevgGzzGKVvA-MSR5Ma0S9AZo
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 250
+source-wordcount: '250'
 ht-degree: 11%
-
 ---
-
 # 批准、取消批准或删除登陆页面 {#approve-unapprove-or-delete-a-landing-page}
 
 登陆页面处于草稿模式，直到您批准它们为止。 批准可使页面在系统的其余部分可用。 编辑已批准的登陆页面时，Marketo Engage会保存草稿，但会继续使用已批准的版本，直到您批准草稿为止。

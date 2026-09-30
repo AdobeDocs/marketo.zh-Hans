@@ -6,16 +6,17 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: 546
+source-wordcount: '546'
 ht-degree: 7%
-
 ---
-
 # 第2步（共3步）：为Marketo Engage创建[!DNL Veeva] CRM用户 {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
@@ -148,13 +149,13 @@ ht-degree: 7%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-找到不必要的字段，确保[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消**&#x200B;选中。 完成后，单击 **[!UICONTROL Save]**。
+1. 找到不必要的字段，确保[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消**&#x200B;选中。 完成后，单击 **[!UICONTROL Save]**。
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->仅编辑自定义字段的辅助功能。
+   >[!NOTE]
+   >
+   >仅编辑自定义字段的辅助功能。
 
 1. 完成禁用所有不必要的字段后，请检查[!UICONTROL Read Access]和[!UICONTROL Edit Access]中的以下对象字段。 完成后，单击 **[!UICONTROL Save]**。
 

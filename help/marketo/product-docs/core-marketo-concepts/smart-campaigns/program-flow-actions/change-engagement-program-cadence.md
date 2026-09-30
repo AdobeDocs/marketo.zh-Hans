@@ -7,15 +7,15 @@ feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/nNhVJUelrVSsKcH2oxw2lzWTJINM5JBj1X36KxAoyWI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 7%
-
 ---
-
 # 更改参与项目节奏 {#change-engagement-program-cadence}
 
 一旦通过参与计划培养了某人，您就可以使用此流动步骤暂时停止培养他们。
@@ -34,4 +34,4 @@ ht-degree: 7%
 
    ![](assets/change-engagement-program-cadence-3.png)
 
-如果您希望人员重新开始接收内容，可以将他们重新设置为&#x200B;**[!UICONTROL Normal]**。
+   如果您希望人员重新开始接收内容，可以将他们重新设置为&#x200B;**[!UICONTROL Normal]**。

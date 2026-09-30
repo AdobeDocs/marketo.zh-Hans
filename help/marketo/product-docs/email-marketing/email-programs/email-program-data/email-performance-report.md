@@ -7,43 +7,45 @@ feature: Email Programs
 TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 501
+source-wordcount: '501'
 ht-degree: 95%
-
 ---
-
 # 电子邮件性能报告 {#email-performance-report}
 
 要查看电子邮件的投递、打开、点击等性能量度，请创建一份电子邮件性能报告。
 
 1. 请按照[在项目中创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)的步骤操作，并选择&#x200B;**[!UICONTROL Email Performance]** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 1. [更改报告时间范围](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然后点击 **[!UICONTROL Report]** 选项卡。
-1. 你在那儿！ 现在您可以查看报告，了解电子邮件的发送效果。
+1. 你在那儿！ 现在您可以查看报告，了解电子邮件的表现。
 
-   >[!NOTE]
-   >
-   >“发送日期”筛选条件基于电子邮件首次发送的日期。
+>[!NOTE]
+>
+>“发送日期”筛选条件基于电子邮件首次发送的日期。
 
-   ![](assets/email-performance-report.png)
+![](assets/email-performance-report.png)
 
-   >[!TIP]
-   >
-   >点击电子邮件名称，即可在电子邮件预览器中打开。
+>[!TIP]
+>
+>点击电子邮件名称，即可在电子邮件预览器中打开。
 
-   >[!NOTE]
-   >
-   >电子邮件性能报告包含所有人员的活动记录，包括在电子邮件发送后已删除的人员。 有时您可能只希望查看活跃人员的活动。 在这种情况下，需要在报告中过滤掉已删除的人员。 请使用 **[!UICONTROL Smart List]** 选项卡，为报告[创建一个智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 如果未基于任何特定字段进行筛选，请将“电子邮件地址”筛选条件设置为 **[!UICONTROL is not empty]**。
+>[!NOTE]
+>
+>电子邮件性能报告包含所有人员的活动记录，包括在电子邮件发送后已删除的人员。 有时您可能只希望查看活跃人员的活动。 在这种情况下，需要在报告中过滤掉已删除的人员。 请使用 **[!UICONTROL Smart List]** 选项卡，为报告[创建一个智能列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 如果未基于任何特定字段进行筛选，请将“电子邮件地址”筛选条件设置为 **[!UICONTROL is not empty]**。
 
-   电子邮件性能报告的[选择报告列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)包括：
+电子邮件性能报告的[选择报告列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)包括：
 
-   <table><thead>
+<table><thead>
 
 <tr>
     <th>列</th>
@@ -60,7 +62,7 @@ ht-degree: 95%
   </tr>
   <tr>
     <td>待处理</td>
-    <td>该数值通过从发送总数中减去已投递、硬退信和软退信的电子邮件数量计算得出。</td>
+    <td>该数值通过从发送总数中减去已投递、退信和软退信的电子邮件数量计算得出。</td>
   </tr>
   <tr>
     <td>点击链接</td>

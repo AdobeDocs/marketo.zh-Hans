@@ -7,13 +7,12 @@ feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/3AyKPoZ-rxPE-6cpQQ4flbL23aILwkVpmnMQAUjQLmI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 371
+source-wordcount: '371'
 ht-degree: 4%
-
 ---
-
 # 设置自定义发送渠道 {#setting-up-a-custom-delivery-channel}
 
 [!DNL Marketo Sales Connect]允许您与自定义SMTP服务器集成，以传递电子邮件。 对于不希望从Gmail或[!DNL Exchange]投放渠道发送批量电子邮件的用户，这是一个很好的选项。

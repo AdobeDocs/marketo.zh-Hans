@@ -6,17 +6,18 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/nsmRk-zf-I5r0hfLxsOnGsTf66X-bYZ7OAUXHrPc-t0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Lists
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 5%
-
 ---
-
 # 启用/禁用自定义对象同步 {#enable-disable-custom-object-sync}
 
 在[!DNL Veeva] CRM实例中创建的自定义对象也可以是Marketo Engage的一部分。 下面是设置方法。
@@ -47,13 +48,13 @@ ht-degree: 5%
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-选择要同步的对象，然后单击&#x200B;**[!UICONTROL Enable Sync]**。
+1. 选择要同步的对象，然后单击&#x200B;**[!UICONTROL Enable Sync]**。
 
-![](assets/enable-disable-custom-object-sync-5.png)
+   ![](assets/enable-disable-custom-object-sync-5.png)
 
->[!TIP]
->
->Marketo只能同步自定义对象，前提是它与[!DNL Veeva] CRM中的联系人或帐户对象存在直接关系。
+   >[!TIP]
+   >
+   >Marketo只能同步自定义对象，前提是它与[!DNL Veeva] CRM中的联系人或帐户对象存在直接关系。
 
 1. 再次单击&#x200B;**[!UICONTROL Enable Sync]**。
 

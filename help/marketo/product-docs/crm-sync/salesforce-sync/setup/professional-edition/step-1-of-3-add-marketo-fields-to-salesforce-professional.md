@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: 729
+source-wordcount: '729'
 ht-degree: 8%
-
 ---
-
 # 第1步（共3步）：将Marketo字段添加到[!DNL Salesforce]（专业） {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
@@ -56,48 +55,48 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
 1. 为字段输入[!UICONTROL Field Label]、[!UICONTROL Length]和[!UICONTROL Field Name]，如下表所示。
 
-<table>
- <thead>
-  <tr>
-   <th>
-    <div>
-      字段标签
-    </div></th>
-   <th>
-    <div>
-      字段名称
-    </div></th>
-   <th>
-    <div>
-      数据类型
-    </div></th>
-   <th>
-    <div>
-      字段属性
-    </div></th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>得分</td>
-   <td>mkto71_Lead_Score</td>
-   <td>数值</td>
-   <td>长度10<br>小数位0 </td>
-  </tr>
-  <tr>
-   <td>获取日期</td>
-   <td>mkto71_Acquisition_Date</td>
-   <td>日期/时间</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>客户获取计划</td>
-   <td>mkto71_Acquisition_Program</td>
-   <td>文本</td>
-   <td>长255</td>
-  </tr>
- </tbody>
-</table>
+   <table>
+   <thead>
+   <tr>
+      <th>
+      <div>
+         字段标签
+      </div></th>
+      <th>
+      <div>
+         字段名称
+      </div></th>
+      <th>
+      <div>
+         数据类型
+      </div></th>
+      <th>
+      <div>
+         字段属性
+      </div></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>得分</td>
+      <td>mkto71_Lead_Score</td>
+      <td>数值</td>
+      <td>长度10<br>小数位0 </td>
+   </tr>
+   <tr>
+      <td>获取日期</td>
+      <td>mkto71_Acquisition_Date</td>
+      <td>日期/时间</td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td>客户获取计划</td>
+      <td>mkto71_Acquisition_Program</td>
+      <td>文本</td>
+      <td>长255</td>
+   </tr>
+   </tbody>
+   </table>
 
 >[!NOTE]
 >
@@ -119,9 +118,9 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
 
    * 清除同步用户配置文件的&#x200B;**[!UICONTROL Read-Only]**&#x200B;复选框：
 
-      * 如果您的用户具有&#x200B;_系统管理员_&#x200B;的配置文件作为同步用户，请清除系统管理员配置文件的&#x200B;**[!UICONTROL Read-Only]**&#x200B;复选框（如下所示）
+     * 如果您的用户具有&#x200B;_系统管理员_&#x200B;的配置文件作为同步用户，请清除系统管理员配置文件的&#x200B;**[!UICONTROL Read-Only]**&#x200B;复选框（如下所示）
 
-      * 如果您为同步用户创建了&#x200B;_自定义配置文件_，请清除该自定义配置文件的&#x200B;**[!UICONTROL Read-Only]**&#x200B;复选框
+     * 如果您为同步用户创建了&#x200B;_自定义配置文件_，请清除该自定义配置文件的&#x200B;**[!UICONTROL Read-Only]**&#x200B;复选框
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 

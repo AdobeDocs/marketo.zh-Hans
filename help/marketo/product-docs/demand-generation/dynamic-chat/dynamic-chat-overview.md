@@ -6,20 +6,24 @@ exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 TQID: https://experienceleague.adobe.com/5qqiLY7-0rQiixzz0cgP7rjp8wqwHePgr4vOakFA6Ew
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Dynamic Chat
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 625
+source-wordcount: '625'
 ht-degree: 74%
-
 ---
-
 # [!DNL Dynamic Chat] 概述 {#dynamic-chat-overview}
 
 Dynamic Chat允许您利用直观的界面来定位访问您网站的人和帐户。 收集相关信息，例如姓名、联系信息以及自由文本内容。 网站访客还可以与实时客服人员聊天，甚至直接与销售团队预约会议。 Dynamic Chat 的活动和参与数据可用于将成员添加到 Marketo 项目中，并触发跨渠道活动。
@@ -40,11 +44,11 @@ Dynamic Chat 的一个关键组成部分是其与 Marketo 订阅的原生集成�
 
 ## 对话 {#dialogues}
 
-对话表示一次单独的聊天互动。 可以将其理解为一个容器，包含了与网站访客进行有效聊天所需的全部内容。 在每个对话中，您都可以指定对话出现的页面、展示给哪些受众，以及对话本身的内容和流程。 此外，您还可以查看相关量度，以评估对话的表现效果。 [了解有关对话的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}。
+对话表示一次单独的聊天互动。 可以将其理解为一个容器，包含了与网站访客进行引人入胜的聊天对话所需的全部内容。 在每个对话中，您都可以指定对话出现的页面、展示给哪些受众，以及对话本身的内容和流程。 此外，您还可以查看相关量度，以评估对话的表现效果。 [了解有关对话的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}。
 
 ## 配置 {#configuration}
 
-在“配置”选项卡中，您可以自定义各个对话的外观和体验。 更改字体、颜色、响应时间等设置！ [了解有关配置的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}。
+在“配置”选项卡中，您可以自定义各个对话的外观。 更改字体、颜色、响应时间等设置！ [了解有关配置的更多信息](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}。
 
 ## 日程表 {#calendar}
 
