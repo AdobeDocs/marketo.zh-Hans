@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
+    internal-label: Marketo Engage
+source-git-commit: c8f30157ca645b020191f85a414cf66407b421bb
 workflow-type: tm+mt
-source-wordcount: 268
-ht-degree: 2%
-
+source-wordcount: '207'
+ht-degree: 3%
 ---
-
 # SFDC 同步：合并潜在客户/联系人/人员 {#sfdc-sync-merging-a-lead-contact-person}
 
 有时最好只是列出规则。 接下来是：
@@ -30,10 +29,6 @@ ht-degree: 2%
 * 从“入选记录”中获取冲突的字段值。 （记录=产生的潜在客户或联系人）
 * 如果“失败记录”（正在消失的记录）具有值，并且获胜记录没有（或为空），我们将保留失败记录。 换句话说，“有价值总比没有价值好。”
 * 所有活动日志项都会被合并。
-
->[!NOTE]
->
->在2026年3月版中，API合并中的布尔字段行为发生了更改。 现在，False值会正确被视为具有该字段的值。 在评估冲突字段时，只有null值被视为“空”。 有关详细信息，请参阅[此社区帖子](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hans){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
