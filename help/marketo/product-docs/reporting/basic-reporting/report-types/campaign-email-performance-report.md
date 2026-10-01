@@ -7,21 +7,27 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/pMoHSEmaDbjOVpoVaUi1lvUHBYkyzOwkuF1n7mxpmY0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: a3bd8b47cc9c49d4b0c164219347d003441971c0
 workflow-type: tm+mt
-source-wordcount: 221
-ht-degree: 34%
-
+source-wordcount: '247'
+ht-degree: 31%
 ---
-
 # 营销活动电子邮件性能报告 {#campaign-email-performance-report}
 
-要查看按[智能营销活动](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)分组的电子邮件性能统计数据，请运行营销活动电子邮件性能报表。
+要查看按[Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)分组的电子邮件性能统计信息，请运行营销活动电子邮件性能报告。
+
+>[!NOTE]
+>
+>营销活动电子邮件效果报表只能在营销活动程序中创建为本地资产。 在Analytics部分中不可用。
 
 1. [创建报告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)并选择&#x200B;**[!UICONTROL Campaign Email Performance]** [报告类型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 
