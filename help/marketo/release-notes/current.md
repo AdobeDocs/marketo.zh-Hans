@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: 69974d549dd4d82628ae5481f942e42394967728
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '550'
 ht-degree: 18%
 ---
 # 发行说明：2026年9月 {#release-notes-sep-26}
@@ -49,7 +49,7 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <td><strong>Marketo Engage新UI</strong>： Marketo Engage界面具有更新的外观，包括更新的菜单、图标和布局，可提供更清晰、更现代的体验。 此为仅可视更新，任何现有功能或工作流都不会受到影响。 <i>经典UI的选择功能将在2027年1月版中提供</i>。
 </td>
-   <td>在9月底之前正式发布</td>
+   <td>在10月中旬正式发布</td>
    <td><i>不适用</i></td>
   </tr>
   <tr>
