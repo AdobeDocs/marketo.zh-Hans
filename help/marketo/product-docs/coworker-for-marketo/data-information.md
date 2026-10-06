@@ -1,22 +1,20 @@
 ---
-description: 查看跨关键工作流程（如商机导入、项目QA和数据标准化）的Marketo Engage数据范围、治理控制和PII注意事项同事。
-title: Marketo Engage的同事数据信息表
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+description: 跨关键工作流程（如商机导入、项目QA和数据标准化）查看CX Enterprise Coworker的Marketo Engage数据范围、治理控制和PII注意事项。
+title: 适用于Marketo Engage的CX Enterprise Coworker数据信息表
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1459'
 ht-degree: 0%
-
 ---
+# 适用于Marketo Engage的CX Enterprise Coworker数据信息表 {#data-information}
 
-# Marketo Engage的同事数据信息表 {#data-information}
+CX Enterprise Coworker for Marketo Engage是Adobe Marketo Engage中的一项本地代理功能，它使营销运营团队能够通过自然语言交互自动执行选定工作流，包括商机导入、项目验证、数据标准化、项目创建、商机调查、分析和产品指导。 CX Enterprise Coworker for Marketo Engage在用户现有的Marketo Engage环境中运行，并使用Adobe管理的基础架构进行AI推理和编排。
 
-Co-worker for Marketo Engage是Adobe Marketo Engage中的一项本机代理功能，它使营销运营团队能够通过自然语言交互自动执行选定的工作流，包括商机导入、项目验证、数据标准化、项目创建、商机调查、分析和产品指导。 Marketo Engage Co-worker在用户现有的Marketo Engage环境中运行，并使用Adobe管理的基础架构进行AI推理和编排。
-
-**用户环境：** Co-worker for Marketo Engage在现有Marketo Engage环境中运行，不会引入新的用户到用户共享路径。
+**用户环境：**&#x200B;适用于Marketo Engage的CX Enterprise Coworker在现有Marketo Engage环境中运行，不会引入新的用户到用户共享路径。
 
 **数据范围：**&#x200B;服务处理用户环境中已存在的标准B2B营销数据，包括潜在客户记录、项目数据和智能营销活动。
 
-**AI服务：** Co-worker for Marketo Engage利用由Adobe构建的AI工具，并使用Azure OpenAI GPT-4.1和AWS Basrock上的Claude进行AI推理，其中Marketo MCP工具支持执行产品操作。
+**AI服务：**&#x200B;适用于Marketo Engage的CX Enterprise Coworker利用Adobe构建的AI工具，并使用Azure OpenAI GPT-4.1和AWS Bedrock上的Claude进行AI推理，其中的Marketo MCP工具支持执行产品操作。
 
 **治理：**&#x200B;人工智能生成的输出保留在用户环境中，并受现有治理、驻留和保留控制的约束。
 
@@ -62,7 +60,7 @@ Co-worker for Marketo Engage是Adobe Marketo Engage中的一项本机代理功�
 
 ## 用例
 
-除了列出的问题外，请考虑使用Marketo Engage同事诊断和解决复杂的操作问题（CRM同步失败、webhook错误、电子邮件投放根本原因分析、字段不匹配），在您的帐户中执行审核（电子邮件投放能力、订阅中心合规性、智能营销活动审核、评分模型评估），以及从简报和模板（事件项目、多语言电子邮件活动、网络研讨会设置）加快项目创建。 Co-worker for Marketo Engage旨在提供人工智能辅助的大规模潜在客户分类和数据扩充、具有补救建议的性能分析以及技术配置（如Velocity脚本和生命周期模型）的引导式调试。
+除了列出的问题外，请考虑使用CX Enterprise Coworker for Marketo Engage来诊断和解决复杂的操作问题（CRM同步失败、webhook错误、电子邮件投放根本原因分析、字段不匹配），在您的帐户中执行审核（电子邮件投放能力、订阅中心合规性、智能营销活动审核、评分模型评估），以及从简报和模板（事件项目、多语言电子邮件活动、网络研讨会设置）加快项目创建。 CX Enterprise Coworker for Marketo Engage旨在提供人工智能辅助的商机大规模分类和数据扩充、带修正建议的性能分析，以及技术配置（如Velocity脚本和生命周期模型）的引导式调试。
 
 ## 可用性和转出状态
 
@@ -78,13 +76,13 @@ Co-worker for Marketo Engage是Adobe Marketo Engage中的一项本机代理功�
 
 **文档：** Experience League文档正在扩展，作为一般可用性准备工作的一部分。
 
-**支持模型：**&#x200B;当前支持方法包括用户反馈接收、办公时间和Marketo Engage Experience League社区的同事。
+**支持模型：**&#x200B;当前支持方法包括用户反馈接收、办公时间和Marketo Engage Experience League社区的CX Enterprise Coworker。
 
 **服务监控：** Adobe将可观察性、反馈仪表板和质量评估机制标识为启动成熟度和持续改进的重要组成部分。
 
 ## 超出范围的数据和排除项
 
-**没有新的特殊类别数据：** Marketo Engage同事未对健康、财务、精确位置、生物识别或其他特殊类别数据引入新的处理方式。
+**没有新的特殊类别数据：**&#x200B;适用于Marketo Engage的CX Enterprise Coworker没有为健康、财务、精确位置、生物识别或其他特殊类别数据引入新的处理方式。
 
 **没有新的共享路径：**&#x200B;服务未创建新的用户到用户内容共享机制。
 
@@ -94,13 +92,13 @@ Co-worker for Marketo Engage是Adobe Marketo Engage中的一项本机代理功�
 
 ## Azure OpenAI和Claude在AWS Basrock上的使用
 
-本节介绍Azure OpenAI如何支持Marketo Engage工作流的协作者。 任何相关的图或流描述都应与此处所述的控件一起阅读，包括对数据范围、用户监督和模型训练的限制。
+本节介绍Azure OpenAI如何为Marketo Engage工作流支持CX Enterprise Coworker。 任何相关的图或流描述都应与此处所述的控件一起阅读，包括对数据范围、用户监督和模型训练的限制。
 
 **用途：** Azure OpenAI GPT-4.1用于代理驱动工作流的对话推理和编排。
 
 **数据范围：**&#x200B;输入仅限于用户Marketo Engage环境中已存在的标准B2B营销数据，并且是完成所请求的工作流所必需的。
 
-**AI输出：** AI输出由用户提示和配置决定，Marketo Engage功能的协作者在没有用户配置的情况下不会自主做出任何决策。
+**AI输出：** AI输出由用户提示和配置决定，CX Enterprise Coworker for Marketo Engage功能在没有用户配置的情况下不会自主做出任何决策。
 
 **培训：** Adobe不使用用户数据来培训或优化此服务的Azure OpenAI模型。
 
@@ -116,11 +114,11 @@ Co-worker for Marketo Engage是Adobe Marketo Engage中的一项本机代理功�
 
 ## 数据处理和存储位置
 
-此部分总结了Marketo Engage Co-worker在其中运行以及进行处理的环境。 如果文档包含区域图表或基础设施可视化图表，则这些资料应理解为对服务位置和处理流程的高层次描述，而不是详尽的网络图表。
+此部分总结了适用于Marketo Engage的CX Enterprise Coworker的运行环境以及进行处理的环境。 如果文档包含区域图表或基础设施可视化图表，则这些资料应理解为对服务位置和处理流程的高层次描述，而不是详尽的网络图表。
 
-**应用程序环境：** Marketo Engage的协作程序在用户现有的Adobe Marketo Engage环境中运行。
+**应用程序环境：**&#x200B;适用于Marketo Engage的CX Enterprise Coworker在用户现有的Adobe Marketo Engage环境中运行。
 
-**AI处理：**&#x200B;适用于Marketo Engage的协作程序使用Azure OpenAI GPT-4.1和AWS Basrock上的Claude进行对话推理和任务编排。
+**AI处理：** CX Enterprise Coworker for Marketo Engage使用Azure OpenAI GPT-4.1和AWS Basrock上的Claude进行对话推理和任务编排。
 
 **用户数据位置：**&#x200B;用户数据和人工智能生成的输出仍保留在用户的Marketo Engage环境中，并受用户现有的居留、治理和保留控制的约束。
 
@@ -128,7 +126,7 @@ Co-worker for Marketo Engage是Adobe Marketo Engage中的一项本机代理功�
 
 ## 按工作流类型划分的数据范围
 
-Co-worker for Marketo Engage处理的数据由用户的使用模式和调用的特定工作流决定。 并非所有工作流都需要处理潜在客户级别的数据。
+CX Enterprise Coworker for Marketo Engage处理的数据取决于用户的使用模式和调用的特定工作流。 并非所有工作流都需要处理潜在客户级别的数据。
 
 ### 仅利用活动元数据的工作流（无潜在客户信息）
 
@@ -150,9 +148,9 @@ Co-worker for Marketo Engage处理的数据由用户的使用模式和调用的�
 ### 通过设计将数据最小化
 
 * 在所有情况下，发送到AI模型的数据仅限于在该工作流中完成特定用户请求所需的内容
-* Marketo Engage的同事遵循用户的现有Marketo Engage权限；如果用户通过产品UI具有查看权限，则不允许访问潜在客户记录、字段或程序
+* CX Enterprise Coworker for Marketo Engage遵循用户现有的Marketo Engage权限；在用户通过产品UI查看的权限之外，它不提供对潜在客户记录、字段或程序的访问权限
 * 希望限制潜在客户数据处理的用户可以通过现有的Marketo Engage角色和权限控制限制对该工具的调查工作流的访问，同时保留对结构和管理AI功能的完全访问权限
 
 ### 无增量数据泄露
 
-AI的作用是加速现有用户权限，而不是提升路径。 如果用户无法在Marketo Engage UI中查看某些潜在客户字段、程序或分区，则也无法通过Marketo Engage Co-worker呈现这些数据。 该服务不会绕过分区规则、字段级权限或工作区限制。
+AI的作用是加速现有用户权限，而不是提升路径。 如果用户无法在Marketo Engage UI中查看某些潜在客户字段、程序或分区，也无法通过CX Enterprise Coworker for Marketo Engage呈现这些数据。 该服务不会绕过分区规则、字段级权限或工作区限制。

@@ -1,14 +1,14 @@
 ---
-description: 了解组织规则如何定义治理标准，并在项目创建、活动规划和验证期间指导Marketo Engage的协作者。
+description: 了解组织规则如何定义治理标准，并在项目创建、活动规划和验证期间指导Marketo Engage的CX Enterprise Coworker。
 title: 组织规则
-source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '867'
 ht-degree: 0%
 ---
 # 组织规则 {#organizational-rules}
 
-组织规则在一个文档中定义了您的营销运营标准和治理要求，该文档在项目创建、活动规划和验证工作流中指导Marketo Engage的合作伙伴。
+组织规则在一个文档中定义了您的营销运营标准和治理要求，该文档在各种项目创建、活动规划和验证工作流中指导CX Enterprise Coworker for Marketo Engage。
 
 ## 什么是组织规则？ {#what-are-organizational-rules}
 
@@ -23,17 +23,17 @@ ht-degree: 0%
 
 ## 使用组织规则的位置 {#where-organizational-rules-are-used}
 
-组织规则跨三种技能为Marketo Engage的同事提供指导：
+组织规则跨三种技能为CX Enterprise Coworker for Marketo Engage提供指南：
 
 | 技能 | 规则的应用方式 |
 | --- | --- |
-| 生成项目 | 规则指导程序结构的创建、命名和初始设置。 在创建项目之前，Marketo Engage的同事会在您的简报中标记任何合规性问题。 |
-| 计划活动 | 规则通知Marketo Engage的同事如何根据您的标准构建智能营销活动、过滤器和流程步骤。 |
-| 验证程序 | 规则定义了在激活前验证程序时Marketo Engage的哪些同事检查。 |
+| 生成项目 | 规则指导程序结构的创建、命名和初始设置。 在创建项目之前，适用于Marketo Engage的CX Enterprise Coworker会在您的简报中标记任何合规性问题。 |
+| 计划活动 | 规则告知适用于Marketo Engage的CX Enterprise Coworker如何根据您的标准构建智能营销活动、过滤器和流程步骤。 |
+| 验证程序 | 规则定义了在激活之前验证程序时，CX Enterprise Coworker for Marketo Engage会检查哪些内容。 |
 
 ## 如何访问和自定义组织规则 {#how-to-access-and-customize-organizational-rules}
 
-1. 在“我的Marketo”中，单击&#x200B;**Marketo Engage同事**&#x200B;图块。
+1. 在“我的Marketo”中，单击&#x200B;**CX Enterprise Coworker for Marketo Engage**&#x200B;磁贴。
 1. 单击齿轮图标。
 1. 选择&#x200B;**组织规则**&#x200B;选项卡。
 1. 查看默认规则（这些规则中预先填充了营销操作最佳实践）。
@@ -45,7 +45,7 @@ ht-degree: 0%
    * 法规遵从性和排除标准
 
 1. 进行更改时更新版本号。
-1. 保存更改。 所有具有Marketo Engage技能的同事将立即使用您的自定义规则。
+1. 保存更改。 所有具有Marketo Engage技能的CX Enterprise Coworker都将立即使用您的自定义规则。
 
 ## 组织规则结构 {#organizational-rules-structure}
 
@@ -99,16 +99,16 @@ customized: true
 * **使规则重点突出**：仅包含对您的组织重要的要求。 不必要的规则会产生干扰，并且会不必要地降低合规性分数。
 * **同时使用自动和手动检查**：
 
-  * 自动检查：命名约定、所需文件夹、令牌使用情况（Marketo Engage的同事可以验证这些内容）
-  * 手动检查：电子邮件可视化设计、品牌合规性、活动逻辑（Marketo Engage的同事将把这些标记为手动审查步骤）
+  * 自动检查：命名约定、所需文件夹、令牌使用情况（适用于Marketo Engage的CX Enterprise Coworker可以验证这些内容）
+  * 手动检查：电子邮件可视化设计、品牌合规性、营销活动逻辑（适用于Marketo Engage的CX Enterprise Coworker会将这些标记为手动审查步骤）
 
 * **灵活平衡严格性**：规则太严格可能会减慢程序创建速度。 过于宽松的规则不会发现重要的合规问题。
 * **更新您的规则**：在进行重大更改时更新版本号，以便您的团队知道治理标准已更新。
 * **传达更改**：当您更新组织规则时，请让您的营销运营团队知道更改了哪些内容以及更改原因。
 
-## 什么是Marketo Engage的同事可以验证和无法验证的 {#what-coworker-can-and-cannot-validate}
+## 适用于Marketo Engage的CX Enterprise Coworker可以验证和无法验证的内容 {#what-coworker-can-and-cannot-validate}
 
-Marketo Engage CAN的同事验证（自动检查）：
+适用于Marketo Engage的CX Enterprise Coworker CAN验证（自动检查）：
 
 * 命名惯例与您的模式相匹配
 * 存在所需的文件夹结构
@@ -117,7 +117,7 @@ Marketo Engage CAN的同事验证（自动检查）：
 * 外部链接包括UTM参数
 * Smart Campaign名称遵循惯例
 
-Marketo Engage的同事无法验证（需要手动审查）：
+适用于Marketo Engage的CX Enterprise Coworker无法验证（需要手动审查）：
 
 * 智能列表筛选器逻辑（API限制：您必须手动配置筛选器）
 * Smart Campaign流步骤逻辑（API限制：您必须手动配置流）
@@ -125,14 +125,14 @@ Marketo Engage的同事无法验证（需要手动审查）：
 * 品牌合规性和消息传递基调（需要人为判断）
 * 动态内容分段规则（API限制）
 
-当Marketo Engage的同事遇到无法验证的内容时，会在工作流中将其标记为手动审阅步骤。
+当CX Enterprise Coworker for Marketo Engage遇到无法验证的内容时，它会将其标记为工作流中的手动审核步骤。
 
 ## 合规性评分 {#compliance-scoring}
 
-在使用“验证程序”时，Co-worker for Marketo Engage会根据以下各项计算相容性分数：
+在使用验证程序时，CX Enterprise Coworker for Marketo Engage会根据以下各项计算相容性分数：
 
-* **通过检查**： Marketo Engage的同事已验证合规性，未找到任何问题
-* **检查失败**： Marketo Engage的同事发现违反您的组织规则
+* **通过了检查**： CX Enterprise Coworker验证了Marketo Engage的合规性，没有发现任何问题
+* **失败的检查**： Marketo Engage的CX Enterprise Coworker发现违反您的组织规则
 * **手动审核步骤**：需要人工验证的项目（这些不会计入您的分数）
 
 一个程序可以具有100%的合规性，但仍需要手动审查步骤；它们被排除在分数计算之外。
@@ -172,9 +172,9 @@ Example: AMER_Q2_Product_Launch_Webinar_2025
 
 ## 故障排除 {#troubleshooting}
 
-**问：我更新了组织规则，但Marketo Engage的同事仍在使用旧规则。**
+**问：我更新了组织规则，但适用于Marketo Engage的CX Enterprise Coworker仍在使用旧规则。**
 
-答：更改会立即对新程序和验证生效。 如果您正在处理现有项目，请刷新浏览器或启动新的Marketo Engage同事工作流程，以查看更新的规则。
+答：更改会立即对新程序和验证生效。 如果您正在处理现有项目，请刷新浏览器或启动新的CX Enterprise Coworker for Marketo Engage工作流以查看更新的规则。
 
 **问：能否还原为默认规则？**
 

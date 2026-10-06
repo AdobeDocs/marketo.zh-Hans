@@ -1,16 +1,16 @@
 ---
-description: 使用Co-worker for Marketo Engage通过调整现有模板来构建Marketo项目。 让智能营销活动、计划和资产占位符准备好进行审查和优化。
+description: 使用适用于Marketo Engage的CX Enterprise Coworker通过调整现有模板来构建Marketo程序。 让智能营销活动、计划和资产占位符准备好进行审查和优化。
 title: 构建程序
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # 构建程序 {#build-programs}
 
-以纯语言描述营销活动，Co-worker for Marketo Engage可调整现有项目模板以满足您的需求，自动更新电子邮件内容并通过复制模板结构创建其他资源。
+使用纯语言描述营销活动，并且CX Enterprise Coworker for Marketo Engage会调整现有项目模板以满足您的需求，自动更新电子邮件内容并通过复制模板结构创建其他资源。
 
-您组织的[组织规则](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}指南介绍了Marketo Engage的同事如何在创建过程中构建并验证项目。 这些规则确保新程序与您的命名惯例、所需令牌、文件夹结构和合规性标准保持一致。
+贵组织的[组织规则](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}指导适用于Marketo Engage的CX Enterprise Coworker如何在创建过程中构建并验证项目。 这些规则确保新程序与您的命名惯例、所需令牌、文件夹结构和合规性标准保持一致。
 
 >[!PREREQUISITES]
 >
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 使用方法 {#how-to-use}
 
-1. 在“我的Marketo”中，单击&#x200B;**Marketo Engage同事**&#x200B;图块。
+1. 在“我的Marketo”中，单击&#x200B;**CX Enterprise Coworker for Marketo Engage**&#x200B;磁贴。
 
 1. 选择模板项目。 选择与您的活动类型匹配的现有项目（例如，电子邮件、网络研讨会、Nurture）。
 
 1. 在提示窗口中，键入要创建的活动的说明。 根据需要尽可能具体或笼统（您可随时优化）。
 
-1. Marketo Engage的同事确认其对您简介的解释，并列出其计划创建的内容。 请在构建之前查看此内容。
+1. 适用于Marketo Engage的CX Enterprise Coworker确认其对您的简介的解释，并列出其计划创建的内容。 请在构建之前查看此内容。
 
-1. 确认，然后Marketo Engage的同事将在您的环境中创建程序。
+1. 确认，然后适用于Marketo Engage的CX Enterprise Coworker会在您的环境中创建项目。
 
 1. 在Marketo中打开新创建的项目并查看结构。
 
@@ -40,13 +40,13 @@ ht-degree: 0%
 
 ## 用例 {#use-cases}
 
-**网络研讨会注册计划**：营销活动经理键入“为我们8月份的产品演示创建网络研讨会注册计划”。 发送邀请电子邮件、前一天提醒，以及之后对录制链接的跟进。” Marketo Engage的同事创建了一个项目，该项目包含三个智能营销活动（邀请、提醒、跟进）、每个活动的占位符电子邮件，以及基于活动日期的计划。
+**网络研讨会注册计划**：营销活动经理键入“为我们8月份的产品演示创建网络研讨会注册计划”。 发送邀请电子邮件、前一天提醒，以及之后对录制链接的跟进。” CX Enterprise Coworker for Marketo Engage创建了一个项目，该项目包含三个智能营销活动（邀请、提醒、跟进）、每个活动的占位符电子邮件，以及基于活动日期的计划。
 
-**商机得分触发器促销活动**：营销运营专家键入，“构建商机达到50分时触发的项目并将它们发送到MQL智能列表。” Marketo Engage的同事创建项目，其中包括用于侦听得分更改的触发器促销活动以及用于将商机添加到MQL列表的流程步骤。
+**商机得分触发器促销活动**：营销运营专家键入，“构建商机达到50分时触发的项目并将它们发送到MQL智能列表。” 适用于Marketo Engage的CX Enterprise Coworker创建了该项目，其触发活动侦听得分更改，并包含一个流程步骤，将商机添加到MQL列表。
 
-**重新参与培养**：需求一般经理请求通过3封电子邮件重新参与系列来定位未参与90天的潜在客户。 Marketo Engage的同事使用非活动过滤器创建批处理营销活动，创建三个电子邮件发送步骤（它们之间有适当的等待步骤），以及一个流程步骤（如果某人重新参与，则更新潜在客户状态）。
+**重新参与培养**：需求一般经理请求通过3封电子邮件重新参与系列来定位未参与90天的潜在客户。 适用于Marketo Engage的CX Enterprise Coworker使用非活动过滤器创建批量营销活动，在三个电子邮件发送步骤之间执行适当的等待步骤，以及在某人重新参与时更新潜在客户状态的流程步骤。
 
-**活动跟进计划**：在贸易展后，经理要求Marketo Engage的同事创建活动后跟进计划，该计划将向与会者发送感谢邮件，并向未显示的注册者发送错过的电子邮件。 Marketo Engage的同事创建两个智能营销活动，每个区段各一个，并使用正确的过滤器和电子邮件占位符。
+**活动跟进计划**：在贸易展后，经理要求CX Enterprise Coworker的Marketo Engage创建活动后跟进计划，以向与会者发送感谢邮件，并向未显示的注册者发送错过的电子邮件。 适用于Marketo Engage的CX Enterprise Coworker创建两个智能营销活动，每个区段各一个，并使用正确的过滤器和电子邮件占位符。
 
 >[!NOTE]
 >
@@ -58,6 +58,6 @@ ht-degree: 0%
 * 需要模板选择。 选择至少具有一个电子邮件和一个智能营销活动的模板。 该工具不能用于空模板。
 * 电子邮件内容是自动生成的，但Smart Campaign过滤器和流量步骤仍以手动方式执行。 您必须在创建后配置逻辑以匹配营销活动的预期行为。
 * 通过复制创建额外资源。 如果您的简要请求显示4封电子邮件，但您的模板只有1封，则该工具会创建3个重复项。 审核它们的一致性情况；它们继承了模板的设计和结构。
-* Marketo Engage同事无法自动访问您现有的受众列表。 在创建程序后，必须手动配置智能列表筛选器以定向实际区段。
+* 适用于Marketo Engage的CX Enterprise Coworker无法自动访问您现有的受众列表。 在创建程序后，必须手动配置智能列表筛选器以定向实际区段。
 * 具有高级分支逻辑的复杂多步骤程序在创建后可能需要手动细化。
 * 如果您的Marketo环境使用命名惯例或文件夹结构，请在简介中指定它们，以便在正确的位置创建程序。
