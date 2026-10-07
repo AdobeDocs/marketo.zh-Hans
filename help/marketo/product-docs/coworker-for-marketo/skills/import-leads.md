@@ -1,30 +1,28 @@
 ---
 description: 了解如何使用导入商机代理上传CSV、应用业务规则、映射字段并将商机直接导入Marketo Engage数据库。
 title: 导入潜在客户
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
-
 ---
-
 # 导入潜在客户 {#import-leads}
 
 借助字段映射帮助，将潜在客户列表导入到您的Marketo Engage数据库中并进行重复数据删除。
 
 ## 使用方法 {#how-to-use}
 
-1. 在“我的Marketo”中，单击&#x200B;**Marketo Engage同事**&#x200B;图块。
+1. 在“我的Marketo”中，单击&#x200B;**CX Enterprise Coworker for Marketo Engage**&#x200B;磁贴。
 
-   ![](assets/import-leads-1.png)
+   ![](assets/cx-import-leads-1.png)
 
 1. 键入“Import a lead list and normalize the data”（如果它作为示例提示列出，则选择它），然后单击向上箭头图标。
 
-   ![](assets/import-leads-2.png)
+   ![](assets/cx-import-leads-2.png)
 
 1. 系统会提示您上传CSV文件，并显示即将执行的步骤。
 
-   ![](assets/import-leads-3.png)
+   ![](assets/cx-import-leads-3.png)
 
 1. 单击&#x200B;**+**&#x200B;图标并选择&#x200B;**上传文件**。 查找并上传您的CSV文件。
 

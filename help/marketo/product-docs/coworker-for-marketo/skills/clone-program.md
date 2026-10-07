@@ -3,13 +3,11 @@ description: 克隆程序会将现有Marketo程序复制到具有新名称的新
 title: 克隆程序
 badge: Beta 版
 hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '487'
 ht-degree: 0%
-
 ---
-
 # 克隆程序 {#clone-program}
 
 克隆程序代理可将工作程序（包括其智能营销活动、流程步骤、电子邮件资源和配置）复制到Marketo环境中的新位置。
@@ -28,16 +26,16 @@ ht-degree: 0%
 
 ## 使用方法 {#how-to-use}
 
-1. 在“我的Marketo”中，单击&#x200B;**Marketo Engage同事**&#x200B;图块。
+1. 在“我的Marketo”中，单击&#x200B;**CX Enterprise Coworker for Marketo Engage**&#x200B;磁贴。
 1. 在提示窗口中，键入说明。 例如，“将我的第2季度网络研讨会计划克隆到第3季度促销活动文件夹，并将其称为第3季度产品演示网络研讨会。”
-1. Marketo Engage同事确认源程序、目标文件夹和新名称。 查看并确认。
-1. 将创建克隆。 Marketo Engage的同事会在完成时进行确认，并告诉您应在何处查找该报表。
+1. 适用于Marketo Engage的CX Enterprise Coworker确认源程序、目标文件夹和新名称。 查看并确认。
+1. 将创建克隆。 适用于Marketo Engage的CX Enterprise Coworker将确认完成时间并告知您应在何处查找它。
 1. 在Marketo中打开新项目并更新新增内容：电子邮件内容、日期、受众过滤器、令牌等。
 1. 在激活前运行[程序QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md)代理。
 
 ## 用例 {#use-cases}
 
-**每季促销活动重复使用**：促销活动经理每季度都运行相同的网络研讨会系列。 他们要求Marketo Engage的同事将上季度的网络研讨会项目克隆到新季度的文件夹中，并更新其名称。 然后，他们更新电子邮件副本、网络研讨会日期令牌和注册链接，从而节省设置时间长达数小时。
+**每季促销活动重复使用**：促销活动经理每季度都运行相同的网络研讨会系列。 他们要求CX Enterprise Coworker的Marketo Engage将上季度的网络研讨会项目克隆到新季度的文件夹中，并更新其名称。 然后，他们更新电子邮件副本、网络研讨会日期令牌和注册链接，从而节省设置时间长达数小时。
 
 **从经验证的计划创建模板**：营销运营专家将高性能产品启动计划克隆到“模板”文件夹中，以作为未来启动的起点。 克隆将保持停用状态并用作参考副本。
 

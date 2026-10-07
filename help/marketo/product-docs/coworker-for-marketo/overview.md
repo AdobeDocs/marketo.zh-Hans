@@ -1,34 +1,34 @@
 ---
-description: 探索Co-worker for Marketo Engage代理套件，该套件旨在自动执行项目QA、商机导入、数据标准化等营销任务。
-title: Marketo Engage的同事概述
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+description: 探索CX Enterprise Coworker for Marketo Engage代理套件，这些代理专为自动执行营销任务（如项目QA、商机导入、数据标准化等）而设计。
+title: 适用于Marketo Engage的CX Enterprise Coworker概述
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '454'
 ht-degree: 1%
 ---
-# Marketo Engage的同事概述 {#overview}
+# 适用于Marketo Engage的CX Enterprise Coworker概述 {#overview}
 
-Marketo Engage（以前称为Marketo AI）的Co-worker提供了代理技能，这些技能旨在自动执行耗时但重要的营销功能。
+CX Enterprise Coworker for Marketo Engage提供了代理技能，这些技能旨在自动执行耗时但重要的营销功能。
 
 >[!AVAILABILITY]
 >
->此功能适用于所有订阅。 如果您在“我的Marketo”屏幕上看不到“Marketo Engage同事”拼贴，请联系您的客户经理。 您还必须同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
+>此功能适用于所有订阅。 如果您在“我的Marketo”屏幕上看不到“适用于Marketo Engage的CX Enterprise Coworker”拼贴，请联系您的客户经理。 您还必须同意[Core Gen-AI条款和补充条款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
 
 >[!IMPORTANT]
 >
->* 为您的订阅启用了Marketo Engage的同事后，您必须执行一些[设置步骤](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}以确保所需用户具有访问权限。
+>* 为您的订阅启用了CX Enterprise Coworker for Marketo Engage后，您必须执行一些[设置步骤](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}以确保所需用户具有访问权限。
 >
->* 查看Marketo Engage [协同工作数据信息表](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}中的数据范围、治理控制和PII注意事项。
+>* 查看Marketo Engage [数据信息表](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}的CX Enterprise Coworker中的数据范围、治理控制和PII注意事项。
 
 ## 如何访问 {#access}
 
-在“我的Marketo”屏幕上，单击&#x200B;**Marketo Engage同事**&#x200B;图块。
+在“我的Marketo”屏幕上，单击&#x200B;**CX Enterprise Coworker for Marketo Engage**&#x200B;图块。
 
-![](assets/overview-1.png)
+![](assets/cx-overview-1.png)
 
 在提示字段中键入您的请求，选择座席技能之一，或尝试示例提示之一。
 
-![](assets/overview-2.png)
+![](assets/cx-overview-2.png)
 
 ## 技能 {#skills}
 
@@ -36,7 +36,7 @@ Marketo Engage（以前称为Marketo AI）的Co-worker提供了代理技能，�
 
 ### 构建程序 {#build-programs}
 
-使用简单的语言描述营销活动，由Marketo Engage的同事构建项目结构，并使用资产占位符和计划安排进行构建。 了解有关[构建计划技能](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}的更多信息。
+以简单的语言描述营销活动，CX Enterprise Coworker为Marketo Engage构建项目结构，并使用资产占位符和计划安排。 了解有关[构建计划技能](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}的更多信息。
 
 ### 调查潜在客户 {#investigate-leads}
 
@@ -44,7 +44,7 @@ Marketo Engage（以前称为Marketo AI）的Co-worker提供了代理技能，�
 
 ### 产品知识 {#product-knowledge}
 
-通过产品知识，您能够按需访问Marketo专业知识，而无需离开平台。 用浅显的语言提问，Marketo Engage的同事利用Adobe的官方文档来回答问题。 了解有关[产品知识技能](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}的更多信息。
+通过产品知识，您能够按需访问Marketo专业知识，而无需离开平台。 使用简单的语言提问，适用于Marketo Engage的CX Enterprise Coworker会利用Adobe的官方文档来回答这个问题。 了解有关[产品知识技能](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}的更多信息。
 
 ### 验证程序 {#validate-programs}
 
