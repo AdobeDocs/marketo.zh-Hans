@@ -84,7 +84,7 @@ Salesforce使用OAuth协议，允许应用程序用户安全地访问（使用OA
 >* 必须在Salesforce中创建Marketo同步用户。
 >* 禁用了弹出窗口阻止程序。
 >* 已创建连接的应用程序，[!UICONTROL Consumer Key]和[!UICONTROL Consumer Secret]可供使用。
->* 请联系[Marketo支持](https://experienceleague.adobe.com/en/support)，以启用以下功能：为SFDC同步启用OAuth，刷新令牌流需要密钥，以及代码交换需要验证密钥(PKCE)。
+>* 请联系[Marketo支持](https://experienceleague.adobe.com/zh-hans/support)，以启用以下功能：为SFDC同步启用OAuth，刷新令牌流需要密钥，以及代码交换需要验证密钥(PKCE)。
 
 >[!CAUTION]
 >
