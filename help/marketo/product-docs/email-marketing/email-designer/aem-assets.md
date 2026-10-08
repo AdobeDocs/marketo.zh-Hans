@@ -41,11 +41,11 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;提供易于使用�
 
 >[!PREREQUISITES]
 >
->* 集成需要&#x200B;_Assets as a Cloud Service_&#x200B;和Dynamic Media的许可证。 确保启用了[Dynamic Media with Open API](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis)。 根据您的合同和配置，在设计可视化内容时，可以直接从Adobe Experience Manager访问Assets _Marketo Engage as a Cloud Service_。
+>* 集成需要&#x200B;_Assets as a Cloud Service_&#x200B;和Dynamic Media的许可证。 确保启用了[Dynamic Media with Open API](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis)。 根据您的合同和配置，在设计可视化内容时，可以直接从Adobe Experience Manager访问Assets _Marketo Engage as a Cloud Service_。
 
 >[!NOTE]
 >
->目前，Marketo Engage仅支持&#x200B;_Adobe Experience Manager Assets_&#x200B;中的图像资源。 必须在Adobe Experience Manager Assets中央存储库中更改资源。 [了解详情](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>目前，Marketo Engage仅支持&#x200B;_Adobe Experience Manager Assets_&#x200B;中的图像资源。 必须在Adobe Experience Manager Assets中央存储库中更改资源。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## 链接到您的AEM云服务 {#link-to-your-aem-cloud-services}
 
@@ -73,7 +73,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;提供易于使用�
    >
    >* 仅列出在与Marketo Engage订阅相同的IMS组织中关联的存储库。
    >
-   >* Marketo Engage仅支持来自投放层的存储库。 如果您使用创作层并且想要转换它，请联系[Adobe Experience Manager支持](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources)。
+   >* Marketo Engage仅支持来自投放层的存储库。 如果您使用创作层并且想要转换它，请联系[Adobe Experience Manager支持](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-manager/content/overview/help-resources)。
 
 1. 必须添加[服务凭据证书](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)才能配置存储库。 单击&#x200B;**+添加证书**&#x200B;按钮。
 
@@ -111,7 +111,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;提供易于使用�
 
 >[!IMPORTANT]
 >
->管理员必须将需要访问资源的用户添加到Assets Consumer Users和/或Assets Users产品配置文件。 [了解详情](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理员必须将需要访问资源的用户添加到Assets Consumer Users和/或Assets Users产品配置文件。 [了解详情](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 在可视内容编辑器中，单击左侧边栏中的&#x200B;_Experience Manager资源选择器_&#x200B;图标。 这会将“工具”面板更改为选定存储库中可用资源的列表。
 
