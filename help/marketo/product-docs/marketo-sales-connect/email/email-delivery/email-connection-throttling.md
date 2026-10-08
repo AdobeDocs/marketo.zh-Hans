@@ -66,7 +66,7 @@ ht-degree: 2%
 * 每分钟30次
 * 每封电子邮件500个收件人
 
-可在此处](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)找到更多信息[。
+可在此处[&#128279;](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)找到更多信息。
 
 **Gmail**
 
@@ -74,7 +74,7 @@ ht-degree: 2%
 * 每秒2封电子邮件（API限制）
 * 每封邮件2,000个收件人（外部收件人最多500个）
 
-可在此处](https://support.google.com/a/answer/166852?hl=en)找到更多信息[。
+可在此处[&#128279;](https://support.google.com/a/answer/166852?hl=en)找到更多信息。
 
 **[!DNL Microsoft Exchange Server (2010, 2013)]**
 
@@ -84,4 +84,4 @@ ht-degree: 2%
 >
 >* [投放渠道概述](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* Gmail用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->*  [!DNL Outlook] 用户](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的[电子邮件连接
+>*  [!DNL Outlook] 用户[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的电子邮件连接

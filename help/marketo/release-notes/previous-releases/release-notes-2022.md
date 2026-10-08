@@ -104,7 +104,7 @@ ht-degree: 6%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Salesforce] CRM **的**[!DNL Sales Insight]
+[!DNL Salesforce] CRM **的**&#x200B;[!DNL Sales Insight]
 
 * **适用于[!UICONTROL Best Bets]**&#x200B;的新类型列：销售商将通过标记为“类型”的新列快速获得见解，以区分[!UICONTROL Best Bets]页面上的潜在客户和联系人。
 
@@ -112,7 +112,7 @@ ht-degree: 6%
 
 * **已更新品牌**：正在更新所有[!DNL Sales Insight]页面，以与Adobe品牌保持一致。
 
-[!DNL Microsoft Dynamics]**的**[!DNL Sales Insight]
+[!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;[!DNL Sales Insight]
 
 * **更新了帐户布局**：销售人员可以获取热门活动的集体视图，例如：电子邮件活动、Web活动、有趣的时刻以及帐户中所有联系人的得分更改。
 
@@ -288,7 +288,7 @@ ht-degree: 6%
 
 * **已改进[!DNL Dynamic Chat]**&#x200B;的流Designer可用性：无需拖放，即可直接从Designer流画布添加信息卡。 [!DNL Dynamic Chat]界面也已得到改进，可更好地显示各个信息卡中的内容。
 
-* [!DNL Dynamic Chat]**的**&#x200B;高级约会路由规则： [!DNL Dynamic Chat]为目标约会路由提供了更多选项。 指定应根据Marketo Engage属性路由哪些座席约会，确保将潜在客户路由到适当的座席。
+* [!DNL Dynamic Chat]&#x200B;**的**&#x200B;高级约会路由规则： [!DNL Dynamic Chat]为目标约会路由提供了更多选项。 指定应根据Marketo Engage属性路由哪些座席约会，确保将潜在客户路由到适当的座席。
 
 * **适用于[!DNL Dynamic Chat]**&#x200B;的高级对话框报表：使用参与和转化量度的全新数据可视化图表，更详细地查看[!DNL Dynamic Chat]营销活动的性能。
 
@@ -380,7 +380,7 @@ ht-degree: 6%
 
 * **Webhook自定义标头可见性**： Webhook自定义标头现在显示在[!UICONTROL Admin] > [!UICONTROL Webhooks]选项卡中，可见性更高。
 
-* **CAPTCHA**：使用reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}评估表单提交的有效性[以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
+* **CAPTCHA**：使用reCAPTCHA v3[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}评估表单提交的有效性以对传入的表单流量进行评分。 构建营销工作流以自动排除、隔离或删除可疑的机器人流量。
 
 * **批准表单的权限**：新权限可控制哪些设计人员可以批准对表单的更改，这些更改与其他[!UICONTROL Design Studio]资源一致。 这可以防止其他设计人员在没有获得批准权限的其他人审阅表单的情况下，将更改推送到表单中。
 

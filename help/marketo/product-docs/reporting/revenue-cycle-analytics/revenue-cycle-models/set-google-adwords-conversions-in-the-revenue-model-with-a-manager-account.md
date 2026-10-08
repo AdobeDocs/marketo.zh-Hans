@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504923
-description: 了解如何使用Marketo Engage中的经理帐户在收入模型中设置[!dnl google adwords]转化。 使用本指南完成您的下一步。
+description: 了解如何使用Marketo Engage中的经理帐户在收入模型中设置[ !dnl google adwords]转化。 使用本指南完成您的下一步。
 title: 使用经理帐户在收入模型中设置[!DNL Google AdWords]转化
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics

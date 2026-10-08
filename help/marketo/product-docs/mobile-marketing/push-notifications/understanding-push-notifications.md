@@ -32,7 +32,7 @@ Marketo mobile engagement允许您创建、配置和发送通知，就像创建�
 
 ## 步骤1：管理员和开发人员执行初始设置 {#step-admin-and-developer-perform-initial-setups}
 
-Marketo管理员和移动设备应用程序开发人员共同为您进行设置。 有关详细信息，请参阅创建推送通知和应用内消息之前的[](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)。
+Marketo管理员和移动设备应用程序开发人员共同为您进行设置。 有关详细信息，请参阅创建推送通知和应用内消息之前的[&#128279;](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)。
 
 ## 步骤2：创建推送通知 {#step-create-a-push-notification}
 

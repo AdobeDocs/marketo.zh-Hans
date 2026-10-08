@@ -38,4 +38,4 @@ ht-degree: 3%
 
 >[!MORELIKETHIS]
 >
->深入了解Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中有关[合并人员的详细信息。
+>深入了解Marketo[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中有关合并人员的详细信息。

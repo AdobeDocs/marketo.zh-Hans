@@ -45,7 +45,7 @@ Marketo Engage每天与[!DNL Veeva] CRM同步。 每次同步都需要一些时�
 
 ## 须知事项 {#things-to-know}
 
-* 您在Marketo Engage中为 [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}输入的[凭据用于同步数据。 只有这些凭据有权限访问的数据才会包含在内。
+* 您在Marketo Engage中为 [!DNL Veeva]&#x200B;[&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}输入的凭据用于同步数据。 只有这些凭据有权限访问的数据才会包含在内。
 
 * [!DNL Veeva] CRM基于force.com，此同步中继承了Marketo Engage在该平台中拥有的丰富体验。
 

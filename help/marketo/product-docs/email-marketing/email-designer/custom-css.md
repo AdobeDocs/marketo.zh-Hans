@@ -61,7 +61,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >使用包含锁定内容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)的[模板时，无法向内容添加自定义CSS。 按钮标签更改为&#x200B;**[!UICONTROL View custom CSS]**，并且显示的所有自定义CSS均为只读。
+   >使用包含锁定内容[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)的模板时，无法向内容添加自定义CSS。 按钮标签更改为&#x200B;**[!UICONTROL View custom CSS]**，并且显示的所有自定义CSS均为只读。
 
 1. 确保CSS适用于您的内容。 如果不适用，请查看[疑难解答](#troubleshooting)部分。
 

@@ -194,7 +194,7 @@ Visualforce页面：
 
 >[!MORELIKETHIS]
 >
-> [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)中的[[!DNL Marketo Sales Insight] 配置选项卡
+> [!DNL Salesforce]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)中的[!DNL Marketo Sales Insight] 配置选项卡
 
 ## [!DNL Sales Insight]性能报告 {#sales-insight-performance-reports}
 

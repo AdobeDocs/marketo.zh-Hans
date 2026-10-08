@@ -52,7 +52,7 @@ Marketo每天、全天持续与[!DNL Microsoft Dynamics]同步数据。 它使�
 * [商机](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [自定义实体](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-您在Marketo中为 [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)输入的[凭据用于同步数据。
+您在Marketo中为 [!DNL Dynamics]&#x200B;[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)输入的凭据用于同步数据。
 
 >[!NOTE]
 >

@@ -23,7 +23,7 @@ ht-degree: 7%
 ---
 # 启动/暂停 Web 营销活动 {#launch-pause-a-web-campaign}
 
-Web营销活动是与特定区段关联的自定义反应，可以是您网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域替换](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、小组件功能或电子邮件警报。
+Web营销活动是与特定区段关联的自定义反应，可以是您网站上的[对话框](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、区域替换[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、小组件功能或电子邮件警报。
 
 您可以通过两种方式从[!UICONTROL Web Campaigns]页面或[!UICONTROL Set Web Campaigns]页面启动或暂停Web营销活动。
 

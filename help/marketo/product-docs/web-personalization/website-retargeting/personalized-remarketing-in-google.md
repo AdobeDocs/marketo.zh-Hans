@@ -29,7 +29,7 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->* 使用 [!DNL Web Personalization] 数据](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)配置完成[重定位
+>* 使用 [!DNL Web Personalization] 数据[&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)配置完成重定位
 >* 查看[Google Analytics帮助的再营销](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645)文档。
 
 ## 在Google中创建再营销受众 {#creating-a-remarketing-audience-in-google}
@@ -46,7 +46,7 @@ ht-degree: 7%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 在受众生成器中，单击[!UICONTROL Custom Dimensions]、[!UICONTROL [!]UICONTROL Custom Variables]、[!UICONTROL Events]下的&#x200B;**[!UICONTROL Sequences]**&#x200B;和&#x200B;**[!UICONTROL Find the RTP Data]**。
+1. 在受众生成器中，单击[!UICONTROL Custom Dimensions]、[!UICONTROL UICONTROL [ !] Custom Variables]、[!UICONTROL Events]下的&#x200B;**[!UICONTROL Sequences]**&#x200B;和&#x200B;**[!UICONTROL Find the RTP Data]**。
 
 >[!TIP]
 >
@@ -106,5 +106,5 @@ ht-degree: 7%
 
 >[!MORELIKETHIS]
 >
->* 使用 [!DNL Web Personalization] 数据](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)重新定位[
+>* 使用 [!DNL Web Personalization] 数据[&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)重新定位
 >* [在 [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)中进行个性化再营销

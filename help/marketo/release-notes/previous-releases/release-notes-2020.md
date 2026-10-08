@@ -234,7 +234,7 @@ ht-degree: 1%
 * **Marketo Engage活动集成(BETA)**：将Marketo Engage活动数据直接引入[!DNL Bizible]，以在客户历程和所有归因模型中创建接触点。 示例包括商机得分更改、有趣的时刻、电子邮件点击或任何自定义活动。 增强了Marketo Engage集成。
 * **[!DNL Bizible]B2B客户属性集成(BETA)**：这是Adobe Experience Cloud与Adobe Analytics的集成，允许您将选定的Bizible数据直接引入Adobe Analytics以进行更深入的分析。 示例包括基于帐户的网站流量和按公司名称、帐户属性、CRM机会以及由[!DNL Bizible]归因收入和funnel阶段定义的高价值个人进行的内容分析。
 * **[!DNL Bizible]发现过滤器和增强功能**：跨功能板使用渠道、子渠道、营销活动和区段过滤器分析您的数据。 使用更多向下钻取属性增强数据可见性。 这是对探索讨论区的增强。
-* [!DNL Microsoft Dynamics]**的**&#x200B;活动同步：通过将[!DNL Microsoft Dynamics]个CRM活动引入接触点历程来归因销售交互，并跟踪与潜在客户或联系人关联的呼叫、约会或任务等事件。 增强我们的[!DNL Microsoft Dynamics] CRM集成。
+* [!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;活动同步：通过将[!DNL Microsoft Dynamics]个CRM活动引入接触点历程来归因销售交互，并跟踪与潜在客户或联系人关联的呼叫、约会或任务等事件。 增强我们的[!DNL Microsoft Dynamics] CRM集成。
 
 ## [!DNL Sales Insight]
 
@@ -308,7 +308,7 @@ ht-degree: 1%
 
 * **Asset API“_method”参数删除**： 2020年9月之后，Asset API端点将不再接受在POST正文中传递“_method”以绕过URI长度限制。 为了适应需要此参数的请求，资产API的URI限制将从8 KB增加到65 KB。
 * **[[!DNL Munchkin] 关联潜在客户](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：通过此版本的Munchkin JavaScript客户端版本159，我们将开始弃用[!DNL Munchkin]关联潜在客户方法。 如果调用，您将收到一则警告，指示将在未来版本中删除该方法。 一旦删除，此方法将无法再正常使用，并且尝试使用它将失败。 最近使用此方法的Marketo Engage客户将单独收到有关其使用的通知。
-* **对Internet Explorer**&#x200B;的支持：如之前宣布的，Marketo Engage对Internet Explorer 11的支持将于&#x200B;**2020年7月31日**&#x200B;终止。 我们将继续支持[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL  Apple Safari]和[!DNL Microsoft Edge]。
+* **对Internet Explorer**&#x200B;的支持：如之前宣布的，Marketo Engage对Internet Explorer 11的支持将于&#x200B;**2020年7月31日**&#x200B;终止。 我们将继续支持[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL &#x200B; Apple Safari]和[!DNL Microsoft Edge]。
 * **Sky默认体验**：将在此版本中删除管理员或用户将[!DNL Marketo Sky]设置为默认体验的选项，以便为更新主用户体验做准备。 有关更新主要体验的更多详细信息，计划在今年晚些时候发布，将于7月发布。 已将[!DNL Marketo Sky]设置为默认体验或已授予[!DNL Marketo Sky]访问权限的用户可以继续从“我的Marketo”主页上的图块访问[!DNL Marketo Sky]。
 * **EdgeHTML（非Chromium） [!DNL Microsoft Edge]支持**： 2020年底，Marketo Engage将不再支持Microsoft Edge的EdgeHTML版本。 从2021年1月1日开始，我们将仅支持最新的Microsoft Edge版本。
 

@@ -68,4 +68,4 @@ SpamAssassin会分析您的内容并根据各种标准分配分数。 得分越�
 
 >[!NOTE]
 >
->垃圾邮件分数是通过SpamAssassin派生的，并且&#x200B;**规则不归Adobe**&#x200B;所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank){target="_blank"}。 可以在此处](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}查看错误[的完整列表。
+>垃圾邮件分数是通过SpamAssassin派生的，并且&#x200B;**规则不归Adobe**&#x200B;所有。 有关这些规则的更多详细信息，请参阅[SpamAssassin文档](https://spamassassin.apache.org/#_blank){target="_blank"}。 可以在此处[&#128279;](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}查看错误的完整列表。

@@ -33,7 +33,7 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->Microsoft已发布适用于Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}的[新版Outlook。 此新版本不支持现有的MSI Outlook插件。 MSI Outlook插件将继续用于运行经典版本的Outlook的Windows桌面。 若要了解有关适用于组织的新Outlook for Windows的详细信息，请[单击此处](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
+>Microsoft已发布适用于Windows[&#128279;](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}的新版Outlook。 此新版本不支持现有的MSI Outlook插件。 MSI Outlook插件将继续用于运行经典版本的Outlook的Windows桌面。 若要了解有关适用于组织的新Outlook for Windows的详细信息，请[单击此处](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
 
 1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!UICONTROL Sales Insight]**。
 

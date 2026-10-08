@@ -106,6 +106,6 @@ ht-degree: 2%
 
 ## Marketo销售人员选择退出 {#marketo-sales-opt-out}
 
-Marketo Sales Opt Out字段是一个自定义字段，适用于已从AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}安装Marketo Sales Insight包[的用户。
+Marketo Sales Opt Out字段是一个自定义字段，适用于已从AppExchange[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}安装Marketo Sales Insight包的用户。
 
 成功将Marketo Sales Insight包从AppExchange安装到Salesforce中后，您将会看到可用的Marketo Sales Opt Out字段。

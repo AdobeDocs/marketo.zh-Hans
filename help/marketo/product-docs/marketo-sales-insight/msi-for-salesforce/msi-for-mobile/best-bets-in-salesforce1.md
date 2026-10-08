@@ -35,5 +35,5 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->* [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)中的[个有趣时刻
+>* [!UICONTROL Salesforce1]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)中的个有趣时刻
 >* [在[!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)中发送Marketo电子邮件和营销活动及监视列表操作
