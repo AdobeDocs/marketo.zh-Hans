@@ -1,13 +1,14 @@
 ---
 description: 了解如何管理Sales Insight操作配置文件。 在“设置”中更新名称、电子邮件、签名和通知首选项。
 title: 管理您的轮廓
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 4%
-
 ---
-
 # 管理您的轮廓 {#manage-your-profile}
 
 在“我的个人资料”页面中，您可以更新您的姓名、帐户的语言/区域设置/时区，以及更改密码。

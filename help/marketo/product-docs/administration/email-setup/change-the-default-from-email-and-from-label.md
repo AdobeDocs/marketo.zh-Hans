@@ -4,20 +4,26 @@ description: 将新电子邮件的“发件人电子邮件”和“发件人标�
 title: 更改默认发件人邮件和发件人标签
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/pZzZybCFmbZWjIm1GMjO4U5AbfQgFmvmA5M6ph5wrRo
+TQID: 'https://experienceleague.adobe.com/pZzZybCFmbZWjIm1GMjO4U5AbfQgFmvmA5M6ph5wrRo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 99
+source-wordcount: '99'
 ht-degree: 20%
-
 ---
-
 # 更改默认发件人邮件和发件人标签 {#change-the-default-from-email-and-from-label}
 
 每个管理员用户可以更改&#x200B;**[!UICONTROL From Email]**&#x200B;和&#x200B;**[!UICONTROL From Label]**&#x200B;的默认值，以便在他们创建新电子邮件时，使用这些默认值。

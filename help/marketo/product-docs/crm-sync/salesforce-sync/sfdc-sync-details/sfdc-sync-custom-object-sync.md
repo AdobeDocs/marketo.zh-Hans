@@ -4,20 +4,25 @@ description: 了解如何设置从Salesforce到Marketo的自定义对象同步�
 title: SFDC同步 — 自定义对象同步
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/JIkS3cBJD3SlUmKOJKUOuIXTbZyMTZ0LCdOgnz7SHSA
+TQID: 'https://experienceleague.adobe.com/JIkS3cBJD3SlUmKOJKUOuIXTbZyMTZ0LCdOgnz7SHSA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart lists
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 291
-ht-degree: 7%
-
+source-wordcount: '299'
+ht-degree: 9%
 ---
-
 # SFDC 同步：自定义对象同步 {#sfdc-sync-custom-object-sync}
 
 在[!DNL Salesforce]实例中创建的自定义对象也可以是Marketo的一部分。  下面是设置方法。

@@ -4,16 +4,21 @@ description: 了解如何批准您的Champion/Challenger电子邮件测试。 �
 title: 冠军/挑战者 — 批准您的电子邮件测试
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI
+TQID: 'https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: '146'
 ht-degree: 6%
-
 ---
-
 # 挑战者对比：批准您的电子邮件测试 {#champion-challenger-approve-your-email-test}
 
 设置电子邮件测试以批准它的最后一步。 操作方法如下：

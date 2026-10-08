@@ -4,18 +4,23 @@ description: 了解如何批准或取消批准电子邮件程序。 完成审批
 title: 批准/取消批准电子邮件项目
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/d1-T54d2iFO9TnLPpLifjiuFq06ib2wOw-z8NuOJnPw
+TQID: 'https://experienceleague.adobe.com/d1-T54d2iFO9TnLPpLifjiuFq06ib2wOw-z8NuOJnPw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 191
+source-wordcount: '191'
 ht-degree: 7%
-
 ---
-
 # 批准/取消批准电子邮件项目 {#approve-unapprove-an-email-program}
 
 >[!PREREQUISITES]

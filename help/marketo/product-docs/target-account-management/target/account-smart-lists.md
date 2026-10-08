@@ -4,16 +4,21 @@ description: 了解如何创建帐户智能列表以识别高价值帐户。 定
 title: 帐户智能列表
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/CzJmCUT5TYuVKNOMmSkOjuRc7ImDGOzw7L-Ej45-Evw
+TQID: 'https://experienceleague.adobe.com/CzJmCUT5TYuVKNOMmSkOjuRc7ImDGOzw7L-Ej45-Evw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 444
+source-wordcount: '444'
 ht-degree: 2%
-
 ---
-
 # 帐户智能列表 {#account-smart-lists}
 
 下面是如何快速准确地识别您的高价值客户的。

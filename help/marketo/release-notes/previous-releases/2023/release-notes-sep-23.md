@@ -3,24 +3,33 @@ description: 发行说明 — 2023年9月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 9 月
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-TQID: https://experienceleague.adobe.com/QKjIZ21uV2k4kVUcVs53W34pyrbmi5DjZjZTWxX-CrU
+TQID: 'https://experienceleague.adobe.com/QKjIZ21uV2k4kVUcVs53W34pyrbmi5DjZjZTWxX-CrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 972
+source-wordcount: '972'
 ht-degree: 10%
-
 ---
-
 # 发行说明：2023 年 9 月 {#release-notes-sep-23}
 
 在下方，您会找到2023年9月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
@@ -31,7 +40,7 @@ ht-degree: 10%
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2023年9月8日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2023年9月8日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁边的状态。
 
 <table style="table-layout:auto">
  <tbody>
@@ -102,7 +111,7 @@ ht-degree: 10%
   <tr>
    <td><strong>Marketo + Workfront集成</strong>：对于拥有Marketo和Workfront的用户，现在可以使用Workfront Fusion Templates集成这两个产品并解锁新的自动化工作流以简化活动执行。</td>
    <td>已发布</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=zh-Hans" target="_blank">审阅和批准Blueprint</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">审阅和批准Blueprint</a></td>
   </tr>
  </tbody>
 </table>

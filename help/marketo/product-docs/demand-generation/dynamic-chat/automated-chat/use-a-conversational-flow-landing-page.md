@@ -2,15 +2,22 @@
 description: 了解如何在Marketo登陆页面中嵌入对话流程。 允许访客通过Dynamic Chat安排会议，而无需填写表单。
 title: 使用对话式流量登陆页面
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Dynamic Chat
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
-
 ---
-
 # 使用对话式流量登陆页面{#use-a-conversational-flow-landing-page}
 
 将Dynamic Chat对话流直接嵌入到Marketo Engage登录页面，让访客无需填写表单或与聊天机器人交互，即可通过Dynamic Chat安排会议。

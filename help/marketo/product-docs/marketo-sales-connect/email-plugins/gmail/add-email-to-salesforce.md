@@ -4,16 +4,18 @@ description: 了解如何从Gmail插件将电子邮件添加到Salesforce。 将
 title: 将电子邮件添加到 Salesforce
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/DXp9px46y3tWezlijSWiOqFPTDJJiZmMYi-881vauXc
+TQID: 'https://experienceleague.adobe.com/DXp9px46y3tWezlijSWiOqFPTDJJiZmMYi-881vauXc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 2%
-
 ---
-
 # 将电子邮件添加到[!DNL Salesforce] {#add-email-to-salesforce}
 
 将电子邮件添加到[!DNL Salesforce]允许您将在[!DNL Outlook]或Gmail中收到的所有电子邮件推送到您的[!DNL Salesforce]帐户。 我们根据电子邮件的发件人进行查找，因此我们当前只能将此按钮用于您收到的电子邮件，而不能用于您发送的电子邮件。

@@ -4,20 +4,23 @@ description: 了解如何使用Marketo Engage中的静态列表创建区段，�
 title: 使用静态列表创建区段
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/XiW8i6vn-Io7S19hxtaQ1om1Yt6BJTsHffB6QvKyxE4
+TQID: 'https://experienceleague.adobe.com/XiW8i6vn-Io7S19hxtaQ1om1Yt6BJTsHffB6QvKyxE4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 9%
-
 ---
-
 # 使用静态列表创建区段 {#create-a-segment-using-a-static-list}
 
 在已知Web访客访问您的网站时，根据他们是否在Marketo [静态列表](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)中划分访客。

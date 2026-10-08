@@ -3,24 +3,34 @@ description: 发行说明 — 2023年1月 — Marketo文档 — 产品文档
 title: 发行说明 - 2023 年 1 月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-TQID: https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk
+TQID: 'https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 663
+source-wordcount: '663'
 ht-degree: 17%
-
 ---
-
 # 发行说明：2023 年 1 月 {#release-notes-jan-23}
 
 在下方，您会找到2023年1月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
@@ -40,7 +50,7 @@ ht-degree: 17%
 * **已更新新版UX中的Screens**：新版UX（以前称为下一代体验）中，我们将提供额外的刷新屏幕，这些屏幕提供更新的设计和可用性增强功能，可通过切换开关进行访问：
 
   * 代码段列表视图
-  * 登录页面模板列表
+  * 登陆页面模板列表
 
   <table>
   <tr>

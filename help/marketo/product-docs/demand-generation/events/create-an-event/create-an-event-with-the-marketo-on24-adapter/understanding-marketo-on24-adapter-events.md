@@ -4,16 +4,18 @@ description: 了解Marketo ON24适配器以及它如何将ON24网络研讨会连
 title: 了解 Marketo On24 适配器事件
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-TQID: https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0
+TQID: 'https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 145
+source-wordcount: '145'
 ht-degree: 6%
-
 ---
-
 # 了解 Marketo On24 适配器事件 {#understanding-marketo-on-adapter-events}
 
 如果您的ON24网络研讨会未连接到Marketo，则必须获取Marketo中已存在的与会者信息并将其输入到ON24中。 网络研讨会后，您必须获取ON24中已存在的出席信息，然后将其输入回Marketo。

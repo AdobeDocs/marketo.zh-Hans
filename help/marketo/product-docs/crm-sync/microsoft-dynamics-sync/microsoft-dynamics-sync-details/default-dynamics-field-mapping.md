@@ -3,16 +3,21 @@ description: 了解Dynamics和Marketo之间的默认Microsoft Dynamics字段映�
 title: 默认 Dynamics 字段映射
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0
+TQID: 'https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 348
+source-wordcount: '348'
 ht-degree: 5%
-
 ---
-
 # 默认 Dynamics 字段映射 {#default-dynamics-field-mapping}
 
 当您最初将Marketo Engage帐户与Microsoft同步时，Marketo会自动在内置的Dynamics和Marketo字段之间建立这些关联。  Marketo还将同步您的Leads、Accounts、Opportunities和Contacts上的自定义字段。
@@ -583,7 +588,7 @@ ht-degree: 5%
     <tr>
       <td>[!UICONTROL Company]</td>
       <td>[!UICONTROL Account Name]</td>
-      <td>名称</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>[!UICONTROL Num Employees]</td>
@@ -648,7 +653,7 @@ ht-degree: 5%
     <tr>
       <td>[!UICONTROL Name]</td>
       <td>[!UICONTROL Topic]</td>
-      <td>名称</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>[!UICONTROL Estimated Value]</td>

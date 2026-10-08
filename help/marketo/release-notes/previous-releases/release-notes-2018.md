@@ -1,40 +1,68 @@
 ---
-title: "2018"
+title: '2018'
 description: 2018 - Marketo文档 — 产品文档
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+    internal-label: Data quality
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1860
+source-wordcount: '1860'
 ht-degree: 0%
-
 ---
-
 # 2018
 
 ## 2018年冬 {#winter}
@@ -231,12 +259,12 @@ Web个性化现在支持多个工作区。
 
 * **扩展支持：[!DNL Microsoft Office]**
 
-   * [!DNL Outlook]作为投放渠道：营销人员现在可以利用[!DNL Outlook]进行电子邮件参与，从而提高投放率和响应跟踪。
-   * [!DNL Office] 365电子邮件支持改进：Marketo [!DNL Sales Engage]在[!DNL Outlook]中可直接用于Mac，[!DNL Outlook]可直接用于[!DNL Windows]，在[!DNL Outlook]个Web应用程序中可直接用于[!DNL Office] 365电子邮件客户端，从而使Marketo [!DNL Sales Engage]更易于所有[!DNL Office]用户使用。
+  * [!DNL Outlook]作为投放渠道：营销人员现在可以利用[!DNL Outlook]进行电子邮件参与，从而提高投放率和响应跟踪。
+  * [!DNL Office] 365电子邮件支持改进：Marketo [!DNL Sales Engage]在[!DNL Outlook]中可直接用于Mac，[!DNL Outlook]可直接用于[!DNL Windows]，在[!DNL Outlook]个Web应用程序中可直接用于[!DNL Office] 365电子邮件客户端，从而使Marketo [!DNL Sales Engage]更易于所有[!DNL Office]用户使用。
 
 * **已改进管理员和用户登录体验**
 
-   * 改进了管理工作流：管理员在通过“一般管理员设置”启用团队功能时，会发现更加高效的工作流。
+  * 改进了管理工作流：管理员在通过“一般管理员设置”启用团队功能时，会发现更加高效的工作流。
 
 ## Marketo [!DNL Sky] {#marketo-sky}
 
@@ -251,7 +279,7 @@ Web个性化现在支持多个工作区。
 
 * **营销活动主页**：从营销活动主页快速访问常用功能。
 
-   * 执行特定操作（例如，启动新项目和智能营销活动）并查看有关当前项目的重要信息，例如计划今天运行的项目和营销活动、最近更新的项目和资产，以及活动触发器营销活动的总数。
+  * 执行特定操作（例如，启动新项目和智能营销活动）并查看有关当前项目的重要信息，例如计划今天运行的项目和营销活动、最近更新的项目和资产，以及活动触发器营销活动的总数。
 
 * **Design Studio更新**：我们重新设计了Design Studio体验，以帮助您更快速地移动并提高工作效率。
 * Design Studio主页：创建新资源，拖放图像和文件，以及管理所有现有资源。
@@ -266,24 +294,24 @@ Web个性化现在支持多个工作区。
 
 * **降低对CRM的必需依赖性**
 
-   * 有了在[!DNL Bizible]设置中定义Campaign规则的新选项，客户不再需要在CRM中安装包或解决方案来快速开始使用[!DNL Bizible]。 现在，设置帐户、设置广告和CRM连接，然后完成标准设置和配置等操作都很轻松。 我们希望这将显着缩短销售工程团队的入职时间。
+  * 有了在[!DNL Bizible]设置中定义Campaign规则的新选项，客户不再需要在CRM中安装包或解决方案来快速开始使用[!DNL Bizible]。 现在，设置帐户、设置广告和CRM连接，然后完成标准设置和配置等操作都很轻松。 我们希望这将显着缩短销售工程团队的入职时间。
 
 * **发现GA**
 
-   * Discover已退出Beta版，并开始向新客户推广。 我们还将当前客户群从[!DNL Bizible]度量值迁移到[!DNL Bizible]发现。 随着从Beta版到GA版的迁移，我们对数据库模式进行了更新，以允许更高效和更复杂的查询。
+  * Discover已退出Beta版，并开始向新客户推广。 我们还将当前客户群从[!DNL Bizible]度量值迁移到[!DNL Bizible]发现。 随着从Beta版到GA版的迁移，我们对数据库模式进行了更新，以允许更高效和更复杂的查询。
 
 * **单点登录**
 
-   * 客户现在可以使用符合企业安全要求的公司身份提供程序和凭据登录到[!DNL Bizible] Web应用程序。
+  * 客户现在可以使用符合企业安全要求的公司身份提供程序和凭据登录到[!DNL Bizible] Web应用程序。
 
 **[Marketo [!UICONTROL Performance Insights]增强功能](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **可用性增强**
 
-   * 缺少客户获取日期警报：为了最准确地捕获首次联系和多联系归因洞察，当联系记录中缺少客户获取日期时，会向营销人员发送警报，以便他们能够查找并更正任何问题。
-   * 趋势图时间范围改进：用户现在可以回溯24个月来比较项目性能。
-   * 缩放到适合设置：主仪表板条形图更易于读取，以帮助比较一段时间内的项目绩效。
-   * 警报图标：新警报图标可显示有关数据质量问题和设置通知的所有活动警报。
+  * 缺少客户获取日期警报：为了最准确地捕获首次联系和多联系归因洞察，当联系记录中缺少客户获取日期时，会向营销人员发送警报，以便他们能够查找并更正任何问题。
+  * 趋势图时间范围改进：用户现在可以回溯24个月来比较项目性能。
+  * 缩放到适合设置：主仪表板条形图更易于读取，以帮助比较一段时间内的项目绩效。
+  * 警报图标：新警报图标可显示有关数据质量问题和设置通知的所有活动警报。
 
 * **按活动日期列出的参与度**：用户可以选择按活动日期或成本期查看参与度指标。
 * **ABM指定帐户筛选器**：按特定指定帐户筛选管道和收入仪表板。

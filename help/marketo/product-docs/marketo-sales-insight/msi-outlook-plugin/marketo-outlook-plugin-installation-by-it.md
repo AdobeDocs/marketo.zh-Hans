@@ -1,22 +1,26 @@
 ---
 unique-page-id: 11382815
 description: 了解IT如何为组织安装Marketo Outlook插件。 为Outlook用户大规模部署加载项。
-title: 由IT安装Marketo [!DNL Outlook] 插件
+title: 由IT安装Marketo [!DNL Outlook]插件
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/7Gq4FJlVf9jvqL2Bz34oQVL8HtBNYCjEHl32g-0RXYk
+TQID: 'https://experienceleague.adobe.com/7Gq4FJlVf9jvqL2Bz34oQVL8HtBNYCjEHl32g-0RXYk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: '196'
 ht-degree: 1%
-
 ---
-
 # 由IT安装Marketo [!DNL Outlook]插件 {#marketo-outlook-plugin-installation-by-it}
 
 有时，公司政策要求其IT团队在员工计算机上安装所有软件。 在这些情况下， IT通常使用自己的部署软件远程执行这一操作。 本文档提供了在部署过程中用作输入以远程安装Outlook插件的命令行。

@@ -4,16 +4,18 @@ description: 了解如何在Sales Connect中设置自定义域跟踪。 使用�
 title: 如何设置自定义域跟踪
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/iK8QMNOkLI25nbr0laGsU6sM6-ChiAlmcsModzw3Fkk
+TQID: 'https://experienceleague.adobe.com/iK8QMNOkLI25nbr0laGsU6sM6-ChiAlmcsModzw3Fkk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: '102'
 ht-degree: 13%
-
 ---
-
 # 如何设置自定义域跟踪 {#how-to-set-up-custom-domain-tracking}
 
 我们为您提供选项来配置链接的自定义域跟踪，因此当有人将鼠标悬停在链接上时，它将显示为“go.yourcompany.com”而不是“go.toutapp.com”。

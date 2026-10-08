@@ -4,23 +4,28 @@ description: 了解适用于Sales Connect的Salesforce诊断。 对Sales Connect
 title: Salesforce 诊断
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/TmZ9sSRFbkcvsAY6aHS42oBPlyFEW80iDAh-c-awbZo
+TQID: 'https://experienceleague.adobe.com/TmZ9sSRFbkcvsAY6aHS42oBPlyFEW80iDAh-c-awbZo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1369
+source-wordcount: '1369'
 ht-degree: 0%
-
 ---
-
 # [!DNL Salesforce]诊断 {#salesforce-diagnostics}
 
 我们的[!DNL Salesforce]集成的一部分包括Web应用程序中的[!DNL Salesforce]诊断页面。 此页面捕获到[!DNL Salesforce]的失败数据记录中的错误。 这些错误可能会有所帮助，但并不总是可读的。 因此，我们整理了一份备忘单来帮助解释错误消息。
@@ -75,7 +80,7 @@ ht-degree: 0%
 **错误：** EXPIRED_ACCESS
 **类别：**&#x200B;身份验证
 **消息：** invalid_grant：访问/刷新令牌过期
-**发生的情况：**&#x200B;访问或刷新令牌已过期。 令牌将根据 [!DNL Salesforce][&#128279;](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)中的会话设置过期。
+**发生的情况：**&#x200B;访问或刷新令牌已过期。 令牌将根据 [!DNL Salesforce]&#x200B;[&#128279;](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)中的会话设置过期。
 **疑难解答步骤：**&#x200B;您需要重新进行身份验证。 断开[!DNL Salesforce]连接并重新连接。
 
 <br> 

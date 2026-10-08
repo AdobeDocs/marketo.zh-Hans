@@ -1,16 +1,23 @@
 ---
 description: 了解如何为字段定义一组固定的值，以简化数据和工作流管理。
-title: 选取列表管理
+title: 选项列表管理
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
-
 ---
-
-# 选取列表管理 {#picklist-management}
+# 选项列表管理 {#picklist-management}
 
 选择列表管理允许您为字段定义一组固定的值，以简化Marketo Engage中的数据和工作流管理。 在Marketo中，只能管理未映射到已定义选取列表的CRM字段的非文本字段。 如果字段映射到具有已定义选取列表的CRM字段，则必须在CRM中定义该字段的值。
 

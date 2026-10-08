@@ -4,22 +4,30 @@ description: 了解如何将“以网页形式查看”链接添加到电子邮�
 title: 向电子邮件添加“以网页形式查看”链接
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/6jbDSriI0SyR5-ymeg-vougnydh4Ygs7uoW4Q63KT0I
+TQID: 'https://experienceleague.adobe.com/6jbDSriI0SyR5-ymeg-vougnydh4Ygs7uoW4Q63KT0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 11%
-
 ---
-
 # 向电子邮件添加“以网页形式查看”链接 {#add-a-view-as-web-page-link-to-an-email}
 
 电子邮件的功能有限（CSS有限，无JavaScript或表单）。 使用“以网页形式查看”来提供链接，以在浏览器中显示您的电子邮件。 这将使用[!DNL Munchkin]对收件人进行Cookie。

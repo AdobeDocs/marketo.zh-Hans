@@ -3,30 +3,36 @@ description: 了解Marketo中的交互式网络研讨会，用于实时和按需
 title: 交互式网络研讨会概述
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY
+TQID: 'https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 555
+source-wordcount: '555'
 ht-degree: 87%
-
 ---
-
 # 交互式网络研讨会概述 {#interactive-webinars-overview}
 
 交互式网络研讨会功能是Marketo Engage中的内置网络研讨会平台。 无需额外工具或集成。
 
 >[!IMPORTANT]
 >
->由 Adobe Connect 提供支持的交互式网络研讨会，内置了与 Adobe Connect 的集成。 您对交互式网络研讨会的使用将受附加条款与条件的约束。 查看您的合同或[联系Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以查询其他条款和条件。
+>由 Adobe Connect 提供支持的交互式网络研讨会是一项内置了与 Adobe Connect 集成的功能。 您对交互式网络研讨会的使用将受附加条款与条件的约束。 查看您的合同或[联系Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以查询其他条款和条件。
 
 ## 什么是交互式网络研讨会？ {#what-is-interactive-webinars}
 
@@ -34,7 +40,7 @@ ht-degree: 87%
 
 交互式网络研讨会提供[三种不同的许可证](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}类型，每种均具有不同的功能和容量。
 
-网络研讨会结束后，您可以通过包含潜在客户和汇总参与数据的报告与仪表板查看[活动效果分析](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}。 交互式网络研讨会专用的筛选条件和触发器可帮助您定位执行了特定操作的人员群体（例如点击链接、下载资源等）。
+网络研讨会结束后，您可以通过包含潜在客户和汇总参与数据的报告与仪表板查看[活动效果分析](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}。 交互式网络研讨会专用的筛选条件和触发器可帮助您定位执行了特定操作的人员群体（例如点击链接、下载资产等）。
 
 ## 常见问题解答 {#faq}
 
@@ -60,7 +66,7 @@ ht-degree: 87%
 
 **为什么有些潜在客户的状态显示为“注册错误”，而不是“已注册”？**
 
-如果潜在客户的“名字”字段为空，则无法注册网络研讨会。 输入有效的名字即可解决该问题。
+如果销售线索的“名字”字段为空，则无法注册网络研讨会。 输入有效的名字即可解决该问题。
 
 **我在通过公司 VPN 访问时主持网络研讨会，出现音频/视频问题。 我该怎么办？**
 

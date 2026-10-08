@@ -4,18 +4,20 @@ description: 了解如何将动态字段插入Sales Connect模板。 在模板�
 title: 如何插入动态字段
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/WwKaorfXBu5Ah9wD6pXf5U4YzlpP9MoUMg-TtDzXDRo
+TQID: 'https://experienceleague.adobe.com/WwKaorfXBu5Ah9wD6pXf5U4YzlpP9MoUMg-TtDzXDRo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 239
+source-wordcount: '239'
 ht-degree: 4%
-
 ---
-
 # 如何插入动态字段 {#how-to-insert-dynamic-fields}
 
 我们允许您使用预定义属性（如`{{first_name}}`或`{{company}}`）个性化电子邮件模板。 这些字段允许您向多个联系人发送电子邮件，并自动完成这些字段，而无需为每个联系人单独键入它们。

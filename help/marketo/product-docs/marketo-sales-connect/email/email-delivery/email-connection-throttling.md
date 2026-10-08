@@ -3,19 +3,21 @@ description: 了解Sales Connect中的电子邮件连接限制。 了解发送�
 title: 电子邮件连接节流
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM
+TQID: 'https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 405
+source-wordcount: '406'
 ht-degree: 2%
-
 ---
-
 # 电子邮件连接节流 {#email-connection-throttling}
 
-集成要通过[!DNL Exchange]或Gmail电子邮件提供商发送的[!DNL Sales Connect]帐户，可简化设置并优化1:1销售通信的电子邮件可投放性。 但是，为了保持系统健康和帐户安全，Gmail和Exchange会强制实施电子邮件发送限制。 这些限制可由提供商自行决定增加或减少。
+集成要通过[!DNL Exchange]或Gmail电子邮件提供商发送的[!DNL Sales Connect]帐户，可简化设置并优化电子邮件可投放性，以实现一对一的销售通信。 但是，为了保持系统健康和帐户安全，Gmail和Exchange会强制实施电子邮件发送限制。 这些限制可由提供商自行决定增加或减少。
 
 ## 概述 {#overview}
 

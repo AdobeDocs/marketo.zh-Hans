@@ -4,13 +4,19 @@ description: 了解如何使用Marketo Engage中的项目分析器比较渠道�
 title: 使用项目分析器比较渠道成效
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 1%
-
 ---
-
 # 将渠道效果与[!UICONTROL Program Analyzer]进行比较 {#compare-channel-effectiveness-with-the-program-analyzer}
 
 使用[!UICONTROL Program Analyzer]比较渠道成本、成员获取、管道、收入等，以确定最有效和最不有效的渠道。

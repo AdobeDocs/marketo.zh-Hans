@@ -4,23 +4,28 @@ description: 了解Marketo Engage中的Web区段，包括“区段”选项卡�
 title: Web 区段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+TQID: 'https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2041
+source-wordcount: '2041'
 ht-degree: 0%
-
 ---
-
 # Web 区段 {#web-segments}
 
 ## 查看区段 {#view-segment}
@@ -106,8 +111,8 @@ ht-degree: 0%
 * **区段规则逻辑：**&#x200B;选择AND / OR逻辑以生成每个区段属性
 * **计时：**&#x200B;定义您希望在营销活动中的访客参与度级别
 
-   * **登入点**：来自访问网站的访客的参与
-   * **第1次至第9次点击后**：与访客进行特定次数的网站点击
+  * **登入点**：来自访问网站的访客的参与
+  * **第1次至第9次点击后**：与访客进行特定次数的网站点击
 
 >[!TIP]
 >
@@ -148,8 +153,8 @@ ht-degree: 0%
 
 * 从以下参数中选择：
 
-   * **[!UICONTROL Include]** — 选择您希望营销活动包含还是排除位置。
-   * **[!UICONTROL Select country to add]** — 从下拉框中，选择要包含在区段中的国家/地区。 国家/地区名称显示在右侧。 您可以选择多个国家/地区。
+  * **[!UICONTROL Include]** — 选择您希望营销活动包含还是排除位置。
+  * **[!UICONTROL Select country to add]** — 从下拉框中，选择要包含在区段中的国家/地区。 国家/地区名称显示在右侧。 您可以选择多个国家/地区。
 
 添加国家/地区后，您还可以指定区段的州/省、城市和邮政编码。
 
@@ -165,8 +170,8 @@ ht-degree: 0%
 
 * 从以下参数中选择：
 
-   * **[!UICONTROL Includes]** — 选择您希望该区段包括还是排除某个行业。
-   * **[!UICONTROL Select Industries to add]** — 选择要包含在区段中的行业。 行业出现在下拉框的下方。 您可以选择多个行业。
+  * **[!UICONTROL Includes]** — 选择您希望该区段包括还是排除某个行业。
+  * **[!UICONTROL Select Industries to add]** — 选择要包含在区段中的行业。 行业出现在下拉框的下方。 您可以选择多个行业。
 
 **组织组**
 
@@ -174,11 +179,11 @@ ht-degree: 0%
 
 * 从下拉框中，从以下选项中选择：
 
-   * 财富500强 — 仅包括此部分中的财富500强公司
-   * Fortune 1000 — 仅包括Fortune 1000在此分类中的公司
-   * 全球2000强 — 将全球2000强公司包括在此部分
-   * 企业 — 包括员工超过1,000人且收入超过2.5亿美元的组织
-   * SMB — 仅包括此部门中的中小型企业
+  * 财富500强 — 仅包括此部分中的财富500强公司
+  * Fortune 1000 — 仅包括Fortune 1000在此分类中的公司
+  * 全球2000强 — 将全球2000强公司包括在此部分
+  * 企业 — 包括员工超过1,000人且收入超过2.5亿美元的组织
+  * SMB — 仅包括此部门中的中小型企业
 
 **个命名帐户 —**
 
@@ -186,8 +191,8 @@ ht-degree: 0%
 
 * **来自这些公司（特定名称）**
 
-   * 从“选择要添加的公司”下拉列表中选择要定位的公司。
-   * 您可以键入要定位的确切组织名称。 *建议*&#x200B;始终*使用指定帐户列表，而不是手动键入名称以获得更好的匹配（请参阅下文）。
+  * 从“选择要添加的公司”下拉列表中选择要定位的公司。
+  * 您可以键入要定位的确切组织名称。 *建议*&#x200B;始终*使用指定帐户列表，而不是手动键入名称以获得更好的匹配（请参阅下文）。
 
 **命名帐户列表**
 
@@ -240,11 +245,11 @@ ht-degree: 0%
 
 * 访问次数 — 从下拉框中选择此选项，以指定潜在客户在网站上的访问次数。
 
-   * 从下拉框中选择等于、等于或大于，或者等于或小于。
+  * 从下拉框中选择等于、等于或大于，或者等于或小于。
 
 * 特定访问次数 — 从下拉列表中选择此选项，以指定特定访客。
 
-   * 在右侧的文本框中，输入要跟踪的访客编号。 单击访客（在访客页面中）和右侧面板上的Set Campaign时，可以找到唯一的[!DNL Web Personalization]访客标识号。 访客ID位于高级设置部分。 访客ID也可以在URL中找到（例如VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS）。
+  * 在右侧的文本框中，输入要跟踪的访客编号。 单击访客（在访客页面中）和右侧面板上的Set Campaign时，可以找到唯一的[!DNL Web Personalization]访客标识号。 访客ID位于高级设置部分。 访客ID也可以在URL中找到（例如VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS）。
 
 **搜索词** — 根据潜在客户的搜索词定义区段。
 
@@ -275,9 +280,9 @@ ht-degree: 0%
 * **访客类型**<br />
   **[!UICONTROL Mobile OS]** — 从下拉框中选择列出的一个或多个移动操作系统。 选定的移动设备操作系统显示在下方。
 
-   * 访客正在使用任何移动设备
-   * 访客正在使用此特定设备/操作系统
-   * 访客未使用任何移动设备
+  * 访客正在使用任何移动设备
+  * 访客正在使用此特定设备/操作系统
+  * 访客未使用任何移动设备
 
 * **[!UICONTROL Device]** — 从下拉列表中选择一个或多个设备（Apple、Samsung、LG、HTC、Nexus、Blackberry等……）。 选定的设备显示在下方。
 

@@ -6,23 +6,31 @@ description: 了解如何使用Litmus测试跨客户端的电子邮件渲染。 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-TQID: https://experienceleague.adobe.com/HDelTp-9vepH8-TeDRN6FyAe-Nik-hfegvHrakdYDT4
+TQID: 'https://experienceleague.adobe.com/HDelTp-9vepH8-TeDRN6FyAe-Nik-hfegvHrakdYDT4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: '394'
 ht-degree: 3%
-
 ---
-
 # 使用 Litmus 测试电子邮件渲染效果 {#test-email-rendering-with-litmus}
 
 利用您在Marketo Engage中的[Litmus](https://www.litmus.com/email-testing)帐户，即时查看您的电子邮件在常用电子邮件客户端中的呈现方式。

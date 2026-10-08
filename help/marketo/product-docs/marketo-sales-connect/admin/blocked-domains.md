@@ -4,16 +4,18 @@ description: 了解如何阻止Sales Connect中的域，以防止向竞争对手
 title: 已阻止的域名
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/f1GMgzy-qDsQg5sEx6JkVXCpCgs1yjn5UHkdL5DZ2JU
+TQID: 'https://experienceleague.adobe.com/f1GMgzy-qDsQg5sEx6JkVXCpCgs1yjn5UHkdL5DZ2JU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: '97'
 ht-degree: 7%
-
 ---
-
 # 已阻止的域名 {#blocked-domains}
 
 通过防止销售团队意外向竞争对手发送电子邮件、防止已知的垃圾邮件陷阱或任何其他不希望联系的域，帮助您的销售团队取得成功。

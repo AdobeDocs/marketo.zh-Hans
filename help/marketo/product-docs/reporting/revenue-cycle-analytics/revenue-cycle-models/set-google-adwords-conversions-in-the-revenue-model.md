@@ -1,16 +1,22 @@
 ---
 unique-page-id: 6095029
-description: 了解如何使用set dnl google在Marketo Engage的收入模型中设置[！dnl google adwords]转化。 使用本指南完成您的下一步。
-title: 在收入模型中设置 [!DNL Google AdWords] 转化
+description: 了解如何使用set dnl google在Marketo Engage的收入模型中设置[ !dnl google adwords]转化。 使用本指南完成您的下一步。
+title: 在收入模型中设置[!DNL Google AdWords]转化
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 2%
-
 ---
-
 # 在收入模型中设置[!DNL Google AdWords]转化 {#set-google-adwords-conversions-in-the-revenue-model}
 
 将您的[!DNL Google AdWords]帐户关联到Marketo以自动将离线转化数据从Marketo上传到[!DNL Google AdWords]。 然后，在[!DNL AdWords]中[添加自定义列](https://support.google.com/adwords/answer/3073556)后，您将能够从[!DNL AdWords] UI中轻松查看哪些点击导致合格的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。

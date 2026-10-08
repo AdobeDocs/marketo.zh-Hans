@@ -4,18 +4,20 @@ description: 了解Sales Connect Analytics页面和电子邮件参与数据。 �
 title: Analytics 页面概述
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY
+TQID: 'https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 383
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # [!UICONTROL Analytics]页面概述 {#analytics-page-overview}
 
 [!UICONTROL Analytics]选项卡是您查看电子邮件参与度相关数据的位置。 个人和团队数据都会显示。 管理员还可以在[!UICONTROL Me]选项卡上按用户筛选。

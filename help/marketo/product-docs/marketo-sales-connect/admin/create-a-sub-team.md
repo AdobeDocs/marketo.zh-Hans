@@ -4,18 +4,20 @@ description: 了解如何在Sales Connect中创建子团队并向其中添加人
 title: 创建子团队
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/MfKf0NY3v6JPNFty1PVJCV2kIs6Ag56XoSW-6JUVM3A
+TQID: 'https://experienceleague.adobe.com/MfKf0NY3v6JPNFty1PVJCV2kIs6Ag56XoSW-6JUVM3A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: '103'
 ht-degree: 15%
-
 ---
-
 # 创建子团队 {#create-a-sub-team}
 
 ## 创建子团队 {#create-a-sub-team-1}

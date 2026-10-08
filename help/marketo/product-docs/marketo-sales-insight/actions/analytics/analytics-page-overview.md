@@ -3,18 +3,20 @@ description: 了解Sales Insight操作的Analytics选项卡和电子邮件参与
 title: Analytics 页面概述
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0
+TQID: 'https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 392
+source-wordcount: '392'
 ht-degree: 1%
-
 ---
-
 # Analytics 页面概述 {#analytics-page-overview}
 
 在Analytics选项卡中，您可以看到有关电子邮件参与的数据。 个人和团队数据都会显示。 管理员还可以在[!UICONTROL Me]选项卡上按用户筛选。

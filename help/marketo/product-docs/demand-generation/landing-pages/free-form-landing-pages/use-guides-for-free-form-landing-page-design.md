@@ -4,16 +4,21 @@ description: 了解如何在Marketo中使用自由格式登陆页设计指南。
 title: 使用参考线进行自由格式登录页面设计
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8
+TQID: 'https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 118
+source-wordcount: '118'
 ht-degree: 13%
-
 ---
-
 # 使用参考线进行自由格式登录页面设计 {#use-guides-for-free-form-landing-page-design}
 
 设计自由格式登陆页面时，您可以使用参考线来帮助对齐页面上的元素。

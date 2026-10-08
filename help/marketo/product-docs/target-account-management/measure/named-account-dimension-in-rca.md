@@ -1,24 +1,30 @@
 ---
 unique-page-id: 11380789
 description: 了解如何使用Revenue Cycle Analytics中的指定帐户维度构建基于收入的报表。 衡量目标客户的管道和收入影响。
-title: RCA中的指定帐户Dimension
+title: RCA 中的命名帐户维度
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/CF92nqsL8XPvNNWJ3149X-AUrvIof5syxxB3HXgsk70
+TQID: 'https://experienceleague.adobe.com/CF92nqsL8XPvNNWJ3149X-AUrvIof5syxxB3HXgsk70'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 167
-ht-degree: 0%
-
+source-wordcount: '167'
+ht-degree: 7%
 ---
-
-# RCA中的指定帐户Dimension {#named-account-dimension-in-rca}
+# RCA 中的命名帐户维度 {#named-account-dimension-in-rca}
 
 使用收入周期Analytics中特定于TAM的指定帐户维度构建基于收入的报表。
 

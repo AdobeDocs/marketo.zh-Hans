@@ -4,16 +4,21 @@ description: 了解如何在人员的活动日志中筛选活动类型。 查看
 title: 在人员活动日志中过滤活动类型
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/d4hRqMdNQzN9LR7zm-ii9h8g4LcvUFlSG97jIUklf5Y
+TQID: 'https://experienceleague.adobe.com/d4hRqMdNQzN9LR7zm-ii9h8g4LcvUFlSG97jIUklf5Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 22%
-
 ---
-
 # 在人员活动日志中过滤活动类型 {#filter-activity-types-in-the-activity-log-of-a-person}
 
 在活动日志中搜索对您最重要的活动。

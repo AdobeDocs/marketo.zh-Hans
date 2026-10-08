@@ -3,16 +3,18 @@ description: 了解如何在Sales Insight Actions中验证您的电子邮件地�
 title: 验证您的电子邮件
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/gnaq-fRUM78yr5TheemvKA2um7Pb7yMaqec3Zjeaaag
+TQID: 'https://experienceleague.adobe.com/gnaq-fRUM78yr5TheemvKA2um7Pb7yMaqec3Zjeaaag'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 112
+source-wordcount: '112'
 ht-degree: 12%
-
 ---
-
 # 验证您的电子邮件 {#verify-your-email}
 
 如果您的电子邮件标识未经验证，请按照以下步骤操作。

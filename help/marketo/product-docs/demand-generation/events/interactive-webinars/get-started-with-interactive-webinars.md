@@ -3,18 +3,20 @@ description: Marketo中的交互式网络研讨会入门。 了解创建和举�
 title: 开始使用交互式网络研讨会
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-TQID: https://experienceleague.adobe.com/u7P-Uv0T5fiVcT2WlMpQjsoQSxWt2alZhIJCi--H-5c
+TQID: 'https://experienceleague.adobe.com/u7P-Uv0T5fiVcT2WlMpQjsoQSxWt2alZhIJCi--H-5c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 295
+source-wordcount: '295'
 ht-degree: 3%
-
 ---
-
 # 开始使用交互式网络研讨会 {#get-started-with-interactive-webinars}
 
 您已阅读[交互式网络研讨会概述](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"}，可随时开始深入了解。 请按照以下步骤开始。

@@ -4,16 +4,21 @@ description: 了解商机和帐户所有者字段如何从Salesforce同步到Mar
 title: SFDC同步 — 潜在客户/帐户所有者同步
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos
+TQID: 'https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: '218'
 ht-degree: 2%
-
 ---
-
 # SFDC 同步：潜在客户/帐户所有者同步 {#sfdc-sync-lead-account-owner-sync}
 
 这些从技术上讲，它们同步了[!DNL Salesforce]中的“用户”表，但是我们将它称为“潜在客户/帐户所有者”字段。

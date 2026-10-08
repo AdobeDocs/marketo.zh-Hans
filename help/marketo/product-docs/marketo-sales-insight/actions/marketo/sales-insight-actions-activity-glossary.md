@@ -3,18 +3,20 @@ description: 了解Sales Insight Actions活动类型和术语。 使用术语表
 title: Sales Insight Actions 活动术语表
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs
+TQID: 'https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 6%
-
 ---
-
 # [!DNL Sales Insight Actions]活动术语表 {#sales-insight-actions-activity-glossary}
 
 在[!DNL Sales Insight Actions]中，当销售商：将销售线索添加到促销活动、向他们发送销售电子邮件或发出出站销售呼叫时，该销售线索将记录在该销售线索的Marketo活动历史记录下。 此外，当商机收到电子邮件、打开、点击和回复时，也会记录该商机。
@@ -37,7 +39,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Template ID]</td>
@@ -65,7 +67,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Template ID]</td>
@@ -96,7 +98,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Template ID]</td>
@@ -124,7 +126,7 @@ ht-degree: 6%
   <td>[!UICONTROL Received By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo Sales Person ID]</td>
@@ -149,7 +151,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sales Phone Number Called]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Sales Call Duration]</td>
@@ -177,7 +179,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Sales Campaign ID]</td>
@@ -196,7 +198,7 @@ ht-degree: 6%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Sales Campaign ID]</td>

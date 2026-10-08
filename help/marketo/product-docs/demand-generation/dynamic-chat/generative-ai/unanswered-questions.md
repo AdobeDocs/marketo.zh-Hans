@@ -3,16 +3,21 @@ description: 了解如何查看和响应未回答或没有帮助的聊天机器�
 title: 未解答的问题
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-TQID: https://experienceleague.adobe.com/qBCCscCI1eJ7P70HRrD38FxuCMVdMJmkKHtQW5I7obM
+TQID: 'https://experienceleague.adobe.com/qBCCscCI1eJ7P70HRrD38FxuCMVdMJmkKHtQW5I7obM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 120
+source-wordcount: '120'
 ht-degree: 8%
-
 ---
-
 # 未解答的问题 {#unanswered-questions}
 
 查看聊天机器人无法回答的所有问题和/或访客标记为“无帮助”的问题，并使用此重要信息创建其他预批准的响应。

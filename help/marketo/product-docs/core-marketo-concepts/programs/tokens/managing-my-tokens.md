@@ -4,18 +4,20 @@ description: 了解如何在程序中管理我的令牌。 创建并使用令牌
 title: 管理我的令牌
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-TQID: https://experienceleague.adobe.com/-DdWyWBFeKkrsZMgLvxhhzaqMcAXXjSYY6euh-vMXOY
+TQID: 'https://experienceleague.adobe.com/-DdWyWBFeKkrsZMgLvxhhzaqMcAXXjSYY6euh-vMXOY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 211
+source-wordcount: '211'
 ht-degree: 5%
-
 ---
-
 # 管理我的令牌 {#managing-my-tokens}
 
 使用令牌可以简化您在Marketo Engage中的工作。 您可以在流程步骤、Webhook、电子邮件和登陆页面中使用[我的令牌](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}（自定义令牌）。 这是如何制作它们。

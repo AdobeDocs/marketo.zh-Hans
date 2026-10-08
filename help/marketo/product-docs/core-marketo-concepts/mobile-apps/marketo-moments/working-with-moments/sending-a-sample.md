@@ -4,16 +4,18 @@ description: 了解如何从Marketo时刻发送示例电子邮件。 通过从�
 title: 发送样本
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/kL9XREdcHmZtdefbUFNHEOJcp73wS0LQdtf70uCGzvg
+TQID: 'https://experienceleague.adobe.com/kL9XREdcHmZtdefbUFNHEOJcp73wS0LQdtf70uCGzvg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 162
+source-wordcount: '162'
 ht-degree: 4%
-
 ---
-
 # 发送样本 {#sending-a-sample}
 
 您可以直接与他人共享电子邮件时刻示例。 有两种方法可以做到这一点。

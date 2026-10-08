@@ -4,16 +4,18 @@ description: 了解批准的预测内容标题、启用的源、点击量和转�
 title: 了解预测性内容
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI
+TQID: 'https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 289
+source-wordcount: '289'
 ht-degree: 2%
-
 ---
-
 # 了解预测性内容 {#understanding-predictive-content}
 
 在您[批准预测内容的标题](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)后，可在此处处理该标题。 [!UICONTROL Predictive Content]页显示您已批准用于预测内容的所有标题。

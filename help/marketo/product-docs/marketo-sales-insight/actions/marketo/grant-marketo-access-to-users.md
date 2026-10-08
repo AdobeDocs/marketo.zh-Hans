@@ -3,18 +3,20 @@ description: 了解如何在Sales Insight Actions中向用户授予Marketo访问
 title: 授予用户 Marketo 访问权限
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/H5SelzlqZyQE6oq5Okvpq-v-B5km2cBBu2cUH7GhC2A
+TQID: 'https://experienceleague.adobe.com/H5SelzlqZyQE6oq5Okvpq-v-B5km2cBBu2cUH7GhC2A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 215
+source-wordcount: '215'
 ht-degree: 6%
-
 ---
-
 # 授予用户 Marketo 访问权限 {#grant-marketo-access-to-users}
 
 按照本文中的步骤向[!DNL Sales Insight Actions]用户授予对Marketo连接的访问权限。 这将解锁实时信息源中令人感兴趣的时刻等功能以及营销活动的访问权限。

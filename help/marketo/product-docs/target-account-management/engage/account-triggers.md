@@ -4,16 +4,21 @@ description: 了解如何使用帐户触发器侦听帐户级别的行为活动�
 title: 帐户触发器
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/iGJv8QygBcX0NAU-0rjiuPOW3mAyS3xMS98JQqv-Qw0
+TQID: 'https://experienceleague.adobe.com/iGJv8QygBcX0NAU-0rjiuPOW3mAyS3xMS98JQqv-Qw0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 3%
-
 ---
-
 # 帐户触发器 {#account-triggers}
 
 使用帐户级别的触发器侦听跨不同渠道（例如，电子邮件、Web、广告）的重要帐户级别行为活动并对其执行操作。

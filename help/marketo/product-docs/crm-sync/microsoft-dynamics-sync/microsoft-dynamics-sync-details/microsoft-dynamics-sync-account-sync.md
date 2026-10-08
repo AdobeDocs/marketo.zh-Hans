@@ -4,18 +4,23 @@ description: 了解帐户信息如何从Microsoft Dynamics同步到Marketo。 �
 title: Microsoft Dynamics同步 — 帐户同步
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/O4tO6DCM-BhwZriMmPGiQqzuhpIc-rWAKojWCn5-Ab8
+TQID: 'https://experienceleague.adobe.com/O4tO6DCM-BhwZriMmPGiQqzuhpIc-rWAKojWCn5-Ab8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 217
+source-wordcount: '217'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft Dynamics]同步：帐户同步 {#microsoft-dynamics-sync-account-sync}
 
 Marketo将整个数据库与[!DNL Dynamics]同步。 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何专门处理[!DNL Dynamics]帐户的一些详细信息。

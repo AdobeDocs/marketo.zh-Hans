@@ -4,19 +4,25 @@ description: 了解如何使用流程步骤将人员添加到Salesforce营销活
 title: 添加到 SFDC 营销活动
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-TQID: https://experienceleague.adobe.com/7fp6JSlxwdg0Yoniw9E4VvmRNvyaVyhwyOc10veDvR4
+TQID: 'https://experienceleague.adobe.com/7fp6JSlxwdg0Yoniw9E4VvmRNvyaVyhwyOc10veDvR4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 4%
-
 ---
-
 # 添加到 SFDC 营销活动 {#add-to-sfdc-campaign}
 
 此流程步骤可以在Marketo Engage营销活动中使用，也可以作为单个流程步骤在Salesforce营销活动中添加人员作为潜在客户。 如果Salesforce中尚不存在该商机，则它会自动同步到并添加到具有指定状态的营销活动中。

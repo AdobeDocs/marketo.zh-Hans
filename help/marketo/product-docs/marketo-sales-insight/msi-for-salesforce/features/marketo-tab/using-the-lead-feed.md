@@ -1,24 +1,27 @@
 ---
 unique-page-id: 7512979
 description: 了解如何在Salesforce的Marketo选项卡中使用商机信息源。 请参阅信息源中的实时商机活动和参与。
-title: 使用潜在客户信息流
+title: 使用销售线索信息流
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI
+TQID: 'https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 3%
-
 ---
-
-# 使用潜在客户信息流 {#using-the-lead-feed}
+# 使用销售线索信息流 {#using-the-lead-feed}
 
 潜在客户信息源是潜在客户开展的重要活动的最新列表。 单击Marketo选项卡时，您会在右侧找到该页面。 它类似于RSS或[!DNL Twitter]信息源 — 最近的更新位于列表顶部。 当你还在他们脑海里时，用这个来跳跃潜在客户。
 

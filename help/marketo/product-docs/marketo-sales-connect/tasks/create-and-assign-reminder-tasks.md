@@ -1,27 +1,29 @@
 ---
 description: 了解如何在Sales Connect中创建和分配提醒任务。 为您自己或团队成员设置跟进任务。
-title: 创建和分配提醒任务
+title: 创建并分配提醒任务
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/VrxKfa2gNANSUxw5nfENMSJpqgwgWx6AdUcWiuNeEjs
+TQID: 'https://experienceleague.adobe.com/VrxKfa2gNANSUxw5nfENMSJpqgwgWx6AdUcWiuNeEjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 146
-ht-degree: 0%
-
+source-wordcount: '146'
+ht-degree: 10%
 ---
-
-# 创建和分配提醒任务 {#create-and-assign-reminder-tasks}
+# 创建并分配提醒任务 {#create-and-assign-reminder-tasks}
 
 提醒任务是了解客户和潜在客户参与情况的好方法。 要创建任务，请执行以下步骤。
 
-1. 单击&#x200B;**[!UICONTROL Command Center]**。
+1. 单击 **[!UICONTROL Command Center]**。
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. 默认情况下会打开任务。 单击&#x200B;**[!UICONTROL Add Task]**。
+1. 默认情况下会打开任务。 单击 **[!UICONTROL Add Task]**。
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
@@ -49,6 +51,6 @@ ht-degree: 0%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 添加您希望在完成任务时可以使用的任务的任何详细信息，例如通话笔记、InMail消息模板甚至有关人员的笔记。 完成后单击&#x200B;**[!UICONTROL Create]**。
+1. 添加您希望在完成任务时可以使用的任务的任何详细信息，例如通话笔记、InMail消息模板甚至有关人员的笔记。 完成后，单击 **[!UICONTROL Create]**。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

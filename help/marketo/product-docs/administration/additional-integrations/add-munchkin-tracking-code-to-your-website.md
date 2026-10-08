@@ -1,25 +1,30 @@
 ---
 unique-page-id: 2360354
 description: 将Marketo [!DNL Munchkin] JavaScript添加到您的网站以跟踪访问并启用基于Web的营销活动。
-title: 将 [!DNL Munchkin] 跟踪代码添加到您的网站
+title: 将[!DNL Munchkin]跟踪代码添加到您的网站
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-TQID: https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts
+TQID: 'https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 1c1a93b2-f024-5627-9905-6faf6fcc22be
+    internal-label: Munchkin Tracking Code
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 652
+source-wordcount: '654'
 ht-degree: 5%
-
 ---
-
 # 将[!DNL Munchkin]跟踪代码添加到您的网站 {#add-munchkin-tracking-code-to-your-website}
 
 Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访问您网站的所有个人，以便您能够通过自动营销活动对其访问做出反应。 甚至匿名访客也会与其IP地址和其他信息一起被跟踪。 **如果没有此跟踪代码，您将无法跟踪您网站上的访问次数或其他活动**！
@@ -32,7 +37,7 @@ Marketo的自定义JavaScript跟踪代码（称为[!DNL Munchkin]）可跟踪访
 
 >[!NOTE]
 >
->Adobe Experience Cloud用户还可以使用Adobe Launch中的[Marketo集成](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}以在其网页上包含[!DNL Munchkin]脚本。 如果您使用Adobe Launch，_将自动添加[!DNL Munchkin]脚本_，因此您无需自行添加。
+>Adobe Experience Cloud用户还可以使用Adobe Launch中的[Marketo集成](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}在其网页上包含[!DNL Munchkin]脚本。 如果您使用Adobe Launch，_将自动添加[!DNL Munchkin]脚本_，因此您无需自行添加。
 
 1. 进入 **[!UICONTROL Admin]** 区域。
 

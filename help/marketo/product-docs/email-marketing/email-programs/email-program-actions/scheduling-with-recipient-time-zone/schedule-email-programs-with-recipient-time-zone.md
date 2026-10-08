@@ -4,21 +4,28 @@ description: 了解如何使用收件人时区计划电子邮件程序。 设置
 title: 按收件人时区安排电子邮件项目
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo
+TQID: 'https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 807
+source-wordcount: '823'
 ht-degree: 1%
-
 ---
-
 # 按收件人时区安排电子邮件项目 {#schedule-email-programs-with-recipient-time-zone}
 
 在启用收件人时区的情况下计划电子邮件程序时，可能会出现以下两种情况：
@@ -42,15 +49,15 @@ ht-degree: 1%
 >
 >**定义**
 >
->* **[!UICONTROL Deliver the following day in the recipient's time zone]**：如果电子邮件计划在星期二9:00am发出，则居住在已超过计划时间的时区的合格人员将在&#x200B;*星期三*&#x200B;的9:00am收到电子邮件。
+>* **[!UICONTROL Deliver the following day in the recipient's time zone]**：如果电子邮件计划在星期二上午9:00发出，则居住在已超过计划时间的时区的合格人员将在&#x200B;*星期三*&#x200B;上午9:00收到电子邮件。
 >
->* **[!UICONTROL Deliver using the program's default set time]**：如果电子邮件计划在星期二9:00am发出，则居住在已过计划时间的时区的合格人员将根据您的订阅时区设置&#x200B;*收到电子邮件*。 因此，如果您的[订阅时区设置](/help/marketo/product-docs/administration/settings/change-time-zone.md)设置为PDT America/Los Angeles，这些收件人仍将在星期二的9:00am PDT（无论时间位于他们自己的时区）收到电子邮件。
+>* **[!UICONTROL Deliver using the program's default set time]**：如果电子邮件计划在星期二上午9:00发出，则居住在已过计划时间的时区的合格人员将根据您的订阅时区设置&#x200B;*收到电子邮件*。 因此，如果您的[订阅时区设置](/help/marketo/product-docs/administration/settings/change-time-zone.md)设置为PDT America/Los Angeles，这些收件人仍将在星期二上午9:00（无论时间位于他们自己的时区）收到电子邮件。
 
 >[!NOTE]
 >
 >[了解有关Marketo如何计算收件人时区的更多信息](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone)。
 
-让我们更详细地考虑此方案。 假设您位于旧金山，计划发送一封电子邮件（地址为7:00am）**9:00am**。 您的智能列表中包含来自以下区域的人员：
+让我们更详细地考虑此方案。 假设您位于旧金山，计划于上午7:00发送电子邮件&#x200B;**上午9:00**。 您的智能列表中包含来自以下区域的人员：
 
 * 旧金山
 * 得克萨斯州
@@ -59,11 +66,11 @@ ht-degree: 1%
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-9:00am已在纽约和意大利通过，因此这两个时区的合格人员将根据&#x200B;**时区设置**&#x200B;接收电子邮件：
+纽约和意大利已经过了上午9:00，因此这两个时区的合格人员会根据&#x200B;**时区设置**&#x200B;接收电子邮件：
 
-* **[!UICONTROL Deliver the following day in the recipient's time zone]：**&#x200B;星期三9:00am，在各自的时区，**或**
+* **[!UICONTROL Deliver the following day in the recipient's time zone]：**&#x200B;星期三上午9:00在各自的时区，**或**
 
-* **[!UICONTROL Deliver using the program's default set time]**：星期二的9:00am PDT（纽约 — 12:00pm EDT和意大利 — 6:00pm CET）。
+* **[!UICONTROL Deliver using the program's default set time]**：星期二上午9:00（纽约 — 中午12:00东部夏令时间和意大利 — 下午6:00中部时间）。
 
 批准程序后，它将在15分钟内开始运行。
 
@@ -79,7 +86,7 @@ ht-degree: 1%
 
 **头开始**
 
-现在，让我们讨论[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何与&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;一起使用。 我们现有的先发制人功能要求项目至少提前12小时计划。 那么这对收件人时区意味着什么？ 请记住，启用收件人时区后，我们将在最早时区(UTC +14:00)的计划时间开始运行电子邮件程序。 因此，要同时启用&#x200B;**&#x200B;**&#x200B;开头和收件人时区，电子邮件程序需要在UTC +14:00的预定时间之前&#x200B;**至少提前12小时计划。**
+现在，让我们讨论[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何与&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;一起使用。 我们现有的先发制人功能要求项目至少提前12小时计划。 那么这对收件人时区意味着什么？ 请记住，启用收件人时区后，我们将在最早时区(UTC +14:00)的计划时间开始运行电子邮件程序。 因此，要启用&#x200B;**开头和收件人时区**，电子邮件程序需要在UTC +14:00下比计划时间至少提前&#x200B;**12小时计划。**
 
 这意味着如果您在美国/洛杉矶并且想要启用开头和收件人时区，则需要提前&#x200B;**34小时**&#x200B;计划该计划。 我们怎么找到这个号码的？
 
@@ -91,7 +98,7 @@ ht-degree: 1%
 
 * **交付时间为&#x200B;*在* 25小时内**，程序将在15分钟内开始运行。 已超过计划时间的收件人会根据您选择的时区设置收到电子邮件。
 * **在未来&#x200B;*超过* 25小时之后**，程序将在最早时区(UTC +14:00)的计划时间开始运行。
-* **如果开始时间为**，则程序将在最早时区(UTC +14:00)中比计划时间早12小时开始处理。
+* **如果开始时间为**，则在最早时区(UTC +14:00)中，程序在计划时间之前12小时开始处理。
 
 >[!CAUTION]
 >

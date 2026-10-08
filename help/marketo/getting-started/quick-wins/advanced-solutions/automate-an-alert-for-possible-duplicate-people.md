@@ -1,20 +1,22 @@
 ---
 unique-page-id: 7513680
 description: 自动提醒可能重复的人员 — Marketo文档 — 产品文档
-title: 针对可能存在的重复人员自动发送警报
+title: 为可能重复的人员自动发送警报
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
+TQID: 'https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 157
-ht-degree: 0%
-
+source-wordcount: '157'
+ht-degree: 8%
 ---
-
-# 针对可能存在的重复人员自动发送警报 {#automate-an-alert-for-possible-duplicate-people}
+# 为可能重复的人员自动发送警报 {#automate-an-alert-for-possible-duplicate-people}
 
 是否希望每次创建可能的重复人员时都显示警报？ 下面是如何设置Smart Campaign来执行此操作。
 

@@ -3,18 +3,20 @@ description: 了解推荐的模板和最佳实践。 创建有效的销售电子
 title: 推荐模板
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Ir692n-hd8iW-xMIQZRnyyqutltbL3IFhiTDlrCOfzY
+TQID: 'https://experienceleague.adobe.com/Ir692n-hd8iW-xMIQZRnyyqutltbL3IFhiTDlrCOfzY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 289
+source-wordcount: '289'
 ht-degree: 1%
-
 ---
-
 # 推荐模板 {#recommended-templates}
 
 [!DNL Sales Insight Action]的推荐模板可帮助您获得正确的消息传递，同时节省您的时间。 这样可在发送电子邮件时为您提供更大的流量，并减少在尝试为合适的人员查找合适的电子邮件时出现的不确定性。

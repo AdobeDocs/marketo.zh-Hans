@@ -4,16 +4,21 @@ description: 了解Marketo中的机会过滤器和触发器。 对CRM机会数�
 title: 机会过滤器与触发器
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/e5Nz6uthpqduyCkhoo1or70-Ych-DaAeZ-iOSEPxyA8
+TQID: 'https://experienceleague.adobe.com/e5Nz6uthpqduyCkhoo1or70-Ych-DaAeZ-iOSEPxyA8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 483
+source-wordcount: '483'
 ht-degree: 1%
-
 ---
-
 # 机会过滤器与触发器 {#opportunity-filters-and-triggers}
 
 机会过滤器和触发器允许您跟踪来自[!DNL Salesforce]的机会事件。 与其他过滤器和触发器相比，这些功能稍有不同。

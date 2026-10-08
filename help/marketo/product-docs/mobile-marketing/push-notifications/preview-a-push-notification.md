@@ -4,16 +4,18 @@ description: 了解如何在Android和iOS上预览推送通知。 查看“主�
 title: 预览推送通知
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU
+TQID: 'https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 258
+source-wordcount: '258'
 ht-degree: 3%
-
 ---
-
 # 预览推送通知 {#preview-a-push-notification}
 
 可以轻松预览推送通知的外观，无论是Android还是iOS。 有四种方法可以做到这一点。

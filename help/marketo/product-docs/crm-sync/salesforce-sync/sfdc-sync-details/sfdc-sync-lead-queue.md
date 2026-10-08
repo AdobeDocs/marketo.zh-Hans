@@ -4,16 +4,21 @@ description: 了解如何从Marketo将人员分配给Salesforce潜在客户队�
 title: SFDC同步 — 潜在客户队列
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/aUrT7qSMy65t3K07O176nt-Bzjm9urgnXKAkZgs1-cs
+TQID: 'https://experienceleague.adobe.com/aUrT7qSMy65t3K07O176nt-Bzjm9urgnXKAkZgs1-cs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: '150'
 ht-degree: 6%
-
 ---
-
 # SFDC 同步：潜在客户队列 {#sfdc-sync-lead-queue}
 
 Marketo允许您将人员添加到[[!DNL Salesforce] 潜在客户队列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)以帮助进行潜在客户分发。 详情如下。

@@ -4,18 +4,20 @@ description: 了解如何通过CSV将联系人导入Sales Connect。 上传CSV�
 title: 通过 CSV 导入联系人
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/mfeuU8y5mm5zReKyaC9z5kCnRyovTMQbYbfMhDXwWLI
+TQID: 'https://experienceleague.adobe.com/mfeuU8y5mm5zReKyaC9z5kCnRyovTMQbYbfMhDXwWLI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: '126'
 ht-degree: 10%
-
 ---
-
 # 通过 CSV 导入联系人 {#import-contacts-via-csv}
 
 在[!UICONTROL People]页面中拥有联系人很重要，因为这是我们从中提取以在模板的动态字段中自动填写个性化信息的位置。 确保在CSV中至少为每个联系人提供一个姓名和电子邮件地址，并且您要将它们映射到这些字段。

@@ -4,13 +4,19 @@ description: 了解了解Marketo Engage中的项目收入阶段分析区域，�
 title: 了解项目收入阶段分析区域
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: e9ef2843fb7e700f1d9d1fd1f04a27fe2f6e516e
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 6%
-
 ---
-
 # 了解项目收入阶段分析区域 {#understanding-the-program-revenue-stage-analysis-area}
 
 利用此分析区域，可分析各个计划的有效性或查看按渠道汇总的结果。 它提供了有关生成的名称中有多少已达到您的收入周期模型内的特定成功路径阶段的见解。

@@ -3,18 +3,20 @@ description: 了解如何在Sales Insight Actions电子邮件模板中使用HTML
 title: 使用 HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/F2KIaIAe3yiZJt7vEwoxa6cSCbaF0nfjPP-p9A8XKYI
+TQID: 'https://experienceleague.adobe.com/F2KIaIAe3yiZJt7vEwoxa6cSCbaF0nfjPP-p9A8XKYI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 110
+source-wordcount: '110'
 ht-degree: 3%
-
 ---
-
 # 使用 HTML {#using-html}
 
 1. 使用在HTML中创建电子邮件的工具（例如，Marketo的电子邮件编辑器），从电子邮件中复制源代码。

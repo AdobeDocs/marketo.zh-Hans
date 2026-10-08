@@ -4,20 +4,23 @@ description: 了解Marketo时间中的Smart Campaign信息卡。 从移动设备
 title: 了解智能营销活动信息卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/U7hXSh81b-BRlEHvMRNOVix71p0tgahqOTYcVirSoVo
+TQID: 'https://experienceleague.adobe.com/U7hXSh81b-BRlEHvMRNOVix71p0tgahqOTYcVirSoVo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Flow Step
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 577
+source-wordcount: '577'
 ht-degree: 1%
-
 ---
-
 # 了解智能营销活动信息卡 {#understanding-smart-campaign-cards}
 
 使用Marketo时刻从智能手机或iPad查看每次运行的智能营销活动。 Marketo时刻智能营销活动信息卡表示营销活动的一次运行；每次运行智能营销活动时，都会显示一张新信息卡。 Smart Campaign卡在左上角标有一个灯泡。

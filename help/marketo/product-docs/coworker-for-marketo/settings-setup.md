@@ -1,13 +1,14 @@
 ---
 description: 了解如何为Marketo Engage权限启用同事、配置组织规则以及管理集成和通知等设置。
 title: 设置和设置
-source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 1%
-
 ---
-
 # 设置和设置 {#settings-setup}
 
 了解如何启用权限并使用“设置”区域查看连接详细信息、定义组织规则以及设置集成和通知。

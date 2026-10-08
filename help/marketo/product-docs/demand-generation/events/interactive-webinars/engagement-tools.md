@@ -2,15 +2,19 @@
 description: 了解交互式网络研讨会中的参与工具。 使用投票、问答和其他功能促进与会者在网络研讨会期间的互动。
 title: 交互式网络研讨会中的参与工具
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Interactive Webinars
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1285'
 ht-degree: 0%
-
 ---
-
 # 交互式网络研讨会中的参与工具 {#engagement-tools-in-interactive-webinars}
 
 Adobe Connect文件室中的Pod投放功能。 要将面板添加到布局中，请单击pod菜单，然后选择要添加的面板。

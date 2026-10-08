@@ -4,18 +4,23 @@ description: 了解如何在Email Editor 2.0中将模块添加到电子邮件。
 title: 向电子邮件添加模块
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/4-eqCG-G4WIl7Ei9txgIhjR6x9xItN3CwDxZ70zj19Y
+TQID: 'https://experienceleague.adobe.com/4-eqCG-G4WIl7Ei9txgIhjR6x9xItN3CwDxZ70zj19Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 257
+source-wordcount: '257'
 ht-degree: 7%
-
 ---
-
 # 向电子邮件添加模块 {#add-modules-to-your-email}
 
 在[!DNL Email Editor 2.0]中，模块是在模板中定义的电子邮件部分。 模块可以包含元素、变量和其他HTML内容的任意组合。 将此类受众添加到您的电子邮件中很容易。

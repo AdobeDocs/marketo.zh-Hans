@@ -4,18 +4,23 @@ description: 了解硬退信和软退信以及Marketo如何对它们进行分类
 title: 电子邮件中的硬退回和软退回
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/qr4rAdOWWg5dazZVztnoTUv6WJQE8Xpm2WKttjQaOOg
+TQID: 'https://experienceleague.adobe.com/qr4rAdOWWg5dazZVztnoTUv6WJQE8Xpm2WKttjQaOOg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 310
+source-wordcount: '310'
 ht-degree: 14%
-
 ---
-
 # 电子邮件中的硬退回和软退回 {#hard-and-soft-bounces-in-email}
 
 硬退回是在邮件服务器告知 Marketo 无法投递电子邮件时，将人员电子邮件地址视为无效。 软退回意味着在将电子邮件交付给人员时出现问题；此问题会自动解决，有时可能需要几天时间。 硬退回和软退回都包含[多个类别](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)。

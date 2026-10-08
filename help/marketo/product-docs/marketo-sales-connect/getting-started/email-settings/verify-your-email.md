@@ -4,16 +4,18 @@ description: 了解如何在Sales Connect中验证电子邮件。 完成电子�
 title: 验证您的电子邮件
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/6dX26M2k3ZoRa7KLiopasn5Mb-7fqM-hVGtWb-hPvAg
+TQID: 'https://experienceleague.adobe.com/6dX26M2k3ZoRa7KLiopasn5Mb-7fqM-hVGtWb-hPvAg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 85
-ht-degree: 0%
-
+source-wordcount: '85'
+ht-degree: 8%
 ---
-
 # 验证您的电子邮件 {#verify-your-email}
 
 如果您的电子邮件标识未经验证，请按照以下步骤操作。
@@ -30,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/verify-your-email-3.png)
 
-1. 单击&#x200B;**[!UICONTROL Resend]**。
+1. 单击 **[!UICONTROL Resend]**。
 
    ![](assets/verify-your-email-4.png)
 

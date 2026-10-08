@@ -4,16 +4,18 @@ description: 了解如何在自动化Sales Connect营销活动时跳过周末。
 title: 跳过周末
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/svilh3tgrWWepx7-Bn9VhoFTpDwTWGCTVKv2Awu6KFU
+TQID: 'https://experienceleague.adobe.com/svilh3tgrWWepx7-Bn9VhoFTpDwTWGCTVKv2Awu6KFU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: '77'
 ht-degree: 6%
-
 ---
-
 # 跳过周末 {#skip-weekends}
 
 在自动执行营销活动时，您可能不希望自己的电子邮件在星期六或星期日发出。 否则，您可以跳过周末。

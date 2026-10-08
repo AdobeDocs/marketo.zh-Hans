@@ -2,15 +2,16 @@
 unique-page-id: 11387674
 description: Marketo 术语更新 - Marketo 文档 - 产品文档
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 title: Marketo 术语更新
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
-
 ---
-
 # Marketo 术语更新 {#updates-to-marketo-terminology}
 
 我们正在对平台进行一些更改，这将影响部分功能或项目的称呼方式。 如果您在 2016 年 3 月之后启用了新的 Marketo 实例，或您的公司在 2016 年 7 月之后完成续订，那么您现在可能已经看到新的术语。
@@ -19,9 +20,9 @@ ht-degree: 100%
 
 那么，具体有哪些变化？
 
-## “潜在客户”（Lead）现已更名为“人员”（Person） {#lead-is-now-person}
+## “销售线索”（Lead）现已更名为“人员”（Person） {#lead-is-now-person}
 
-最大的变化是将“潜在客户”（Lead/Leads）重命名为“人员”（Person/People）。
+最大的变化是将“销售线索”（Lead/Leads）重命名为“人员”（Person/People）。
 
 <table>
  <colgroup>
@@ -46,7 +47,7 @@ ht-degree: 100%
  </tbody>
 </table>
 
-在某些情况下，“潜在客户”（Lead）一词将被直接移除。
+在某些情况下，“销售线索”（Lead）一词将直接移除。
 
 <table>
  <colgroup>
@@ -83,7 +84,7 @@ ht-degree: 100%
 
 ## 字段管理 {#field-management}
 
-包含“潜在客户”（Lead）的字段已被替换为“人员”（Person），或直接移除了“潜在客户”（Lead）一词。 但一个显著的例外是“潜在客户所有者”（Lead Owner）字段。 它现在被称为“销售所有者”（Sales Owner）。
+包含“销售线索”（Lead）的字段已被替换为“人员”（Person），或直接移除了“销售线索”（Lead）一词。 但一个显著的例外是“销售线索所有者”（Lead Owner）字段。 它现在被称为“销售所有者”（Sales Owner）。
 
 <table>
  <colgroup>

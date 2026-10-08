@@ -3,16 +3,18 @@ description: 了解Sales Insight Actions中的批量电子邮件选项。 使用
 title: 批量发送电子邮件选项
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4
+TQID: 'https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 266
+source-wordcount: '266'
 ht-degree: 5%
-
 ---
-
 # 批量发送电子邮件选项 {#bulk-emailing-options}
 
 批量发送电子邮件是加快潜在客户参与的有效方法。 [!DNL Marketo Sales]提供两种批量发送电子邮件的方式：**群电子邮件**&#x200B;和&#x200B;**选择并发送**。 群组电子邮件是快速向目标群组发送数百封电子邮件的好方法。 使用选择并发送意味着降低了电子邮件限制，但为用户提供了更多的自定义机会。

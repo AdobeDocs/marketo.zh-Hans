@@ -4,13 +4,19 @@ description: 了解如何使用成功路径分析器在Marketo Engage中使用�
 title: 使用成功路径分析器
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 3%
-
 ---
-
 # 使用成功路径分析器 {#using-the-success-path-analyzer}
 
 使用成功路径分析器来探索特定详细信息，这些详细信息反映人员在[收入周期模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)的各个阶段中的流量（数量）和速度（速度，以天数为单位）。

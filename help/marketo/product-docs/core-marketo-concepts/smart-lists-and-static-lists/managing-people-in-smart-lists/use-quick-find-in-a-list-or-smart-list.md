@@ -4,16 +4,21 @@ description: 了解如何在列表或智能列表中使用快速查找。 在列
 title: 在列表或智能列表中使用快速查找
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/PryszoOP-ARYY3MwaOrHmMuW3VlOdssIZ8xeDdGFemA
+TQID: 'https://experienceleague.adobe.com/PryszoOP-ARYY3MwaOrHmMuW3VlOdssIZ8xeDdGFemA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 148
+source-wordcount: '148'
 ht-degree: 13%
-
 ---
-
 # 在列表或智能列表中使用快速查找 {#use-quick-find-in-a-list-or-smart-list}
 
 使用快速查找从列表或智能列表的结果中查找人员。

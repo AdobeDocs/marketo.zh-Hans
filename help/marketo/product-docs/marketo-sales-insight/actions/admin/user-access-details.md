@@ -3,19 +3,22 @@ description: 了解管理员和非管理员可以在Sales Insight操作中访问
 title: 用户访问详情
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc
+TQID: 'https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 2%
-
 ---
-
 # 用户访问详情 {#user-access-details}
 
 管理员和非管理员可以访问什么？
@@ -48,24 +51,24 @@ ht-degree: 2%
 
 * Analytics：
 
-   * 用户可以查看团队分析
-   * 用户可以只深入查看他们所属的团队
-   * 用户可以查看自己的分析
+  * 用户可以查看团队分析
+  * 用户可以只深入查看他们所属的团队
+  * 用户可以查看自己的分析
 
 * [!UICONTROL People]页：
 
-   * 用户可以与所有人共享组
-   * 用户可以仅与他们所属的团队共享组
-   * 用户可以查看Actions数据库中的所有人员
-   * 删除某个用户后，其共享联系人会将所有权转移给删除该用户的主管理员
+  * 用户可以与所有人共享组
+  * 用户可以仅与他们所属的团队共享组
+  * 用户可以查看Actions数据库中的所有人员
+  * 删除某个用户后，其共享联系人会将所有权转移给删除该用户的主管理员
 
 * [!UICONTROL Team]管理页面：
 
-   * 无法查看
+  * 无法查看
 
 * [!UICONTROL Templates]页：
 
-   * 用户可以与所有人共享模板
-   * 用户可以在管理员允许的类别中共享模板
-   * 从团队中删除用户后，其模板将取消与该团队共享
-   * 从团队中删除用户后，其模板会将所有权转移给删除该用户的主管理员
+  * 用户可以与所有人共享模板
+  * 用户可以在管理员允许的类别中共享模板
+  * 从团队中删除用户后，其模板将取消与该团队共享
+  * 从团队中删除用户后，其模板会将所有权转移给删除该用户的主管理员

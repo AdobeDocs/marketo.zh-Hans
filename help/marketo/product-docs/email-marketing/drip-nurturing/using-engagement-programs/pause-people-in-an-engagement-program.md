@@ -4,18 +4,23 @@ description: 了解如何在参与项目中暂停人员以便他们停止接收�
 title: 暂停参与计划中的人员
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/QMJ3H0hr90ds4HAc4RltNuT-0fKTtEAZXylGo53DNh0
+TQID: 'https://experienceleague.adobe.com/QMJ3H0hr90ds4HAc4RltNuT-0fKTtEAZXylGo53DNh0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 9%
-
 ---
-
 # 暂停参与计划中的人员 {#pause-people-in-an-engagement-program}
 
 当人员是参与计划成员时，他们将收到内容，直到他们[用完所有内容](people-who-have-exhausted-content.md)。 您可以使用[[!UICONTROL Change Engagement Program Cadence]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)流程步骤来阻止用户接收内容，即使他们尚未用完内容。

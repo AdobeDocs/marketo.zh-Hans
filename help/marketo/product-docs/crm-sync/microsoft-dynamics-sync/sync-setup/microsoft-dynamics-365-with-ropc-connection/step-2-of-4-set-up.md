@@ -3,18 +3,24 @@ description: 了解如何使用ROPC连接设置Marketo解决方案。 在Dynamic
 title: 第2步（共4步） — 使用资源所有者密码控制连接设置Marketo解决方案
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/-pefk892NFYV87CCTDrt28Yz-GUS66YZY74Q3-8z4YI
+TQID: 'https://experienceleague.adobe.com/-pefk892NFYV87CCTDrt28Yz-GUS66YZY74Q3-8z4YI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 1%
-
 ---
-
 # 第2步（共4步）：使用资源所有者密码控制连接设置Marketo解决方案 {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 创建用户帐户。

@@ -4,16 +4,21 @@ description: 了解如何为Salesforce同步设置默认人员姓氏和公司名
 title: 设置默认人员姓氏和公司名称
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/pq4XPfiwO1UemSmg3edhJgWWmvR-mx4Q3udff9xzWt0
+TQID: 'https://experienceleague.adobe.com/pq4XPfiwO1UemSmg3edhJgWWmvR-mx4Q3udff9xzWt0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: '137'
 ht-degree: 12%
-
 ---
-
 # 设置默认人员姓氏和公司名称 {#set-default-person-last-name-and-company-name}
 
 [!DNL Salesforce]需要其潜在客户和联系人的姓氏和公司名称（最小）。 未完成的记录将不会同步到[!DNL Salesforce]。 如果要同步部分记录，必须设置Marketo的默认值以与[!DNL Salesforce]一起使用。

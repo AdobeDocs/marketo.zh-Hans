@@ -4,16 +4,21 @@ description: 了解如何预览包含动态内容的电子邮件。 在发送之
 title: 预览包含动态内容的电子邮件
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/aqq-w-CNbbGHgeB5uwjdOJwsJJVI1OgaWv8zmde7xto
+TQID: 'https://experienceleague.adobe.com/aqq-w-CNbbGHgeB5uwjdOJwsJJVI1OgaWv8zmde7xto'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 118
+source-wordcount: '118'
 ht-degree: 10%
-
 ---
-
 # 预览包含动态内容的电子邮件 {#preview-an-email-with-dynamic-content}
 
 添加动态内容后预览电子邮件以进行验证。

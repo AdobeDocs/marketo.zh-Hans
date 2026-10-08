@@ -4,13 +4,20 @@ description: 在模板中构建链接时，使用HTML注释从管理员电子邮
 title: 移除取消订阅文本
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 9c4f0d0a43d3ef06132d827b605b9e42de712e22
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 8%
-
 ---
-
 # 移除取消订阅文本 {#remove-unsubscribe-text}
 
 您应从&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Email]**&#x200B;区域完全删除取消订阅内容的唯一原因是，您选择在电子邮件模板中构建取消订阅链接。 该文本框具有验证，不允许您保存而不保存任何内容。 您可以通过添加小的HTML评论来解决此问题。 HTML注释将不会显示在电子邮件客户端中，因为它在HTML中呈现电子邮件，并且会忽略这些注释。

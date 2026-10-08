@@ -1,13 +1,14 @@
 ---
 description: 当销售电子邮件被标记为垃圾邮件时，获取帮助。 了解提高可投放性和避免垃圾邮件过滤器的原因和步骤。
 title: 电子邮件被标记为垃圾电子邮件
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
-
 ---
-
 # 电子邮件被标记为垃圾电子邮件 {#email-marked-as-spam}
 
 作为一家公司，我们努力确保我们的可投放性保持高水平。 但是，某些用户行为和设置可能会触发将已发送的电子邮件路由到垃圾邮件文件夹。

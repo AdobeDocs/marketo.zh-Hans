@@ -3,18 +3,20 @@ description: 了解Marketo取消订阅检查，以便销售人员无法向Market
 title: Marketo 取消订阅检查
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o
+TQID: 'https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 8%
-
 ---
-
 # [!UICONTROL Marketo Unsubscribe Check] {#marketo-unsubscribe-check}
 
 [!UICONTROL Marketo Unsubscribe Check]使用您团队与Marketo的连接防止电子邮件发送给在Marketo的潜在客户管理系统中取消订阅的人员。 当销售用户发送带有[!DNL Marketo Sales]的电子邮件时，将对Marketo进行API调用以检查电子邮件ID是否已取消订阅。 如果是，我们将阻止发送电子邮件。

@@ -3,16 +3,18 @@ description: 了解如何设置自定义域跟踪，以便可跟踪链接使用�
 title: 如何设置自定义域跟踪
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk
+TQID: 'https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 186
+source-wordcount: '186'
 ht-degree: 7%
-
 ---
-
 # 如何设置自定义域跟踪 {#how-to-set-up-custom-domain-tracking}
 
 自定义域跟踪允许您的团队在添加到销售电子邮件的所有可跟踪链接中使用您自己的公司名称。 完成此设置后，我们将允许列表您在电子邮件中的任何链接，使其显示为go.yourcompany.com，这样当有人将鼠标悬停在链接上时，它将会显示go.yourcompany.com而不是go.toutapp.com。

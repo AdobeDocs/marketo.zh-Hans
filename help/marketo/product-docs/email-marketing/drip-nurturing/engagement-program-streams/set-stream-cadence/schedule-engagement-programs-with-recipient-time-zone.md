@@ -4,21 +4,26 @@ description: 了解如何使用收件人时区安排参与计划点播。 将首
 title: 按收件人时区安排参与计划
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
+TQID: 'https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 200
-ht-degree: 9%
-
+source-wordcount: '201'
+ht-degree: 8%
 ---
-
 # 按收件人时区安排参与计划 {#schedule-engagement-programs-with-recipient-time-zone}
 
-当您计划参与项目程序流并且收件人时区处于活动状态时，程序转换将在第一个时区的午夜开始运行(UTC +14:00)。 第一个演员必须安排在未来至少&#x200B;**25小时**，因为全球每个时区可能有符合该演员资格的人。 在第一个时区的这个时间开始处理，可保证每个收件人的电子邮件在计划的日期和时间投放。
+当您计划参与项目计划流并且收件人时区处于活动状态时，项目转换将在第一个时区的午夜开始运行(UTC +14:00)。 第一个演员必须安排在未来至少&#x200B;**25小时**，因为全球每个时区可能有符合该演员资格的人。 在第一个时区的这个时间开始处理，可保证每个收件人的电子邮件在计划的日期和时间投放。
 
 1. 在您的参与计划中，导航到&#x200B;**[!UICONTROL Streams]**&#x200B;选项卡，然后单击流的节奏计划以进行编辑。
 

@@ -1,7 +1,10 @@
 ---
 description: 跨关键工作流程（如商机导入、项目QA和数据标准化）查看CX Enterprise Coworker的Marketo Engage数据范围、治理控制和PII注意事项。
 title: 适用于Marketo Engage的CX Enterprise Coworker数据信息表
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1459'
 ht-degree: 0%

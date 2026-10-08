@@ -4,18 +4,23 @@ description: 了解电子邮件程序的收件人时区计划。 在每个收件
 title: 了解收件人时区
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k
+TQID: 'https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: '399'
 ht-degree: 3%
-
 ---
-
 # 了解收件人时区 {#understanding-recipient-time-zone}
 
 可以将电子邮件和参与程序配置为根据收件人的时区发送，从而无需创建多个程序 — 只发送一次，Marketo会自动保留电子邮件，直到到达正确的本地时间。
@@ -35,7 +40,7 @@ ht-degree: 3%
 
 ## 参与项目 {#engagement-programs}
 
-当您[计划一个参与项目程序流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)并且[!UICONTROL Recipient Time Zone]处于活动状态时，程序转换将在UTC时间+14:00的午夜开始运行。 我们要求您安排未来至少25小时（24小时+开始营销活动的时间）的首次点播，因为全球各地每个时区都有资格参加点播。 此时以UTC +14:00开始处理，这可保证在计划的日期和时间，为每个符合此转换条件的人发送电子邮件。
+当您[计划一个参与项目程序流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)并且[!UICONTROL Recipient Time Zone]处于活动状态时，程序广播在UTC午夜+14:00开始运行。 我们要求您安排未来至少25小时（24小时+开始营销活动的时间）的首次点播，因为全球各地每个时区都有资格参加点播。 此时以UTC +14:00开始处理，这可保证在计划的日期和时间，为符合此转换条件的每个人发送电子邮件。
 
 ## 计算时区 {#calculating-time-zone}
 
@@ -46,7 +51,7 @@ Marketo根据人员的城市、州/省、国家/地区或邮政编码计算时�
 * 对于时区数等于或少于三个时区的国家/地区，我们选择中间时区。
 * 对于具有两个时区的状态，我们选择两个时区中较早的一个。
 
-如果我们仍然无法从这些字段的任意组合确定某人的时区，我们&#x200B;**不会**&#x200B;分配时区，系统将根据您的Marketo订阅时区发送电子邮件。 因此，如果您的项目安排在9:00am PDT，则未分配时区的人员将收到一封电子邮件，地址为9:00am PDT。
+如果我们仍然无法从这些字段的任意组合确定某人的时区，我们&#x200B;**不会**&#x200B;分配时区，系统将根据您的Marketo订阅时区发送电子邮件。 因此，如果您的项目安排在太平洋夏季时间上午9:00，则未分配时区的用户将在太平洋夏季时间上午9:00收到电子邮件。
 
 >[!NOTE]
 >

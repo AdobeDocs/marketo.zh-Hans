@@ -4,21 +4,26 @@ description: 在一个实例中为多个品牌添加额外的品牌域，以便�
 title: 添加附加品牌域名
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
+TQID: 'https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 697
+source-wordcount: '697'
 ht-degree: 19%
-
 ---
-
 # 添加附加品牌域名 {#add-an-additional-branding-domain}
 
 当您从单个Marketo实例中运行多个品牌并希望每个品牌都有自己的品牌跟踪链接时，可以添加额外的品牌推广域。

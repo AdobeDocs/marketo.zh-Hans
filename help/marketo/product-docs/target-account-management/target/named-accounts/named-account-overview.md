@@ -4,16 +4,21 @@ description: 了解指定帐户以及它们如何托管目标公司的人员。 
 title: '[!UICONTROL Named Account] 概述'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/HXLDqMzv9yi6NfjC2nJq7Fh2Hy95UAX3UMx2S5rg7vA
+TQID: 'https://experienceleague.adobe.com/HXLDqMzv9yi6NfjC2nJq7Fh2Hy95UAX3UMx2S5rg7vA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 244
+source-wordcount: '244'
 ht-degree: 6%
-
 ---
-
 # [!UICONTROL Named Account] 概述 {#named-account-overview}
 
 [!UICONTROL Named Accounts]包含您正在定位的公司的人员。 仪表板为所有指定帐户提供每个属性的当前数据。

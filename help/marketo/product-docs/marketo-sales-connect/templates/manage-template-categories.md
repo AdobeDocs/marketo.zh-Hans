@@ -3,7 +3,13 @@ description: 了解如何创建、编辑、合并重复项和删除Marketo Sales
 title: 管理模板类别
 feature: Marketo Sales Connect
 exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
-source-git-commit: 2b48226095a13f2e8323db4b13217f733cc7ea7f
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 11%

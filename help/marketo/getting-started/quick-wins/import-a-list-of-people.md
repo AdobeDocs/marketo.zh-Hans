@@ -4,25 +4,32 @@ description: 导入人员列表 - Marketo 文档 - 产品文档
 title: 导入人员列表
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc
+TQID: 'https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 553
+source-wordcount: '553'
 ht-degree: 95%
-
 ---
-
 # 导入人员列表 {#import-a-list-of-people}
 
 ## 任务：将展会与会人员的电子表格列表导入您的数据库 {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
@@ -145,7 +152,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->您可以通过跟踪项目成员来分析项目的成功情况。 进一步了解&#x200B;[**项目**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}。
+>您可以通过跟踪项目成员资格来分析项目的成功情况。 进一步了解&#x200B;[**项目**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}。
 
 ## 任务完成 {#mission-complete}
 

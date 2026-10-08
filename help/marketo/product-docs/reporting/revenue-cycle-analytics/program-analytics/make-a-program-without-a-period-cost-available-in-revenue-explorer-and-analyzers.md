@@ -4,13 +4,19 @@ description: 了解如何在Marketo Engage的Revenue Explorer和Analyzer中使�
 title: 在收入探索器和分析器中启用无周期成本的项目
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 11%
-
 ---
-
 # 在收入探索器和分析器中启用无周期成本的项目 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 计划期间成本允许您为计划定义“多少钱”和“何时”。 这显示在收入周期资源管理器和[分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。

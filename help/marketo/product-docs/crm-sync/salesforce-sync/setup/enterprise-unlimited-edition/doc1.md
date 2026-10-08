@@ -2,15 +2,22 @@
 description: 了解如何将Marketo字段添加到Salesforce Enterprise或Unlimited版本。 创建商机和联系对象的分数、客户获取计划和客户获取日期。
 title: 第1步（共3步） — 将Marketo字段添加到Salesforce (Enterprise/Unlimited)
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 1%
-
 ---
-
 # 第 1 步（共 3 步）：将 Marketo 字段添加到 Salesforce（企业版/无限制版） {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -84,7 +91,7 @@ Marketo使用一组字段来捕获某些类型的营销相关信息。 如果您
    清除同步用户配置文件的只读复选框：
 
    如果您的用户具有系统管理员的配置文件作为同步用户，请清除系统管理员配置文件的“只读”复选框（如下所示）
-如果您为同步用户创建了自定义配置文件，请清除该自定义配置文件的“只读”复选框
+   如果您为同步用户创建了自定义配置文件，请清除该自定义配置文件的“只读”复选框
 
    屏幕快照
 

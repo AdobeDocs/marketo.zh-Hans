@@ -4,21 +4,25 @@ description: 了解在创建推送和应用程序内消息之前应设置的内�
 title: 在创建推送通知和应用程序内消息之前
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog
+TQID: 'https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 415
+source-wordcount: '415'
 ht-degree: 4%
-
 ---
-
 # 在创建推送通知和应用程序内消息之前 {#before-you-create-push-notifications-and-in-app-messages}
 
 创建推送通知和应用程序内消息并不困难，但在开始之前，您需要准备好所有内容。 Marketo管理员和移动设备应用程序开发人员应执行以下步骤来准备必要的集成。

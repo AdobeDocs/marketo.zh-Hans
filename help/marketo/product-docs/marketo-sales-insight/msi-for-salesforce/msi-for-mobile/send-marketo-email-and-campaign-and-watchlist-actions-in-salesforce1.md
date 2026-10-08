@@ -4,20 +4,23 @@ description: 了解如何在Salesforce Mobile中发送Marketo电子邮件并使�
 title: 在 Salesforce1 中发送 Marketo 电子邮件和营销活动并管理关注列表操作
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/bJcrAu9z069YhqSKLMU2pAwwZmZ1t7f6Li1e2B2Bl-4
+TQID: 'https://experienceleague.adobe.com/bJcrAu9z069YhqSKLMU2pAwwZmZ1t7f6Li1e2B2Bl-4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: '159'
 ht-degree: 6%
-
 ---
-
 # 在[!DNL Salesforce1]中发送Marketo电子邮件和营销活动以及监视列表操作 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
 1. 转到[!DNL Salesforce1]中的Lead Detail区域，然后单击&#x200B;**[!UICONTROL Related]**&#x200B;选项卡。

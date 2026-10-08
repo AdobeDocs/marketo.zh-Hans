@@ -1,22 +1,28 @@
 ---
-description: 增加或减少电子邮件（10到100）中 [!DNL Velocity] 脚本的父自定义对象检索限制。
-title: 更改 [!DNL Velocity Scripting]中的自定义对象检索限制
+description: 增加或减少电子邮件（10到100）中[!DNL Velocity]脚本的父自定义对象检索限制。
+title: 更改[!DNL Velocity Scripting]中的自定义对象检索限制
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY
+TQID: 'https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '237'
 ht-degree: 1%
-
 ---
-
 # 更改[!DNL Velocity Scripting]中的自定义对象检索限制 {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
 如果您使用[!DNL Velocity Script]在电子邮件中显示自定义对象数据，则此功能可能适用于您的用例。 默认情况下，您可以从Velocity脚本访问10个父自定义对象。 如果您需要访问更多内容，请参阅以下步骤。

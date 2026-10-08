@@ -4,18 +4,21 @@ description: 了解如何在Marketo Sales Insight中配置取消订阅页脚。 
 title: 在 Marketo Sales Insight 中配置取消订阅页脚
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/9HUCspCSN2LZQzpNJhCI3yiMVzwOYMxyp06UDJQyT2Y
+TQID: 'https://experienceleague.adobe.com/9HUCspCSN2LZQzpNJhCI3yiMVzwOYMxyp06UDJQyT2Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 192
+source-wordcount: '192'
 ht-degree: 7%
-
 ---
-
 # 在[!DNL Marketo Sales Insight]中配置取消订阅页脚 {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 销售电子邮件会自动将取消订阅页脚放在底部。 但是，您可以根据自己的需要调整设置。

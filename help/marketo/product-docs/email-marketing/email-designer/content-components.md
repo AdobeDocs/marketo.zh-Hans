@@ -6,14 +6,26 @@ description: 了解用于个性化电子邮件布局的内容组件。 在Email 
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-hidefromtoc: true
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1181'
 ht-degree: 11%
-
 ---
-
 # 内容组件 {#content-components}
 
 在创建电子邮件内容时，**[!UICONTROL Content components]**&#x200B;允许您使用原始组件进一步个性化电子邮件，这些组件一旦放入电子邮件中即可编辑。
@@ -36,7 +48,7 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >您可以将多个组件添加到单个结构组件中，也可以将它们添加到结构组件的每个列中。
+   >您可以将多个组件添加到单个结构组件中，也可以将它们添加到结构组件的每一列中。
 
 1. 使用右侧的&#x200B;**[!UICONTROL Settings]**&#x200B;和&#x200B;**[!UICONTROL Style]**&#x200B;选项卡调整每个组件的属性和样式。 例如，可以更改每个组件的文本样式、填充或边距。`[Learn more about alignment and padding](alignment-and-padding.md)`
 
@@ -121,7 +133,7 @@ ht-degree: 11%
 
 ## HTML {#HTML}
 
-使用&#x200B;**[!UICONTROL HTML]**&#x200B;组件复制并粘贴现有HTML的各个部分。 这使您能够创建免费的模块化 HTML 组件以重用某些外部内容。
+使用&#x200B;**[!UICONTROL HTML]**&#x200B;组件复制并粘贴现有HTML的各个部分。 这使您能够创建灵活的模块化 HTML 组件，以重用某些外部内容。
 
 1. 从&#x200B;**[!UICONTROL Content Components]**，将&#x200B;**[!UICONTROL HTML]**&#x200B;组件拖放到&#x200B;**[!UICONTROL Structure component]**&#x200B;中。
 

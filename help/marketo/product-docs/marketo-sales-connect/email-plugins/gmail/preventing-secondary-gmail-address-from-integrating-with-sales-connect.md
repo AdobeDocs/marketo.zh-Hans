@@ -4,16 +4,18 @@ description: 了解如何防止辅助Gmail地址与Sales Connect集成。 仅将
 title: 防止辅助 Gmail 地址与 Sales Connect 集成
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/rOA-dhKUDpXxEJ9dAna3wk05XaiB-UJKRrSaDJofnds
+TQID: 'https://experienceleague.adobe.com/rOA-dhKUDpXxEJ9dAna3wk05XaiB-UJKRrSaDJofnds'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 323
+source-wordcount: '323'
 ht-degree: 2%
-
 ---
-
 # 阻止次要Gmail地址与[!DNL Sales Connect]集成 {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
 ## Gmail集成损坏（为什么我的个人Gmail会发送电子邮件） {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}

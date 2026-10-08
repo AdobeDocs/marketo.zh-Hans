@@ -4,16 +4,18 @@ description: 了解如何为移动应用程序配置iOS推送访问权限。 在
 title: 配置移动应用程序 iOS 推送访问
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0
+TQID: 'https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 140
+source-wordcount: '140'
 ht-degree: 10%
-
 ---
-
 # 配置移动应用程序 iOS 推送访问 {#configure-mobile-app-ios-push-access}
 
 1. 单击 **[!UICONTROL Admin]**。

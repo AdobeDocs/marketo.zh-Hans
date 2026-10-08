@@ -4,16 +4,25 @@ title: Dynamic Chat 发行说明
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+TQID: 'https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 933
+source-wordcount: '933'
 ht-degree: 66%
-
 ---
-
 # Dynamic Chat 发行说明 {#dynamic-chat-release}
 
 Adobe Dynamic Chat 发布采用持续交付模式，使功能部署更具可扩展性。 有时一个月内会发布多个版本，请定期查看以获取最新信息。
@@ -24,17 +33,17 @@ Marketo Engage 的标准发行说明页面[可在此查看](/help/marketo/releas
 
 ### 路由逻辑改造 {#routing-logic-revamp}
 
-我们改进了 Dynamic Chat 中的实时聊天路由逻辑，以确保在所有路由类型（帐户、自定义、团队和轮询）中提供更智能且可预测的互动行为。 新的逻辑简化了路由流程，并改进了在代理不可用时的回退处理。
+我们改进了 Dynamic Chat 中的实时聊天路由逻辑，以确保在所有路由类型（帐户、自定义、团队和轮询）中提供更智能且可预测的参与行为。 新的逻辑简化了路由流程，并改进了在代理不可用时的回退处理。
 
 #### 路由行为的主要改进
 
 * **每个会话最多尝试两次互动**
 
-   * 系统尝试连接最多两个代理（最多），但必须严格遵循主路由规则。
+  * 系统尝试连接最多两个代理（最多），但必须严格遵循主路由规则。
 
-   * 如果座席可用但未响应（例如，拒绝或错过聊天），则系统会尝试连接到同一池中的其他座席。
+  * 如果座席可用但未响应（例如，拒绝或错过聊天），则系统会尝试连接到同一池中的其他座席。
 
-   * 回退逻辑（如轮询）仅在初始规则中找不到合格代理时触发，而不是在互动失败后重试。
+  * 回退逻辑（如轮询）仅在初始规则中找不到合格代理时触发，而不是在互动失败后重试。
 
 * **路由规则特定行为**
 
@@ -51,7 +60,7 @@ _&#x200B;**帐户路由**&#x200B;_
 相反，它或者会：
 
 * 显示映射座席的会议日历（如果启用），或者：
-* 退回到默认消息（最坏情况）。
+* 回退为默认消息（最坏情况下）。
 
 只有当帐户路由不符合条件（没有匹配的域或代理）时，才会考虑卡级别的路由规则（例如，团队、自定义）。
 
@@ -75,7 +84,7 @@ _&#x200B;**轮询路由**&#x200B;_
 
 * 尝试联系轮询池中首位可用的代理。
 
-* 如果首位代理未响应，系统将重试并联系下一位最合适的可用代理。
+* 如果首位代理未响应，系统将重试并联系下一位最合适的符合条件的代理。
 
 如果将轮询作为回退方式使用，则仅在主要规则未匹配到任何代理时才会启用。
 
@@ -95,9 +104,9 @@ _&#x200B;**访客体验流**&#x200B;_
 
 * 如果没有成功参与，则应用回退逻辑：
 
-   * 日历回退（如果启用），
- — 或 — 
-   * 显示默认消息。
+  * 日历回退（如果启用），
+     — 或 — 
+  * 显示默认消息。
 
 轮询回退仅在主要路由规则未找到任何符合条件的代理时才会考虑，而不是在单个代理未响应时触发。
 

@@ -4,16 +4,18 @@ description: 了解如何定义URL模式，以便预测内容自动发现访客�
 title: 创建内容模式
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ
+TQID: 'https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 395
+source-wordcount: '395'
 ht-degree: 2%
-
 ---
-
 # 创建内容模式 {#create-content-patterns}
 
 当您设置内容模式时，当Web访客单击与内容模式相关的HTML网页时，将自动发现内容。 它用于将HTML页面（博客帖子、新闻稿、新闻文章）作为内容片段添加到所有内容页面。 当自动发现基于内容模式时，它会在Web访客查看或单击指向HTML页面的链接时发现并跟踪与定义的URL模式相关的Web页面。 此内容片段（URL、页面名称和元数据，包括图像URL和描述）将添加到所有内容页面中，以准备预测内容。 要自动发现其他内容（如PDF和嵌入的视频），您需要[启用内容发现](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)。

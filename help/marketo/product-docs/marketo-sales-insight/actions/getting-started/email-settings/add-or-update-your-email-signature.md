@@ -3,16 +3,18 @@ description: 了解如何在Sales Insight操作中添加或更新电子邮件签
 title: 添加或更新您的电子邮件签名
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/D3WmFI421ngdFPd9t4evDUanachKNs-xHJlnYMkOWuU
+TQID: 'https://experienceleague.adobe.com/D3WmFI421ngdFPd9t4evDUanachKNs-xHJlnYMkOWuU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 112
+source-wordcount: '112'
 ht-degree: 10%
-
 ---
-
 # 添加或更新您的电子邮件签名 {#add-or-update-your-email-signature}
 
 我们希望通过Marketo Sales的电子邮件从您自己的电子邮件客户端发送时获得流畅的体验。 一个很好的方法是添加您的电子邮件签名。

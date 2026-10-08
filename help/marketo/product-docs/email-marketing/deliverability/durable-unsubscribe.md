@@ -4,18 +4,23 @@ description: 了解持久取消订阅以及主电子邮件状态如何在人员�
 title: 永久取消订阅
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/Zr7XyDDSHtWW4lp4ATAM6xlPrNnTJlqoOOjjln-YuqI
+TQID: 'https://experienceleague.adobe.com/Zr7XyDDSHtWW4lp4ATAM6xlPrNnTJlqoOOjjln-YuqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 301
+source-wordcount: '301'
 ht-degree: 1%
-
 ---
-
 # 永久取消订阅 {#durable-unsubscribe}
 
 Marketo改进了取消订阅功能的行为，使其具有“持久性”。 已添加主电子邮件状态，该状态与人员详细信息记录中显示的取消订阅标记不同。

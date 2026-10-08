@@ -4,20 +4,26 @@ description: 了解如何为Dynamics 2015内部部署设置Marketo同步用户�
 title: 安装适用于Microsoft Dynamics 2015的Marketo本地步骤2/3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/hCthtzbLl9lqBmn2Ges10eu7UM-fzDt-0UyT8Je-bbY
+TQID: 'https://experienceleague.adobe.com/hCthtzbLl9lqBmn2Ges10eu7UM-fzDt-0UyT8Je-bbY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 358
+source-wordcount: '358'
 ht-degree: 1%
-
 ---
-
 # 步骤3之2为[!DNL Dynamics]设置Marketo（2015年内部部署）{#step-of-set-up-for-marketo-on-premises-2015}
 
 前面的步骤已完成。

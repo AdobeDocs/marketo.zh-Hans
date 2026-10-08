@@ -3,20 +3,24 @@ description: 继承实例文档您的设置 — Marketo文档 — 产品文档
 title: 继承的实例文档您的设置
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+TQID: 'https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 299
+source-wordcount: '301'
 ht-degree: 3%
-
 ---
-
 # 继承实例：记录您的设置 {#inherited-instance-document-your-setup}
 
 现在您已了解在继承已建立的实例时要审核的关键产品领域，下一步是创建/更新有关实例配置和技术栈栈的文档。 无论是通过电子表格还是项目管理应用程序创建实例，您的文档都将是跟踪进展和记录详细信息以及保持实例结构化和可持续性的有用资源。

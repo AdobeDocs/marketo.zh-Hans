@@ -4,18 +4,21 @@ description: 了解如何安装适用于Google Chrome的Marketo Insights。 添�
 title: 为 Google Chrome 安装 Marketo Insights
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/bfFWPwz73ef8582KYOQ-JNQPz02H3aC7vPpp0EAIJlY
+TQID: 'https://experienceleague.adobe.com/bfFWPwz73ef8582KYOQ-JNQPz02H3aC7vPpp0EAIJlY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 210
+source-wordcount: '210'
 ht-degree: 3%
-
 ---
-
 # 为[!DNL Google Chrome]安装Marketo Insights {#install-marketo-insights-for-google-chrome}
 
 请按照以下步骤开始使用功能强大的Chrome加载项。 您无需成为Marketo管理员即可安装该扩展。

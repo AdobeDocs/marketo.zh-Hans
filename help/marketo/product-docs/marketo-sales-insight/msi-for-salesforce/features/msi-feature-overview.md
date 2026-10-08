@@ -4,20 +4,23 @@ description: 了解Salesforce中的Marketo Sales Insight功能。 在面板中�
 title: MSI 功能概述
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+TQID: 'https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: '946'
 ht-degree: 2%
-
 ---
-
 # MSI 功能概述 {#msi-feature-overview}
 
 MSI在[!DNL Salesforce] Lightning and Classic中提供了以下功能。
@@ -32,17 +35,17 @@ MSI Visualforce面板包括以下功能：
 
 * 选项卡
 
-   * [分析功能板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * 关键时刻
-   * Web活动
-   * 电子邮件
-   * 得分
+  * [分析功能板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+  * 关键时刻
+  * Web活动
+  * 电子邮件
+  * 得分
 
 * 操作
 
-   * 添加到Marketo Campaign
-   * 发送Marketo电子邮件
-   * 在监视列表中添加/删除
+  * 添加到Marketo Campaign
+  * 发送Marketo电子邮件
+  * 在监视列表中添加/删除
 
 * 星与火
 
@@ -151,37 +154,37 @@ Visualforce页面：
 
 * [!DNL Best Bets]
 
-   * 包括创建和编辑视图的功能。 能够隐藏最佳匹配，具体取决于Marketo配置页面中“默认隐藏”选项的配置
-   * 列 — 名称、帐户、上一个有趣的时刻、状态标题、参与度（星星和火焰）、隐藏
+  * 包括创建和编辑视图的功能。 能够隐藏最佳匹配，具体取决于Marketo配置页面中“默认隐藏”选项的配置
+  * 列 — 名称、帐户、上一个有趣的时刻、状态标题、参与度（星星和火焰）、隐藏
 
 * 我的观察列表
 
-   * 包括创建和编辑视图的功能
-   * 列 — 名称、帐户、上一个有趣的时刻、状态标题、参与度（星星和火焰）、删除
+  * 包括创建和编辑视图的功能
+  * 列 — 名称、帐户、上一个有趣的时刻、状态标题、参与度（星星和火焰）、删除
 
 * Web活动
 
-   * 包括创建和编辑视图的功能、时间范围筛选功能
-   * 列 — 页面查看、名称、帐户、上次访问
+  * 包括创建和编辑视图的功能、时间范围筛选功能
+  * 列 — 页面查看、名称、帐户、上次访问
 
 * 匿名Web活动
 
-   * 包括创建和编辑视图的功能、时间范围筛选功能
-   * 列 — 页面查看、公司、上次访问、研究（打开公司的LinkedIn页面）
+  * 包括创建和编辑视图的功能、时间范围筛选功能
+  * 列 — 页面查看、公司、上次访问、研究（打开公司的LinkedIn页面）
 
 * 我的电子邮件
 
-   * 包括创建和编辑视图的功能
-   * 列 — 名称、帐户、主题、日期、打开、单击
+  * 包括创建和编辑视图的功能
+  * 列 — 名称、帐户、主题、日期、打开、单击
 
 * 商机信息源 — 包括订阅有趣时刻的功能，必须启用配置页面上的RSS信息源才能使用此功能
 
-   * 有这个有趣时刻的主管/联系人
-   * 有趣的时刻类型（Web、电子邮件或里程碑）和描述
-   * 帐户名称
-   * 这个有趣时刻发生的时间
-   * 订阅选项以接收此类事件的电子邮件通知
-   * “高优先级”图标显示此人员为最佳匹配
+  * 有这个有趣时刻的主管/联系人
+  * 有趣的时刻类型（Web、电子邮件或里程碑）和描述
+  * 帐户名称
+  * 这个有趣时刻发生的时间
+  * 订阅选项以接收此类事件的电子邮件通知
+  * “高优先级”图标显示此人员为最佳匹配
 
 ## [!DNL Marketo Sales Insight]配置选项卡 {#marketo-sales-insight-configuration-tab}
 
@@ -191,7 +194,7 @@ Visualforce页面：
 
 >[!MORELIKETHIS]
 >
-> [!DNL Salesforce][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)中的[!DNL Marketo Sales Insight] 配置选项卡
+> [!DNL Salesforce]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)中的[!DNL Marketo Sales Insight] 配置选项卡
 
 ## [!DNL Sales Insight]性能报告 {#sales-insight-performance-reports}
 

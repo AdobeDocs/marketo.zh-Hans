@@ -4,16 +4,18 @@ description: 了解如何创建包含电子邮件、呼叫、InMail和自定义�
 title: 创建营销活动
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII
+TQID: 'https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 3%
-
 ---
-
 # 创建营销活动 {#create-a-campaign}
 
 营销策划是一系列多渠道步骤，包括：电子邮件、电话通话、InMail和自定义任务。 它们允许您简化与潜在客户和现有客户的通信。

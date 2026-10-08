@@ -4,16 +4,18 @@ description: 在预测内容中设置类别，以在Web或电子邮件上将预�
 title: 设置类别
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo
+TQID: 'https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 161
-ht-degree: 0%
-
+source-wordcount: '161'
+ht-degree: 5%
 ---
-
 # 设置类别 {#set-up-categories}
 
 在预测内容中创建类别，以将您的预测结果分组到Web或电子邮件中。 例如，您只能使用博客，或使用特定语言的内容。 它还允许您搜索和筛选页面查看。  类别显示在[!UICONTROL All Content]和[!UICONTROL Predictive Content]页面上以便于参考。
@@ -32,11 +34,11 @@ ht-degree: 0%
 
 以下是如何创建类别标记。
 
-1. 转到&#x200B;**[!UICONTROL Content Settings]**。
+1. 前往 **[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Categories]**。
+1. 单击 **[!UICONTROL Categories]**。
 
    ![](assets/content-discovery-categories-hand.png)
 

@@ -4,16 +4,21 @@ description: 了解如何在您的DNS中设置SPF和DKIM以提高电子邮件可
 title: 为提高电子邮件送达率设置 SPF 和 DKIM
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
+TQID: 'https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 432
+source-wordcount: '433'
 ht-degree: 71%
-
 ---
-
 # 为提高电子邮件送达率设置 SPF 和 DKIM {#set-up-spf-and-dkim-for-your-email-deliverability}
 
 提高电子邮件送达率的一种快捷方法，是在 DNS 设置中加入 **SPF**（Sender Policy Framework，发件人策略框架）和 **DKIM**（Domain Keys Identified Mail，域名密钥识别电子邮件）。 除了DNS条目之外，您还可以告诉收件人，您已授权Marketo代表您发送电子邮件。 如果未进行此项配置，由于电子邮件显示来自您的域名，但实际是从 Marketo 域名的 IP 地址发送，电子邮件更容易被标记为垃圾电子邮件。

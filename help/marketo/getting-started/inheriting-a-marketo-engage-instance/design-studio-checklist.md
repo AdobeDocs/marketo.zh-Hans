@@ -3,13 +3,17 @@ description: 继承实例Design Studio核对清单 — Marketo文档 — 产品�
 title: 继承实例Design Studio核对清单
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '656'
 ht-degree: 3%
-
 ---
-
 # 继承实例：设计工作室检查表 {#inherited-instance-design-studio-checklist}
 
 结构化模板和创建全局表单、代码片段以及图像和文件将有助于最大限度地减少数据错误并简化程序构建的工作流。 请记住[下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)并跟踪您的进度。

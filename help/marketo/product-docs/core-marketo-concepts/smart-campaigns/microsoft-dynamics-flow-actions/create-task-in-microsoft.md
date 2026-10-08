@@ -4,18 +4,23 @@ description: 了解如何在Microsoft Dynamics中通过流程步骤创建任务�
 title: 在 Microsoft 中创建任务
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/qQL3O4Vi8ncdlXtk2gvraWzquz3oZx5B-1YWTkwdVac
+TQID: 'https://experienceleague.adobe.com/qQL3O4Vi8ncdlXtk2gvraWzquz3oZx5B-1YWTkwdVac'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 180
+source-wordcount: '180'
 ht-degree: 4%
-
 ---
-
 # 在 Microsoft 中创建任务 {#create-task-in-microsoft}
 
 作为营销人员，您掌握的信息可帮助销售人员完成交易。 您可以创建任务，以告知他们应该做什么以及何时应该做什么。

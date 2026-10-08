@@ -4,16 +4,18 @@ description: 了解如何从Gmail插件附加一段内容。 将可跟踪的内�
 title: 附加内容
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4rUQgSc4Dpn-hiHADtGwHD25qFRg4ztnNFOVXy9yuC4
+TQID: 'https://experienceleague.adobe.com/4rUQgSc4Dpn-hiHADtGwHD25qFRg4ztnNFOVXy9yuC4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 80
+source-wordcount: '80'
 ht-degree: 12%
-
 ---
-
 # 附加内容 {#attaching-a-piece-of-content}
 
 单击&#x200B;**[!UICONTROL Content]**&#x200B;按钮并上传文件以添加可跟踪内容。 之前跟踪的任何内容都将显示出来，以供您在弹出窗口中选择，而无需再次上传。

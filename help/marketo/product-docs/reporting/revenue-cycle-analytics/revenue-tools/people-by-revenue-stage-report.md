@@ -4,13 +4,19 @@ description: 了解Marketo Engage中按收入阶段划分的人员报表，包�
 title: 按收入阶段分类的人员报告
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 12%
-
 ---
-
 # 按收入阶段分类的人员报告 {#people-by-revenue-stage-report}
 
 您可以创建一个报表，以显示您的人员处于收入周期模型的哪个阶段。 只要在报表的给定日期范围内存在人员余额，报表就包含指定模型中的任何阶段。

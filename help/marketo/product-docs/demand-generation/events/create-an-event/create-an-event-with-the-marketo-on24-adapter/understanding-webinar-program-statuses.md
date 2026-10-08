@@ -4,16 +4,18 @@ description: 了解ON24与Marketo集成中的网络研讨会计划状态。 了�
 title: 了解网络研讨会项目状态
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-TQID: https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4
+TQID: 'https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 426
+source-wordcount: '426'
 ht-degree: 1%
-
 ---
-
 # 了解网络研讨会项目状态 {#understanding-webinar-program-statuses}
 
 项目群状态表示人员作为事件成员所处理的不同事件状态。 它们与渠道类型相关联。 Marketo具有名为&#x200B;**网络研讨会**&#x200B;的内置渠道类型。 状态既可用于批处理，也可用于触发营销活动。

@@ -4,19 +4,26 @@ title: 电子邮件协作
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+TQID: 'https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 2%
-
 ---
-
 # 电子邮件协作 {#email-collaboration}
 
 电子邮件协作和注释允许营销团队在Adobe Marketo Engage Email Designer中无缝地审核、讨论和最终确定电子邮件资产。 您可以实时评论、建议编辑和解决反馈，而不是通过外部工具（如聊天、电子邮件线程、电子表格等）共享草稿。 这可以简化工作流程，减少错误，并确保在发送电子邮件营销活动之前与利益相关者保持一致。

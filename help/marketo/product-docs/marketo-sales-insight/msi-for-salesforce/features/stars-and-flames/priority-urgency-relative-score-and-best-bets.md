@@ -4,18 +4,21 @@ description: 了解Marketo Sales Insight中的优先级、紧迫性、相对分�
 title: 优先级、紧急性、相对评分和最佳推荐
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/-hp0FOXQxZCdb8iZpyXvKHNaAfpz1bICHsqfCatdrAA
+TQID: 'https://experienceleague.adobe.com/-hp0FOXQxZCdb8iZpyXvKHNaAfpz1bICHsqfCatdrAA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 455
+source-wordcount: '455'
 ht-degree: 1%
-
 ---
-
 # 优先级、紧迫性、相对分数和[!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
 [!DNL Marketo Sales Insight]根据优先顺序选择您的最佳潜在客户和联系人。 潜在客户或联系人的优先级由两部分组成：紧迫性和相对分数。

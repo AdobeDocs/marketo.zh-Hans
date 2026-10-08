@@ -3,13 +3,17 @@ description: 继承实例营销活动核对清单 — Marketo文档 — 产品�
 title: 继承实例营销活动核对清单
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '906'
 ht-degree: 2%
-
 ---
-
 # 继承实例：营销活动检查表 {#inherited-instance-marketing-activities-checklist}
 
 正确组织您的“营销活动”部分，以帮助其他人在Marketo Engage实例中查找和管理各种项目，并确保处理好人员以便将其从营销人员转到销售人员。 请记住[下载核对清单](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)并跟踪您的进度。

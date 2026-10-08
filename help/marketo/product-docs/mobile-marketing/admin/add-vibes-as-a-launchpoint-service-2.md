@@ -2,15 +2,19 @@
 description: 了解如何将Vibes添加为LaunchPoint服务。 在管理员中输入凭据以在Marketo Engage中启用短信并使用短信活动。
 title: 将 Vibes 添加为 LaunchPoint 服务
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Mobile Marketing
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 11%
-
 ---
-
 # 将 Vibes 添加为 LaunchPoint 服务 {#add-vibes-as-a-launchpoint-service}
 
 您可以向选择加入访客短信营销活动的用户发送短信消息，从而利用短信活动在Marketo Engage实例中导航触发和过滤营销活动。 首先，您需要将Vibes添加为LaunchPoint服务。

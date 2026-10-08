@@ -1,22 +1,28 @@
 ---
 unique-page-id: 12976776
 description: 了解如何在Marketo智能营销活动中使用LinkedIn潜在客户群表单过滤器和触发器。 在潜在客户提交LinkedIn表单时自动执行操作。
-title: 在智能活动中使用 LinkedIn 潜在客户收集表单过滤器和触发器
+title: 在智能营销活动中使用领英销售线索收集表单过滤器和触发器
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-TQID: https://experienceleague.adobe.com/dJLqOLSz1zp-6ZErolBmv-xl0SwsJECvW-942Ghf7oI
+TQID: 'https://experienceleague.adobe.com/dJLqOLSz1zp-6ZErolBmv-xl0SwsJECvW-942Ghf7oI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Forms
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
+    internal-label: Social
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: '137'
 ht-degree: 17%
-
 ---
-
 # 在智能活动中使用 LinkedIn 潜在客户收集表单过滤器和触发器 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
 启用LinkedIn Lead Gen Forms后，您可以在智能营销活动中将它们用作过滤器和触发器。

@@ -4,18 +4,20 @@ description: 了解如何使用描述、sRGB图像和类别设置富媒体的预
 title: 编辑富媒体的预测性内容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc
+TQID: 'https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 220
+source-wordcount: '220'
 ht-degree: 6%
-
 ---
-
 # 编辑富媒体的预测性内容 {#edit-predictive-content-for-rich-media}
 
 下面是如何为富媒体设置预测内容。

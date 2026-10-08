@@ -1,19 +1,24 @@
 ---
 unique-page-id: 5472314
 description: 了解如何在Marketo中的自由格式登陆页面中添加指向图像的链接。 使图像可单击并指向URL。
-title: 在自由格式登录页面中为图像添加链接
+title: 在自由格式登陆页面中为图像添加链接
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
+TQID: 'https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 19%
-
 ---
-
 # 在自由格式登录页面中为图像添加链接 {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
 要使登陆页面上的图像成为可单击的链接，请执行以下步骤。

@@ -4,16 +4,21 @@ description: 了解如何向用户颁发TAM许可证，以便他们能够使用T
 title: 发放许可证
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/TNMC41Pp62AjtdY-aQBjZvaooPGyEZpgBgMn-v5IC-U
+TQID: 'https://experienceleague.adobe.com/TNMC41Pp62AjtdY-aQBjZvaooPGyEZpgBgMn-v5IC-U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: '98'
 ht-degree: 8%
-
 ---
-
 # 发放许可证 {#issue-a-license}
 
 您需要为用户设置许可证才能使用TAM。 以下是具体操作方法。

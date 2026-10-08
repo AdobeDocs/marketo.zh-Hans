@@ -3,18 +3,20 @@ description: 了解如何启用内容锁定，以限制非管理员编辑模板�
 title: 内容锁定
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/dueq3UYTwELtkQRP0BN7b81GpVEG8DWPi4elIfqWNJo
+TQID: 'https://experienceleague.adobe.com/dueq3UYTwELtkQRP0BN7b81GpVEG8DWPi4elIfqWNJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 104
+source-wordcount: '104'
 ht-degree: 6%
-
 ---
-
 # 内容锁定 {#content-lockdown}
 
 通过启用内容锁定，限制非管理员用户编辑模板和/或营销活动。 用户将无法共享、克隆、编辑或删除内容。 他们也无法选择存档模板。

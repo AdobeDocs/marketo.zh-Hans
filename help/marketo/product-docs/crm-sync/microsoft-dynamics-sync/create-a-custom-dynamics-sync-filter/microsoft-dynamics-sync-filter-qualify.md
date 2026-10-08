@@ -4,16 +4,21 @@ description: 了解将潜在客户转化为联系人时的Dynamics同步过滤�
 title: Microsoft Dynamics同步筛选器 — 限定
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/3jC9Y9fpBNjUzjE1Dy7JBuhNlYQpnc7kjF2LxV-hrp4
+TQID: 'https://experienceleague.adobe.com/3jC9Y9fpBNjUzjE1Dy7JBuhNlYQpnc7kjF2LxV-hrp4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: '116'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft Dynamics]同步筛选器：符合条件 {#microsoft-dynamics-sync-filter-qualify}
 
 当您想要在[!DNL Microsoft Dynamics]中将潜在客户转换为联系人时，请使用此默认的“限定”流程。 然后，将其同步到Marketo。

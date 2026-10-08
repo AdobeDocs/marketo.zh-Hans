@@ -1,19 +1,24 @@
 ---
 unique-page-id: 12615802
 description: 了解如何删除TAM中的指定帐户。 选择帐户并使用指定帐户操作进行删除。
-title: 删除指定帐户
+title: 删除命名帐户
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/37EJbOPiCmRipZXheiEaLccKSzIdTjt5G0G8azhsxZM
+TQID: 'https://experienceleague.adobe.com/37EJbOPiCmRipZXheiEaLccKSzIdTjt5G0G8azhsxZM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 110
-ht-degree: 0%
-
+source-wordcount: '110'
+ht-degree: 10%
 ---
-
 # 删除[!UICONTROL Named Account] {#delete-a-named-account}
 
 按照以下快速步骤删除指定帐户。
@@ -26,11 +31,11 @@ ht-degree: 0%
    >
    >按住Ctrl并单击(Windows)或按住Cmd并单击(Mac)可选择多个命名帐户。
 
-1. 单击&#x200B;**[!UICONTROL Named Account Actions]**&#x200B;下拉菜单并选择&#x200B;**[!UICONTROL Delete Named Account]**。
+1. 点击 **[!UICONTROL Named Account Actions]** 下拉菜单，并选择 **[!UICONTROL Delete Named Account]**。
 
    ![](assets/eight-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Delete]**。
+1. 单击 **[!UICONTROL Delete]**。
 
    ![](assets/nine-1.png)
 
