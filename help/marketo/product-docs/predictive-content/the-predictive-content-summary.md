@@ -4,23 +4,28 @@ description: 了解“预测内容摘要”功能板及其表格、图形和关�
 title: 预测性内容摘要
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/1kUlHQFJIuWiLn8wZs77aBso0pfX507bh2tjsmTJwh0
+TQID: 'https://experienceleague.adobe.com/1kUlHQFJIuWiLn8wZs77aBso0pfX507bh2tjsmTJwh0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 194
+source-wordcount: '194'
 ht-degree: 4%
-
 ---
-
 # 预测性内容摘要 {#the-predictive-content-summary}
 
 “预测内容概要”以表格、图形和当前数字的形式显示您需要的有关预测内容的信息。

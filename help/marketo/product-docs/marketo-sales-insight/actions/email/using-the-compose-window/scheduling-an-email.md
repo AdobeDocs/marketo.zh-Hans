@@ -1,13 +1,14 @@
 ---
 description: 了解如何计划销售电子邮件以便稍后发送。 在Sales Insight Actions或收件箱中撰写时设置日期和时间。
 title: 安排电子邮件发送
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 4%
-
 ---
-
 # 安排电子邮件发送 {#scheduling-an-email}
 
 按照这些简单的步骤计划电子邮件。

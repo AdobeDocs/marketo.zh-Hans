@@ -3,22 +3,27 @@ description: 了解如何从Sales Connect将致电原因和致电结果记录到
 title: 将通话原因和通话结果记录到 Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/s1WtxUjizmyoubCK1SfFAfivTRcfuQeESWDYyNVO6k4
+TQID: 'https://experienceleague.adobe.com/s1WtxUjizmyoubCK1SfFAfivTRcfuQeESWDYyNVO6k4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 428
+source-wordcount: '428'
 ht-degree: 4%
-
 ---
-
 # 将致电原因和致电结果记录到[!DNL Salesforce] {#log-call-reasons-and-call-outcomes-to-salesforce}
 
 如果您出于报告或可见性的目的，希望将致电结果记录并致电原因[!DNL Salesforce]，则可以为每个创建自定义活动字段。 每个字段必须使用特定的API名称（在[!DNL Salesforce]中称为“字段名称”）。

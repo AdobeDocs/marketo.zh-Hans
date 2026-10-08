@@ -4,18 +4,23 @@ description: 了解如何在流程步骤中更改Salesforce所有者。 在人�
 title: 更改所有者
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-TQID: https://experienceleague.adobe.com/VU0fT4giNqfkF5g15q0IGIh8XuO2505nz89UuUfqZro
+TQID: 'https://experienceleague.adobe.com/VU0fT4giNqfkF5g15q0IGIh8XuO2505nz89UuUfqZro'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 182
+source-wordcount: '182'
 ht-degree: 2%
-
 ---
-
 # 更改所有者 {#change-owner}
 
 如果您现有的人员已分配给所有者，则可以使用此流程步骤将它们重新分配给其他所有者。
@@ -30,7 +35,7 @@ ht-degree: 2%
    >
    >[!DNL Salesforce]不允许将联系人分配给潜在客户队列。 对于SFDC联系人记录：
    >
-   >* 当联系人同步到Salesforce时，Marketo将仅创建重复的潜在客户&#x200B;**1&rbrace;。**&#x200B;换句话说，如果您将&#x200B;**[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;流程步骤与`AssignTo=<a lead queue>`一起使用，Marketo将在Salesforce中创建重复的潜在客户并将其分配给潜在客户队列。
+   >* 当联系人同步到Salesforce时，Marketo将仅创建重复的潜在客户&#x200B;**1}。**&#x200B;换句话说，如果您将&#x200B;**[将人员同步到SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;流程步骤与`AssignTo=<a lead queue>`一起使用，Marketo将在Salesforce中创建重复的潜在客户并将其分配给潜在客户队列。
    >
    >* 如果您对联系人使用&#x200B;**[!UICONTROL Change Owner]**&#x200B;流程步骤，Marketo会在Salesforce中创建重复的潜在客户。 要避免此情况，请在“SFDC类型”字段上使用过滤器，该过滤器将操作限制为仅潜在客户。
 

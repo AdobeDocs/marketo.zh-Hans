@@ -4,20 +4,23 @@ description: 了解如何在Marketo中为ON24集成创建事件。 设置项目�
 title: 在 Marketo 中创建事件
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-TQID: https://experienceleague.adobe.com/oxdCpxlU0lzbWlmAysXgCZs8bA-p8ufu-gAmWs9uHC4
+TQID: 'https://experienceleague.adobe.com/oxdCpxlU0lzbWlmAysXgCZs8bA-p8ufu-gAmWs9uHC4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '151'
 ht-degree: 6%
-
 ---
-
 # 在 Marketo 中创建事件 {#create-an-event-in-marketo}
 
 Marketo事件可跟踪您的人员通过项目的进展情况。 它使用ON24适配器推送注册信息和提取出勤信息。 事件会捕获您人员在过程中所处的状态。

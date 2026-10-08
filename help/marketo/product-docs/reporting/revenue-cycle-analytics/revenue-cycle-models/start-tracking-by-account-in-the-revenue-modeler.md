@@ -4,13 +4,19 @@ description: 了解在Marketo Engage的收入建模器中按帐户进行的开�
 title: 在收入建模器中按帐户开始跟踪
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 6%
-
 ---
-
 # 在收入建模器中按帐户开始跟踪 {#start-tracking-by-account-in-the-revenue-modeler}
 
 利用Revenue Stage Modeler和[!UICONTROL Revenue Explorer]，可在商机和客户在模型中进行处理时，将insight引入到他们的绩效中。

@@ -1,7 +1,10 @@
 ---
 description: 使用产品知识向CX Enterprise Coworker for Marketo Engage咨询有关功能、最佳实践和操作方法的信息。 答案基于Adobe的官方文档。
 title: 产品知识
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%

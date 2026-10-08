@@ -3,16 +3,21 @@ description: 了解如何先在Marketo中编辑要同步的字段，然后再在
 title: 在 Dynamics 中删除字段之前先编辑要同步的字段
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI
+TQID: 'https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 194
+source-wordcount: '194'
 ht-degree: 5%
-
 ---
-
 # 在[!DNL Dynamics]中删除字段之前正在编辑要同步的字段 {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 
 有时您可能希望删除[!DNL Dynamics]中的字段。 Marketo保留字段列表作为同步所依据的引用。 如果在同步打开时在[!DNL Dynamics]中删除字段，则同步可能会遇到错误。 在删除任何字段之前，请执行以下步骤。

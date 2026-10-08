@@ -4,21 +4,25 @@ description: 在程序中了解我的Token。 使用令牌通过项目或成员�
 title: 了解项目中的我的令牌
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-TQID: https://experienceleague.adobe.com/UYz7UtSHFbDdslMLdaGmIbdaHKedxjAhU-K8RhkgmS4
+TQID: 'https://experienceleague.adobe.com/UYz7UtSHFbDdslMLdaGmIbdaHKedxjAhU-K8RhkgmS4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Flow Step
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 441
+source-wordcount: '441'
 ht-degree: 5%
-
 ---
-
 # 了解项目中的我的令牌 {#understanding-my-tokens-in-a-program}
 
 令牌是一个变量，您可以在电子邮件、登陆页面和智能营销活动中使用它来简化您的工作。
@@ -54,7 +58,7 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>电子邮件脚本 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>使用此令牌可在您的电子邮件中执行Velocity脚本。 在<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting" title="关注链接" rel="nofollow">此处</a>了解详情。 </td>
+   <td>使用此令牌可在您的电子邮件中执行Velocity脚本。 在<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="关注链接" rel="nofollow">此处</a>了解详情。 </td>
   </tr>
   <tr>
    <td>数字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

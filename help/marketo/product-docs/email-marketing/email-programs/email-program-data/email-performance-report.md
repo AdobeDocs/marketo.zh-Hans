@@ -4,7 +4,7 @@ description: 了解如何创建和使用电子邮件性能报表。 跟踪打开
 title: 电子邮件性能报告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
+TQID: 'https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,10 +13,15 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 95%
@@ -88,7 +93,7 @@ ht-degree: 95%
 
 * **规则 2**：如果电子邮件记录显示为 _[!UICONTROL Opened]_，则计为_&#x200B;已投递&#x200B;_。
 
-* **规则 3**：如果电子邮件记录显示为 _[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，则同时计为&#x200B;_已投递_&#x200B;和&#x200B;_已打开_。
+* **规则 3**：如果电子邮件记录显示为 _[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，则同时计为&#x200B;_已投递_&#x200B;和&#x200B;_已打开_。
 
 * **规则 4**：如果电子邮件状态为 _[!UICONTROL Opened]_，则忽略退信。 如果电子邮件尚未打开，则_&#x200B;硬退信&#x200B;_的优先级高于_&#x200B;软退信&#x200B;_和_&#x200B;已投递&#x200B;_。
 

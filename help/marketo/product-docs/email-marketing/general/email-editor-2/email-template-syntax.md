@@ -4,18 +4,23 @@ description: 了解Email Editor 2.0中的电子邮件模板语法。 对模板�
 title: 电子邮件模板语法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+TQID: 'https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2464
+source-wordcount: '2464'
 ht-degree: 83%
-
 ---
-
 # 电子邮件模板语法 {#email-template-syntax}
 
 在 Marketo 全新的 Email 2.0 体验中，电子邮件模板可由元素、变量、模块或容器的任意组合构成。 每一项都通过在 HTML 中添加 Marketo 专用语法来定义。 旧版（v1.0）电子邮件模板在电子邮件编辑器 2.0 中仍受支持，但不会包含新编辑器的全部功能。
@@ -41,7 +46,7 @@ Marketo 的电子邮件语法仅在模板和单个电子邮件中生效；如果
 
 ## 富文本 {#rich-text}
 
-如果将某个区域定义为富文本，用户即可[使用 Marketo 的富文本编辑器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)来编辑其内容。 在电子邮件模板中定义富文本元素有两种方式：mktEditable 和 mktoText。 请注意，富文本元素始终可以在电子邮件编辑器中转换为片段。
+如果将某个区域定义为富文本，用户即可[使用 Marketo 的富文本编辑器](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)来编辑其内容。 在电子邮件模板中定义富文本元素有两种方式：mktEditable 和 mktoText。 请注意，富文本元素始终可以从电子邮件编辑器中转换为片段。
 
 ### 选项 1 — mktEditable {#option-mkteditable}
 
@@ -335,7 +340,7 @@ Marketo 的电子邮件语法仅在模板和单个电子邮件中生效；如果
 
 ## 模块 {#modules}
 
-模块是在模板级别定义的模板化区块，最终用户可以将其插入到电子邮件中使用。 由于这些模块是预先构建的，您可以确保它们能够与电子邮件的其他内容良好协作（并具备完整的响应式表现）。 模块只能放置在容器中。
+模块是在模板级别定义的模板化区块，最终用户可以将其插入到电子邮件中使用。 由于这些模块是预建的，您可以确保它们能够与电子邮件的其他内容良好协作（并具备完整的响应式表现）。 模块只能放置在容器中。
 
 >[!IMPORTANT]
 >

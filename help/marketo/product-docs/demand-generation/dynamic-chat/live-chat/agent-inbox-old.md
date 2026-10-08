@@ -2,15 +2,22 @@
 description: 了解实时聊天代理进行现场对话的代理收件箱。 查看活动和过去的聊天、访客信息，并设置可用性状态。
 title: 代理收件箱
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Dynamic Chat
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 1%
-
 ---
-
 # 代理收件箱 {#agent-inbox}
 
 座席将在“座席收件箱”中发送实时聊天。 除了活动对话之外，他们还可以查看过去的对话、访客信息等。

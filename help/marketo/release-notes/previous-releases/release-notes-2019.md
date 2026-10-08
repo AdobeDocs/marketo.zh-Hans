@@ -1,43 +1,74 @@
 ---
-title: "2019"
+title: '2019'
 description: 2019 - Marketo文档 — 产品文档
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+    internal-label: Sales Connect
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2528
+source-wordcount: '2530'
 ht-degree: 0%
-
 ---
-
 # 2019
 
 ## 2019年冬 {#winter}
@@ -83,10 +114,10 @@ ht-degree: 0%
 * **电子邮件服务**：通过连接到[!DNL Microsoft Outlook]（通过Office365或通过“电子邮件连接”选项卡内部部署）享受更好的可投放性，以及改进的回复跟踪、计划的电子邮件功能和批量电子邮件功能。
 * **新管理员设置**：添加了两个管理员页面，以优化您的Sales Engage实例
 
-   * 通过允许管理员编辑订阅和团队，*团队管理*&#x200B;支持无缝的帐户设置过程。
-   * *Salesforce管理设置*&#x200B;可帮助团队以前所未有的速度更轻松地设置SFDC同步。
+  * 通过允许管理员编辑订阅和团队，*团队管理*&#x200B;支持无缝的帐户设置过程。
+  * *Salesforce管理设置*&#x200B;可帮助团队以前所未有的速度更轻松地设置SFDC同步。
 
-* 适用于&#x200B;[!DNL Windows]&#x200B;**的** OWA插件：通过一个加载项，Sales Engage将支持所有[!DNL Windows Office365]客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
+* 适用于&#x200B;[!DNL Windows]**的** OWA插件：通过一个加载项，Sales Engage将支持所有[!DNL Windows Office365]客户端，从而能够在Outlook中使用Live Feed。 新的插件将显示在Microsoft Store中。
 * **活动推送器**：将Sales Engage同步到核心Marketo平台，以利用实时营销见解。
 
 ## [!DNL Marketo Sky]
@@ -226,8 +257,8 @@ Account-Based Marketing
 
 * **事件上限**&#x200B;和&#x200B;**事件目标**&#x200B;通常在[!DNL Marketo Sky]的Premium Events加载项下提供。
 
-   * 事件上限：通过注册上限、页面重定向和轮候表功能优化活动和网络研讨会的客户体验。
-   * 活动目标：设置活动注册和出勤目标并实时跟踪进度。
+  * 事件上限：通过注册上限、页面重定向和轮候表功能优化活动和网络研讨会的客户体验。
+  * 活动目标：设置活动注册和出勤目标并实时跟踪进度。
 
 * **完整导航链接**：我们已启用导航到所有许可应用程序，如Hootsuite、Calendar等。
 * **电子邮件、登录页、代码片段、表单、图像和文件列表视图**：在Design Studio中查看、搜索您的任何资产并对其执行批量操作。
@@ -252,7 +283,7 @@ Account-Based Marketing
 * **漂移集成**：了解漂移对话如何影响客户的历程。 [!DNL Bizible]还将从对话中提取电子邮件地址，以创建新潜在客户或将接触点连接到现有潜在客户。
 * **本地化**： [!DNL Bizible]现在提供所有Marketo支持的语言（英语、日语、德语、西班牙语、法语和葡萄牙语）版本。
 
-_&#x200B;**产品发布网络研讨会**&#x200B;_&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。
+_**产品发布网络研讨会**_&#x200B;在[此处](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)观看我们2019年6月发布创新网络研讨会的录像。
 
 ## 2019年8月 {#august}
 
@@ -293,5 +324,5 @@ _&#x200B;**产品发布网络研讨会**&#x200B;_&#x200B;在[此处](https://eng
 >
 >**要保持您的Marketo Engage访问权限，请确保在2019年12月13日之前所有客户端系统都符合TLS 1.2**。 更多详细信息可在[此处](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)找到。
 
-**_产品发布网络研讨会_** [于8月28日1:00PM PT / 4:00PM ET参加我们](https://engage.marketo.com/August_19_Release_Webinar.html)由我们的产品团队主办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。
+**_产品发布网络研讨会_** [与我们](https://engage.marketo.com/August_19_Release_Webinar.html)一起参加我们于8月28日下午1:00 PT / 4:00 PM ET举办的实时网络研讨会，了解有关此版本中包含的功能的更多信息。
 

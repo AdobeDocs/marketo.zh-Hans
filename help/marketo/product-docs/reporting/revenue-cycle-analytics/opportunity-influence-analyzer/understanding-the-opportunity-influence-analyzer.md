@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718648
 description: 了解如何了解Marketo Engage中的opportunity influence analyzer ，包括了解。 使用本指南完成您的下一步。
-title: 了解商机影响分析器
+title: 了解机会影响分析器
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 3%
-
 ---
-
-# 了解商机影响分析器 {#understanding-the-opportunity-influence-analyzer}
+# 了解机会影响分析器 {#understanding-the-opportunity-influence-analyzer}
 
 每个机会都是一个故事。 你在哪里遇见领头人？ 在营销/销售过程中，哪些营销机会对他们产生了影响？
 

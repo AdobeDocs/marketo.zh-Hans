@@ -1,19 +1,21 @@
 ---
 unique-page-id: 14352486
 description: 当没有联系人从Salesforce推送到Sales Connect时，获取帮助。 连接和同步设置疑难解答。
-title: 为什么我的任何联系人都没有被推送到 Sales Connect？
+title: 为什么我的任何联系人未推送到 Sales Connect？
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/jLGaBSKYiA9T0L83mvipYf9cIxdESHV0MY4WNaV6VxU
+TQID: 'https://experienceleague.adobe.com/jLGaBSKYiA9T0L83mvipYf9cIxdESHV0MY4WNaV6VxU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: '91'
 ht-degree: 12%
-
 ---
-
 # 为什么我的任何联系人都没有推送到[!DNL Sales Connect]？ {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
 如果未推送联系人，则您可能有无效的[!DNL Salesforce]连接。 转到[[!DNL Salesforce] 设置](https://toutapp.com/login)并断开连接，然后重新连接。 请在20分钟左右将其完全重置。 如果之后仍然为零，请[提交案例](https://nation.marketo.com/t5/Support/ct-p/Support#)给支持团队。

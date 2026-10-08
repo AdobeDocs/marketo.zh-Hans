@@ -4,18 +4,20 @@ description: 了解Sales Connect中推荐的模板。 查看哪些模板获得�
 title: 推荐模板
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/TxLC97egMJj4jLyy-mnucWb2kV3vDbq0zqVK37jN3tM
+TQID: 'https://experienceleague.adobe.com/TxLC97egMJj4jLyy-mnucWb2kV3vDbq0zqVK37jN3tM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 320
+source-wordcount: '320'
 ht-degree: 1%
-
 ---
-
 # 推荐模板 {#recommended-templates}
 
 [!DNL Sales Connect]的推荐模板可帮助您获得正确的消息传递，同时节省您的时间。 这样可在发送电子邮件时为您提供更大的流量，并减少在尝试为合适的人员查找合适的电子邮件时出现的不确定性。

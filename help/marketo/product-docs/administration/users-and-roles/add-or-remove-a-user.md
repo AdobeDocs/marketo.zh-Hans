@@ -3,13 +3,17 @@ description: 如何通过选择产品配置文件并管理“用户”选项卡�
 title: 添加或移除用户
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 13%
-
 ---
-
 # 添加或移除用户 {#add-or-remove-a-user}
 
 ## 添加用户 {#add-a-user}

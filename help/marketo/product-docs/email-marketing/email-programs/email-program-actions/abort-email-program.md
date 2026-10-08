@@ -4,18 +4,23 @@ description: 了解如何在发送之前或期间中止电子邮件程序。 停
 title: 中止电子邮件项目
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/joPzsJPtfI-CVTM6H6ItD87iKeGFrFrAHBWCAtvipQc
+TQID: 'https://experienceleague.adobe.com/joPzsJPtfI-CVTM6H6ItD87iKeGFrFrAHBWCAtvipQc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: '103'
 ht-degree: 6%
-
 ---
-
 # 中止电子邮件项目 {#abort-email-program}
 
 糟糕！ 踩刹车！ 此电子邮件程序不应退出。

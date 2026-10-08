@@ -1,19 +1,24 @@
 ---
 unique-page-id: 3571809
 description: 在最后一步了解如何将Microsoft Dynamics 2011内部部署与Marketo连接起来。 在Marketo管理员中输入同步用户信息并启用同步。
-title: 第3步（共3步） — 使用Marketo连接 [!DNL Microsoft Dynamics] （2011年内部部署）
+title: 第3步（共3步） — 将[!DNL Microsoft Dynamics]与Marketo连接（2011内部部署）
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI
+TQID: 'https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 344
-ht-degree: 0%
-
+source-wordcount: '345'
+ht-degree: 1%
 ---
-
 # 第3步（共3步）：将[!DNL Microsoft Dynamics]与Marketo连接（2011年内部部署） {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
 已安装解决方案并配置同步用户。 接下来，连接Marketo和[!DNL Dynamics]。
@@ -37,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. 单击&#x200B;**[!UICONTROL Microsoft]**。
+1. 单击 **[!UICONTROL Microsoft]**。
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
@@ -86,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 向下滚动到字段并选中。 实际名称必须是new_synctomkto ，但“显示名称”可以是任何内容。 单击&#x200B;**[!UICONTROL Save]**。
+1. 向下滚动到字段并选中。 实际名称必须是new_synctomkto ，但“显示名称”可以是任何内容。 单击 **[!UICONTROL Save]**。
 
    ![](assets/image2016-8-25-14-3a14-3a57.png)
 

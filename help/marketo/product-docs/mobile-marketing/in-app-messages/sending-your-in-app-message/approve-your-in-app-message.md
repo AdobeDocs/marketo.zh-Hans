@@ -4,16 +4,18 @@ description: 了解如何批准应用程序内消息以将其启动。 暂停、
 title: 批准您的应用程序内消息
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs
+TQID: 'https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 328
-ht-degree: 0%
-
+source-wordcount: '328'
+ht-degree: 3%
 ---
-
 # 批准您的应用程序内消息 {#approve-your-in-app-message}
 
 在应用程序内消息传出之前，您需要批准发送。
@@ -26,7 +28,7 @@ ht-degree: 0%
    >
    >如果发送流程的任何部分不完整（例如，应用程序内消息未获得批准），则会出现警告消息，指示需要注意哪个区域。 请修复此问题，您应会在步骤2中看到消息。
 
-1. 单击&#x200B;**[!UICONTROL Approve and Launch]**。
+1. 单击 **[!UICONTROL Approve and Launch]**。
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 

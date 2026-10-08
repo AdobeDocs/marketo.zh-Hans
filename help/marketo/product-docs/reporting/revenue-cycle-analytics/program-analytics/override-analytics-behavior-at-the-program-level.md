@@ -4,16 +4,22 @@ description: 了解Marketo Engage中项目级别的覆盖分析行为，包括�
 title: 在项目层级覆盖分析行为
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 9%
-
 ---
-
 # 在项目层级覆盖分析行为 {#override-analytics-behavior-at-the-program-level}
 
-您可以在渠道[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)上的管理员级别设置分析行为，但也可以在项目级别覆盖它。 方法如下：
+您可以在渠道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)上的管理员级别设置[分析行为，但也可以在项目级别覆盖它。 方法如下：
 
 1. 进入 **[!UICONTROL Marketing Activities]** 区域。
 

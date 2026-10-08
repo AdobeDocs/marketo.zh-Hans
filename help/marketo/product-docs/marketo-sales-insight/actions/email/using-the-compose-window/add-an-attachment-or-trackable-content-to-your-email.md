@@ -3,18 +3,20 @@ description: 了解如何向销售电子邮件添加附件或可跟踪内容。 
 title: 向电子邮件添加附件或可跟踪内容
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/yPBxpWnkT0FsrMRlwUQ1bGLB6oeCuEW9IUHMUeqA7EM
+TQID: 'https://experienceleague.adobe.com/yPBxpWnkT0FsrMRlwUQ1bGLB6oeCuEW9IUHMUeqA7EM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 412
+source-wordcount: '412'
 ht-degree: 4%
-
 ---
-
 # 向电子邮件添加附件或可跟踪内容 {#add-an-attachment-or-trackable-content-to-your-email}
 
 通过[!DNL Marketo Sales]发送电子邮件时，您可以选择将文件添加为附件，或使文件成为可下载（和可跟踪）链接。

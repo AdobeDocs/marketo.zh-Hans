@@ -4,21 +4,25 @@ description: 了解如何在Marketo中编辑事件渠道。 更新活动项目�
 title: 编辑事件渠道
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-TQID: https://experienceleague.adobe.com/ADtf5HwC3O3IXosqoZwQ0oAjS-fOJhWAuO-UQk5m0yA
+TQID: 'https://experienceleague.adobe.com/ADtf5HwC3O3IXosqoZwQ0oAjS-fOJhWAuO-UQk5m0yA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 5%
-
 ---
-
 # 编辑事件渠道 {#edit-an-event-channel}
 
 您可以从事件的&#x200B;**摘要**&#x200B;选项卡或其&#x200B;**设置**&#x200B;选项卡编辑渠道类型。

@@ -4,21 +4,25 @@ description: 了解如何在Marketo Engage中将表单嵌入到Web营销活动�
 title: 将表单嵌入 Web 营销活动
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/W-ZPPhOBxBKHlB8cobIZG7-qOnrz92uMaZ-JpnSxptI
+TQID: 'https://experienceleague.adobe.com/W-ZPPhOBxBKHlB8cobIZG7-qOnrz92uMaZ-JpnSxptI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 354
+source-wordcount: '354'
 ht-degree: 7%
-
 ---
-
 # 将表单嵌入 Web 营销活动 {#embed-a-form-into-a-web-campaign}
 
 了解如何将Marketo表单嵌入到Web营销活动中（对话框、区域或小部件）。
@@ -93,4 +97,4 @@ ht-degree: 7%
 >
 >* [编辑表单主题的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [显示没有后续登陆页面的感谢消息](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

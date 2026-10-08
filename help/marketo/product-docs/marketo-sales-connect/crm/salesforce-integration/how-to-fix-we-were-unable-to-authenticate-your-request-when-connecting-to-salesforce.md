@@ -4,16 +4,18 @@ description: 获取帮助修复在将Sales Connect连接到Salesforce时出现�
 title: 如何修复连接到 Salesforce 时出现的“无法验证您的请求”错误
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho
+TQID: 'https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 12%
-
 ---
-
 # 如何修复连接到[!DNL Salesforce]时“我们无法验证您的请求” {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 如果您在尝试将[!DNL Sales Connect]连接到[!DNL Salesforce]时收到错误消息“我们无法验证您的请求”，则您的访问[!DNL Salesforce]的API可能会受到限制。 与您的[!DNL Salesforce]管理员确认以下事项。

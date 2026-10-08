@@ -4,16 +4,18 @@ description: 了解Marketo时间中的Analytics卡片。 在移动设备应用�
 title: 了解分析卡片
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI
+TQID: 'https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 294
+source-wordcount: '294'
 ht-degree: 2%
-
 ---
-
 # 了解分析卡片 {#understanding-analytics-cards}
 
 每月初，Marketo Miments提供三种不同的报表卡：[!UICONTROL Acquired Leads]、[!UICONTROL New Leads]和[!UICONTROL Unsubscribes]。 每个报表均显示六个月的每月绩效和趋势。

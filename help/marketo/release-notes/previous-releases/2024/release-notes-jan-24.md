@@ -3,27 +3,38 @@ description: 发行说明 — 2024年1月 — Marketo文档 — 产品文档
 title: 发行说明 - 2024 年 1 月
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-TQID: https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8
+TQID: 'https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: cbccec41-b38b-4693-8acf-fed684dd06ba
+    internal-label: Sales Insight
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 840
+source-wordcount: '840'
 ht-degree: 14%
-
 ---
-
 # 发行说明：2024 年 1 月 {#release-notes-jan-24}
 
 在下方，您会找到2024年1月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
@@ -34,7 +45,7 @@ ht-degree: 14%
 
 ## 标准发布周期功能 {#standard-release-cycle-features}
 
-以下功能属于标准发行周期，将于&#x200B;**2024年1月12日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁的状态标记。
+以下功能属于标准发行周期，将于&#x200B;**2024年1月12日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁边的状态。
 
 <table style="table-layout:auto">
  <tbody>
@@ -104,7 +115,7 @@ ht-degree: 14%
 
 ## Agile版本功能 {#agile-release-features}
 
-以下所有功能都遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请查看每个功能旁的状态标记。
+以下所有功能都遵循Agile格式，并在标准发布日期之前或之后的各种日期发布。 请查看每个功能旁边的状态。
 
 ### Sales Insight Actions {#sales-insight-actions}
 

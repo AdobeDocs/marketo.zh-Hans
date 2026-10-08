@@ -4,16 +4,21 @@ description: 了解如何放弃冠军/挑战者电子邮件测试。 取消测�
 title: 冠军/挑战者 — 放弃电子邮件测试
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/h2JUPuX869JUW1WVJ81xFG8onuS5NbQ42sGlqqSootQ
+TQID: 'https://experienceleague.adobe.com/h2JUPuX869JUW1WVJ81xFG8onuS5NbQ42sGlqqSootQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '96'
 ht-degree: 13%
-
 ---
-
 # 挑战者对比：放弃电子邮件测试 {#champion-challenger-discard-an-email-test}
 
 如果在任何时候决定不要继续运行电子邮件测试，则可以将其放弃。 操作方法如下：

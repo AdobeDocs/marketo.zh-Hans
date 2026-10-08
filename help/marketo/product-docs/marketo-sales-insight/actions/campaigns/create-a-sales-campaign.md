@@ -3,16 +3,18 @@ description: 了解如何创建包含电子邮件、呼叫、InMail和自定义�
 title: 创建销售营销活动
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8
+TQID: 'https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 3%
-
 ---
-
 # 创建销售营销活动 {#create-a-sales-campaign}
 
 销售促销活动包含一系列多渠道步骤，包括：电子邮件、电话、InMail和自定义任务。 它们允许您简化与潜在客户和现有客户的通信。

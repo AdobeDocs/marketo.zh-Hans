@@ -1,22 +1,28 @@
 ---
 unique-page-id: 26837421
 description: 了解如何从您的TAM帐户列表创建与LinkedIn帐户匹配的受众。 跨LinkedIn渠道激活受众以进行广告定位。
-title: 在 [!DNL LinkedIn]上创建与帐户匹配的受众
+title: 在[!DNL LinkedIn]上创建与帐户匹配的受众
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/CuHgQC78cd6GTUfnGfpufvkY4cM2zMZPKaqft35LKsk
+TQID: 'https://experienceleague.adobe.com/CuHgQC78cd6GTUfnGfpufvkY4cM2zMZPKaqft35LKsk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 3%
-
 ---
-
 # 在[!DNL LinkedIn]上创建与帐户匹配的受众 {#create-an-account-matched-audience-on-linkedin}
 
 从您的TAM帐户列表中为[[!DNL LinkedIn] 广告定位](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting)创建匹配的帐户受众。 [!DNL LinkedIn]将列表与其系统中的帐户匹配，您可以根据该帐户列表创建一个[!DNL LinkedIn]受众以在各[!DNL LinkedIn]渠道中激活。 这允许营销人员定位数据库内或数据库外的人员。

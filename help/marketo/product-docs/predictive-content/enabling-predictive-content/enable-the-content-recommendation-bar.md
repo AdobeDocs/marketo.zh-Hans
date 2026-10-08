@@ -4,18 +4,21 @@ description: 了解如何为每个URL启用内容推荐栏并使用预测分析�
 title: 启用内容推荐栏
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s
+TQID: 'https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 333
-ht-degree: 0%
-
+source-wordcount: '333'
+ht-degree: 4%
 ---
-
 # 启用内容推荐栏 {#enable-the-content-recommendation-bar}
 
 内容推荐引擎使用预测分析和机器学习算法，向每个Web访客提供相关内容。 推荐引擎可预测哪些内容对每位访客的效果最佳。 引擎的内容在“推荐”页面下进行监控和控制，帮助您优化内容ROI。
@@ -34,11 +37,11 @@ ht-degree: 0%
 
 ## 启用和自定义内容推荐栏 {#enable-and-customize-the-content-recommendation-bar}
 
-1. 转到&#x200B;**[!UICONTROL Content Settings]**。
+1. 前往 **[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand.png)
 
-1. 单击&#x200B;**[!UICONTROL Bar]**。
+1. 单击 **[!UICONTROL Bar]**。
 
    ![](assets/content-settings-bar-hand.png)
 
@@ -46,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/bar-enable.png)
 
-1. 要自定义URL，请选择推荐栏的颜色、样式、格式、箭头以及要包含或排除该栏的页面。 自定义以适合您的网站品牌。 单击&#x200B;**[!UICONTROL Save]**。
+1. 要自定义URL，请选择推荐栏的颜色、样式、格式、箭头以及要包含或排除该栏的页面。 自定义以适合您的网站品牌。 单击 **[!UICONTROL Save]**。
 
    ![](assets/bar-customize-details-hands.png)
 

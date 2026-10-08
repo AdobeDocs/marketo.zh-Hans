@@ -6,24 +6,33 @@ description: 了解如何在电子邮件模板中锁定内容，以便其他人�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+TQID: 'https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Governance
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 849
+source-wordcount: '849'
 ht-degree: 8%
-
 ---
-
 # 锁定电子邮件模板中的内容 {#lock-content-email-templates}
 
 Marketo Engage允许您通过锁定整个模板或特定结构/组件来锁定电子邮件模板中的内容。 这样可防止无意中编辑或删除内容，让您更好地控制模板自定义，并提高电子邮件营销活动的效率和可靠性。
@@ -36,15 +45,15 @@ Marketo Engage允许您通过锁定整个模板或特定结构/组件来锁定�
 
 * 锁定结构时：
 
-   * 该结构中的所有内容也将被锁定。
-   * 无法向结构添加任何内容。
-   * 默认情况下，无法删除结构。 您可以通过启用“允许删除”选项来覆盖此限制。
-   * 可以将锁定结构中的各个内容组件设置为可编辑。
+  * 该结构中的所有内容也将被锁定。
+  * 无法向结构添加任何内容。
+  * 默认情况下，无法删除结构。 您可以通过启用“允许删除”选项来覆盖此限制。
+  * 可以将锁定结构中的各个内容组件设置为可编辑。
 
 * 当结构可编辑（结构未锁定）时：
 
-   * 可以将各个内容组件锁定在该结构内。
-   * 默认情况下，如果组件已锁定，或者选择了“仅可编辑的内容锁定”，则无法删除组件。 您可以通过启用“允许删除”选项来覆盖此限制。
+  * 可以将各个内容组件锁定在该结构内。
+  * 默认情况下，如果组件已锁定，或者选择了“仅可编辑的内容锁定”，则无法删除组件。 您可以通过启用“允许删除”选项来覆盖此限制。
 
 ## 锁定电子邮件模板 {#lock-an-email-template}
 

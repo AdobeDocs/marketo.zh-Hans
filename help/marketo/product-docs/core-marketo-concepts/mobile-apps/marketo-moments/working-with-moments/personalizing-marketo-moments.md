@@ -4,19 +4,22 @@ description: 了解如何个性化Marketo时刻。 自定义哪些卡片和分�
 title: 个性化 Marketo Moments
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ycYc1PFwTMFWb-Jxcoxm46jr7fpIV398w-0S2Ytiwk0
+TQID: 'https://experienceleague.adobe.com/ycYc1PFwTMFWb-Jxcoxm46jr7fpIV398w-0S2Ytiwk0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: '150'
 ht-degree: 5%
-
 ---
-
 # 个性化 Marketo Moments {#personalizing-marketo-moments}
 
 当有许多营销项目和智能营销活动在进行时，只关注您自己的工作会很有帮助。

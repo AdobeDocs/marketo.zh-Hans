@@ -4,21 +4,25 @@ description: 了解如何在Microsoft Dynamics 365中安装和配置Marketo Sale
 title: 在 Microsoft Dynamics 365 中安装和配置 Marketo Sales Insight
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/F3iRn29xvOCHkuXSitfaT8iPJrlOXKeTQ3sxtGHpXGg
+TQID: 'https://experienceleague.adobe.com/F3iRn29xvOCHkuXSitfaT8iPJrlOXKeTQ3sxtGHpXGg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 398
+source-wordcount: '398'
 ht-degree: 5%
-
 ---
-
 # 在[!DNL Microsoft Dynamics 365]中安装和配置[!DNL Marketo Sales Insight] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight]是一个非常棒的工具，可为您的销售团队提供一个了解营销团队所拥有大量数据的“窗口”。 以下是如何安装和配置的。
@@ -51,7 +55,7 @@ ht-degree: 5%
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. 在新窗口中，单击&#x200B;**[!UICONTROL Browse]**。 选择您在步骤1[&#128279;](#msi)中下载的Marketo Sales Insight解决方案。 单击 **[!UICONTROL Next]**。
+1. 在新窗口中，单击&#x200B;**[!UICONTROL Browse]**。 选择您在步骤1](#msi)中下载的[Marketo Sales Insight解决方案。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 

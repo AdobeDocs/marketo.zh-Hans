@@ -1,36 +1,42 @@
 ---
 unique-page-id: 2360337
 description: 组合多个字段中的值或使用Marketo Engage中的公式字段构建条件值。
-title: 创建并使用串联字符串（公式）字段
+title: 创建并使用连接字符串（公式）字段
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-TQID: https://experienceleague.adobe.com/Yk-Xh-WHUE8-GR2KTCxXRSqerdz-JHu2JnzYp8tAq9U
+TQID: 'https://experienceleague.adobe.com/Yk-Xh-WHUE8-GR2KTCxXRSqerdz-JHu2JnzYp8tAq9U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 136
-ht-degree: 0%
-
+source-wordcount: '136'
+ht-degree: 16%
 ---
-
-# 创建并使用串联字符串（公式）字段 {#create-and-use-a-concatenated-string-formula-field}
+# 创建并使用连接字符串（公式）字段 {#create-and-use-a-concatenated-string-formula-field}
 
 您可以组合多个字段中的值，或使用Marketo Engage公式字段构建条件值。
 
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Field Management]**。
+1. 单击 **[!UICONTROL Field Management]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. 单击&#x200B;**[!UICONTROL New Custom Field]**。
+1. 单击 **[!UICONTROL New Custom Field]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
@@ -52,7 +58,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >了解有关流程步骤[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的令牌的更多信息。
+   >了解有关流程步骤](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的[令牌的更多信息。
 
 1. 现在，您可以在电子邮件中添加公式字段作为令牌。
 

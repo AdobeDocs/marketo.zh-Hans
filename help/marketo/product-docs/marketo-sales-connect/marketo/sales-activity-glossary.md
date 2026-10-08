@@ -3,18 +3,20 @@ description: 了解Sales Connect销售活动术语。 此术语表用于同步�
 title: 销售活动术语表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
+TQID: 'https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 339
+source-wordcount: '339'
 ht-degree: 8%
-
 ---
-
 # 销售活动术语表 {#sales-activity-glossary}
 
 在Sales Connect中，当销售商：将销售线索添加到销售节奏、向他们发送电子邮件或使呼叫成为活动时，它将被记录在Marketo活动历史记录下。 此外，当潜在客户收到电子邮件、打开、点击和回复时，也会被记录。
@@ -37,7 +39,7 @@ ht-degree: 8%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Template ID]</td>
@@ -65,7 +67,7 @@ ht-degree: 8%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Template ID]</td>
@@ -96,7 +98,7 @@ ht-degree: 8%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Template ID]</td>
@@ -124,7 +126,7 @@ ht-degree: 8%
   <td>[!UICONTROL Received By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo Sales Person ID]</td>
@@ -149,7 +151,7 @@ ht-degree: 8%
   <td>[!UICONTROL Sales Phone Number Called]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Sales Call Duration]</td>
@@ -177,7 +179,7 @@ ht-degree: 8%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Sales Campaign ID]</td>
@@ -196,7 +198,7 @@ ht-degree: 8%
   <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
-  <td>源</td>
+  <td>来源</td>
  </tr>
  <tr>
   <td>[!UICONTROL Sales Campaign ID]</td>

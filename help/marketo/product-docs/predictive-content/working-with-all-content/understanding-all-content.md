@@ -4,16 +4,18 @@ description: 了解所有内容页面、其量度以及类别如何组织预测�
 title: 了解所有内容
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/fzonhoTQmJlhdlbSFQ87CjwntcScl9f3-VjtwQL6At8
+TQID: 'https://experienceleague.adobe.com/fzonhoTQmJlhdlbSFQ87CjwntcScl9f3-VjtwQL6At8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 278
+source-wordcount: '278'
 ht-degree: 2%
-
 ---
-
 # 了解所有内容 {#understanding-all-content}
 
 “所有内容”页面显示已发现或手动添加的所有内容。

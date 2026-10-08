@@ -4,18 +4,23 @@ description: 了解Marketo中的电子邮件事件日志。 了解如何跟踪�
 title: 了解电子邮件事件日志
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/7ldlXmnupXohvFUDiniYCV9Idn1zOMUuynPneV5ovLY
+TQID: 'https://experienceleague.adobe.com/7ldlXmnupXohvFUDiniYCV9Idn1zOMUuynPneV5ovLY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 3%
-
 ---
-
 # 了解电子邮件事件日志 {#understanding-email-event-logging}
 
 在发送电子邮件时，Marketo会将不同的数据点记录到人员的活动日志中。 以下是基本部分。

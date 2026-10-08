@@ -1,19 +1,24 @@
 ---
 description: 了解如何在Marketo中重新配置Dynamics身份验证方法。 禁用同步，使用重新配置新身份验证方法，并验证Web API或ROPC的凭据。
-title: 重新配置 [!DNL Dynamics] 身份验证方法
+title: 重新配置[!DNL Dynamics]身份验证方法
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I
+TQID: 'https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 271
-ht-degree: 0%
-
+source-wordcount: '272'
+ht-degree: 2%
 ---
-
-# 重新配置Dynamics身份验证方法 {#reconfigure-dynamics-authentication-method}
+# 重新配置 Dynamics 身份验证方法 {#reconfigure-dynamics-authentication-method}
 
 请按照以下步骤更新您的[!DNL Dynamics]身份验证方法。
 
@@ -36,7 +41,7 @@ ht-degree: 0%
    >
    >必须暂时禁用全局同步才能更新身份验证方法。
 
-1. 单击&#x200B;**[!UICONTROL Reconfigure New Auth Method]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Reconfigure New Auth Method]** 选项卡。
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
@@ -69,7 +74,7 @@ ht-degree: 0%
 
    ![](assets/reconfigure-dynamics-authentication-method-8.png)
 
-1. 单击&#x200B;**[!UICONTROL OK]**。
+1. 单击 **[!UICONTROL OK]**。
 
    >[!IMPORTANT]
    >

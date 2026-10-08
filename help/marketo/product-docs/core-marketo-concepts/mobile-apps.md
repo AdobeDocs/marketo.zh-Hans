@@ -2,13 +2,14 @@
 unique-page-id: 7516612
 description: 了解Marketo移动应用程序，包括事件签入和Marketo时刻。 登记活动参与者，并在他们最重要时查看关键见解。
 title: 移动应用程序
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 5%
-
 ---
-
 
 # 移动应用程序 {#mobile-apps}
 

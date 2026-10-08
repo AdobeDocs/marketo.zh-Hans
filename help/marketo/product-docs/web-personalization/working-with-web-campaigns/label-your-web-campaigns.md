@@ -4,20 +4,23 @@ description: 了解如何在Marketo Engage中使用标签来标记您的Web营�
 title: 为 Web 营销活动添加标签
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/Z3CLproC1wMbR1-P-1AAwu8XOJxZVizfmTZvY8Koqds
+TQID: 'https://experienceleague.adobe.com/Z3CLproC1wMbR1-P-1AAwu8XOJxZVizfmTZvY8Koqds'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 4%
-
 ---
-
 # 为 Web 营销活动添加标签 {#label-your-web-campaigns}
 
 您有这么多营销活动吗？滚动会变得繁琐吗？ 可使用标签为营销策划添加标签，以便您可以对营销策划进行排序，并快速找到它们。

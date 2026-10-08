@@ -1,30 +1,36 @@
 ---
 unique-page-id: 11377406
 description: 在Marketo中使用工作区时，将通用品牌策略域更改为公司域。
-title: 使用工作区编辑默认品牌策略域
+title: 使用工作区编辑默认品牌域名
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/qp5T6tEkxvsIfdrZaPkpWJHmqfxfZFKbbcKORa8psDU
+TQID: 'https://experienceleague.adobe.com/qp5T6tEkxvsIfdrZaPkpWJHmqfxfZFKbbcKORa8psDU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 138
-ht-degree: 0%
-
+source-wordcount: '138'
+ht-degree: 14%
 ---
+# 使用工作区编辑默认品牌化域 {#edit-your-default-branding-domain-with-workspaces}
 
-# 使用工作区编辑默认品牌策略域 {#edit-your-default-branding-domain-with-workspaces}
-
-1. 转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 进入 **[!UICONTROL Admin]** 区域。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Email]**。
+1. 单击 **[!UICONTROL Email]**。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
@@ -40,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. 单击&#x200B;**[!UICONTROL Save]**。
+1. 单击 **[!UICONTROL Save]**。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

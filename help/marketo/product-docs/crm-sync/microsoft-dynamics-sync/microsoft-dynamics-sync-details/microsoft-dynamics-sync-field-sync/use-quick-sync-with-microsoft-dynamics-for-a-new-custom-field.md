@@ -1,21 +1,26 @@
 ---
 unique-page-id: 10098379
 description: 了解如何在添加新自定义字段时将快速同步与Microsoft Dynamics结合使用。 添加字段后，将字段数据从Dynamics刷新到Marketo。
-title: 使用 Microsoft Dynamics 快速同步新的自定义字段
+title: 对新自定义字段使用 Microsoft Dynamics 快速同步
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Foo1CpTpWKCvtPTZv7NRuSoCvD18-x5OIABM48-UF6I
+TQID: 'https://experienceleague.adobe.com/Foo1CpTpWKCvtPTZv7NRuSoCvD18-x5OIABM48-UF6I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '341'
 ht-degree: 4%
-
 ---
-
 # 将“与[!DNL Microsoft Dynamics]快速同步”用于新自定义字段 {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 市场营销或销售人员需要一个新领域。 或者，也许你在初始字段选择中忘记了一个。 或者说，你的需求改变了。 在任何情况下，您都可以使用快速同步来重新同步特定字段。

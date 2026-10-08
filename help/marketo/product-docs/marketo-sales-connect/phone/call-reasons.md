@@ -3,16 +3,18 @@ description: 了解Sales Connect中的致电原因。 设置并记录为何您�
 title: 通话原因
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XNu9fMEF6EPqkCW-EIpuirNtR1w3mPAg5GNZYj6mKnQ
+TQID: 'https://experienceleague.adobe.com/XNu9fMEF6EPqkCW-EIpuirNtR1w3mPAg5GNZYj6mKnQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 160
+source-wordcount: '160'
 ht-degree: 3%
-
 ---
-
 # 通话原因 {#call-reasons}
 
 允许您的销售团队在致电时选择致电原因，以便您的团队能够了解致电的原因。

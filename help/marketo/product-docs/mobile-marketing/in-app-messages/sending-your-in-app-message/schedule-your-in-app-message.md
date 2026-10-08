@@ -4,16 +4,18 @@ description: 了解如何计划应用程序内消息。 设置将来的开始日
 title: 计划您的应用程序内消息
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/VfL4nNWKztKHXuOvPzdJ6EpLVpJdHytKDYNxzdYLVWM
+TQID: 'https://experienceleague.adobe.com/VfL4nNWKztKHXuOvPzdJ6EpLVpJdHytKDYNxzdYLVWM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 101
+source-wordcount: '101'
 ht-degree: 9%
-
 ---
-
 # 计划您的应用程序内消息 {#schedule-your-in-app-message}
 
 立即发送消息或安排稍后发送。

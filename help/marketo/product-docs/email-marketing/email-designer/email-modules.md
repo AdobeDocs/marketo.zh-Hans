@@ -6,13 +6,28 @@ description: 了解如何在Email Designer中访问、插入和自定义预建�
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 2%
-
 ---
-
 # 使用电子邮件设计器中的模块 {#email-modules}
 
 Email Designer包含一个模块库：现成可用的完全结构化的内容块，旨在加快电子邮件汇编并提升通信中的设计一致性。

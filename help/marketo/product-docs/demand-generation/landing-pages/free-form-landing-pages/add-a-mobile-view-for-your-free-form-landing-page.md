@@ -1,28 +1,33 @@
 ---
 unique-page-id: 4720856
 description: 了解如何在Marketo中为自由格式登陆页面添加移动视图。 为移动设备优化页面布局。
-title: 为您的自由格式登录页面添加移动端视图
+title: 为您的自由格式登陆页面添加移动端视图
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ
+TQID: 'https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 140
+source-wordcount: '140'
 ht-degree: 20%
-
 ---
-
 # 为您的自由格式登录页面添加移动端视图 {#add-a-mobile-view-for-your-free-form-landing-page}
 
 您可以优化自由格式登陆页面，以便在智能手机上正确显示。
 
 >[!NOTE]
 >
->移动设备视图适用于宽度为480px（或更小）的屏幕。 换言之，就是智能手机。 以下是关于设备分辨率[&#128279;](https://www.mydevice.io/)的更多信息。
+>移动设备视图适用于宽度为480px（或更小）的屏幕。 换言之，就是智能手机。 以下是关于设备分辨率](https://www.mydevice.io/)的更多[信息。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

@@ -1,19 +1,21 @@
 ---
 unique-page-id: 42762794
 description: 了解如何在Salesforce Classic中将批量操作与Sales Connect结合使用。 一次将多个潜在客户或联系人推送到Sales Connect。
-title: 在 [!DNL Salesforce] Classic中使用批量操作
+title: 在[!DNL Salesforce] Classic中使用批量操作
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
+TQID: 'https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # 在[!DNL Salesforce] Classic中使用批量操作 {#using-bulk-actions-in-salesforce-classic}
 
 了解如何执行批量操作，如将潜在客户添加到营销活动、发送批量电子邮件或将潜在客户从[!DNL Salesforce]推送到[!DNL Sales Connect]。
@@ -39,10 +41,10 @@ ht-degree: 0%
 1. 此时会弹出一个MSC电子邮件。 它包括以下功能：
 
    答： “[!UICONTROL To]”字段显示“[!UICONTROL All Recipients]” — 这与您在“潜在客户列表”视图中选择的潜在客户列表相对应
-b. 此列表在名为“[!UICONTROL Bulk Compose]”的左侧面板中可见 — 您可以在此处添加/删除收件人
-c. 您可以选择模板或创建自己的电子邮件
-d. 您可以预览将在电子邮件中填充的动态字段
-e. 您可以立即发送电子邮件，也可以按照计划在以后发送
+   b. 此列表在名为“[!UICONTROL Bulk Compose]”的左侧面板中可见 — 您可以在此处添加/删除收件人
+   c. 您可以选择模板或创建自己的电子邮件
+   d. 您可以预览将在电子邮件中填充的动态字段
+   e. 您可以立即发送电子邮件，也可以按照计划在以后发送
 
    ![](assets/three-4.png)
 

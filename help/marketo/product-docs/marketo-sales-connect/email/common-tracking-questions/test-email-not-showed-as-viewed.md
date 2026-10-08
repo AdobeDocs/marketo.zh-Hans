@@ -4,16 +4,18 @@ description: 当测试电子邮件未在Sales Connect中显示为已查看时，
 title: 测试电子邮件未显示为已查看
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QTXdqEMbhGygxPbWSny4xPvtJIHc9CUVLndkbKpI4fE
+TQID: 'https://experienceleague.adobe.com/QTXdqEMbhGygxPbWSny4xPvtJIHc9CUVLndkbKpI4fE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 7%
-
 ---
-
 # 测试电子邮件未显示为已查看 {#test-email-not-showed-as-viewed}
 
 即使您将消息发送到其他电子邮件地址，我们也不会记录您查看您在实时信息源中发送给自己的任何电子邮件。 我们的跟踪基于设备；只要您使用的是已用于登录到[!DNL Sales Connect]的计算机，我们就会过滤掉该活动。

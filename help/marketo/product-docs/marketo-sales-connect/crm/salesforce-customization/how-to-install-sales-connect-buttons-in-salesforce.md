@@ -4,16 +4,18 @@ description: 了解如何在Salesforce中安装Sales Connect按钮。 将“推�
 title: 如何在 Salesforce 中安装 Sales Connect 按钮
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NlfDR0iYREXhLnNW-GRSqAw7n61nDZs5BAgxsOnSGvk
+TQID: 'https://experienceleague.adobe.com/NlfDR0iYREXhLnNW-GRSqAw7n61nDZs5BAgxsOnSGvk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: '113'
 ht-degree: 18%
-
 ---
-
 # 如何在 Salesforce 中安装 Sales Connect 按钮 {#how-to-install-sales-connect-buttons-in-salesforce}
 
 使用Marketo Sales Connect轻松安装呼叫、发送Marketo销售电子邮件并添加到Campaign。 您需要在[!DNL Salesforce]中拥有管理员权限才能安装这些字段。

@@ -3,16 +3,18 @@ description: 在交互式网络研讨会上了解GenAI功能。 使用AI增强�
 title: GenAI功能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
+TQID: 'https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 678
+source-wordcount: '678'
 ht-degree: 0%
-
 ---
-
 # GenAI功能 {#gen-ai-features}
 
 为您的录制的网络研讨会自动生成章节和摘要，使受众更容易访问和导航这些章节和摘要。
@@ -65,9 +67,9 @@ ht-degree: 0%
 
    * 通过选择两个连续章节并单击&#x200B;**[!UICONTROL Merge]**&#x200B;将其合并。
 
-      * AI会生成一个包含两个选定章节的复合章节
+     * AI会生成一个包含两个选定章节的复合章节
 
-      * 要合并多个章节，必须一次合并两个
+     * 要合并多个章节，必须一次合并两个
 
      ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 

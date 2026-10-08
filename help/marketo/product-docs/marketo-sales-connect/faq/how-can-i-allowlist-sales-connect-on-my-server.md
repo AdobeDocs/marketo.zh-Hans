@@ -4,16 +4,18 @@ description: 了解如何在您的服务器上允许列表Sales Connect。 添�
 title: 如何在服务器上将 Sales Connect 加入允许列表？
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Kd3CN6b68ZF1HZcIfjIayYHL7KTPKMGydbBKqKZ14R8
+TQID: 'https://experienceleague.adobe.com/Kd3CN6b68ZF1HZcIfjIayYHL7KTPKMGydbBKqKZ14R8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 78
+source-wordcount: '78'
 ht-degree: 11%
-
 ---
-
 # 如何在我的服务器上允许列表[!DNL Sales Connect]？ {#how-can-i-allowlist-sales-connect-on-my-server}
 
 很遗憾，无法提供一个静态IP地址。 [!DNL Sales Connect]部署到云中，并利用200多台服务器处理电子邮件和用户请求。 而且提供非常大的范围对你来说也不会更安全。

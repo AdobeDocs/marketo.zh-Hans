@@ -1,19 +1,24 @@
 ---
 unique-page-id: 4719314
 description: 了解Salesforce和Salesforce之间的默认Marketo Engage字段映射。 查看商机、联系人、客户和机会字段如何自动映射。
-title: 默认Salesforce字段映射
+title: 默认 Salesforce 字段映射
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE
+TQID: 'https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 154
-ht-degree: 0%
-
+source-wordcount: '154'
+ht-degree: 5%
 ---
-
 # 默认[!DNL Salesforce]字段映射 {#default-salesforce-field-mapping}
 
 当您最初将Marketo Engage帐户与Salesforce同步时，Marketo会自动在内置的Salesforce和Marketo字段之间建立这些关联。 Marketo还将同步您的Leads、Accounts、Opportunities和Contacts上的自定义字段。
@@ -104,6 +109,6 @@ ht-degree: 0%
 | 字段 | 描述 |
 |---|---|
 | SFDC Id | 由18个字符组成的[!DNL Salesforce] ID |
-| SFDC类型 | 潜在客户或联系人。 如果为空，则商机在Marketo中仅作为人员存在 |
+| SFDC 类型 | 潜在客户或联系人。 如果为空，则商机在Marketo中仅作为人员存在 |
 | SFDC创建日期 | 在SFDC中创建的日期（可以不同于在Marketo中创建的日期） |
 | SFDC已删除 | 此人以前在SFDC中，但现在已被删除，仅居住在Marketo中 |

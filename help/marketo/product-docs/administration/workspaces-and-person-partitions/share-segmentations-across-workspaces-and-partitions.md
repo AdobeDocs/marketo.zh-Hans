@@ -4,28 +4,40 @@ description: 用于跨工作区和分区共享分段的规则和步骤，包括�
 title: 跨工作区和分区共享分段
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-TQID: https://experienceleague.adobe.com/fzHumE5x1Y5tSVjUUlHabe-cZgPC5jmqwtl4aLYhjDA
+TQID: 'https://experienceleague.adobe.com/fzHumE5x1Y5tSVjUUlHabe-cZgPC5jmqwtl4aLYhjDA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 463
-ht-degree: 0%
-
+source-wordcount: '463'
+ht-degree: 4%
 ---
-
 # 跨工作区和分区共享分段 {#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
@@ -50,14 +62,14 @@ Marketo可为项目或智能营销策划确定合适的人员。 但是，对于
 
 * 分段处理仅对创建分段的工作区中的人员运行。
 
-   * 创建要在默认Workspace中共享的分段。
-      * 批准分段
-      * 共享工作区将看到一个锁定的文件夹，并且分段为只读。
-      * 无法编辑共享版本。 您只能编辑创建它的原始分段。
+  * 创建要在默认Workspace中共享的分段。
+    * 批准分段
+    * 共享工作区将看到一个锁定的文件夹，并且分段为只读。
+    * 无法编辑共享版本。 您只能编辑创建它的原始分段。
 
-   * 当您单击共享区段中的区段（例如，医疗保健）时，您看到的人员将只是与正在查看的工作区相关联的分区中的人员。
-      * 如果在Workspace 1 (WS1)中创建分段并将其与WS2共享，并且WS1无权访问WS2的分区，则不会重新计算分段。
-      * 如果在具有有限分区的工作区中创建分段，然后将其与另一个工作区共享，则接收共享分段的工作区将仅看到重叠的人员。
+  * 当您单击共享区段中的区段（例如，医疗保健）时，您看到的人员将只是与正在查看的工作区相关联的分区中的人员。
+    * 如果在Workspace 1 (WS1)中创建分段并将其与WS2共享，并且WS1无权访问WS2的分区，则不会重新计算分段。
+    * 如果在具有有限分区的工作区中创建分段，然后将其与另一个工作区共享，则接收共享分段的工作区将仅看到重叠的人员。
 
 >[!NOTE]
 >
@@ -87,11 +99,11 @@ Marketo可为项目或智能营销策划确定合适的人员。 但是，对于
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. 右键单击该文件夹并选择&#x200B;**[!UICONTROL Share Folder]**。
+1. 右键点击该文件夹，并选择 **[!UICONTROL Share Folder]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. 选择要与其共享文件夹的工作区。 单击&#x200B;**[!UICONTROL Save]**。
+1. 选择要与其共享文件夹的工作区。 单击 **[!UICONTROL Save]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

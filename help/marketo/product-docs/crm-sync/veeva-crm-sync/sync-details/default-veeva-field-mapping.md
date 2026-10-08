@@ -1,18 +1,23 @@
 ---
 description: 了解Veeva CRM和Marketo Engage之间的默认Veeva字段映射。 了解联系人和帐户字段如何映射以及哪些自定义字段同步。
-title: 默认 [!DNL Veeva] 字段映射
+title: 默认[!DNL Veeva]字段映射
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY
+TQID: 'https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '273'
 ht-degree: 37%
-
 ---
-
 # 默认[!DNL Veeva]字段映射 {#default-veeva-field-mapping}
 
 当您最初将Marketo Engage帐户与[!DNL Veeva]同步时，Marketo会自动在内置[!DNL Veeva]和Marketo字段之间关联这些关联。 Marketo还将同步您的“帐户”和“联系人”中的自定义字段。
@@ -153,7 +158,7 @@ ht-degree: 37%
       <td>帐单寄送地址</td>
     </tr>
     <tr>
-      <td>帐户说明</td>
+      <td>帐户描述</td>
       <td>公司注释</td>
     </tr>
     <tr>

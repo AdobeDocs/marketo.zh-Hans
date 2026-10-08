@@ -2,13 +2,17 @@
 description: 了解Marketo的25个月和90天数据保留策略如何影响Analytics报表，以及每个报表的划分和延长数据保留时间的提示。
 title: 数据保留
 feature: Reporting
-source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
-
 ---
-
 # Marketo活动数据保留策略 — 对报表的影响
 
 Marketo以滚动方式保留营销活动数据。 活动和促销活动会员资格数据的存储时间为活动日期之后的25个月滚动时间，而大容量活动数据的存储时间默认为活动日期之后的90天滚动时间，具体时间可根据用户进行调整。 在这些保留期之后，将无法再通过Marketo UI访问数据。
@@ -93,7 +97,7 @@ Marketo以滚动方式保留营销活动数据。 活动和促销活动会员资
 
 ## 导出数据
 
-Marketo提供了[批量提取REST API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract)，可让您导出人员活动并将其存储在本地。 一旦通过API提取数据，您就可以根据需要对用例进行存储和排序。
+Marketo提供了[批量提取REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract)，可让您导出人员活动并将其存储在本地。 一旦通过API提取数据，您就可以根据需要对用例进行存储和排序。
 
 >[!TIP]
 >

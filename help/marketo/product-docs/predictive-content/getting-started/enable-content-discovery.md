@@ -4,16 +4,18 @@ description: 了解如何启用内容发现，以便预测内容自动发现和�
 title: 启用内容发现
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w
+TQID: 'https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 4%
-
 ---
-
 # 启用内容发现 {#enable-content-discovery}
 
 内容发现功能可自动发现和标记您现有的内容（包括案例研究、博客文章、视频、新闻稿等） 并跟踪对这些材料的查看次数。  预测内容使用搜索到的内容，并采用预测分析来确定哪些内容是表现最好的内容，并将最佳内容推荐给适当的人员。

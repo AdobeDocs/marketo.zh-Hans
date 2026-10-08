@@ -3,16 +3,18 @@ description: 了解如何在命令中心中使用高级搜索来查找电子邮�
 title: 高级搜索概述
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
+TQID: 'https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 398
+source-wordcount: '398'
 ht-degree: 4%
-
 ---
-
 # 高级搜索概述 {#advanced-search-overview}
 
 通过利用高级搜索来定位已查看、单击或回复电子邮件的潜在客户，您可以创建最活跃的潜在客户的目标列表。
@@ -86,13 +88,13 @@ ht-degree: 4%
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**状态：已发送**&#x200B;_
+_**状态：已发送**_
 
 ![](assets/advanced-search-overview-10.png)
 
 按已发送的电子邮件活动筛选。 您可以选择[!UICONTROL views]/[!UICONTROL no views]、[!UICONTROL clicks]/[!UICONTROL no clicks]和/或[!UICONTROL replies]/[!UICONTROL no replies]。
 
-_&#x200B;**状态：待处理**&#x200B;_
+_**状态：待处理**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -117,7 +119,7 @@ _&#x200B;**状态：待处理**&#x200B;_
  </tr>
 </table>
 
-_&#x200B;**状态：未传递**&#x200B;_
+_**状态：未传递**_
 
 ![](assets/advanced-search-overview-12.png)
 

@@ -4,20 +4,26 @@ description: 了解Marketo中的电子邮件抄送选项。 在合规性或可�
 title: 电子邮件抄送
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/gshenY7XsQYoWMkkrHQROoSu6uqtxUFxSsKSOLPPCAU
+TQID: 'https://experienceleague.adobe.com/gshenY7XsQYoWMkkrHQROoSu6uqtxUFxSsKSOLPPCAU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Troubleshooting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 562
-ht-degree: 0%
-
+source-wordcount: '562'
+ht-degree: 1%
 ---
-
 # 电子邮件抄送 {#email-cc}
 
 电子邮件抄送允许通过Marketo发送的指定电子邮件包含抄送收件人。
@@ -38,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 单击&#x200B;**[!UICONTROL Edit Email CC Settings]**。
+1. 单击 **[!UICONTROL Edit Email CC Settings]**。
 
    ![](assets/three.png)
 
@@ -52,7 +58,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 单击&#x200B;**[!UICONTROL Email Settings]**。
+1. 单击 **[!UICONTROL Email Settings]**。
 
    ![](assets/six.png)
 

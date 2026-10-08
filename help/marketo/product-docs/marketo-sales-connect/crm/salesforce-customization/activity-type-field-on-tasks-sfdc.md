@@ -4,16 +4,18 @@ description: 了解将Sales Connect同步到Salesforce时任务的“活动类�
 title: 任务中的活动类型字段（SFDC）
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UJAL2pE3Pq0n7Sn9ev7GMGkBbgx12pZ0I5lBzfLpF1c
+TQID: 'https://experienceleague.adobe.com/UJAL2pE3Pq0n7Sn9ev7GMGkBbgx12pZ0I5lBzfLpF1c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 259
+source-wordcount: '259'
 ht-degree: 6%
-
 ---
-
 # 任务中的活动类型字段（SFDC） {#activity-type-field-on-tasks-sfdc}
 
 借助[!DNL Sales Connect]，您可以在[!DNL Salesforce]中将您的电子邮件和呼叫记录为活动。 在[!DNL Salesforce]中具有宝贵数据的关键部分是，让[!UICONTROL Type]字段填充正确的值。

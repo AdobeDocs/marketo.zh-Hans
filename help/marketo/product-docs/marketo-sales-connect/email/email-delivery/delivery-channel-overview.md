@@ -4,16 +4,18 @@ description: 了解Sales Connect中的投放渠道。 了解电子邮件的发�
 title: 发送渠道概述
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
+TQID: 'https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 568
+source-wordcount: '569'
 ht-degree: 1%
-
 ---
-
 # 发送渠道概述 {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect]为您提供多种电子邮件发送选项。 本文将介绍您可以利用的投放渠道、如何选择渠道以及何时选择渠道。
@@ -52,11 +54,11 @@ MSC服务器不支持DKIM和SPF身份验证方法，这可能会降低投放率�
 
 ## Marketo服务器 {#marketo-servers}
 
-Marketo电子邮件服务器未与[!DNL Sales Connect]集成。 Marketo服务器针对批量交付进行了优化，以便能够根据营销人员的需求进行扩展。 但是，Gmail和[!DNL Exchange]在1:1销售通信中具有更高的成功率，因此我们建议将这些服务器用于您的销售通信。
+Marketo电子邮件服务器未与[!DNL Sales Connect]集成。 Marketo服务器针对批量交付进行了优化，以便能够根据营销人员的需求进行扩展。 但是，Gmail和[!DNL Exchange]的1:1销售通信成功率更高，因此我们建议将这些服务器用于您的销售通信。
 
 >[!MORELIKETHIS]
 >
 >* Gmail用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->*  [!DNL Outlook] 用户[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的电子邮件连接
+>*  [!DNL Outlook] 用户](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的[电子邮件连接
 >* [设置自定义投放渠道](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [电子邮件连接限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

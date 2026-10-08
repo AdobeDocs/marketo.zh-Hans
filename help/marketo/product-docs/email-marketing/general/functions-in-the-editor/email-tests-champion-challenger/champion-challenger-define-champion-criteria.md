@@ -4,16 +4,21 @@ description: 了解如何为电子邮件测试定义Champion标准。 设置规�
 title: 冠军/挑战者 — 定义冠军标准
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/uCGJ3Nj-5vpy1tGytN5YXEDqB3DQKNk8FlxkVbMoei8
+TQID: 'https://experienceleague.adobe.com/uCGJ3Nj-5vpy1tGytN5YXEDqB3DQKNk8FlxkVbMoei8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '179'
 ht-degree: 4%
-
 ---
-
 # 挑战者对比：定义优胜标准 {#champion-challenger-define-champion-criteria}
 
 设置测试类型后，您需要定义冠军标准。 操作方法如下：

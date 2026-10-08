@@ -3,20 +3,23 @@ description: 了解如何在Marketo中举办交互式网络研讨会。 运行�
 title: 举办互动网络研讨会
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-TQID: https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo
+TQID: 'https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1198
+source-wordcount: '1198'
 ht-degree: 0%
-
 ---
-
 # 举办互动网络研讨会 {#deliver-an-interactive-webinar}
 
 您的交互式网络研讨会已准备就绪。 了解关于演示需要了解的一切信息。
@@ -99,7 +102,7 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 可以将“广播控制”设置为在您离开绿色房间后自动开始录制。 这可确保主机不必记得手动启动和停止录制。 暂停或停止广播也会暂停或停止录制。 一切都是自动的。
 
-在此视频[&#128279;](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中了解有关广播控制的更多信息。
+在此视频](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中了解有关广播控制[的更多信息。
 
 ### 录制中的聊天 {#chats-in-recordings}
 
@@ -111,7 +114,7 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-了解有关[聊天面板](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}的更多信息。
+了解有关[聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}的更多信息。
 
 ### 准备模式 {#prepare-mode}
 
@@ -129,27 +132,27 @@ Broadcast Control会向交互式网络研讨会会话添加一个虚拟的绿色
 
 这将关闭准备模式并返回到活动布局。
 
-在此视频[&#128279;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中了解有关准备模式的更多信息。
+在此视频](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中了解有关准备模式[的更多信息。
 
 >[!NOTE]
 >
 >* 对实时pod所做的任何更改都会立即反映给参与者。
->* [聊天面板](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是准备模式的一部分，对其所做的任何更改都将立即反映给参与者。
+>* [聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是准备模式的一部分，对其所做的任何更改都将立即反映给参与者。
 
 ### 辅助功能 {#accessibility}
 
 Adobe通过改进交互式网络研讨会的无障碍性，努力让残障人士和参与者参与其中。 该软件不断得到增强，以满足所有类型的用户的需求，并遵守包括视觉、听觉、移动或其他残疾人士在内的全球标准。
 
-了解Adobe Connect如何针对[视觉、听觉和移动需求](https://helpx.adobe.com/cn/adobe-connect/using/accessibility-features.html){target="_blank"}提供帮助。
+了解Adobe Connect如何针对[视觉、听觉和移动需求](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}提供帮助。
 
 ### 隐藏式字幕 {#closed-captions}
 
 隐藏式字幕是Adobe Connect房间内音频的文本表示形式，可帮助耳聋或听力缺佳的参与者参与活动。 您可以将音频内容的实时字幕集成到事件中，并在隐藏式字幕显示中呈现这些字幕。
 
-了解如何[启用隐藏式字幕](https://helpx.adobe.com/cn/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+了解如何[启用隐藏式字幕](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
 
 ### 模拟的实时网络研讨会 {#simulated-live-webinars}
 
 演示预先录制的网络研讨会，就像使用模拟实时网络研讨会格式直播一样。 与会者可以在计划的时间加入并实时体验会议，享受聊天、投票和问答等互动功能。模拟的实时网络研讨会将录制内容的可靠性与实时事件的交互式体验相结合。
 
-了解有关[模拟实时网络研讨会](https://helpx.adobe.com/cn/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}的更多信息。
+了解有关[模拟实时网络研讨会](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}的更多信息。

@@ -4,20 +4,23 @@ description: 如何设置分配规则，将人员从CRM路由到正确的人员�
 title: 使用分配规则分配人员分区
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-TQID: https://experienceleague.adobe.com/7e7A0wXFiKVttSm7BXEJYtVBnSW6qAah1ygNqO4qdr0
+TQID: 'https://experienceleague.adobe.com/7e7A0wXFiKVttSm7BXEJYtVBnSW6qAah1ygNqO4qdr0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 160
+source-wordcount: '160'
 ht-degree: 13%
-
 ---
-
 # 使用分配规则分配人员分区 {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]

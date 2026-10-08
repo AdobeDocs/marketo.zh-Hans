@@ -3,16 +3,18 @@ description: 了解Sales Campaign电子邮件步骤的发送选项。 选择发�
 title: 了解销售营销活动电子邮件步骤的发送选项
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-TQID: https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM
+TQID: 'https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 758
-ht-degree: 3%
-
+source-wordcount: '772'
+ht-degree: 2%
 ---
-
 # 了解销售营销活动电子邮件步骤的发送选项 {#understanding-sales-campaign-send-options-for-email-steps}
 
 在创建促销活动时，对于如何在[!DNL Sales Insight Actions]中创建电子邮件步骤，您有多个选项。 而且，根据电子邮件在促销活动中的位置，您的选项也会有所不同。
@@ -37,8 +39,8 @@ ht-degree: 3%
 * 此选项将创建一个您可方便发送的电子邮件任务（并同步到[!DNL Salesforce]）。
 * 作出此选择后，当您启动销售活动时，我们将在指挥中心和实时信息源中为您将这些任务排入队列。 然后，您可以个性化并发送（或计划）每封电子邮件，然后再发送。
 
-   * 如果您在Web应用程序中打开此任务，它将打开一个撰写窗口，其中包含联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
-   * 如果您在Gmail或[!DNL Outlook]中打开此任务，它将打开本机撰写窗口，并动态填充联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
+  * 如果您在Web应用程序中打开此任务，它将打开一个撰写窗口，其中包含联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
+  * 如果您在Gmail或[!DNL Outlook]中打开此任务，它将打开本机撰写窗口，并动态填充联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
 
 ## 后续步骤发送选项 {#subsequent-step-send-options}
 
@@ -63,8 +65,8 @@ ht-degree: 3%
 * 此选项将创建一个您可方便发送的电子邮件任务（并同步到[!DNL Salesforce]）。
 * 作出此选择后，当您启动销售活动时，[!DNL Sales Insight Actions]将在指挥中心和实时信息源中为您排队这些任务。 然后，您可以个性化并发送（或计划）每封电子邮件，然后再发送。
 
-   * 如果您在Web应用程序中打开此任务，它将打开一个撰写窗口，其中包含联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
-   * 如果您在Gmail或[!DNL Outlook]中打开此任务，它将打开本机撰写窗口，并动态填充联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
+  * 如果您在Web应用程序中打开此任务，它将打开一个撰写窗口，其中包含联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
+  * 如果您在Gmail或[!DNL Outlook]中打开此任务，它将打开本机撰写窗口，并动态填充联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
 
 ### 创建此电子邮件作为此营销活动中上一封电子邮件的跟进 {#subsequent-create-this-email}
 

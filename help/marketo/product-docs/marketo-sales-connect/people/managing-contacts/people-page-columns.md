@@ -4,16 +4,18 @@ description: 了解Sales Connect中的“人员”页面列。 自定义显示�
 title: 人员页面列
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk
+TQID: 'https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 244
+source-wordcount: '244'
 ht-degree: 8%
-
 ---
-
 # 人员页面列 {#people-page-columns}
 
 通过选择显示的列，您可以选择自定义您看到的联系信息。
@@ -42,11 +44,11 @@ ht-degree: 8%
   </tr>
   <tr>
    <td>[!UICONTROL First Name (default)]</td>
-   <td>名字</td>
+   <td>名</td>
   </tr>
   <tr>
    <td>[!UICONTROL Last Name (default)]</td>
-   <td>姓氏</td>
+   <td>姓</td>
   </tr>
   <tr>
    <td colspan="1">[!UICONTROL Email (default)]</td>
@@ -58,7 +60,7 @@ ht-degree: 8%
   </tr>
   <tr>
    <td colspan="1">[!UICONTROL Title (default)]</td>
-   <td colspan="1">职务名称</td>
+   <td colspan="1">作业名称</td>
   </tr>
   <tr>
    <td>[!UICONTROL Company (default)]</td>

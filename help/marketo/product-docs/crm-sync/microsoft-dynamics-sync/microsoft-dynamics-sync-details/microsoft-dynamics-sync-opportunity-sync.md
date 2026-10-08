@@ -4,16 +4,21 @@ description: 了解opportunity sync如何从Microsoft Dynamics同步到Marketo�
 title: Microsoft Dynamics同步 — 机会同步
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg
+TQID: 'https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft Dynamics]同步：机会同步 {#microsoft-dynamics-sync-opportunity-sync}
 
 Marketo与[!DNL Dynamics]的同步功能强大。 下面是机会同步的所有详细信息：
@@ -36,8 +41,8 @@ Marketo与[!DNL Dynamics]的同步功能强大。 下面是机会同步的所有
 
 * 在创建业务机会时，可以设置Contact （要联系的表单上的查找字段）和/或Account （要联系的表单上的查找字段）。 在任一情况下，这些值都存储在Dynamics的潜在客户(customerid)字段中。 此字段未显示在机会表单上，但可从设置添加。 此字段只能包含1个值，即联系人或帐户。 Marketo执行以下操作：
 
-   * 如果设置了联系人值并且帐户为空，则Marketo将创建一个`opportunitycontactrole`并将商机上的帐户设置为联系人的帐户。 如果联系人没有帐户，此字段将留空。
-   * 如果设置了account值并且contact留空，则Marketo将只为该帐户设置商机上的帐户。
-   * 如果同时设置了这两个值，则Dynamics会选择帐户作为customerid的值，因此其行为将与上面相同。
+  * 如果设置了联系人值并且帐户为空，则Marketo将创建一个`opportunitycontactrole`并将商机上的帐户设置为联系人的帐户。 如果联系人没有帐户，此字段将留空。
+  * 如果设置了account值并且contact留空，则Marketo将只为该帐户设置商机上的帐户。
+  * 如果同时设置了这两个值，则Dynamics会选择帐户作为customerid的值，因此其行为将与上面相同。
 
 * 通过利益干系人： Dynamics使用连接从机会创建页面将机会连接到利益干系人。 为此，将为每个新利益相关者创建`opportunitycontactrole`记录。

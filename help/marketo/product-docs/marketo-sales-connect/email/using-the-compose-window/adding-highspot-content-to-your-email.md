@@ -4,16 +4,18 @@ description: 了解如何将Highspot内容添加到Sales Connect电子邮件中�
 title: 向电子邮件添加 Highspot 内容
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/kVIAJgt6Jrv6px5XM7lIepJw4m3nxHtn76aGXbUob-0
+TQID: 'https://experienceleague.adobe.com/kVIAJgt6Jrv6px5XM7lIepJw4m3nxHtn76aGXbUob-0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 143
+source-wordcount: '143'
 ht-degree: 4%
-
 ---
-
 # 正在向您的电子邮件添加[!DNL Highspot]内容 {#adding-highspot-content-to-your-email}
 
 如果您是[!DNL Highspot]客户，则可以轻松地将[!DNL Highspot]内容插入到您的[!DNL Sales Connect]电子邮件中。

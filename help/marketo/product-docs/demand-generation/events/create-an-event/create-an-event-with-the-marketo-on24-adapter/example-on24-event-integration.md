@@ -4,16 +4,18 @@ description: 从ON24事件与Marketo集成的示例中学习。 查看从网络�
 title: ON24 事件集成示例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-TQID: https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY
+TQID: 'https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 374
+source-wordcount: '374'
 ht-degree: 2%
-
 ---
-
 # ON24 事件集成示例 {#example-on-event-integration}
 
 以下是ON24网络研讨会的示例事件，包括营销活动。 构建活动时，请在运行活动之前对其进行测试。
@@ -49,8 +51,8 @@ ht-degree: 2%
 * **智能列表** — 定义您将邀请谁参加活动。
 * **流量**
 
-   * 发送电子邮件 — 如果这是本地资产电子邮件，则它将具有以下命名约定：EventName.EmailName。 您还可以使用全局电子邮件。
-   * 进度中的更改状态 — 设置为“网络研讨会”>“已邀请”。
+  * 发送电子邮件 — 如果这是本地资产电子邮件，则它将具有以下命名约定：EventName.EmailName。 您还可以使用全局电子邮件。
+  * 进度中的更改状态 — 设置为“网络研讨会”>“已邀请”。
 
 * **计划** — 设置发送邀请的日期。
 
@@ -58,7 +60,7 @@ ht-degree: 2%
 
 * **智能列表**
 
-   * 根据&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;触发营销活动。 使用&#x200B;**[!UICONTROL Add Constraint]**&#x200B;包含表单所在的登陆页面，尤其是表单用于多个登陆页面时。
+  * 根据&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;触发营销活动。 使用&#x200B;**[!UICONTROL Add Constraint]**&#x200B;包含表单所在的登陆页面，尤其是表单用于多个登陆页面时。
 
 >[!CAUTION]
 >
@@ -68,9 +70,9 @@ ht-degree: 2%
 
 * **流量**
 
-   * **在Progression**&#x200B;中更改状态 — 设置为“网络研讨会”>“已注册”。 **注意**：在设置子营销活动时，需要此流程步骤。 当人员的进度状态更改为&#x200B;**已注册**&#x200B;时，Marketo会将注册信息推送到ON24。
+  * **在Progression**&#x200B;中更改状态 — 设置为“网络研讨会”>“已注册”。 **注意**：在设置子营销活动时，需要此流程步骤。 当人员的进度状态更改为&#x200B;**已注册**&#x200B;时，Marketo会将注册信息推送到ON24。
 
-   * **发送电子邮件** — 确认电子邮件（设置为&#x200B;**操作**，以便已注册的已取消订阅的用户仍可接收该电子邮件）。
+  * **发送电子邮件** — 确认电子邮件（设置为&#x200B;**操作**，以便已注册的已取消订阅的用户仍可接收该电子邮件）。
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 

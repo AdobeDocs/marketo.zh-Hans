@@ -4,18 +4,23 @@ description: 了解Marketo中的参与计划、流、内容、投放和节奏。
 title: 了解参与项目
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
+TQID: 'https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 290
+source-wordcount: '290'
 ht-degree: 87%
-
 ---
-
 # 了解参与项目 {#understanding-engagement-programs}
 
 参与项目旨在通过系统化的方式向新受众呈现内容，从而开展营销。
@@ -95,7 +100,7 @@ ht-degree: 87%
 
 ## 内容参与度等级 {#content-engagement-level}
 
-内容参与度等级是 Marketo 为您的内容分配的一个 0 到 100 的评分。 该评分通过一套复杂的计算公式得出，综合考虑了打开率、点击率、取消订阅、项目成功情况等多种因素。
+内容参与度等级是 Marketo 为您的内容分配的一个 0 到 100 的评分。 该评分通过一套复杂的计算公式得出，综合考虑了打开、点击、取消订阅、项目成功情况等多种因素。
 
 >[!MORELIKETHIS]
 >

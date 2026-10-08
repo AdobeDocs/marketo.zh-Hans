@@ -4,18 +4,23 @@ description: 了解如何在v1.0中将可编辑部分添加到电子邮件模板
 title: 向电子邮件模板 v1.0 添加可编辑部分
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/j2rwpy7Bq-HH3-mva5FkDb3kKH8cvlH2hMUp0ic7sno
+TQID: 'https://experienceleague.adobe.com/j2rwpy7Bq-HH3-mva5FkDb3kKH8cvlH2hMUp0ic7sno'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: '111'
 ht-degree: 13%
-
 ---
-
 # 向电子邮件模板 v1.0 添加可编辑部分 {#add-editable-sections-to-email-templates-v1.0}
 
 如果您在电子邮件模板编辑器v1.0中创建模板，则可以通过在任意部分周围放置特殊`<div>`来使其可编辑。

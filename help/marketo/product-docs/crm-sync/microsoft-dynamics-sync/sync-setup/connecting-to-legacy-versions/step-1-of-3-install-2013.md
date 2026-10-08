@@ -4,16 +4,21 @@ description: 了解如何在Dynamics 2013内部部署中安装Marketo解决方�
 title: 第1步（共3步） — 在Dynamics中安装Marketo解决方案（2013年内部部署）
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/4WajWj-c4TYpq3cU3QRu1C-TbsYwCo2lDuvsrGLOwGo
+TQID: 'https://experienceleague.adobe.com/4WajWj-c4TYpq3cU3QRu1C-TbsYwCo2lDuvsrGLOwGo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 282
-ht-degree: 0%
-
+source-wordcount: '282'
+ht-degree: 1%
 ---
-
 # 第1步（共3步）：在[!DNL Dynamics]中安装Marketo解决方案（2013年内部部署） {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
 在同步[!DNL Microsoft Dynamics]内部部署和Marketo之前，您需要先在[!DNL Dynamics]中安装Marketo解决方案。
@@ -42,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
-1. 单击&#x200B;**[!UICONTROL Import]**。
+1. 单击 **[!UICONTROL Import]**。
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. 单击&#x200B;**[!UICONTROL Browse]**&#x200B;并选择[下载的解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击&#x200B;**[!UICONTROL Next]**。
+1. 单击&#x200B;**[!UICONTROL Browse]**&#x200B;并选择[下载的解决方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 单击 **[!UICONTROL Next]**。
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
@@ -62,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 
-1. 确保选中SDK选项。 单击&#x200B;**[!UICONTROL Import]**。
+1. 确保选中SDK选项。 单击 **[!UICONTROL Import]**。
 
    ![](assets/image2015-3-26-10-3a3-3a11.png)
 

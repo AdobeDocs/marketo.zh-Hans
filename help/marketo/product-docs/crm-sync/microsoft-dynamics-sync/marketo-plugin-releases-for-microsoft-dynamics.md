@@ -1,21 +1,27 @@
 ---
 unique-page-id: 10099389
 description: 了解适用于Microsoft Dynamics的Marketo插件版本。 查找版本历史记录并下载适用于您的Dynamics实例的最新Marketo解决方案。
-title: 适用于 [!DNL Microsoft Dynamics]的Marketo插件版本
+title: 适用于[!DNL Microsoft Dynamics]的Marketo插件版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/jz77p3iIGzpZFGrGPLoAFpz0b6EGllNwLc6g4Wj6G4g
+TQID: 'https://experienceleague.adobe.com/jz77p3iIGzpZFGrGPLoAFpz0b6EGllNwLc6g4Wj6G4g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 519
+source-wordcount: '519'
 ht-degree: 14%
-
 ---
-
 # 适用于[!DNL Microsoft Dynamics]的Marketo插件版本 {#marketo-plugin-releases-for-microsoft-dynamics}
 
 首次同步到[!DNL Microsoft Dynamics]时，您将下载Marketo插件的最新版本。 Marketo会定期更新这些插件，以便您能够返回到相同位置下载新版本。

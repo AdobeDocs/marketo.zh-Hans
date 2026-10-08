@@ -4,18 +4,23 @@ description: 了解如何使用流程步骤在Microsoft Dynamics中更改所有�
 title: 更改 Microsoft 中的所有者
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/PIWiyIrdTUfBQDTlWj-pkDZrt4tdlHGkRbfG0-g1M-w
+TQID: 'https://experienceleague.adobe.com/PIWiyIrdTUfBQDTlWj-pkDZrt4tdlHGkRbfG0-g1M-w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '105'
 ht-degree: 8%
-
 ---
-
 # 更改 Microsoft 中的所有者 {#change-owner-in-microsoft}
 
 如果您现有的人员已分配给所有者，则可以使用此流程步骤将它们重新分配给其他所有者。

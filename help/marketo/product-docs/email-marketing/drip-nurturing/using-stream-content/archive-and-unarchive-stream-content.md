@@ -4,18 +4,23 @@ description: 了解如何存档或取消存档流内容以保留历史记录。
 title: 归档和取消归档流内容
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/-MFre6oYxQ1kDi3jHv18YDHHXKtuV-CvZicTT5bMuvA
+TQID: 'https://experienceleague.adobe.com/-MFre6oYxQ1kDi3jHv18YDHHXKtuV-CvZicTT5bMuvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 144
+source-wordcount: '144'
 ht-degree: 6%
-
 ---
-
 # 归档和取消归档流内容 {#archive-and-unarchive-stream-content}
 
 如果您不再希望在流中使用某段内容，可以[将其删除](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)或将其存档。 以下是存档内容的方法。

@@ -4,13 +4,19 @@ description: 了解如何使用Marketo Engage中的项目分析器浏览项目�
 title: 使用项目分析器查看项目和渠道详情
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 4%
-
 ---
-
 # 使用[!UICONTROL Program Analyzer]浏览项目和渠道详细信息 {#explore-program-channel-details-with-the-program-analyzer}
 
 您可以在[!UICONTROL Program Analyzer]中查看详细的项目和渠道统计信息。 您还可以在Revenue Cycle Explorer中打开它们。
@@ -37,7 +43,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解FT和MT归因[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的差异很重要。
+   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解FT和MT归因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的[差异很重要。
 
 1. 要比较单个频道中的所有节目，请单击弹出对话框中的频道名称。
 

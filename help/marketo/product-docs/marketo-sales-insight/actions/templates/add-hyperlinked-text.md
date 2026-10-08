@@ -3,18 +3,20 @@ description: 了解如何在电子邮件模板中添加超链接文本。 在模
 title: 添加超链接文本
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/AG9YYnDYtvwKIRym4Rc5vyK0O3UQBz-er4ongNk-dCE
+TQID: 'https://experienceleague.adobe.com/AG9YYnDYtvwKIRym4Rc5vyK0O3UQBz-er4ongNk-dCE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 5%
-
 ---
-
 # 添加超链接文本 {#add-hyperlinked-text}
 
 请按照以下步骤了解如何向电子邮件模板添加超链接。
@@ -31,7 +33,7 @@ ht-degree: 5%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 输入您希望它链接的URL（即`https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans`）。 选择您想在同一窗口还是新窗口中打开URL，然后单击&#x200B;**[!UICONTROL Save]**。
+1. 输入您希望它链接的URL（即`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 选择您想在同一窗口还是新窗口中打开URL，然后单击&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-hyperlinked-text-4.png)
 

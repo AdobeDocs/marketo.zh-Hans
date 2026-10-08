@@ -3,20 +3,23 @@ description: 了解如何在交互式网络研讨会中添加网络研讨会团�
 title: 添加网络研讨会团队
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-TQID: https://experienceleague.adobe.com/7BngiRMzOdPMZSQkgDOY07ggRv-3zLzOKYJDlMjGAg0
+TQID: 'https://experienceleague.adobe.com/7BngiRMzOdPMZSQkgDOY07ggRv-3zLzOKYJDlMjGAg0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 455
+source-wordcount: '455'
 ht-degree: 2%
-
 ---
-
 # 添加网络研讨会团队 {#add-a-webinar-team}
 
 交互式网络研讨会中的网络研讨会团队包含所有有助于在Adobe Connect中成功举办网络研讨会的角色。 这包括演示者和联合主机。

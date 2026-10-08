@@ -3,16 +3,18 @@ description: 了解销售电子邮件和任务命令中心中的快速操作。 
 title: 指挥中心中的快速操作
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ
+TQID: 'https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
-ht-degree: 4%
-
+source-wordcount: '309'
+ht-degree: 3%
 ---
-
 # [!UICONTROL Command Center]中的快速操作 {#quick-actions-in-the-command-center}
 
 电子邮件网格中存在两种类型的快速操作列。 “电子邮件操作”允许您对电子邮件执行操作，“跟进操作”允许您通过快速单击执行参与操作。

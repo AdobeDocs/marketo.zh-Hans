@@ -3,18 +3,20 @@ description: 了解如何自定义销售电子邮件中的取消订阅链接消�
 title: 自定义取消订阅链接信息
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/J9kzlt-Lu5OzkVgyZypfDr8zzN8Rltq8vpl-rBlgNg0
+TQID: 'https://experienceleague.adobe.com/J9kzlt-Lu5OzkVgyZypfDr8zzN8Rltq8vpl-rBlgNg0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '199'
 ht-degree: 4%
-
 ---
-
 # 自定义取消订阅链接信息 {#customize-unsubscribe-link-message}
 
 我们始终允许团队自定义其取消订阅链接消息传递，但管理员可以选择为其整个团队设置取消订阅链接消息传递，以确保消息传递的一致性。

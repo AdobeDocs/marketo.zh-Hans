@@ -3,20 +3,24 @@ description: 了解如何优化和扩展您继承的现有Marketo Engage实例�
 title: 从何入手
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-TQID: https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24
+TQID: 'https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Resources
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 593
-ht-degree: 1%
-
+source-wordcount: '593'
+ht-degree: 3%
 ---
-
 # 从何入手 {#where-to-start}
 
 您是否正在启动新作业或从其他管理员那里接管现有实例，并且不确定从何处开始？ 虽然接管已运行了一段时间的实时实例看起来有点吓人，但我们为您准备了一些资源，帮助您快速上手。
@@ -25,11 +29,11 @@ ht-degree: 1%
 
 确保在Marketo Engage社区中正确设置了您。
 
-* [**填写必填字段（公司、解决方案专业、国家/地区等），以设置您的配置文件**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hans){target="_blank"}
+* [**填写必填字段（公司、解决方案专业、国家/地区等），以设置您的配置文件**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}
 
-* 阅读&#x200B;[**Adobe Experience League社区指南**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=zh-Hans){target="_blank"}。
+* 阅读&#x200B;[**Adobe Experience League社区指南**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}。
 
-* 了解如何&#x200B;[**提交支持案例**](https://experienceleague.adobe.com/zh-hans/support#home){target="_blank"}，并确认您已设置为[支持管理员](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}。
+* 了解如何&#x200B;[**提交支持案例**](https://experienceleague.adobe.com/en/support#home){target="_blank"}，并确认您已设置为[支持管理员](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}。
 
 ## 合并Marketo Engage社区配置文件 {#merge-your-community-profiles}
 
@@ -80,10 +84,10 @@ Adobe与Marketo Champions共同整合了多个Marketo Engage继承实例审核�
 
 需要更多帮助？ 通过以下链接与我们或Marketo Engage其他用户联系。
 
-* 有关某些无法正常工作的技术协助，请联系&#x200B;**[Marketo Engage客户支持](https://experienceleague.adobe.com/zh-hans/support){target="_blank"}**。
+* 有关某些无法正常工作的技术协助，请联系&#x200B;**[Marketo Engage客户支持](https://experienceleague.adobe.com/en/support){target="_blank"}**。
 
-* 与&#x200B;**[Adobe Marketo Engage社区](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hans){target="_blank"}**&#x200B;中的Marketo Engage同事用户联系并向其学习。
+* 与&#x200B;**[Adobe Marketo Engage社区](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**&#x200B;中的Marketo Engage同事用户联系并向其学习。
 
-* 如需充分利用Marketo Engage实例的实践帮助，请联系&#x200B;**[Adobe Professional Services](https://business.adobe.com/cn/products/marketo/services-support.html){target="_blank"}**。
+* 如需充分利用Marketo Engage实例的实践帮助，请联系&#x200B;**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**。
 
-* 观看有关Marketo Engage各个方面的&#x200B;**[策划的教程视频](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}**。
+* 观看有关Marketo Engage各个方面的&#x200B;**[策划的教程视频](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}**。

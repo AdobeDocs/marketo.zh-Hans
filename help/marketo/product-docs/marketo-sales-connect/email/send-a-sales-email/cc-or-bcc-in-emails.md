@@ -4,16 +4,18 @@ description: 了解如何在Sales Connect电子邮件中使用抄送或密送。
 title: 电子邮件中的抄送或密送
 exl-id: c4136fec-a85a-4927-9e1f-1e82274232a9
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gyHvxwvW5tqkkZ6nX1s0V5vV5Oy4DJnbaFPK-gN5Xao
+TQID: 'https://experienceleague.adobe.com/gyHvxwvW5tqkkZ6nX1s0V5vV5Oy4DJnbaFPK-gN5Xao'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: '91'
 ht-degree: 10%
-
 ---
-
 # 电子邮件中的抄送或密送 {#cc-or-bcc-in-emails}
 
 您可以像在电子邮件中一般那样对个人进行抄送和密送。

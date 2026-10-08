@@ -4,20 +4,23 @@ description: 了解如何将移动应用程序添加到Marketo以发送推送通
 title: 添加移动应用程序
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/z7Q-HWW5iv0zEEEAsdl0TGkgKrDRdCJur7E0SFEnuqk
+TQID: 'https://experienceleague.adobe.com/z7Q-HWW5iv0zEEEAsdl0TGkgKrDRdCJur7E0SFEnuqk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 5%
-
 ---
-
 # 添加移动应用程序 {#add-a-mobile-app}
 
 通过将您的移动应用程序连接到Marketo，向您的客户群发送推送通知。

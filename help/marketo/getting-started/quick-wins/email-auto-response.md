@@ -4,16 +4,18 @@ description: 电子邮件自动回复 - Marketo 文档 - 产品文档
 title: 电子邮件自动回复
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w
+TQID: 'https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 97%
-
 ---
-
 # 电子邮件自动回复 {#email-auto-response}
 
 ## 任务：当有人填写表单时，发送一封感谢邮件 {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
@@ -81,7 +83,7 @@ ht-degree: 97%
 
    ![](assets/email-auto-response-12.png)
 
-1. 在下拉菜单中选择 **[!UICONTROL My Form]**。 然后点击 **[!UICONTROL Flow]** 选项卡。
+1. 在下拉菜单中选择 **[!UICONTROL My Form]**。 单击 **[!UICONTROL Flow]** 选项卡。
 
    ![](assets/email-auto-response-13.png)
 

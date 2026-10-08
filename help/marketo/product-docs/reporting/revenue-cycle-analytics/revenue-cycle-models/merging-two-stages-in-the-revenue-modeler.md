@@ -4,13 +4,19 @@ description: 了解如何在Marketo Engage的收入建模器中合并两个阶�
 title: 在收入建模器中合并两个阶段
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 12%
-
 ---
-
 # 在收入建模器中合并两个阶段 {#merging-two-stages-in-the-revenue-modeler}
 
 批准模型后，在编辑草稿时无法删除阶段。 相反，您可以将该阶段与另一个阶段合并。

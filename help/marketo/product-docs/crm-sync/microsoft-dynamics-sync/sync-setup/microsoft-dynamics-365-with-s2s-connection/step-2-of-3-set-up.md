@@ -4,16 +4,21 @@ description: 了解如何为Dynamics 365设置具有服务器到服务器连接�
 title: 第2步（共3步） — 设置具有服务器到服务器连接的Marketo解决方案
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/3U-6D08B0wmDyHMsDwUqAzFT-jy1EroQ4ZHzndAr-kE
+TQID: 'https://experienceleague.adobe.com/3U-6D08B0wmDyHMsDwUqAzFT-jy1EroQ4ZHzndAr-kE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 605
+source-wordcount: '605'
 ht-degree: 0%
-
 ---
-
 # 第2步（共3步）：设置具有服务器到服务器连接的Marketo解决方案 {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
@@ -28,7 +33,7 @@ ht-degree: 0%
 
 1. 写下应用程序ID (ClientId)和租户ID。 您稍后需要在Marketo中输入。
 
-1. 按照本文[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}中的步骤授予管理员同意。
+1. 按照本文](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}中的步骤[授予管理员同意。
 
 1. 通过单击&#x200B;**[!UICONTROL Certificates & secrets]**&#x200B;在管理中心生成客户端密钥。
 

@@ -4,18 +4,23 @@ description: 了解Salesforce同步如何保持Marketo和Salesforce数据的同�
 title: 了解 Salesforce 同步
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/1H8ol0eKIzfQoQR-Je4jCdZX7R-rWWD63qrhkrsWtyg
+TQID: 'https://experienceleague.adobe.com/1H8ol0eKIzfQoQR-Je4jCdZX7R-rWWD63qrhkrsWtyg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 224
+source-wordcount: '224'
 ht-degree: 81%
-
 ---
-
 # 了解 [!DNL Salesforce] 同步 {#understanding-the-salesforce-sync}
 
 了解Salesforce同步如何保持Marketo和Salesforce数据的同步。
@@ -45,6 +50,6 @@ Marketo 全天候与 [!DNL Salesforce] 进行同步。 每次同步都会运行�
 
 >[!NOTE]
 >
->您[在 Marketo 中为 Salesforce 输入的凭据](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}将用于执行数据同步。 只有这些凭据有权限访问的数据才会得到同步。
+>您[在 Marketo 中为 Salesforce 输入的凭据](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}将用于执行数据同步。 只有这些凭据有权限访问的数据才会包含在内。
 
 Marketo 与 [!DNL Salesforce] 之间的同步是同类解决方案中功能最强大的之一。 这种体验就像魔法一样：在一个系统中完成更改，另一个系统很快就会同步更新。

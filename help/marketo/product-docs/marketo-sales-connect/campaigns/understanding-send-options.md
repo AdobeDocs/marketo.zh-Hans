@@ -4,16 +4,18 @@ description: 了解Sales Connect中促销活动电子邮件步骤的发送选项
 title: 了解发送选项
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE
+TQID: 'https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 617
+source-wordcount: '617'
 ht-degree: 0%
-
 ---
-
 # 了解发送选项 {#understanding-send-options}
 
 在创建营销活动时，对于如何在[!DNL Sales Connect]中创建电子邮件步骤，您有多个选项。 而且，根据电子邮件在Campaign中的位置，您的选项也会有所不同。
@@ -36,8 +38,8 @@ ht-degree: 0%
 * 此选项将创建一个[!UICONTROL Email Task] （并同步到[!DNL Salesforce]），您可以在方便时发送该选项。
 * 作出此选择后，当您启动活动时，我们将在指挥中心和实时信息源中为您排队执行这些任务。 然后，您可以个性化并发送（或计划）每封电子邮件，然后再发送。
 
-   * 如果您在Web应用程序中打开此任务，它将打开一个撰写窗口，其中包含联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
-   * 如果您在[!DNL Gmail]或[!DNL Outlook]中打开此任务，它将打开本机撰写窗口，并动态填充联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
+  * 如果您在Web应用程序中打开此任务，它将打开一个撰写窗口，其中包含联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
+  * 如果您在[!DNL Gmail]或[!DNL Outlook]中打开此任务，它将打开本机撰写窗口，并动态填充联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
 
 对于Campaign中的任何后续日期/步骤，您将具有以下选项：
 
@@ -60,8 +62,8 @@ ht-degree: 0%
 * 此选项将创建一个[!UICONTROL Email Task] （并同步到[!DNL Salesforce]），您可以在方便时发送该选项。
 * 作出此选择后，当您启动营销活动时， Tout将在指挥中心和实时信息源中为您排列这些任务。 然后，您可以个性化并发送（或计划）每封电子邮件，然后再发送。
 
-   * 如果您在Web应用程序中打开此任务，它将打开一个撰写窗口，其中包含联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
-   * 如果您在[!DNL Gmail]或[!DNL Outlook]中打开此任务，它将打开本机撰写窗口，并动态填充联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
+  * 如果您在Web应用程序中打开此任务，它将打开一个撰写窗口，其中包含联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
+  * 如果您在[!DNL Gmail]或[!DNL Outlook]中打开此任务，它将打开本机撰写窗口，并动态填充联系人的电子邮件地址、电子邮件的主题行以及您选择的模板。
 
 **将此电子邮件跟至上一封电子邮件**
 

@@ -1,22 +1,28 @@
 ---
 description: 了解对话流以及它们与对话框的区别。 设计由访客操作触发的流程，并在表单或弹出窗口中使用。
-title: 对话流概述
+title: 会话流概述
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-TQID: https://experienceleague.adobe.com/9y7MvnN91I03IMieLIKv1QhjKdr2uPFOnby-DbpR-cE
+TQID: 'https://experienceleague.adobe.com/9y7MvnN91I03IMieLIKv1QhjKdr2uPFOnby-DbpR-cE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 370
-ht-degree: 0%
-
+source-wordcount: '370'
+ht-degree: 3%
 ---
-
-# 对话流概述 {#conversational-flow-overview}
+# 会话流概述 {#conversational-flow-overview}
 
 设计对话流，并根据特定操作（例如，单击call-to-action按钮、页面加载时、页面逗留时间等）将其触发给任何访客。
 
@@ -29,8 +35,8 @@ ht-degree: 0%
 <table>
  <tbody>
   <tr>
-   <th style="width:50%">对话框</th>
-   <th style="width:50%">对话流</th>
+   <th style="width:50%">对话</th>
+   <th style="width:50%">会话流</th>
   </tr>
   <tr>
    <td>对话框具有针对性：您可以根据实施的参数，为特定页面和受众设计对话。</td>
@@ -68,7 +74,7 @@ ht-degree: 0%
 
 ![](assets/conversational-flow-overview-4.png)
 
-## “设置”选项卡 {#settings-tab}
+## 设置选项卡 {#settings-tab}
 
 ![](assets/conversational-flow-overview-5.png)
 
@@ -80,7 +86,7 @@ ht-degree: 0%
 >
 >选择其他语言只会更改系统文本的语言。 您负责翻译内容。
 
-### 对话SDK {#conversations-sdk}
+### Conversations SDK {#conversations-sdk}
 
 在“设置”选项卡的下半部分，自定义“对话”触发器（也称为“对话”SDK）。 您可以决定是在访客单击任意链接时还是在页面加载时在您的网站上触发对话。
 
@@ -88,7 +94,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->查看[对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=zh-Hans){target="_blank"}正在执行中！
+>查看[对话SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在执行中！
 
 >[!MORELIKETHIS]
 >

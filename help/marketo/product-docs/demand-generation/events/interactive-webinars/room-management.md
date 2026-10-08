@@ -3,21 +3,25 @@ description: 了解交互式网络研讨会的会议室管理。 创建和管理
 title: 会议室管理
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-TQID: https://experienceleague.adobe.com/pBehrFodQtNyG3QuXVWPlcZghrpxdsYd2b9O5jixDRk
+TQID: 'https://experienceleague.adobe.com/pBehrFodQtNyG3QuXVWPlcZghrpxdsYd2b9O5jixDRk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 790
+source-wordcount: '790'
 ht-degree: 0%
-
 ---
-
 # 会议室管理 {#room-management}
 
 由Adobe Connect提供支持的交互式网络研讨会室，旨在促进开展引人入胜的协作在线活动。 这些网络研讨会存储网络研讨会期间创建和使用的内容和录像。 作为有权创建文件室的成员，您可以从中心位置访问和管理文件室。

@@ -1,45 +1,76 @@
 ---
-title: "2020"
+title: '2020'
 description: 2020 - Marketo文档 — 产品文档
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+    internal-label: Help center
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 4148
+source-wordcount: '4152'
 ht-degree: 1%
-
 ---
-
 # 2020
 
 ## 2020 年 1 月 {#january}
@@ -88,7 +119,7 @@ ht-degree: 1%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=zh-Hans#design-studio)：无需离开Adobe即可访问Marketo Engage的编辑功能。 这项新功能允许您轻松地直接在[!UICONTROL Design Studio]中增强、裁切文本并将其添加到图像。
+* [图像编辑](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：无需离开Adobe即可访问Marketo Engage的编辑功能。 这项新功能允许您轻松地直接在[!UICONTROL Design Studio]中增强、裁切文本并将其添加到图像。
 
 ## [!DNL Sales Insight]
 
@@ -107,7 +138,7 @@ ht-degree: 1%
 >
 >* **ITP 2.1+ [!DNL Munchkin]更新**：由于对[!DNL Safari]的Cookie策略进行了更改，[!DNL Munchkin]在同一域上跨会话跟踪用户的能力将被ITP限制为1天或7天，具体取决于访客使用的浏览器和浏览器版本。 为此，我们正在实施一项新的Web服务，以允许通过HTTP响应使用Set-Cookie标头设置Munchkin Cookie。 有关如何实施此新服务的详细信息，可在[此处](https://nation.marketo.com/docs/DOC-7351)找到。
 
-**_产品发布网络研讨会_** [于3月3日（太平洋时间11:00AM / 2:00PM ET）加入我们](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，参加我们产品团队举办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。
+**_产品发布网络研讨会_** [与我们](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)一起参加我们于3月3日太平洋时间上午11:00/下午2:00举行的实时网络研讨会，该研讨会由我们的产品团队主持，详细了解此版本中包含的功能。
 
 ## 2020 年 2 月 {#february}
 
@@ -157,7 +188,7 @@ ht-degree: 1%
 * **Asset API“_method”参数**： 2020年9月之后，Asset API端点将不再接受在POST正文中传递“_method”以绕过URI长度限制。 为了适应需要此参数的请求，资产API的URI限制将从6KiB增加到65KiB，以便可以提交较长的请求URI。
 * **弃用Internet Explorer支持**：从2020年7月31日发行的7月版本开始，Internet Explorer将不再支持Marketo Engage用户界面。
 
-**_产品发布网络研讨会_** [于3月3日（太平洋时间11:00AM / 2:00PM ET）加入我们](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，参加我们产品团队举办的实时网络研讨会，并了解有关此版本中包含的功能的更多信息。
+**_产品发布网络研讨会_** [与我们](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)一起参加我们于3月3日太平洋时间上午11:00/下午2:00举行的实时网络研讨会，该研讨会由我们的产品团队主持，详细了解此版本中包含的功能。
 
 ## 2020 年 6 月 {#june}
 
@@ -171,7 +202,7 @@ ht-degree: 1%
 
 ## 核心Marketo Engage
 
-* **[预测受众](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=zh-Hans#predictive-audiences)** ![（星型）](assets/yellow-star.png)：通过Adobe AI提供的新智能列表和智能营销活动过滤器，可为电子邮件、事件和网络研讨会营销项目创建AI支持的受众区段。 使用AI帮助您根据潜在客户注册事件、参加事件或取消订阅的可能性细分受众。 根据过去的计划构建相似受众以高效地复制以前的成功案例。 通过预测目标跟踪实现转化目标，并获得有关如何优化事件项目的受众区段的建议。
+* **[预测受众](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![（星型）](assets/yellow-star.png)：通过Adobe AI提供的新智能列表和智能营销活动过滤器，可为电子邮件、事件和网络研讨会营销项目创建AI支持的受众区段。 使用AI帮助您根据潜在客户注册事件、参加事件或取消订阅的可能性细分受众。 根据过去的计划构建相似受众以高效地复制以前的成功案例。 通过预测目标跟踪实现转化目标，并获得有关如何优化事件项目的受众区段的建议。
 * **批量电子邮件提升** ![(star)](assets/yellow-star.png)：增强了我们的电子邮件营销功能，允许您每小时最多发送300万封批量电子邮件。 我们重新设计了批量活动和电子邮件报表处理，以增强电子邮件项目和批量电子邮件活动的性能。 这缩短了发送的前置时间，并缩短了完成时间。 按照常规方式设置电子邮件发送，不会增加复杂性。 此增强功能作为产品加载项提供，它还包含一个Delivery Services Launch Pack、电子邮件投放工具和多个专用IP地址。
 * **[与Adobe Experience Cloud (AEC)的受众集成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：新的Adobe Experience Cloud (AEC)集成，允许您将Marketo Engage中的已知商机的静态列表与多个AEC应用程序同步，以增强现有项目、解锁新用例并编排多渠道营销活动。 此集成包括Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager和Adobe Advertising Cloud。
 * **[项目群成员自定义字段](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**：捕获并利用项目群成员的相关自定义字段。 在Marketo Engage表单中使用这些新字段，在项目的成员列表中查看它们，在智能列表过滤器和触发器中利用它们，并将它们包含在新的智能营销活动流量操作中，以增强自动化和更精细的个性化。 这些也可以通过UI和API导入和导出。 增强了我们的自定义数据对象和字段功能。
@@ -187,7 +218,7 @@ ht-degree: 1%
 
 * **新帐户发现通常可用**
 
-   * 新帐户发现是对我们的帐户分析功能的增强，使您能够根据AI支持的理想客户配置文件模型为ABM策略发现新的净目标帐户。 查看、选择和导入推荐的新帐户，以及这些帐户基于人工智能的拟合和意图数据指示器。
+  * 新帐户发现是对我们的帐户分析功能的增强，使您能够根据AI支持的理想客户配置文件模型为ABM策略发现新的净目标帐户。 查看、选择和导入推荐的新帐户，以及这些帐户基于人工智能的拟合和意图数据指示器。
 
 <br> 
 
@@ -203,7 +234,7 @@ ht-degree: 1%
 * **Marketo Engage活动集成(BETA)**：将Marketo Engage活动数据直接引入[!DNL Bizible]，以在客户历程和所有归因模型中创建接触点。 示例包括商机得分更改、有趣的时刻、电子邮件点击或任何自定义活动。 增强了Marketo Engage集成。
 * **[!DNL Bizible]B2B客户属性集成(BETA)**：这是Adobe Experience Cloud与Adobe Analytics的集成，允许您将选定的Bizible数据直接引入Adobe Analytics以进行更深入的分析。 示例包括基于帐户的网站流量和按公司名称、帐户属性、CRM机会以及由[!DNL Bizible]归因收入和funnel阶段定义的高价值个人进行的内容分析。
 * **[!DNL Bizible]发现过滤器和增强功能**：跨功能板使用渠道、子渠道、营销活动和区段过滤器分析您的数据。 使用更多向下钻取属性增强数据可见性。 这是对探索讨论区的增强。
-* [!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;活动同步：通过将[!DNL Microsoft Dynamics]个CRM活动引入接触点历程来归因销售交互，并跟踪与潜在客户或联系人关联的呼叫、约会或任务等事件。 增强我们的[!DNL Microsoft Dynamics] CRM集成。
+* [!DNL Microsoft Dynamics]**的**&#x200B;活动同步：通过将[!DNL Microsoft Dynamics]个CRM活动引入接触点历程来归因销售交互，并跟踪与潜在客户或联系人关联的呼叫、约会或任务等事件。 增强我们的[!DNL Microsoft Dynamics] CRM集成。
 
 ## [!DNL Sales Insight]
 
@@ -277,7 +308,7 @@ ht-degree: 1%
 
 * **Asset API“_method”参数删除**： 2020年9月之后，Asset API端点将不再接受在POST正文中传递“_method”以绕过URI长度限制。 为了适应需要此参数的请求，资产API的URI限制将从8 KB增加到65 KB。
 * **[[!DNL Munchkin] 关联潜在客户](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：通过此版本的Munchkin JavaScript客户端版本159，我们将开始弃用[!DNL Munchkin]关联潜在客户方法。 如果调用，您将收到一则警告，指示将在未来版本中删除该方法。 一旦删除，此方法将无法再正常使用，并且尝试使用它将失败。 最近使用此方法的Marketo Engage客户将单独收到有关其使用的通知。
-* **对Internet Explorer**&#x200B;的支持：如之前宣布的，Marketo Engage对Internet Explorer 11的支持将于&#x200B;**2020年7月31日**&#x200B;终止。 我们将继续支持[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL &#x200B; Apple Safari]和[!DNL Microsoft Edge]。
+* **对Internet Explorer**&#x200B;的支持：如之前宣布的，Marketo Engage对Internet Explorer 11的支持将于&#x200B;**2020年7月31日**&#x200B;终止。 我们将继续支持[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL  Apple Safari]和[!DNL Microsoft Edge]。
 * **Sky默认体验**：将在此版本中删除管理员或用户将[!DNL Marketo Sky]设置为默认体验的选项，以便为更新主用户体验做准备。 有关更新主要体验的更多详细信息，计划在今年晚些时候发布，将于7月发布。 已将[!DNL Marketo Sky]设置为默认体验或已授予[!DNL Marketo Sky]访问权限的用户可以继续从“我的Marketo”主页上的图块访问[!DNL Marketo Sky]。
 * **EdgeHTML（非Chromium） [!DNL Microsoft Edge]支持**： 2020年底，Marketo Engage将不再支持Microsoft Edge的EdgeHTML版本。 从2021年1月1日开始，我们将仅支持最新的Microsoft Edge版本。
 

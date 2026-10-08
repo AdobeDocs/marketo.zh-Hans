@@ -4,20 +4,26 @@ description: 在从不受信任的源导入列表期间，阻止覆盖密钥字�
 title: 在从不受信任来源导入列表时阻止字段更新
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-TQID: https://experienceleague.adobe.com/cT1pOoWjR-UdHLqNJwhwgR9R12ciIa95q1xHPTf7rBY
+TQID: 'https://experienceleague.adobe.com/cT1pOoWjR-UdHLqNJwhwgR9R12ciIa95q1xHPTf7rBY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 13%
-
 ---
-
 # 在从不受信任来源导入列表时阻止字段更新 {#block-field-updates-during-list-import-from-untrusted-sources}
 
 与其他列表相比，您可以更加信任某些列表中的数据。 有时，如果字段为空，则您具有可疑数据并想要接受数据，但如果没有现有值，则不接受。 您可以通过阻止关键字段上的字段更新来完成此操作。

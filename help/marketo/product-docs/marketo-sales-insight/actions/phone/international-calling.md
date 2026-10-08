@@ -3,16 +3,18 @@ description: 了解Sales Insight Actions中的国际调用。 从拨号器拨打
 title: 国际呼叫
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4
+TQID: 'https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 23%
-
 ---
-
 # 国际呼叫 {#international-calling}
 
 Sales Dialer让您能够轻松进行国际交流。 对于从美国境内呼叫的客户，Sales Dialer可用于到国际国家/地区的出站呼叫。 对于美国以外的客户，我们支持来自国际国家的电话。

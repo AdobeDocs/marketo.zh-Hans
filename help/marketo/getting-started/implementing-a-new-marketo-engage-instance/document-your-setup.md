@@ -3,24 +3,31 @@ description: 记录新Marketo Engage实例的设置。
 title: 新实例最佳实践 — 记录您的设置
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-TQID: https://experienceleague.adobe.com/pqbf84tAUt49rWUD7rONRuZNgR8v5yMmYTqwqlXqgAs
+TQID: 'https://experienceleague.adobe.com/pqbf84tAUt49rWUD7rONRuZNgR8v5yMmYTqwqlXqgAs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 536
+source-wordcount: '536'
 ht-degree: 4%
-
 ---
-
 # 新实例最佳做法：记录您的设置 {#new-instance-best-practices-document-your-setup}
 
 现在您已经了解了为新的Marketo Engage实例设置的关键产品领域，下一步是创建实例配置和技术栈栈的文档。 无论是通过电子表格还是项目管理应用程序创建实例，您的文档都将是跟踪进展和记录详细信息以及保持实例结构化和可持续性的有用资源，可供组织内的未来营销人员使用。
@@ -37,8 +44,8 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>列表导入</td>
-    <td><li>收集将从其中提取记录的数据源列表，以<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">将其导入Marketo Engage</a>。</li>
-    <li>如果要从多个数据源导入，请考虑使用主列表或在人员记录上创建<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">自定义字段</a>来表示数据源。</li></td>
+    <td><li>收集将从其中提取记录的数据源列表，以<a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">将其导入Marketo Engage</a>。</li>
+    <li>如果要从多个数据源导入，请考虑使用主列表或在人员记录上创建<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">自定义字段</a>来表示数据源。</li></td>
   </tr>
   <tr>
     <td>数据库集成</td>
@@ -59,7 +66,7 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>用户</td>
-    <td><li>出于安全原因，在您的实例中记录<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">当前用户</a>。 以下详细信息应至少包含在内（通过转至“管理员”&gt;“用户和角色”可全部显示）：</li>
+    <td><li>出于安全原因，在您的实例中记录<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">当前用户</a>。 以下详细信息应至少包含在内（通过转至“管理员”&gt;“用户和角色”可全部显示）：</li>
     <ul>
     <li>名称</li>
     <li>电子邮件</li>
@@ -74,11 +81,11 @@ ht-degree: 4%
   </tr>
   <tr>
     <td>组织</td>
-    <td><li>记录商定的文件夹结构、程序、资产等的标准命名惯例以及做出决策的原因。 <a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
+    <td><li>记录商定的文件夹结构、程序、资产等的标准命名惯例以及做出决策的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>创建一个更改日志，您可以在其中记录实例中的更改内容以及进行修改的原因。 <a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
+    <td><li>创建一个更改日志，您可以在其中记录实例中的更改内容以及进行修改的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">在此处了解关于最佳实践的更多信息。</a></li></td>
   </tr>
   <tr>
     <td>战术手册</td>

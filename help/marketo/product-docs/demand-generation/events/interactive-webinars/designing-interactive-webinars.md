@@ -3,23 +3,29 @@ description: 了解如何在Marketo中设计交互式网络研讨会。 规划�
 title: 设计交互式网络研讨会
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/-QrRSSkG0-w5Wfkgd-qESFfKtWdcC053-J-xzKT2Uec
+TQID: 'https://experienceleague.adobe.com/-QrRSSkG0-w5Wfkgd-qESFfKtWdcC053-J-xzKT2Uec'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 602
+source-wordcount: '602'
 ht-degree: 1%
-
 ---
-
 # 设计交互式网络研讨会 {#designing-interactive-webinars}
 
 了解如何根据您的需求设计网络研讨会。
@@ -86,9 +92,9 @@ ht-degree: 1%
 
 **Pod**：在网络研讨会期间执行特定活动的模板中的组件。 例如，设置和投放投票，以在一个可由投票面板完成的活动中捕获参与者的响应。 同样，与参与者聊天以传达消息或者与其随意互动也可以是通过聊天面板传递的活动。 提供了多个其他Pod，例如“共享”、“注释”、“视频”、“聊天”、“与会者列表”、“文件”、“Web链接”、“投票”和“问答”。
 
-      **调查Pod**：允许主机直接在实时会话中设计和传递结构化反馈表单。 Survey Pod扩展了现有的Poll Pod功能，允许同时显示多个问题，从而提供更简洁和更具有凝聚力的方式来收集参与者的洞察。 [了解详情](https://helpx.adobe.com/cn/adobe-connect/using/survey-pod.html){target="_blank"}
+      **调查Pod**：允许主机直接在实时会话中设计和传递结构化反馈表单。 Survey Pod扩展了现有的Poll Pod功能，允许同时显示多个问题，从而提供更简洁和更具有凝聚力的方式来收集参与者的洞察。 [了解详情](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **资源Pod**：替换以前的文件和Web链接Pod，以便在实时会话期间提供共享资源的单一、统一方式。 [了解详情](https://helpx.adobe.com/cn/adobe-connect/using/resources-pod.html){target="_blank"}
+      **资源Pod**：替换以前的文件和Web链接Pod，以便在实时会话期间提供共享资源的单一、统一方式。 [了解详情](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

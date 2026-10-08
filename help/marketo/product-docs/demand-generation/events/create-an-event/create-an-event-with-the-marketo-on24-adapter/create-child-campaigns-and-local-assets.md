@@ -4,18 +4,20 @@ description: 了解如何在Marketo中为ON24事件创建子营销活动和本�
 title: 创建子营销活动和本地资源
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-TQID: https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA
+TQID: 'https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 673
+source-wordcount: '673'
 ht-degree: 3%
-
 ---
-
 # 创建子营销活动和本地资源 {#create-child-campaigns-and-local-assets}
 
 使用Design Studio创建子营销活动和本地资源。

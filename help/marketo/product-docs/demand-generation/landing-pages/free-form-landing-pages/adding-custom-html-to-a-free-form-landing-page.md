@@ -1,22 +1,28 @@
 ---
 unique-page-id: 2359730
 description: 了解如何在Marketo中将自定义HTML添加到自由格式登陆页面。 为自定义内容或跟踪插入HTML块。
-title: 向自由格式登录页面添加自定义 HTML
+title: 向自由格式登陆页面添加自定义 HTML
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/SxcMmBYB5tq4xcwlpAvP-1y39nZPS7Xp0jylXdNwVoU
+TQID: 'https://experienceleague.adobe.com/SxcMmBYB5tq4xcwlpAvP-1y39nZPS7Xp0jylXdNwVoU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Troubleshooting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 163
+source-wordcount: '163'
 ht-degree: 11%
-
 ---
-
-# 向自由格式登录页面添加自定义 HTML {#adding-custom-html-to-a-free-form-landing-page}
+# 向自由格式登陆页面添加自定义 HTML {#adding-custom-html-to-a-free-form-landing-page}
 
 您可以将自定义脚本、CSS或其他HTML添加到登陆页面。
 

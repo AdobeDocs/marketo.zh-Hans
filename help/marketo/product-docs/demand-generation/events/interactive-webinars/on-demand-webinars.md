@@ -3,18 +3,20 @@ description: 了解Marketo中的按需网络研讨会交互式网络研讨会。
 title: 按需网络研讨会
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-TQID: https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E
+TQID: 'https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 490
+source-wordcount: '490'
 ht-degree: 1%
-
 ---
-
 # 按需网络研讨会 {#on-demand-webinars}
 
 按需网络研讨会捕获并优化已注册但未参加活动的潜在客户，但这些潜在客户希望通过观看录制获取与活动相关的信息。 名称、电子邮件ID和观看日期/持续时间等信息可以在Marketo Engage中捕获，并用于定位这些不显示的潜在客户。
@@ -28,9 +30,9 @@ Marketo Engage在功能板选项卡上为按需网络研讨会提供监视统计
 * 按需摘要：提供在活动结束后的指定日期观看录制的访客计数（不显示）的摘要
 
 * 按需统计数据：此构件提供有关以下项的信息：
-   * 要查看的按需录制的天数：帮助营销人员执行操作，例如在录制30天的可用性持续时间接近结束时执行电子邮件营销活动。
-   * 迄今为止按需网络研讨会的访客总数：迄今为止观看了按需录制的所有不显示注册者的总数。
-   * 所有访客的平均观看持续时间（以分钟为单位）：使营销人员能够了解观看了多少录像，以及可以使用哪些智能营销活动来定位超过特定观看持续时间的潜在客户。
+  * 要查看的按需录制的天数：帮助营销人员执行操作，例如在录制30天的可用性持续时间接近结束时执行电子邮件营销活动。
+  * 迄今为止按需网络研讨会的访客总数：迄今为止观看了按需录制的所有不显示注册者的总数。
+  * 所有访客的平均观看持续时间（以分钟为单位）：使营销人员能够了解观看了多少录像，以及可以使用哪些智能营销活动来定位超过特定观看持续时间的潜在客户。
 
 ![](assets/on-demand-webinars-1.png)
 

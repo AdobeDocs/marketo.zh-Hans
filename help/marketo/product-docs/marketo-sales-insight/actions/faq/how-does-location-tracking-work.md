@@ -3,16 +3,18 @@ description: 了解位置跟踪如何用于销售电子邮件。 了解收集什
 title: 位置跟踪的工作原理
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/OMtsvCFUgGLH-VyS8cuMMdZ-WSOCogIhqh9gSoKrMk0
+TQID: 'https://experienceleague.adobe.com/OMtsvCFUgGLH-VyS8cuMMdZ-WSOCogIhqh9gSoKrMk0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 124
+source-wordcount: '124'
 ht-degree: 4%
-
 ---
-
 # 位置跟踪是如何工作的？ {#how-does-location-tracking-work}
 
 如果我们误解了收件人的位置，下面提供了三种可能出现的情况：

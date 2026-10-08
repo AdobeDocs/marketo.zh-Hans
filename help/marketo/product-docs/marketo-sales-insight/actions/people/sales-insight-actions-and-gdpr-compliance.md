@@ -1,26 +1,32 @@
 ---
 description: 了解Sales Insight Actions和GDPR合规性。 了解数据处理和支持隐私及同意的选项。
-title: Sales Insight Actions 与 GDPR 合规性
+title: 销售洞察操作与 GDPR 合规性
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/GXMlDdWZ3cjfdkAIXwZhz-seOWzf6FPKNHE5zN7oLdA
+TQID: 'https://experienceleague.adobe.com/GXMlDdWZ3cjfdkAIXwZhz-seOWzf6FPKNHE5zN7oLdA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1346
+source-wordcount: '1351'
 ht-degree: 1%
-
 ---
-
-# Sales Insight Actions 与 GDPR 合规性 {#sales-insight-actions-and-gdpr-compliance}
+# 销售洞察操作与 GDPR 合规性 {#sales-insight-actions-and-gdpr-compliance}
 
 《通用数据保护条例》(GDPR)是一项欧盟法律，已于2018年5月25日生效。
 
@@ -189,9 +195,9 @@ GDPR适用于欧盟内外向欧盟和EEA内的数据主体营销商品或服务�
 
 GDPR的一个常见误解领域涉及从组织数据库取消订阅的联系人。 为了遵守关于保护选择取消订阅的用户的数据的新规则，[!DNL Sales Insight Actions]中包含了以下功能：
 
-**取消订阅链接：**&#x200B;取消订阅链接将自动附加到从Sales Connect Web应用程序发送的所有电子邮件中，以确保为联系人提供可访问的选择退出的方式。
-**取消订阅同步：**&#x200B;用户可以将取消订阅同步到其CRM (Salesforce)，也可以从其CRM同步取消订阅，以确保选择退订是最新的。
-**取消订阅历史记录：**&#x200B;用户可以在人员详细信息视图中查看历史选择退出和选择加入。
+**取消订阅链接：**取消订阅链接将自动附加到从Sales Connect Web应用程序发送的所有电子邮件中，以确保为联系人提供可访问的选择退出的方式。
+**取消订阅同步：**用户可以将取消订阅同步到其CRM (Salesforce)，也可以从其CRM同步取消订阅，以确保选择退订是最新的。
+**取消订阅历史记录：**用户可以在人员详细信息视图中查看历史选择退出和选择加入。
 **取消订阅删除：**&#x200B;选择重新加入取消订阅的联系人需要用户具有管理员权限，并证明该联系人已同意重新与他们联系。
 
 ## 将来的更新 {#future-updates}

@@ -4,18 +4,23 @@ description: 了解Salesforce和Marketo之间联系同步的工作方式。 了�
 title: SFDC同步 — 联系人同步
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/bddyM2G50v-Hgdy1oHw8xIPw1zij-2JvGSU7se3-UfI
+TQID: 'https://experienceleague.adobe.com/bddyM2G50v-Hgdy1oHw8xIPw1zij-2JvGSU7se3-UfI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 243
+source-wordcount: '243'
 ht-degree: 1%
-
 ---
-
 # SFDC 同步：联系人同步 {#sfdc-sync-contact-sync}
 
 Marketo将整个数据库与[!DNL Salesforce]同步。 它同步，然后等待5分钟，然后每天再次同步。 以下是Marketo如何专门处理[!DNL Salesforce]联系人的一些详细信息。

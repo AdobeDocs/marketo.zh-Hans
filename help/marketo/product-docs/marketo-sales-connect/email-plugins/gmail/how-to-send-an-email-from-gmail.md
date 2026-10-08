@@ -4,16 +4,18 @@ description: 了解如何使用Sales Connect插件从Gmail发送跟踪电子邮�
 title: 如何通过 Gmail 发送电子邮件
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/PPvG-SvKYrCpRoakDNEA5hv9hu8p-Gix44nlqWoC5i8
+TQID: 'https://experienceleague.adobe.com/PPvG-SvKYrCpRoakDNEA5hv9hu8p-Gix44nlqWoC5i8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: '146'
 ht-degree: 9%
-
 ---
-
 # 如何通过 Gmail 发送电子邮件 {#how-to-send-an-email-from-gmail}
 
 >[!CAUTION]

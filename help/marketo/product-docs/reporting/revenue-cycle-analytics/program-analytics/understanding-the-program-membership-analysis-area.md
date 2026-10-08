@@ -4,13 +4,19 @@ description: 了解了解Marketo Engage中的计划会员资格分析区域，�
 title: 了解项目成员分析区域
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 12%
-
 ---
-
 # 了解项目成员分析区域 {#understanding-the-program-membership-analysis-area}
 
 计划会员资格分析区域允许您分析单个计划的有效性，或查看给定时间段内按渠道汇总的结果。

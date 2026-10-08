@@ -4,13 +4,19 @@ description: 了解如何在Marketo Engage中使用Program Analyzer比较Program
 title: 使用项目分析器比较项目成效
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 1%
-
 ---
-
 # 将计划效果与[!UICONTROL Program Analyzer]进行比较 {#compare-program-effectiveness-with-the-program-analyzer}
 
 使用[!UICONTROL Program Analyzer]通过比较项目成本、成员获取、管道和收入，确定您最有效和最不有效的项目。
@@ -67,7 +73,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解FT和MT归因[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的差异很重要。
+   >您可以在程序分析器中选择的许多量度都可用于首次联系(FT)和多点联系(MT)计算。 了解FT和MT归因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)之间的[差异很重要。
 
 1. 观看图表中的气泡变化大小。
 

@@ -4,16 +4,21 @@ description: 了解将TAM添加到实例后如何开始使用TAM。 按照以下
 title: TAM 快速入门
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/GTPzG-MpCbU0vy85c8tc5gBqb8CeTI9eTamHsPdascU
+TQID: 'https://experienceleague.adobe.com/GTPzG-MpCbU0vy85c8tc5gBqb8CeTI9eTamHsPdascU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 305
+source-wordcount: '305'
 ht-degree: 2%
-
 ---
-
 # TAM 快速入门 {#getting-started-with-tam}
 
 是否将Marketo Engage TAM添加到您的实例？ 太棒了！ 让我们看看您下一步需要做什么。
@@ -26,7 +31,7 @@ ht-degree: 2%
 
 **步骤四：[创建CRM发现自定义字段](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md){target="_blank"}** — 将现有CRM帐户字段映射到新的命名帐户自定义字段（如果您未使用CRM，请跳过此步骤）。
 
-**第五步：**&#x200B;**_创建指定帐户_** — 指定帐户包含您定位的公司的人员。 创建指定帐户的方法有四种：
+**第五步：****_创建指定帐户_** — 指定帐户包含您定位的公司的人员。 创建指定帐户的方法有四种：
 
 * [导入指定帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md){target="_blank"} — 将潜在目标帐户的列表直接上传到TAM（这可以是您从CRM导出的列表）
 * [发现CRM帐户](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts){target="_blank"} — 查看同步到Marketo的所有CRM帐户的列表，并使用关键属性（即行业）进行筛选以创建指定帐户

@@ -1,7 +1,10 @@
 ---
 description: 探索CX Enterprise Coworker for Marketo Engage代理套件，这些代理专为自动执行营销任务（如项目QA、商机导入、数据标准化等）而设计。
 title: 适用于Marketo Engage的CX Enterprise Coworker概述
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 1%
@@ -64,4 +67,4 @@ CX Enterprise Coworker for Marketo Engage提供了代理技能，这些技能旨
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP服务器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hans){target="_blank"}充当您的AI助手与Marketo Engage之间的桥梁。
+>[Marketo Engage MCP服务器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}充当您的AI助手与Marketo Engage之间的桥梁。

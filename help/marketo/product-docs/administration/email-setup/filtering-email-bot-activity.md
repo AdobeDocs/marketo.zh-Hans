@@ -1,23 +1,29 @@
 ---
 description: 使用IAB列表匹配和邻近模式过滤或记录电子邮件机器人活动，以防止打开次数和点击次数夸大。
-title: 筛选电子邮件机器人活动
+title: 过滤电子邮件机器人活动
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+TQID: 'https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 469
-ht-degree: 0%
-
+source-wordcount: '469'
+ht-degree: 13%
 ---
-
-# 筛选电子邮件机器人活动 {#filtering-email-bot-activity}
+# 过滤电子邮件机器人活动 {#filtering-email-bot-activity}
 
 有时，电子邮件机器人活动可能会错误地夸大电子邮件打开数和点击数数据。 请按照以下步骤解决此问题。
 
@@ -25,10 +31,10 @@ ht-degree: 0%
 
 * 与[Interactive Advertising Bureau机器人列表](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}匹配：与IAB UA/IP（用户代理/IP地址）列表中的任何内容匹配的活动将被标记为机器人。
 * 与邻近模式匹配：当两个或多个活动同时发生（在一秒之内）时，它们将被识别为机器人。 比较过程中考虑的属性包括：
-   * 商机ID（应相同）
-   * 电子邮件资源（应相同）
-   * 链接点击或电子邮件打开
-   * 时间差（应小于1秒）
+  * 商机ID（应相同）
+  * 电子邮件资产（应相同）
+  * 链接点击或电子邮件打开
+  * 时间差（应小于1秒）
 
 针对电子邮件链接点击和电子邮件打开活动，新属性将填充以下值：
 
@@ -38,15 +44,15 @@ ht-degree: 0%
 
 ## 选择筛选器类型 {#select-filter-type}
 
-1. 单击&#x200B;**[!UICONTROL Admin]**。
+1. 单击 **[!UICONTROL Admin]**。
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 单击&#x200B;**[!UICONTROL Email]**。
+1. 单击 **[!UICONTROL Email]**。
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 单击&#x200B;**[!UICONTROL Bot Activity]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Bot Activity]** 选项卡。
 
    ![](assets/filtering-email-bot-activity-3.png)
 

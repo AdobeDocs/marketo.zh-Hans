@@ -3,16 +3,18 @@ description: 了解在Sales Insight操作中发送销售电子邮件的投放渠
 title: 发送渠道概述
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE
+TQID: 'https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 678
+source-wordcount: '679'
 ht-degree: 0%
-
 ---
-
 # 发送渠道概述 {#delivery-channel-overview}
 
 Marketo Sales为您提供多种电子邮件发送选项。 本文将介绍您可以利用的投放渠道、如何选择渠道以及何时选择渠道。
@@ -57,11 +59,11 @@ MSC服务器不支持DKIM和SPF身份验证方法，这可能会降低投放率�
 
 ## Marketo服务器 {#marketo-servers}
 
-Marketo电子邮件服务器无法与Marketo Sales集成。 Marketo服务器针对批量交付进行了优化，以便能够根据营销人员的需求进行扩展。 但是，Gmail和[!DNL Exchange]在1:1销售通信中具有更高的成功率，因此我们建议将这些服务器用于您的销售通信。
+Marketo电子邮件服务器无法与Marketo Sales集成。 Marketo服务器针对批量交付进行了优化，以便能够根据营销人员的需求进行扩展。 但是，Gmail和[!DNL Exchange]的1:1销售通信成功率更高，因此我们建议将这些服务器用于您的销售通信。
 
 >[!MORELIKETHIS]
 >
 >* Gmail用户的[电子邮件连接](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->*  [!DNL Outlook] 用户[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的电子邮件连接
+>*  [!DNL Outlook] 用户](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)的[电子邮件连接
 >* [设置自定义投放渠道](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [电子邮件连接限制](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

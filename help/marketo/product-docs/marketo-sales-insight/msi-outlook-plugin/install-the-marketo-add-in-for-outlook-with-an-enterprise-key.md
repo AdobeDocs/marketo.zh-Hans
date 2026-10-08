@@ -1,21 +1,24 @@
 ---
 unique-page-id: 11377488
 description: 了解如何使用企业密钥安装适用于Outlook的Marketo加载项。 使用企业密钥为您的组织部署加载项。
-title: 使用企业密钥为 [!DNL Outlook] 安装Marketo加载项
+title: 使用企业密钥为[!DNL Outlook]安装Marketo加载项
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU
+TQID: 'https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 310
-ht-degree: 0%
-
+source-wordcount: '311'
+ht-degree: 3%
 ---
-
 # 使用企业密钥为[!DNL Outlook]安装Marketo加载项 {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
 很多时候，销售代表对他们的笔记本电脑没有管理权限，他们的IT团队负责远程安装所有软件。 可以使用企业密钥（位于“管理员”的“Sales Insight”部分）以这种方式安装适用于Outlook的Marketo加载项。 如果未看到“查看企业密钥”按钮，请联系[Marketo支持](https://nation.marketo.com/t5/Support/ct-p/Support)以启用它。
@@ -30,17 +33,17 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Microsoft已发布适用于Windows[&#128279;](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}的新版Outlook。 此新版本不支持现有的MSI Outlook插件。 MSI Outlook插件将继续用于运行经典版本的Outlook的Windows桌面。 若要了解有关适用于组织的新Outlook for Windows的详细信息，请[单击此处](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
+>Microsoft已发布适用于Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}的[新版Outlook。 此新版本不支持现有的MSI Outlook插件。 MSI Outlook插件将继续用于运行经典版本的Outlook的Windows桌面。 若要了解有关适用于组织的新Outlook for Windows的详细信息，请[单击此处](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}。
 
 1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**，然后单击&#x200B;**[!UICONTROL Sales Insight]**。
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. 单击&#x200B;**[!UICONTROL Email Add-In]**&#x200B;选项卡。
+1. 单击 **[!UICONTROL Email Add-In]** 选项卡。
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
-1. 单击&#x200B;**[!UICONTROL View Enterprise Key]**。
+1. 单击 **[!UICONTROL View Enterprise Key]**。
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 

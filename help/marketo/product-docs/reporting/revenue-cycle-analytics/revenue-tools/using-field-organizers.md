@@ -4,13 +4,19 @@ description: 了解如何使用在Marketo Engage中使用字段组织器使用�
 title: 使用字段组织器
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 5%
-
 ---
-
 # 使用字段组织器 {#using-field-organizers}
 
 字段组织者可帮助您指定所有可能值中的某些字段。 例如，您可以为“地区”字段创建有意义的分组，如“西海岸”和“东海岸”。 这有助于报表更快地运行。

@@ -3,21 +3,25 @@ description: 获取有关Marketo中交互式网络研讨会的最佳实践的帮
 title: 交互式网络研讨会最佳做法
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+TQID: 'https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1759
+source-wordcount: '1759'
 ht-degree: 0%
-
 ---
-
 # 交互式网络研讨会最佳做法 {#best-practices-for-interactive-webinars}
 
 在运行虚拟活动时，无论针对的是小受众还是大受众，务必要按计划进行。 由于计划和执行活动需要执行各种步骤（从准备、促销、交付到跟进），因此有时感觉非常困难。
@@ -79,13 +83,13 @@ ht-degree: 0%
 * 如果要录制会话，请在“文件室首选项”中启用录制提醒。 如果尚未开始录制，提醒将在会议开始的5分钟内显示。
 
 * 启用“主机”和“演示者”区域，并使用相关的pod进行设置。 此区域仅对主机和演示者可见，并且可用于在后台进行协作。 此处包含的一些Pod包括：
-   * 参与仪表板，用于实时监控参与者的参与情况。 [单击此处](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"}观看有关如何使用Engagement仪表板的简短视频。
-   * 聊天Pod允许演示小组成员之间进行私人对话。
-   * 注意：Pod用于发布提醒消息、演示者问题或标准问题响应，您可以复制并粘贴这些响应，以快速获得常见问题的解答。
+  * 参与仪表板，用于实时监控参与者的参与情况。 [单击此处](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"}观看有关如何使用Engagement仪表板的简短视频。
+  * 聊天Pod允许演示小组成员之间进行私人对话。
+  * 注意：Pod用于发布提醒消息、演示者问题或标准问题响应，您可以复制并粘贴这些响应，以快速获得常见问题的解答。
 
 * 自定义Pod是第三方应用程序，可用于扩展Adobe Connect聊天室的功能。 可以从`apps.adobeconnect.com`下载自定义Pod作为.pod或.zip文件，然后可以在“共享”面板中共享这些文件。
-   * 一些流行的定制吊舱有倒计时器、时钟、石纸剪刀、Word Cloud、Titler。
-   * [单击此处](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"}观看有关如何使用自定义pod的简短视频。
+  * 一些流行的定制吊舱有倒计时器、时钟、石纸剪刀、Word Cloud、Titler。
+  * [单击此处](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"}观看有关如何使用自定义pod的简短视频。
 
 **隐私：若要对参与者信息保密，请检查以下设置：**
 
@@ -93,7 +97,7 @@ ht-degree: 0%
 
 * **Q&amp;A面板**：提交问题的参与者的姓名以及回答问题的主持人/演示者的姓名都可以隐藏。 取消选中“房间首选项”中“Q&amp;A Pod”部分下的隐私选项，即可实现此目的。
 
-* **聊天面板**：聊天面板是一个聊天区域，它不属于会话录制。 因此，如果您不希望聊天显示在录制中，请使用“聊天面板”而不是“聊天面板”。 [单击此处](https://helpx.adobe.com/cn/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}了解有关使用聊天面板的更多信息。
+* **聊天面板**：聊天面板是一个聊天区域，它不属于会话录制。 因此，如果您不希望聊天显示在录制中，请使用“聊天面板”而不是“聊天面板”。 [单击此处](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}了解有关使用聊天面板的更多信息。
 
 * **私人聊天**：关闭私人聊天以防止参与者ping其他参与者。 可以通过取消选中“房间首选项”中“聊天”部分下的“允许参与者私下聊天”来实现此目的。
 
@@ -104,8 +108,8 @@ ht-degree: 0%
 * 执行几次试运行以测试音频/视频设置，并在您之前未使用过Adobe Connect的情况下熟悉它。 在排练时包括您的演示者和共同主持人。
 
 * 要求主持人和演示者在开始时间至少提前30分钟到达，并确保一切正常运行。
-   * 决定由谁来主持问答和聊天舱。
-   * 使用任何种子问题/聊天填充问答和聊天Pod。
+  * 决定由谁来主持问答和聊天舱。
+  * 使用任何种子问题/聊天填充问答和聊天Pod。
 
 * 让您的屏幕共享程序打开相应的窗口并准备进行演示。 在屏幕共享时，请避免启动并登录到程序。
 

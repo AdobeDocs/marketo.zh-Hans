@@ -4,18 +4,23 @@ description: 了解如何将SSL添加到Marketo登陆页面。 为安全登陆�
 title: 为登录页面添加 SSL
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o
+TQID: 'https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Configuration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 867
+source-wordcount: '867'
 ht-degree: 14%
-
 ---
-
 # 为登录页面添加 SSL {#add-ssl-to-your-landing-pages}
 
 SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登陆页面安全。
@@ -70,7 +75,7 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 
 按照以下步骤为现有域别名启用SSL。
 
-1. 从&#x200B;_[!UICONTROL Admin]_&#x200B;区域，展开左侧导航中的&#x200B;**[!UICONTROL Integration]**&#x200B;并选择&#x200B;**[!UICONTROL Landing Pages]**。
+1. 从&#x200B;_[!UICONTROL Admin]_区域，展开左侧导航中的&#x200B;**[!UICONTROL Integration]**并选择&#x200B;**[!UICONTROL Landing Pages]**。
 
 1. 在页面上，选择顶部的&#x200B;**[!UICONTROL Rules]**&#x200B;选项卡。
 
@@ -124,7 +129,7 @@ SSL（安全套接字层）加密允许您确保Marketo Engage实例的所有登
 
 ## 注意事项 {#things-to-note}
 
-* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* 将域的&#x200B;**DNS映射到Marketo Engage**：在UI中添加域之前，必须[将CNAME映射到Marketo提供的域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自定义SSL**：如果您需要自定义SSL，请提交[支持票证](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 请勿使用自助复选框来创建SSL。
 

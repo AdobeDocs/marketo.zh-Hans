@@ -2,14 +2,15 @@
 description: 了解如何发送跟踪的销售电子邮件，以便查看查看次数、点击次数和回复次数。 使用投放渠道并从指挥中心跟踪。
 title: 发送可跟踪电子邮件
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 3%
-
 ---
-
 # 发送可跟踪电子邮件 {#sending-a-tracked-email}
 
 使用Marketo Sales Connect发送电子邮件时，将跟踪查看次数（电子邮件打开）和点击次数（点击链接）。

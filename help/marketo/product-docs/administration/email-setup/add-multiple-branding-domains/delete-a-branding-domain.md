@@ -4,20 +4,26 @@ description: 从“电子邮件管理员”表中删除品牌策略域（如果�
 title: 删除品牌域名
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/vLuW3RjbGmtsQtHzP-AhMU9PuQnySFdR4KKchezv4Hw
+TQID: 'https://experienceleague.adobe.com/vLuW3RjbGmtsQtHzP-AhMU9PuQnySFdR4KKchezv4Hw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 66
+source-wordcount: '66'
 ht-degree: 19%
-
 ---
-
 # 删除品牌域名 {#delete-a-branding-domain}
 
 1. 进入 **[!UICONTROL Admin]** 区域。

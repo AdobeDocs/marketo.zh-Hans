@@ -4,21 +4,25 @@ description: 当您的Sales Connect电子邮件被标记为垃圾邮件时，获
 title: 电子邮件被标记为垃圾电子邮件
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Ubj-3HXG3DKCMlyrNBcVEL3-mbXmbcR8fSZNMpCDNjw
+TQID: 'https://experienceleague.adobe.com/Ubj-3HXG3DKCMlyrNBcVEL3-mbXmbcR8fSZNMpCDNjw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 249
+source-wordcount: '249'
 ht-degree: 3%
-
 ---
-
 # 电子邮件被标记为垃圾电子邮件 {#email-marked-as-spam}
 
 作为一家公司，我们努力确保我们的可投放性保持高水平。 但是，某些用户行为和设置可能会触发将已发送的电子邮件路由到垃圾邮件文件夹。

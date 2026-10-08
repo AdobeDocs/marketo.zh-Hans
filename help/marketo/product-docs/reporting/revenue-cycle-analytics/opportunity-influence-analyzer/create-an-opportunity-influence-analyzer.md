@@ -1,16 +1,22 @@
 ---
 unique-page-id: 2360235
 description: 了解如何使用创建机会影响在Marketo Engage中创建机会影响分析器。 使用本指南完成您的下一步。
-title: 创建商机影响分析器
+title: 创建机会影响分析器
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 5%
-
 ---
-
 # 创建商机影响分析器 {#create-an-opportunity-influence-analyzer}
 
 使用Opportunity Influence Analyzer显示营销对重要交易的贡献。 查看您的项目和活动成功以及机会生活中的有趣时刻。
