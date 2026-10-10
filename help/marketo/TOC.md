@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
+source-git-commit: 6df3337e516a4d8345ee7d1362ab36e9724cc771
 workflow-type: tm+mt
-source-wordcount: '8936'
+source-wordcount: '8940'
 ht-degree: 96%
 ---
 
@@ -484,11 +484,11 @@ ht-degree: 96%
       + [预测型受众入门](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [模型与洞察](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [预测型过滤器](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-  + Marketo Engage同事 {#coworker-for-marketo}
+  + 适用于Marketo Engage的CX Enterprise Coworker {#coworker-for-marketo}
     + [概述](product-docs/coworker-for-marketo/overview.md)
     + [设置和设置](product-docs/coworker-for-marketo/settings-setup.md)
     + [组织规则](product-docs/coworker-for-marketo/organizational-rules.md)
-    + [Marketo Engage的同事数据信息表](product-docs/coworker-for-marketo/data-information.md)
+    + [适用于Marketo Engage的CX Enterprise Coworker数据信息表](product-docs/coworker-for-marketo/data-information.md)
     + 技能 {#skills}
       + [产品知识](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[表面分析](product-docs/coworker-for-marketo/skills/surface-insights.md)
