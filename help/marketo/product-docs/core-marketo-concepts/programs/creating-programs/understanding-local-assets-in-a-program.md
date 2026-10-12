@@ -4,25 +4,30 @@ description: 了解项目中的本地资源。 了解电子邮件、登陆页面
 title: 了解项目中的本地资源
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-TQID: https://experienceleague.adobe.com/96IMgGjyqieCZlEjI0Df2jKRa5LSZYEGanUBPpg9IQ4
+TQID: 'https://experienceleague.adobe.com/96IMgGjyqieCZlEjI0Df2jKRa5LSZYEGanUBPpg9IQ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 70bbab994674cc09f438f70ca028327335f1b5e6
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: '103'
 ht-degree: 30%
-
 ---
-
 # 了解项目中的本地资源 {#understanding-local-assets-in-a-program}
 
 本地资产是组成项目的内容。 Assets是可自定义的，使您能够构建自动营销计划。 以下是您可以在程序中创建的大部分本地资产：

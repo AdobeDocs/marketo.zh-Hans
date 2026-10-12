@@ -4,22 +4,25 @@ description: 了解用于在Marketo中查找拥有筛选器的人员组的智能
 title: 了解智能列表
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/wXznZtdBlYA4Ma2PLQRXHdvfBuDIwUpUtH8p-IJnpZA
+TQID: 'https://experienceleague.adobe.com/wXznZtdBlYA4Ma2PLQRXHdvfBuDIwUpUtH8p-IJnpZA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart lists
+source-git-commit: 70bbab994674cc09f438f70ca028327335f1b5e6
 workflow-type: tm+mt
-source-wordcount: 225
+source-wordcount: '225'
 ht-degree: 9%
-
 ---
-
 # 了解智能列表 {#understanding-smart-lists}
 
 智能列表允许您使用简单过滤器查找特定人员组。 它们可在Marketo中使用，例如在Smart Campaigns、项目、报表、分段、业务模型、参与项目、动态内容等中使用。 根据您的需求，可以在Marketo中的两个位置创建智能列表：
