@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 96c214e74bfb7920e9a62204e8451bbc22e1e1b0
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 95%
+source-wordcount: '583'
+ht-degree: 90%
 ---
 # 导入人员列表 {#import-a-list-of-people}
 
@@ -138,9 +138,9 @@ ht-degree: 95%
    >
    >如果有不想导入的字段，请在 Marketo 字段下拉菜单中选择&#x200B;**忽略**。
 
-1. 将 **[!UICONTROL Acquisition Program]** 选择为&#x200B;**我的展会项目**，然后点击 **[!UICONTROL Import]**。
+1. _如果_&#x200B;您设置了[人员分区](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}，请在此处选择它。 将 **[!UICONTROL Acquisition Program]** 选择为&#x200B;**我的展会项目**，然后点击 **[!UICONTROL Import]**。
 
-   ![](assets/import-a-list-of-people-13.png)
+   ![](assets/import-a-list-of-people-13-new.png)
 
 1. 等待人员导入完成，然后关闭导入进度弹出窗口。
 
