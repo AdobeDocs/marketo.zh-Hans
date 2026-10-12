@@ -138,7 +138,7 @@ ht-degree: 90%
    >
    >如果有不想导入的字段，请在 Marketo 字段下拉菜单中选择&#x200B;**忽略**。
 
-1. _如果_&#x200B;您设置了[人员分区](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}，请在此处选择它。 将 **[!UICONTROL Acquisition Program]** 选择为&#x200B;**我的展会项目**，然后点击 **[!UICONTROL Import]**。
+1. _如果_&#x200B;您设置了[人员分区](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}，请在此处选择它。 将 **[!UICONTROL Acquisition Program]** 选择为&#x200B;**我的展会项目**，然后点击 **[!UICONTROL Import]**。
 
    ![](assets/import-a-list-of-people-13-new.png)
 
