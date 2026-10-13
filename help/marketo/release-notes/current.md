@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 18%
+source-wordcount: '578'
+ht-degree: 16%
 ---
 # 发行说明：2026年9月 {#release-notes-sep-26}
 
@@ -61,8 +61,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>导入时选择分区</strong>：在启用了工作区和分区的环境中导入人员记录时，现在可以从本地工作区的分区列表中进行选择。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up" target="_blank">列表导入</a></td>
   </tr>
   <tr>
    <td> </td>

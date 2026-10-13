@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 21%
+source-wordcount: '118'
+ht-degree: 13%
 ---
 # 创建人员分区 {#create-a-person-partition}
 
@@ -52,3 +52,7 @@ ht-degree: 21%
 创建分区后，您应该会看到更新。
 
 ![](assets/create-a-person-partition-5.png)
+
+>[!TIP]
+>
+>您可以选择特定的人员分区，以在[列表导入](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}过程中将人员过滤到中。
