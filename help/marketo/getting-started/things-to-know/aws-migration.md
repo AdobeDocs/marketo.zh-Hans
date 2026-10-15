@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f071b487e66c7257b30eb7b598a487b0f088b103
 workflow-type: tm+mt
-source-wordcount: '1227'
+source-wordcount: '1222'
 ht-degree: 4%
 ---
 # AWS迁移 {#aws-migration}
@@ -273,14 +273,8 @@ ht-degree: 4%
    AB22</td>
    <td>下午4点（太平洋夏令时间）<br>
    下午5点（太平洋夏令时间）</td>
-   <td>按计划进行<br>
-   按计划</td>
-  </tr>
-  <tr>
-   <td>2026年10月14</td>
-   <td>AB25</td>
-   <td>下午5点（太平洋夏令时间）</td>
-   <td>按计划进行</td>
+   <td>已完成<br>
+   已完成</td>
   </tr>
   <tr>
    <td>2026年10月16日</td>
@@ -311,9 +305,12 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>2026年10月28日</td>
-   <td>AB15</td>
-   <td>下午5点（太平洋夏令时间）</td>
-   <td>按计划进行</td>
+   <td>AB15<br>
+   AB25</td>
+   <td>下午5点（太平洋夏令时间）<br>
+   下午6点（太平洋夏令时间）</td>
+   <td>按计划进行<br>
+   按计划</td>
   </tr>
   </body>
 </table>
