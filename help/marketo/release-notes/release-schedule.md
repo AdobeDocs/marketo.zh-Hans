@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 69%
+source-wordcount: '195'
+ht-degree: 64%
 ---
 # 发行计划 {#release-schedule}
 
@@ -76,12 +76,12 @@ _发布日期/功能可能会有所变更_
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">’26年9月</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">’26年9月</a></td>
    <td>2026年9月25日</td>
    <td>进行中</td>
   </tr>
   <tr>
-  <td>’26年10月</td>
+  <td><a href="/help/marketo/release-notes/current.md">’26年10月</a></td>
    <td>2026年10月23日</td>
    <td>按计划进行</td>
   </tr>
