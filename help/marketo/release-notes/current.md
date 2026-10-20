@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '472'
+ht-degree: 15%
 ---
 # 发行说明：2026年10月 {#release-notes-oct-26}
 
@@ -47,6 +47,26 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
    <th style="width:65%">功能</th>
    <th style="width:10%">状态</th>
    <th style="width:25%">文档</th>
+  </tr>
+  <tr>
+   <td><strong>规划营销活动技能</strong>：适用于Marketo Engage的CX Enterprise Coworker现在可以将营销活动简报转换为完整的Marketo Engage项目设置文档。 该文档包括文件夹结构、智能营销活动、电子邮件配置、令牌和QA核对清单。 这有助于团队更快地启动营销活动，并标准化项目设置。 技能可通过Markdown进行配置。</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>可调用代理</strong>：创建作为智能营销活动中的流程步骤运行的AI代理，并根据您以纯语言编写的说明对潜在客户记录执行操作。 例如，代理可以标准化潜在客户的数据或标记可能的机器人，然后将结果写回潜在客户上的字段。 这可以在无需自定义代码的情况下将基于判断的销售线索处理纳入营销活动。</td>
+   <td><i>即将推出</i></td>
+   <td><i>即将推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>克隆到此程序/文件夹</strong>：现在，跨Marketo Engage的克隆操作始终提供“此文件夹”或“此程序”选项作为选择克隆资源的目标时的首选选项。 选择此选项可将资源克隆到当前资源的父程序或文件夹。</td>
