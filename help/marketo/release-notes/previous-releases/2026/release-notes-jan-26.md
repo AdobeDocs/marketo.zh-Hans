@@ -99,9 +99,9 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hans){target="_blank"}。
+* **SEO功能弃用**：在2026年3月31日星期二，Marketo Engage将弃用搜索引擎优化功能(SEO)。 如果您未主动使用SEO，则无需执行任何操作。 如果您最近使用了SEO，则可以选择导出数据。 [了解详情](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hans&lang=zh_cn){target="_blank"}。
 
-* **Marketo社区迁移完成**：新的Adobe Experience League社区现已上线！ [已进行几项增强](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=zh-Hans){target="_blank"}，以使您的Marketo社区体验更好。 [签出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hans){target="_blank"}。
+* **Marketo社区迁移完成**：新的Adobe Experience League社区现已上线！ [已进行几项增强](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=zh-Hans&lang=zh_cn){target="_blank"}，以使您的Marketo社区体验更好。 [签出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hans&lang=zh_cn){target="_blank"}。
 
 * **Rest API &#39;access_token&#39;参数弃用**：用于验证Marketo REST API调用的`access_token`查询参数已被弃用，并将在2026年8月31日之后不可用。 所有新的和现有的集成都应使用 &#39;Authorization&#39; 请求头对 REST API 调用进行身份验证，[具体说明请参见此处](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
