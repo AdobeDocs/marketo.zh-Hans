@@ -27,53 +27,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '16'
+ht-degree: 62%
 ---
-# 发行说明：2026年10月 {#release-notes-oct-26}
+# 发行说明： 2026年11月 {#release-notes-nov-26}
 
-在下方，您会找到2026年10月版本中包含的所有功能。 请检查您的 Adobe Marketo Engage 版本以确认功能可用性。
-
-Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
-
-## 标准发布周期功能 {#standard-release-cycle-features}
-
-以下功能属于标准发行周期，将于&#x200B;**2026年10月23日**&#x200B;开始发行，并在接下来的几周内分阶段推出剩余功能。 功能及发布时间可能会有变动。 请查看每个功能旁边的状态。
-
-<table style="table-layout:auto">
- <tbody>
- <tr>
-   <th style="width:65%">功能</th>
-   <th style="width:10%">状态</th>
-   <th style="width:25%">文档</th>
-  </tr>
-  <tr>
-   <td><strong>克隆到此程序/文件夹</strong>：现在，跨Marketo Engage的克隆操作始终提供“此文件夹”或“此程序”选项作为选择克隆资源的目标时的首选选项。 选择此选项可将资源克隆到当前资源的父程序或文件夹。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <tr>
-   <td><strong>有关CRM同步的即时警报</strong>：启用或禁用环境的本机CRM同步现在会向订阅CRM通知渠道的用户触发通知。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
-  </tr>
-  </tr>
-  </tbody>
-</table>
-<br/>
-
-## 公告 {#announcements}
-
-* **弃用从Web获取图像**：为了符合现代安全和隐私最佳实践，从10月版本起，[从Web获取图像](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能将被弃用。
-
-* **自定义活动属性的API名称限制**：通过API或UI创建的自定义活动属性的API名称现在只能包含字母数字字符和下划线，并且必须以字母数字字符开头。
-
-* **Get Lead Activities和Get Lead Changes的静态列表大小限制**：从2026年9月30日起，如果目标列表包含10,000个或更多潜在客户，对包含`listId`参数的Get Lead Activities或Get Lead Changes端点的调用开始失败，并显示1003错误代码（指示目标静态列表包含太多记录）。 请参阅[迁移指南](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
+空白页
