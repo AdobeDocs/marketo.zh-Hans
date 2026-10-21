@@ -116,7 +116,7 @@ Marketo 的电子邮件语法仅在模板和单个电子邮件中生效；如果
 
 示例：
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com/cn"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### 选项 2 — 使用 \&lt;img\> {#option-use-an-img}
 

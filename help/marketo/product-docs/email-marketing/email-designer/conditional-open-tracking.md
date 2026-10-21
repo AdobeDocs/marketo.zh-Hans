@@ -26,7 +26,7 @@ ht-degree: 0%
 ---
 # 条件电子邮件打开跟踪 {#conditional-open-tracking}
 
-了解如何根据[各种准则](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=zh-Hans){target="_blank"}，配置Marketo Engage以遵循最终用户对电子邮件打开（像素）跟踪的同意。 该方法使用自定义布尔字段确定用户将收到的电子邮件变体，一个是启用了打开跟踪的变体，一个是禁用了打开跟踪的变体。
+了解如何根据[各种准则](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=zh-Hans&lang=zh_cn){target="_blank"}，配置Marketo Engage以遵循最终用户对电子邮件打开（像素）跟踪的同意。 该方法使用自定义布尔字段确定用户将收到的电子邮件变体，一个是启用了打开跟踪的变体，一个是禁用了打开跟踪的变体。
 
 ## 步骤1：创建自定义布尔字段 {#custom-field}
 

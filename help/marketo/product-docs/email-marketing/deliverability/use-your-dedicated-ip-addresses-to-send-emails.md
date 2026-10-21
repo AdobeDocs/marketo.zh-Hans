@@ -51,7 +51,7 @@ ht-degree: 7%
 
 >[!TIP]
 >
->保持数据库干净以保持高可投放性。 [Adobe要求](https://www.adobe.com/legal/terms/aup.html)客户只向已选择加入/请求接收电子邮件的用户发送营销通信。 请勿发送未经请求的电子邮件。
+>保持数据库干净以保持高可投放性。 [Adobe要求](https://www.adobe.com/cn/legal/terms/aup.html)客户只向已选择加入/请求接收电子邮件的用户发送营销通信。 请勿发送未经请求的电子邮件。
 
 >[!CAUTION]
 >
