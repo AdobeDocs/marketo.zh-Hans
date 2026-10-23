@@ -215,7 +215,7 @@ ABM命名帐户的&#x200B;**[百分点评分](https://docs.marketo.com/display/d
 
 在访客关闭您的页面之前捕获访客的注意力。 将您的个性化[!UICONTROL Web Campaigns]设置为仅在鼠标手势指示访客离开页面时显示。
 
-[!UICONTROL Web Campaigns]&#x200B;[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**&#x200B;动画效果
+[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**[&#x200B;动画效果
 
 设置Dialog Web Campaign的动画效果，以自定义活动在进入或退出网页时的显示方式。 您可以从6种不同的效果中进行选择，并控制对话框的时间和方向。
 
@@ -392,11 +392,11 @@ Web营销活动的&#x200B;**[令牌](/help/marketo/product-docs/web-personalizat
 
 ## 集成  {#integration}
 
-**[电子邮件预览API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)**
+**[电子邮件预览API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 现在，您可以在Marketo之外远程预览电子邮件，从而简化电子邮件内容本地化的过程并减少错误。
 
-**[替换HTML API](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/email-scripting)**
+**[替换HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 开发人员可以远程更新电子邮件资产的HTML内容，从而能够在单个系统中维护资产。
 

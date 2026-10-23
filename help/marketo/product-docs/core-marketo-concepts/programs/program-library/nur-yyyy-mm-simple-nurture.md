@@ -6,23 +6,26 @@ exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
 TQID: https://experienceleague.adobe.com/4dEZucMMXmSHngRHdUqasKVAg08MkwZFIDn1OzbxnVg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 369
+source-wordcount: '369'
 ht-degree: 13%
-
 ---
-
 # NUR-YYYY-MM-简单培养 {#nur-yyyy-mm-simple-nurture}
 
 这是一个简单的培养计划示例，该计划利用Marketo Engage参与计划，有节奏的内容会随着时间的推移而滴到数据库中，同时利用流根据行为引导记录完成历程。
 
-要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}页面。
+要获得进一步的战略帮助或自定义计划，请联系Adobe客户团队或访问[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}页面。
 
 ## 渠道摘要 {#channel-summary}
 
@@ -150,20 +153,20 @@ ht-degree: 13%
 ## 冲突规则 {#conflict-rules}
 
 * **项目标记**
-   * 在此订阅中创建标记 — _推荐_
-   * 忽略
+  * 在此订阅中创建标记 — _推荐_
+  * 忽略
 
 * **同名登陆页面模板**
-   * 复制原始模板
-   * 使用目标模板 — _推荐_
+  * 复制原始模板
+  * 使用目标模板 — _推荐_
 
 * **具有相同名称的图像**
-   * 保留两个文件
-   * 替换此订阅中的项目 — _推荐_
+  * 保留两个文件
+  * 替换此订阅中的项目 — _推荐_
 
 * **同名电子邮件模板**
-   * 保留两个模板
-   * 替换现有模板 — _推荐_
+  * 保留两个模板
+  * 替换现有模板 — _推荐_
 
 ## 最佳实践 {#best-practices}
 
