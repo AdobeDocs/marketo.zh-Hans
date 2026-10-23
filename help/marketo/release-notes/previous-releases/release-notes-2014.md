@@ -348,7 +348,7 @@ RTP营销活动现在包含具有缩略图视图和营销活动效果的新设�
 
 ## REST API中的列表操作 {#list-operations-in-the-rest-api}
 
-我们添加了以下与ReST中的列表操作相关的调用。 请参阅完整文档[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)。
+我们添加了以下与ReST中的列表操作相关的调用。 请参阅完整文档[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)。
 
 * 按ID获取列表
 * 获取多个列表
@@ -379,7 +379,7 @@ RTP集营销活动页面现在[包含现成的模板](/help/marketo/product-docs
 
 ## RTP：JavaScript API增强功能 {#rtp-javascript-api-enhancements}
 
-用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员网站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+用于获取实时访客数据（如组织、行业、位置和区段代码匹配）的新RTP API调用。 此外，在“区段”页面中，将鼠标悬停在区段名称上将显示显示区段代码的工具提示。 有关完整文档，请参阅我们的[开发人员网站](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
@@ -492,7 +492,7 @@ RTP集营销活动页面现在[包含现成的模板](/help/marketo/product-docs
 * 获取活动类型
 * 获取分页令牌
 
-发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)上获得完整的详细信息。
+发布后，可在[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/rest-api)上获得完整的详细信息。
 
 ## MSI — 发送[!DNL Microsoft Dynamics]的Marketo电子邮件 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -532,7 +532,7 @@ RTP集营销活动页面现在[包含现成的模板](/help/marketo/product-docs
 * 感兴趣的产品
 * 他们所看到的RTP营销活动
 
-有关完整的详细信息，请访问[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+有关完整的详细信息，请访问[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ## 2014年12 {#december}
 
@@ -588,7 +588,7 @@ RTP集营销活动页面现在[包含现成的模板](/help/marketo/product-docs
 
 ·合并潜在客户
 
-发布后，可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
+发布后，可在[https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/home)上获得完整的详细信息
 
 ## [!DNL Munchkin Javascript]兼容性增强 {#munchkin-javascript-compatibility-enhancements}
 
