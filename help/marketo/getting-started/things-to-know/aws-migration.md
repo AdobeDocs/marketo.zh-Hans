@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 6d87546b2dda91d292596a246fda2aec8c5b496a
+source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
 workflow-type: tm+mt
-source-wordcount: '1245'
+source-wordcount: '1282'
 ht-degree: 4%
 ---
 # AWS迁移 {#aws-migration}
@@ -32,7 +32,7 @@ ht-degree: 4%
 
 * **避免运行**&#x200B;数据导入或导出或任何主要的潜在客户/人员生成营销活动。
 
-* **审核并更新IP**&#x200B;登录、API访问、电子邮件发送、Web跟踪和集成。
+* **查看和更新IP允许列表**&#x200B;的登录、API访问、电子邮件发送、Web跟踪和集成（如CRM同步和Webhook）。
 
 * **添加新IP地址**&#x200B;并保留您当前的IP不变。 通过下面[&#128279;](#ip-addresses)的表查看要添加的IP地址。
 
@@ -332,7 +332,7 @@ ht-degree: 4%
 
 ## 要添加的IP地址 {#ip-addresses}
 
-根据您的数据中心，与您的IT部门合作，添加各自的IP地址。
+如果您的组织使用IP允许列表、防火墙、访问控制列表、安全组，或者使用配置为接受来自Marketo Engage的连接的任何其他服务器或第三方服务，请与您的IT部门合作，添加特定于您数据中心的IP地址，如下表所示。
 
 <table>
 <tbody>
