@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512270
 description: 将Adobe Connect添加为LaunchPoint服务，以便Marketo管理网络研讨会的注册和出席情况。
-title: 将Adobe Connect添加为 [!DNL LaunchPoint] 服务
+title: 将[!DNL Adobe Connect]添加为[!DNL LaunchPoint]服务
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/5FY-AYMAy60RGDnuFas2QP1PexqhIMohWh8egyllFNY
@@ -16,52 +16,41 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 183
-ht-degree: 7%
-
+source-wordcount: '157'
+ht-degree: 1%
 ---
+# 将[!DNL Adobe Connect]添加为[!DNL LaunchPoint]服务 {#add-adobe-connect-as-a-launchpoint-service}
 
-# 将Adobe Connect添加为[!DNL LaunchPoint]服务 {#add-adobe-connect-as-a-launchpoint-service}
+Marketo管理您的[!DNL Adobe Connect]网络研讨会注册和出席情况。
 
-Marketo管理您的Adobe Connect网络研讨会注册和出席情况。
+>[!PREREQUISITES]
+>
+>* 需要[!DNL Adobe Connect]的现有订阅和管理权限。 现有以下详细信息：用户名、密码、参与者密码和会议文件夹URL。
 
 >[!NOTE]
 >
->**需要管理员权限**
+>* **需要管理员权限**
+>* 当前不支持[!DNL Adobe Connect On Site]。
 
->[!NOTE]
->
->此步骤需要现有Adobe Connect订阅和管理权限。 准备好以下设置：用户名、密码、参与者密码和会议文件夹URL。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
->[!NOTE]
->
->当前不支持Adobe Connect On Site。
-
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在&#x200B;**[!UICONTROL Integration]**&#x200B;下，选择&#x200B;**[!UICONTROL LaunchPoint]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. 单击 **[!UICONTROL LaunchPoint]**。
+1. 单击&#x200B;**[!UICONTROL New]**&#x200B;并选择&#x200B;**[!UICONTROL New Service]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
-1. 点击 **[!UICONTROL New]** 下拉菜单，并选择 **[!UICONTROL New Service]**。
+1. 输入&#x200B;**[!UICONTROL Display Name]**。 在&#x200B;**[!UICONTROL Service]**&#x200B;下拉列表中，选择&#x200B;**[!UICONTROL Adobe Connect]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. 输入&#x200B;**[!UICONTROL Display Name]**。 在&#x200B;**[!UICONTROL Service]**&#x200B;下，选择Adobe Connect。
+1. 输入您的&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Access Code]**、**[!UICONTROL Meeting Folder URL]**&#x200B;和&#x200B;**[!UICONTROL Participant Password]**，然后单击&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
-
-1. 输入您的&#x200B;**[!UICONTROL Username]**&#x200B;和&#x200B;**[!UICONTROL Access Code]**。
-
-   ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
-
-1. 通过输入您的&#x200B;**[!UICONTROL Meeting Folder URL]**&#x200B;和&#x200B;**[!UICONTROL Participant Password]**&#x200B;完成此过程，然后单击&#x200B;**[!UICONTROL Create]**。
-
-   ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
    >[!TIP]
    >
@@ -69,12 +58,10 @@ Marketo管理您的Adobe Connect网络研讨会注册和出席情况。
 
    >[!NOTE]
    >
-   >登录Adobe Connect帐户后，选择&#x200B;**[!UICONTROL Seminars]**&#x200B;选项卡。 无需深入了解任何特定研讨会，即可将URL从浏览器栏复制到&#x200B;**[!UICONTROL Meeting Folder URL]**&#x200B;设置。
+   >登录[!DNL Adobe Connect]帐户后，选择&#x200B;**[!UICONTROL Seminars]**&#x200B;选项卡。 无需深入了解任何特定研讨会，即可将URL从浏览器栏复制到&#x200B;**[!UICONTROL Meeting Folder URL]**&#x200B;设置。
 
-您的Adobe Connect服务现已与Marketo同步！
-
-![](assets/add-adobe-connect-as-a-launchpoint-service-7.png)
+您的[!DNL Adobe Connect]服务现已与Marketo Engage同步。
 
 >[!MORELIKETHIS]
 >
->了解如何[使用Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}创建活动。
+>了解如何[使用 [!DNL Adobe Connect]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}创建事件。

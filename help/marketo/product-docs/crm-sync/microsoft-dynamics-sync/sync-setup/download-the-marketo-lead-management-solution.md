@@ -14,10 +14,10 @@ feature_v2:
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
     internal-label: Microsoft Dynamics
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 21%
+source-wordcount: '101'
+ht-degree: 16%
 ---
 # 下载 Marketo 潜在客户管理解决方案 {#download-the-marketo-lead-management-solution}
 
@@ -35,7 +35,7 @@ ht-degree: 21%
 >
 >Marketo目前仅支持与Java 7兼容的SSL证书。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 

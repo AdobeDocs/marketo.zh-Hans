@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 13%
+source-wordcount: '119'
+ht-degree: 10%
 ---
 # 创建人员分区 {#create-a-person-partition}
 
@@ -33,7 +33,7 @@ ht-degree: 13%
 >
 >有关详细信息，请参阅[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-a-person-partition-1.png)
 
@@ -55,4 +55,4 @@ ht-degree: 13%
 
 >[!TIP]
 >
->您可以选择特定的人员分区，以在[列表导入](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}过程中将人员过滤到中。
+>您可以选择特定的人员分区，以在[列表导入](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}过程中将人员过滤到中。

@@ -10,9 +10,9 @@ product_v2:
 feature_v2:
   - id: 44b89f75-c1af-5353-8094-79b278102d46
     internal-label: Mobile Marketing
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 11%
 ---
 # 将 Vibes 添加为 LaunchPoint 服务 {#add-vibes-as-a-launchpoint-service}
@@ -27,7 +27,7 @@ ht-degree: 11%
 >
 >您必须具有活动的Vibes帐户以及Vibes SMS的Adobe许可证。
 
-1. 在“我的Marketo”中，转到&#x200B;**[!UICONTROL Admin]**&#x200B;区域。
+1. 在“我的Marketo”中的“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 

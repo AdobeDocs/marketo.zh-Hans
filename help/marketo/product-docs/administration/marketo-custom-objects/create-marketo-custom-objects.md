@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 7%
+source-wordcount: '690'
+ht-degree: 5%
 ---
 # 创建 Marketo 自定义对象 {#create-marketo-custom-objects}
 
@@ -42,7 +42,7 @@ ht-degree: 7%
 
 此示例显示了一个Car自定义对象，用于一对多结构。 然后，将创建课程自定义对象和中间对象，以在多对多结构中使用。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -88,7 +88,7 @@ ht-degree: 7%
 >
 >对于多对多关系，您不需要在自定义对象中创建链接。 而是将中间对象添加两个链接（见下文）。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -130,7 +130,7 @@ ht-degree: 7%
 >
 >您不需要为一对多自定义对象结构创建中间对象。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-marketo-custom-objects-13.png)
 

@@ -20,10 +20,10 @@ feature_v2:
 subfeature_v2:
   - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
     internal-label: Social
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 4%
+source-wordcount: '495'
+ht-degree: 3%
 ---
 # 设置 LinkedIn 潜在客户收集表单 {#set-up-linkedin-lead-gen-forms}
 
@@ -37,7 +37,7 @@ ht-degree: 4%
 >
 >* 如果LinkedIn潜在客户与Marketo中的现有人员记录匹配，并且该人员记录与使用公司API创建的公司记录相关联，并且Marketo订阅未连接到CRM，则该潜在客户将不会进入Marketo Engage。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

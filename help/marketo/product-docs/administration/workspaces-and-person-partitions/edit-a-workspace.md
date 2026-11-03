@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 10%
+source-wordcount: '145'
+ht-degree: 7%
 ---
 # 编辑工作区 {#edit-a-workspace}
 
@@ -33,7 +33,7 @@ ht-degree: 10%
 >
 >有关工作区的详细信息，请参阅[了解工作区和人员分区](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/edit-a-workspace-1.png)
 

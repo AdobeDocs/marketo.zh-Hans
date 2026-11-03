@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 88
-ht-degree: 23%
-
+source-wordcount: '89'
+ht-degree: 19%
 ---
-
 # 为您的帐户启用个性化 URL {#enable-personalized-urls-for-your-account}
 
 个性化URL对于打印邮件营销活动非常有用。
@@ -29,7 +27,7 @@ ht-degree: 23%
 >
 >**需要管理员权限**
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 

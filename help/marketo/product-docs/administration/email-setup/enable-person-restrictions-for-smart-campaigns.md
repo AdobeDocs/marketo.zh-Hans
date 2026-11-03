@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 14%
+source-wordcount: '149'
+ht-degree: 11%
 ---
 # 为智能营销活动启用人员限制 {#enable-person-restrictions-for-smart-campaigns}
 
@@ -42,7 +42,7 @@ Marketo中有一个功能，用于限制符合Smart Campaign资格的最多&#x20
 >
 >这仅适用于批量营销活动和电子邮件项目。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
@@ -68,7 +68,7 @@ Marketo中有一个功能，用于限制符合Smart Campaign资格的最多&#x20
 
    >[!CAUTION]
    >
-   >此限制适用于所有智能营销活动，但可以在营销活动级别覆盖。 了解如何在Smart Campaign[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中覆盖人员限制。
+   >此限制适用于所有智能营销活动，但可以在营销活动级别覆盖。 了解如何在Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中[覆盖人员限制。
 
 >[!MORELIKETHIS]
 >

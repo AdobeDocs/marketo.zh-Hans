@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 5%
+source-wordcount: '290'
+ht-degree: 3%
 ---
 # 添加 Marketo 自定义对象字段 {#add-marketo-custom-object-fields}
 
@@ -30,7 +30,7 @@ ht-degree: 5%
 
 字段定义自定义对象使用的特定信息。 链接字段用于特定目的（连接自定义对象），并包含在[单独的文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)中。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

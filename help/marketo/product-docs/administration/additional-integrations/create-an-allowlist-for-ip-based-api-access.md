@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: aa0494716e0deb2a2d04be5b2e6fdd1c13483f45
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 20%
+source-wordcount: '126'
+ht-degree: 16%
 ---
 # 为基于 IP 的 API 访问创建允许列表 {#create-an-allowlist-for-ip-based-api-access}
 
@@ -29,7 +29,7 @@ ht-degree: 20%
 >
 >**需要管理员权限**
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 

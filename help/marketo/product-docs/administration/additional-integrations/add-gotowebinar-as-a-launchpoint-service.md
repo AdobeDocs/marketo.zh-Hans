@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512289
-description: 将 [!DNL GoToWebinar] 添加为LaunchPoint服务，以便Marketo管理网络研讨会的注册和出席情况。
-title: 将 [!DNL GoToWebinar] 添加为 [!DNL LaunchPoint] 服务
+description: 将[!DNL GoToWebinar]添加为LaunchPoint服务，以便Marketo管理网络研讨会的注册和出席情况。
+title: 将[!DNL GoToWebinar]添加为[!DNL LaunchPoint]服务
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/5KrCqBMRk-5avIMRc9GLDJPI5FY8JAWGwRaeC60HEFY
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 134
-ht-degree: 6%
-
+source-wordcount: '138'
+ht-degree: 3%
 ---
-
 # 将[!DNL GoToWebinar]添加为[!DNL LaunchPoint]服务 {#add-gotowebinar-as-a-launchpoint-service}
 
 Marketo管理您的[!DNL GoToWebinar]注册和出席情况。
@@ -39,7 +37,7 @@ Marketo管理您的[!DNL GoToWebinar]注册和出席情况。
 >
 >当前不支持[!DNL GoToMeeting]、[!DNL GoToWebcast]和[!DNL GoToTraining]。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 

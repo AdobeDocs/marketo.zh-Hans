@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6095008
-description: 通过LaunchPoint将 [!DNL Google AdWords] 链接到Marketo以上传离线转化数据以便在AdWords中报告。
-title: 将 [!DNL Google AdWords] 添加为 [!DNL LaunchPoint] 服务
+description: 通过LaunchPoint将[!DNL Google AdWords]链接到Marketo以上传离线转化数据以便在AdWords中报告。
+title: 将[!DNL Google AdWords]添加为[!DNL LaunchPoint]服务
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/gpw57sy3WitNAh6g4mkajXuuFlRFzunZmfedM4aCrCk
@@ -20,13 +20,11 @@ topic_v2:
     internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 259
-ht-degree: 5%
-
+source-wordcount: '263'
+ht-degree: 3%
 ---
-
 # 将[!DNL Google AdWords]添加为[!DNL LaunchPoint]服务 {#add-google-adwords-as-a-launchpoint-service}
 
 将您的[!DNL Google AdWords]帐户关联到Marketo以自动将离线转化数据从Marketo上传到[!DNL Google AdWords]。 然后，在[!DNL AdWords]中[添加自定义列](https://support.google.com/adwords/answer/3073556){target="_blank"}后，您可以从[!DNL AdWords] UI中查看哪些点击导致合格的潜在客户、机会和新客户（或您希望跟踪的任何收入阶段）。 此信息不显示在Marketo UI中。
@@ -45,7 +43,7 @@ ht-degree: 5%
 >
 >您还可以将[[!DNL Google AdWords] 作为 [!DNL Launchpoint] 服务与经理帐户](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}集成。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 

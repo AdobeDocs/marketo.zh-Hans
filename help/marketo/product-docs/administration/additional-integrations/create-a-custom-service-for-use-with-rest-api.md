@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 150
-ht-degree: 24%
-
+source-wordcount: '152'
+ht-degree: 19%
 ---
-
 # 创建用于 ReST API 的自定义服务 {#create-a-custom-service-for-use-with-rest-api}
 
 如果要通过ReST API与Marketo集成，请创建自定义服务。
@@ -43,7 +41,7 @@ ht-degree: 24%
 
 ## 创建自定义服务 {#create-custom-service}
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -67,7 +65,7 @@ ht-degree: 24%
 
 ## 用于访问API的凭据 {#credentials-for-api-access}
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 

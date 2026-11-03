@@ -23,10 +23,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '685'
-ht-degree: 3%
+source-wordcount: '687'
+ht-degree: 2%
 ---
 # 添加 Marketo 自定义对象链接字段 {#add-marketo-custom-object-link-fields}
 
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 按照以下步骤在自定义对象中为一对多结构创建链接字段。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -97,7 +97,7 @@ ht-degree: 3%
 >
 >您必须已创建中间对象以及要将其链接到的任何自定义对象。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 

@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 25%
+source-wordcount: '56'
+ht-degree: 17%
 ---
 # 删除工作区 {#delete-a-workspace}
 
@@ -31,7 +31,7 @@ ht-degree: 25%
 >
 >您无法删除Marketo中的默认工作区。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/delete-a-workspace-1.png)
 

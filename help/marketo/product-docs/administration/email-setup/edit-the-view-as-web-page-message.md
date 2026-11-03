@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 36%
+source-wordcount: '166'
+ht-degree: 33%
 ---
 # 编辑“以网页形式查看”消息 {#edit-the-view-as-web-page-message}
 
@@ -34,7 +34,7 @@ ht-degree: 36%
 
 ## 编辑“以网页形式查看”消息 {#edit-the-view-as-web-page-message-1}
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 

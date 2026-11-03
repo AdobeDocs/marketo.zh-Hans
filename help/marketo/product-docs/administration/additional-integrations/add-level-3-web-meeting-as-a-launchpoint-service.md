@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512292
-description: 将 [!DNL Level 3 Web Meeting] 添加为LaunchPoint服务以管理Marketo中的注册和出勤情况。
-title: 将 [!DNL Level 3 Web Meeting] 添加为 [!DNL LaunchPoint Service]
+description: 将[!DNL Level 3 Web Meeting]添加为LaunchPoint服务以管理Marketo中的注册和出席情况。
+title: 将[!DNL Level 3 Web Meeting]添加为[!DNL LaunchPoint Service]
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/3Pdb9Y3Bozl0TTaPkRlZ-jgP9sn-iYZJ-60z8N6MlPI
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 80
-ht-degree: 10%
-
+source-wordcount: '83'
+ht-degree: 4%
 ---
-
 # 将[!DNL Level 3 Web Meeting]添加为[!DNL LaunchPoint]服务 {#add-level-three-web-meeting-as-a-launchpoint-service}
 
 Marketo管理您的[!DNL Level 3 Web Meeting]注册和出席情况。
@@ -35,7 +33,7 @@ Marketo管理您的[!DNL Level 3 Web Meeting]注册和出席情况。
 >
 >此步骤需要[!DNL Level 3 Web Meeting]的现有订阅和管理权限。 准备好您的访问编号、访问代码和密码。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 

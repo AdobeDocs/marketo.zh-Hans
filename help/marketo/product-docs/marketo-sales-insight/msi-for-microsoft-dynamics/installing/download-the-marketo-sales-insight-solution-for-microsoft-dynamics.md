@@ -14,10 +14,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 15%
+source-wordcount: '109'
+ht-degree: 11%
 ---
 # 下载[!DNL Microsoft Dynamics]的[!DNL Marketo Sales Insight]解决方案 {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
@@ -29,7 +29,7 @@ ht-degree: 15%
 >
 >此页面上的插件适用于那些使用Marketo的本机CRM同步解决方案同步到Marketo Engage的用户。 [!DNL Dynamics 365]对于拥有自定义同步[!DNL MS Dynamics 365 Online] （9.x及更高版本）并已购买[!DNL Marketo Sales Insight]的用户，[包位于此处](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/mainnavhand.png)
 

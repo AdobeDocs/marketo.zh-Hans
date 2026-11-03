@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 19%
+source-wordcount: '92'
+ht-degree: 15%
 ---
 # 在电子邮件中对令牌进行 HTML 编码 {#html-encode-tokens-in-emails}
 
@@ -36,7 +36,7 @@ ht-degree: 19%
 >
 >编码会将字符转换为其HTML代码版本，以防止在传输时产生混淆（即，“&amp;”更改为`&amp;`）。 有关更多详细信息，请咨询Web开发人员。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 
