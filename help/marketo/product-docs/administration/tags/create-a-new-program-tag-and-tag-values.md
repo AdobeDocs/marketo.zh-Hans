@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 16%
+source-wordcount: '161'
+ht-degree: 14%
 ---
 # 创建新项目标签及标签值 {#create-a-new-program-tag-and-tag-values}
 
@@ -40,7 +40,7 @@ ht-degree: 16%
 >
 >计划标记值：中小型企业、企业、中端市场
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 

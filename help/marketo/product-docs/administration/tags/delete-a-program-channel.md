@@ -17,10 +17,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 13%
+source-wordcount: '101'
+ht-degree: 8%
 ---
 # 删除项目渠道 {#delete-a-program-channel}
 
@@ -28,7 +28,7 @@ ht-degree: 13%
 
 如果意外制作或不再需要某个，可以将其删除。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/delete-a-program-channel-1.png)
 

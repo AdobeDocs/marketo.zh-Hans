@@ -20,10 +20,10 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 29%
+source-wordcount: '80'
+ht-degree: 23%
 ---
 # 导出所有对象元数据 {#export-all-object-metadata}
 
@@ -44,7 +44,7 @@ ht-degree: 29%
 
 ## 导出对象元数据 {#export-object-metadata}
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/export-all-object-metadata-1.png)
 

@@ -11,10 +11,10 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 19%
+source-wordcount: '130'
+ht-degree: 16%
 ---
 # 重定向登陆页面 {#redirect-a-landing-page}
 
@@ -31,7 +31,7 @@ ht-degree: 19%
 
 ## 步骤1：启动新的重定向规则 {#step-start-a-new-redirect-rule}
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/redirect-a-landing-page-1.png)
 

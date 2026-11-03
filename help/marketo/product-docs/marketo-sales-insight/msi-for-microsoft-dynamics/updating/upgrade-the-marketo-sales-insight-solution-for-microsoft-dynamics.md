@@ -14,10 +14,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 14%
+source-wordcount: '127'
+ht-degree: 11%
 ---
 # 升级[!DNL Microsoft Dynamics]的[!DNL Marketo Sales Insight]解决方案 {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
@@ -27,7 +27,7 @@ ht-degree: 14%
 >
 >**需要管理员权限**
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 

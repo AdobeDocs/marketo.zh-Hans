@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 79
-ht-degree: 25%
-
+source-wordcount: '80'
+ht-degree: 20%
 ---
-
 # 启用或禁用藏宝箱功能 {#enable-or-disable-treasure-chest-features}
 
 宝藏箱包含未完全支持的实验功能。
@@ -29,7 +27,7 @@ ht-degree: 25%
 >
 >**需要管理员权限**
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

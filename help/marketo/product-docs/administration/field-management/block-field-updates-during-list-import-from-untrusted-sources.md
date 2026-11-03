@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 13%
+source-wordcount: '188'
+ht-degree: 11%
 ---
 # 在从不受信任来源导入列表时阻止字段更新 {#block-field-updates-during-list-import-from-untrusted-sources}
 
@@ -34,7 +34,7 @@ ht-degree: 13%
 
 ## 阻止来自不受信任来源的字段更新 {#blocking-field-updates-from-untrusted-sources}
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 

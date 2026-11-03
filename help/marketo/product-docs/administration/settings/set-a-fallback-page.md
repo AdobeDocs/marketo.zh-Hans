@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 72
-ht-degree: 22%
-
+source-wordcount: '73'
+ht-degree: 16%
 ---
-
 # 设置回退页面 {#set-a-fallback-page}
 
 回退页面是登陆页面处于脱机状态或未找到的最后一道防线。 确保您已设置一个。
@@ -29,7 +27,7 @@ ht-degree: 22%
 >
 >**需要管理员权限**
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/set-a-fallback-page-1.png)
 

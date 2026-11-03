@@ -27,13 +27,11 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 152
-ht-degree: 13%
-
+source-wordcount: '153'
+ht-degree: 10%
 ---
-
 # 为代码段启用无草稿模式 {#enable-no-draft-for-snippets}
 
 无草稿代码片段允许您分发代码片段更改，而无需使用它来起草已批准的资源。 所有使用已编辑代码片段的资源都会获取更新并保持其各自的状态：
@@ -48,7 +46,7 @@ ht-degree: 13%
 >
 >**需要管理员权限**
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 

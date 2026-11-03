@@ -21,13 +21,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 458
-ht-degree: 10%
-
+source-wordcount: '462'
+ht-degree: 6%
 ---
-
 # 管理用户角色和权限 {#managing-user-roles-and-permissions}
 
 设置、创建和编辑用户角色，并将其分配给用户。 这样，您就可以控制每个Marketo用户有权访问的区域和功能。
@@ -53,7 +51,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 首次创建[个用户时](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)，可以为用户分配角色。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -77,7 +75,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 有时，贵组织有员工担任非常特定的角色，这些角色需要自定义权限组合。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -101,7 +99,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 如果需要更改与现有角色关联的权限，可以编辑该角色。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -129,7 +127,7 @@ Marketo提供了多个内置角色，具有不同的访问级别：
 
 如果某个角色变得不必要，您可以将其删除。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360360
 description: 在管理员中创建webhook，以调用短信、人员数据等第三方Web服务。
-title: 创建 [!DNL Webhook]
+title: 创建[!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
 TQID: https://experienceleague.adobe.com/O4xw1wSvFeTJ2xqZn4Eo7JbrUBQQmKcl7mvLkduFXGc
@@ -21,18 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 202
-ht-degree: 3%
-
+source-wordcount: '203'
+ht-degree: 1%
 ---
-
 # 创建[!DNL Webhook] {#create-a-webhook}
 
 使用[!DNL Webhooks]利用第三方Web服务发送短信、扩展人员数据等。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-a-webhook-1.png)
 

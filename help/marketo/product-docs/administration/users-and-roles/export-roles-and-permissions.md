@@ -16,13 +16,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 85
-ht-degree: 22%
-
+source-wordcount: '86'
+ht-degree: 17%
 ---
-
 # 导出角色和权限 {#export-roles-and-permissions}
 
 以下步骤说明了如何导出所有角色及其权限。
@@ -31,7 +29,7 @@ ht-degree: 22%
 >
 >**需要管理员权限**
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/export-roles-and-permissions-1.png)
 

@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 27%
+source-wordcount: '97'
+ht-degree: 22%
 ---
 # 在 Marketo 中删除自定义字段 {#delete-a-custom-field-in-marketo}
 
@@ -32,7 +32,7 @@ ht-degree: 27%
 
 如果您不再需要使用某个过去创建的字段，则可能需要删除该字段。 很遗憾，您不能删除Marketo中的字段，但您可以&#x200B;_在用户界面中_&#x200B;隐藏它们。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 

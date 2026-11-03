@@ -21,16 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 14%
+source-wordcount: '192'
+ht-degree: 12%
 ---
 # 在 Marketo 中创建自定义字段 {#create-a-custom-field-in-marketo}
 
 了解如何在Marketo Engage中创建自定义字段以存储和捕获数据。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 

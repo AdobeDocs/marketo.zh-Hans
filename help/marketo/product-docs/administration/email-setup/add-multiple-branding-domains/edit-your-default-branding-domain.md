@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 16%
+source-wordcount: '133'
+ht-degree: 13%
 ---
 # 编辑默认品牌域名 {#edit-your-default-branding-domain}
 
@@ -32,7 +32,7 @@ ht-degree: 16%
 >
 >在Marketo中添加品牌策略域之前，请确保已在DNS[&#128279;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}中设置CNAME。
 
-1. 进入 **[!UICONTROL Admin]** 区域。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
