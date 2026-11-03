@@ -30,7 +30,7 @@ ht-degree: 13%
 
 >[!PREREQUISITES]
 >
->在Marketo中添加品牌策略域之前，请确保已在DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}中[设置CNAME。
+>在Marketo中添加品牌策略域之前，请确保已在DNS[&#128279;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}中设置CNAME。
 
 1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
