@@ -38,7 +38,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->若要了解有关Workspace最佳实践的更多信息，请联系[Marketo专业服务](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}。
+>若要了解有关Workspace最佳实践的更多信息，请联系[Marketo专业服务](https://business.adobe.com/cn/products/marketo/services-support.html){target="_blank"}。
 
 1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL Admin]**。
 
