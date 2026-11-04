@@ -1,14 +1,13 @@
 ---
 description: 与适用于Marketo Engage的CX Enterprise Coworker讨论您的性能数据。 以浅显的语言提问，并在Marketo Engage环境中获得答案。
 title: 表面洞察
-badge: Beta 版
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '536'
 ht-degree: 0%
 ---
 # 表面洞察 {#surface-insights}

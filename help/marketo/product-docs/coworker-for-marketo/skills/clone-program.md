@@ -1,14 +1,13 @@
 ---
 description: 克隆程序会将现有Marketo程序复制到具有新名称的新文件夹中，从而保留其结构，同时允许您自定义新营销活动。
 title: 克隆程序
-badge: Beta 版
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 ---
 # 克隆程序 {#clone-program}
