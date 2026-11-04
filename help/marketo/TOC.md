@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: b1ab5ab541fd79c8c42fbcd018e23baf51337aac
 workflow-type: tm+mt
-source-wordcount: '8944'
+source-wordcount: '8948'
 ht-degree: 96%
 ---
 
@@ -491,8 +491,10 @@ ht-degree: 96%
     + [适用于Marketo Engage的CX Enterprise Coworker数据信息表](product-docs/coworker-for-marketo/data-information.md)
     + 技能 {#skills}
       + [产品知识](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[可调用代理](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[表面分析](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [构建程序](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[计划营销活动](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
       + {hide-from-toc}[克隆程序](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [调查潜在客户](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [导入潜在客户](product-docs/coworker-for-marketo/skills/import-leads.md)
