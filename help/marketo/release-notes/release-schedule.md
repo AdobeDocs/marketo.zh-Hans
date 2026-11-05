@@ -66,17 +66,17 @@ _发布日期/功能可能会有所变更_
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">’26年7月</a></td>
+  <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">’26年7月</a></td>
    <td>2026年7月10日</td>
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">’26年8月</a></td>
+  <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">’26年8月</a></td>
    <td>2026年8月14日</td>
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">’26年9月</a></td>
+  <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">’26年9月</a></td>
    <td>2026年9月25日</td>
    <td>进行中</td>
   </tr>
