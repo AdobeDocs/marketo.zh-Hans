@@ -1,9 +1,9 @@
 ---
 description: 使用适用于Marketo Engage的CX Enterprise Coworker通过调整现有模板来构建Marketo程序。 让智能营销活动、计划和资产占位符准备好进行审查和优化。
 title: 构建程序
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '822'
 ht-degree: 0%
 ---
 # 构建程序 {#build-programs}
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 使用方法 {#how-to-use}
 
-1. 在“我的Marketo”中，单击&#x200B;**CX Enterprise Coworker for Marketo Engage**&#x200B;磁贴。
+1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL CX Enterprise Coworker for Marketo Engage]**&#x200B;磁贴。
 
 1. 选择模板项目。 选择与您的活动类型匹配的现有项目（例如，电子邮件、网络研讨会、Nurture）。
 
