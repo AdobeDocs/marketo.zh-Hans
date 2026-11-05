@@ -4,9 +4,9 @@ title: 适用于Marketo Engage的CX Enterprise Coworker概述
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # 适用于Marketo Engage的CX Enterprise Coworker概述 {#overview}
@@ -37,6 +37,10 @@ CX Enterprise Coworker for Marketo Engage提供了代理技能，这些技能旨
 
 中心控制台具备不断增长的一组座席技能，可帮助您处理各种任务。 每项技能都是专门构建的AI助手，您可以通过自然语言与它交互以完成特定任务。
 
+### 规划活动 {#plan-campaigns}
+
+将营销活动简报转变为Marketo Engage的结构化实施计划。 规划营销活动技能概述了项目结构、受众逻辑、电子邮件、智能营销活动、令牌、报表和预激活检查。 了解有关[计划营销活动技能](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}的更多信息。
+
 ### 构建程序 {#build-programs}
 
 以简单的语言描述营销活动，CX Enterprise Coworker为Marketo Engage构建项目结构，并使用资产占位符和计划安排。 了解有关[构建计划技能](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}的更多信息。
@@ -59,12 +63,8 @@ CX Enterprise Coworker for Marketo Engage提供了代理技能，这些技能旨
 
 ## 即将推出 {#coming-soon}
 
-即将推出用于处理最重复、最耗时的工作的附加代理，例如：
-
-* 诊断潜在客户未执行MQL或没有在整个生命周期中进展的原因。
-* 直接从营销活动简报生成完整的Marketo Engage项目。
-* 等等。
+即将推出用于处理最重复、最耗时的工作的其他技能。
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP服务器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hans){target="_blank"}充当您的AI助手与Marketo Engage之间的桥梁。
+>[Marketo Engage MCP服务器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}充当您的AI助手与Marketo Engage之间的桥梁。

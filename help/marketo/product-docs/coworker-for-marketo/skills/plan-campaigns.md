@@ -1,9 +1,9 @@
 ---
 description: 使用适用于Marketo Engage的CX Enterprise Coworker将营销活动简报转换为包含受众逻辑、电子邮件、令牌和QA检查的结构化项目计划。
 title: 规划活动
-source-git-commit: b47454801d391f4d7a75ebcfce7ac76c2f4b8af4
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '743'
 ht-degree: 0%
 ---
 # 规划活动 {#plan-campaigns}
@@ -12,7 +12,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此技能可生成Marketo Engage项目的实施计划（结构化文档，准确地告知人员或自动化系统如何构建活动）。 它不会在Marketo Engage中创建任何内容。 [构建项目群](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md)有单独的技能。
+>- 此技能可生成Marketo Engage项目的实施计划（结构化文档，准确地告知人员或自动化系统如何构建活动）。 它不会在Marketo Engage中创建任何内容。 [构建项目群](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}有单独的技能。
+>- 此技能受[组织规则](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}指导。
 
 ## 先决条件 {#prerequisites}
 

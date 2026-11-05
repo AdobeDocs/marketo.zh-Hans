@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 15%
+source-wordcount: '471'
+ht-degree: 14%
 ---
 # 发行说明： 2026年11月 {#release-notes-nov-26}
 
@@ -50,8 +50,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>规划营销活动技能</strong>：适用于Marketo Engage的CX Enterprise Coworker现在可以将营销活动简报转换为完整的Marketo Engage项目设置文档。 该文档包括文件夹结构、智能营销活动、电子邮件配置、令牌和QA核对清单。 这有助于团队更快地启动营销活动，并标准化项目设置。 技能可通过Markdown进行配置。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md" target="_blank">规划活动</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -91,8 +91,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 ## 公告 {#announcements}
 
-* **弃用从Web获取图像**：为了符合现代安全和隐私最佳实践，从11月版本起，[从Web获取图像](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能将被弃用。
+* **弃用从Web获取图像**：为了符合现代安全和隐私最佳实践，从11月版本起，[从Web获取图像](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能将被弃用。
 
 * **自定义活动属性的API名称限制**：通过API或UI创建的自定义活动属性的API名称现在只能包含字母数字字符和下划线，并且必须以字母数字字符开头。
 
-* **Get Lead Activities和Get Lead Changes的静态列表大小限制**：从2026年9月30日起，如果目标列表包含10,000个或更多潜在客户，对包含`listId`参数的Get Lead Activities或Get Lead Changes端点的调用开始失败，并显示1003错误代码（指示目标静态列表包含太多记录）。 请参阅[迁移指南](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
+* **Get Lead Activities和Get Lead Changes的静态列表大小限制**：从2026年9月30日起，如果目标列表包含10,000个或更多潜在客户，对包含`listId`参数的Get Lead Activities或Get Lead Changes端点的调用开始失败，并显示1003错误代码（指示目标静态列表包含太多记录）。 请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
