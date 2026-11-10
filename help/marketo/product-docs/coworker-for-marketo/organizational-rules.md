@@ -4,9 +4,9 @@ title: 组织规则
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '870'
 ht-degree: 0%
 ---
 # 组织规则 {#organizational-rules}
@@ -35,6 +35,10 @@ ht-degree: 0%
 | 验证程序 | 规则定义了在激活之前验证程序时，CX Enterprise Coworker for Marketo Engage会检查哪些内容。 |
 
 ## 如何访问和自定义组织规则 {#how-to-access-and-customize-organizational-rules}
+
+>[!NOTE]
+>
+>**需要管理员权限**
 
 1. 在“我的Marketo”中，单击&#x200B;**CX Enterprise Coworker for Marketo Engage**&#x200B;磁贴。
 1. 单击齿轮图标。
