@@ -4,10 +4,10 @@ title: 设置和设置
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 1%
+source-wordcount: '584'
+ht-degree: 2%
 ---
 # 设置和设置 {#settings-setup}
 
@@ -37,6 +37,10 @@ ht-degree: 1%
 ### 访问Marketo Engage的同事权限 {#access-coworker-marketo-permission}
 
 按照以下步骤启用&#x200B;_Access Co-worker for Marketo Engage_，以授予尚未启用它的角色资格。
+
+>[!NOTE]
+>
+>**需要管理员权限**
 
 1. 在“我的Marketo”中，单击&#x200B;**管理员**，然后单击&#x200B;**用户和角色**。
 
@@ -76,7 +80,7 @@ ht-degree: 1%
 
 ### 自定义角色 {#custom-role}
 
-您还可以选择[创建新角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_Access Co-worker for Marketo Engage_&#x200B;以及您需要的任何其他内容，并将[将该角色](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
+您还可以选择[创建新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}并自定义其权限，添加&#x200B;_Access Co-worker for Marketo Engage_&#x200B;以及您需要的任何其他内容，并将[将该角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}分配给特定用户。
 
 ## 设置 {#settings}
 
