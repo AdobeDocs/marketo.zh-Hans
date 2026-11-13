@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 62%
 ---
 # 发行计划 {#release-schedule}
@@ -78,12 +78,12 @@ _发布日期/功能可能会有所变更_
   <tr>
   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">’26年9月</a></td>
    <td>2026年9月25日</td>
-   <td>进行中</td>
+   <td>已完成</td>
   </tr>
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">’26年11月</a></td>
    <td>2026年11月6</td>
-   <td>按计划进行</td>
+   <td>进行中</td>
   </tr>
   <tr>
   <td>’27年1月</td>
