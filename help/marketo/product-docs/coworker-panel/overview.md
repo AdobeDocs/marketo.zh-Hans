@@ -5,9 +5,9 @@ badge: beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: e33fb9e112e42d714f81b82fa46cc393e5877c79
+source-git-commit: 94ccd99bcc01dfa2d3df002853cb1396baf45de9
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '611'
 ht-degree: 1%
 ---
 # Marketo Engage中的CX Enterprise Coworker面板 {#coworker-panel-overview}
@@ -42,7 +42,7 @@ ht-degree: 1%
 
 1. 在使用之前查看生成的响应和任何建议的更改。
 
-## 您现有的CX Enterprise Coworker体验 {#your-existing-cx-enterprise-coworker-experience}
+## 您现有的适用于Marketo Engage的CX Enterprise Coworker体验 {#existing-experience}
 
 您现有的历史记录和功能在Co-worker for Marketo Engage中仍然可用。 它们不会出现在嵌入的Beta版中，继续访问当前体验并不意味着这两种体验具有同等功能。
 
