@@ -5,9 +5,9 @@ badge: beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 94ccd99bcc01dfa2d3df002853cb1396baf45de9
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '613'
 ht-degree: 1%
 ---
 # Marketo Engage中的CX Enterprise Coworker面板 {#coworker-panel-overview}
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 | 面积 | 详细信息 |
 | --- | --- |
-| 访问 | 从Marketo Engage中打开嵌入式测试版。 现有的CX Enterprise Coworker for Marketo Engage体验仍可通过其[当前访问点](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)使用。 |
+| 访问 | 从Marketo Engage中打开嵌入式的Co-worker测试版体验。 现有的CX Enterprise Coworker for Marketo Engage体验仍可通过其[当前访问点](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)使用。 |
 | 现有对话 | 您现有的对话历史记录仍可在当前的CX Enterprise Coworker中用于Marketo Engage体验。 启用Beta版不会移除该历史记录。 |
 | 历史记录和上下文 | 测试版和现有体验具有单独的对话历史记录和上下文。 其中一个对话在另一个对话中不可用。 |
 | 现有功能 | 在当前体验中仍然可用。 |
