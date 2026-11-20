@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '543'
+ht-degree: 11%
 ---
 # 发行说明： 2026年11月 {#release-notes-nov-26}
 
@@ -70,8 +70,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>克隆到此程序/文件夹</strong>：现在，跨Marketo Engage的克隆操作始终提供“此文件夹”或“此程序”选项作为选择克隆资源的目标时的首选选项。 选择此选项可将资源克隆到当前资源的父程序或文件夹。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td>不适用</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   <tr>
    <tr>
    <td><strong>有关CRM同步的即时警报</strong>：启用或禁用环境的本机CRM同步现在会向订阅CRM通知渠道的用户触发通知。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td>不适用</td>
   </tr>
   </tr>
   </tbody>
@@ -93,8 +93,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **弃用经典UI**： Marketo Engage界面现在具有更新的外观，包括更新的菜单、图标和布局，以实现更清晰、更现代的体验。 它仅是可视化更新；不会更改现有功能或工作流。 目前，您可以使用下拉菜单在Classic界面和刷新界面之间切换，但Classic界面将在2027年1月底发布前停用（确切日期待定）。
 
-* **弃用从Web获取图像**：为了符合现代安全和隐私最佳实践，从11月版本起，[从Web获取图像](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能将被弃用。
+* **弃用从Web获取图像**：为了符合现代安全和隐私最佳实践，从11月版本起，[从Web获取图像](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能将被弃用。
 
 * **自定义活动属性的API名称限制**：通过API或UI创建的自定义活动属性的API名称现在只能包含字母数字字符和下划线，并且必须以字母数字字符开头。
 
-* **Get Lead Activities和Get Lead Changes的静态列表大小限制**：从2026年9月30日起，如果目标列表包含10,000个或更多潜在客户，对包含`listId`参数的Get Lead Activities或Get Lead Changes端点的调用开始失败，并显示1003错误代码（指示目标静态列表包含太多记录）。 请参阅[迁移指南](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
+* **Get Lead Activities和Get Lead Changes的静态列表大小限制**：从2026年9月30日起，如果目标列表包含10,000个或更多潜在客户，对包含`listId`参数的Get Lead Activities或Get Lead Changes端点的调用开始失败，并显示1003错误代码（指示目标静态列表包含太多记录）。 请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。

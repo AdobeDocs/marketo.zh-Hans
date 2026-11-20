@@ -4,7 +4,7 @@ title: 可调用代理
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
+source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
 workflow-type: tm+mt
 source-wordcount: '1930'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->需要&#x200B;**管理员**&#x200B;权限。
+>**需要管理员权限。**
 
 ## 开始之前 {#before-you-begin}
 
@@ -98,7 +98,7 @@ ht-degree: 1%
 
 ### 另存为草稿或发布 {#save-as-a-draft-or-publish}
 
-Select **[!UICONTROL Save]**&#x200B;以将代理另存为草稿。 草稿可以编辑，但不能作为Smart Campaign流量步骤使用。 在代理准备就绪后，执行Select **[!UICONTROL Save and publish]**。 Marketo Engage将代理作为流程步骤提供，并在确认发布后返回到代理列表。 Select **[!UICONTROL Cancel]**&#x200B;离开而不保存。
+选择&#x200B;**[!UICONTROL Save]**&#x200B;将代理另存为草稿。 草稿可以编辑，但不能作为Smart Campaign流量步骤使用。 在代理准备就绪后，选择&#x200B;**[!UICONTROL Save and publish]**。 Marketo Engage将代理作为流程步骤提供，并在确认发布后返回到代理列表。 选择要离开而不保存的&#x200B;**[!UICONTROL Cancel]**。
 
 | 状态 | 含义 | 可用操作 |
 | --- | --- | --- |
@@ -108,7 +108,7 @@ Select **[!UICONTROL Save]**&#x200B;以将代理另存为草稿。 草稿可以�
 
 ### 编辑、检查使用情况或删除 {#edit-check-usage-or-delete}
 
-- 草稿上的Select **[!UICONTROL Edit]**&#x200B;以进行更改。 **[!UICONTROL Save]**&#x200B;让您在页面上停留并显示“代理已保存”确认。 您还可以选择&#x200B;**[!UICONTROL Save and publish]**、**[!UICONTROL Cancel]**&#x200B;或&#x200B;**[!UICONTROL Delete]**。
+- 选择草稿上的&#x200B;**[!UICONTROL Edit]**&#x200B;以更改草稿。 **[!UICONTROL Save]**&#x200B;让您在页面上停留并显示“代理已保存”确认。 您还可以选择&#x200B;**[!UICONTROL Save and publish]**、**[!UICONTROL Cancel]**&#x200B;或&#x200B;**[!UICONTROL Delete]**。
 - 已发布的代理会被冻结，因为Smart Campaigns可能依赖于它们。 创建新代理以进行更改。
 - 在删除代理或更改其活动设置之前，请查看&#x200B;**[!UICONTROL Used by]**&#x200B;以查看哪些智能营销活动引用代理。
 - 当Smart Campaign仍在使用代理时，您无法删除该代理。 从每个列出的活动中删除代理的流程步骤，然后删除代理。
