@@ -91,7 +91,7 @@ Marketo Engage将此决策单独应用于电子邮件打开和电子邮件点击
 
 | 方法 | 注释 |
 |---|---|
-| [更改数据值流程步骤](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | 当人员符合您的条件时（例如，在表单上提交同意复选框），可使用Smart Campaign设置字段。 |
+| [更改数据值流程步骤](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | 当人员符合您的条件时（例如，在表单上提交同意复选框），可使用Smart Campaign设置字段。 |
 | 表单 | 将Marketo Engage表单上的复选框或隐藏字段映射到人员字段。 |
 | 列表导入 | 将字段作为列包含在导入文件中。 |
 | REST API | 使用API字段名称`overrideOpenTrackingDefault`和`overrideClickTrackingDefault`。 |
@@ -115,7 +115,7 @@ Marketo Engage将此决策单独应用于电子邮件打开和电子邮件点击
 | 触发电子邮件，例如从触发智能营销活动发送的电子邮件 | 是 |
 | 包含A/B测试或冠军/挑战者变体的电子邮件 | 可以。 系统会为每个人单独决定跟踪，而不管他们收到的变体是什么。 |
 | 以网页形式查看 | 可以。 Web版本遵循人员的当前设置。 显示更改最多可能需要一小时。 |
-| [操作电子邮件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | 不会。 它们遵循正常的跟踪行为。 |
+| [操作电子邮件](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | 不会。 它们遵循正常的跟踪行为。 |
 | 示例（测试）电子邮件 | 不会。 它们遵循正常的跟踪行为。 |
 | 电子邮件预览 | 没有变化。 不跟踪预览。 |
 | 警报电子邮件 | 没有变化。 不会跟踪警报。 |
@@ -125,7 +125,7 @@ Marketo Engage将此决策单独应用于电子邮件打开和电子邮件点击
 
 Marketo Engage在准备发送电子邮件时读取人员的覆盖值。
 
-- **计划或延迟的投放：**&#x200B;如果现在准备电子邮件并于稍后投放（例如，使用[开始时间](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}或[收件人时区](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}），则准备时的值适用。 准备后所做的更改不会更改该电子邮件。
+- **计划或延迟的投放：**&#x200B;如果现在准备电子邮件并于稍后投放（例如，使用[开始时间](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}或[收件人时区](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}），则准备时的值适用。 准备后所做的更改不会更改该电子邮件。
 - **已送达的电子邮件：**&#x200B;更改人员的覆盖不会更改他们已收到的电子邮件。 如果之前发送的电子邮件中的链接是经过准备并启用了跟踪，则仍可以跟踪这些链接的点击量。
 - **未来电子邮件：**&#x200B;更改适用于Marketo Engage在更改后准备的电子邮件。
 
