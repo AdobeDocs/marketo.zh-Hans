@@ -1,0 +1,181 @@
+---
+description: 了解人员级别的电子邮件跟踪覆盖如何让您控制每个人的电子邮件打开和点击跟踪，以支持同意和隐私要求。
+title: 人员级别的电子邮件跟踪
+feature: Email Setup
+TQID: 'https://experienceleague.adobe.com/kF-5V-G6-xr3uV-NQBTmFNfhQnk-r-RYt-v0HvJ-4Go'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: a913c84b1c4f8927c951af685884edfc792ff213
+workflow-type: tm+mt
+source-wordcount: '1593'
+ht-degree: 2%
+---
+# 人员级别的电子邮件跟踪 {#email-tracking-at-person-level}
+
+人员级别的电子邮件跟踪覆盖允许您在Marketo环境级别应用默认值，然后更改各个人员的默认值。 打开跟踪和点击跟踪是独立控制的。
+
+当您的隐私要求或组织政策要求在跟踪电子邮件参与之前获得同意时，请使用此功能。
+
+>[!IMPORTANT]
+>
+>此功能提供的控制有助于支持您的合规性义务；它不会确定适用哪些法律或哪些人需要提供同意。 与您的法律和隐私团队合作，决定如何配置跟踪以及如何收集并保留同意。
+
+## 跟踪决策的工作原理 {#how-tracking-decisions-work}
+
+三个设置可协同工作：
+
+| 设置 | 色阶 | 这有什么作用 |
+|---|---|---|
+| **个人级别的电子邮件跟踪覆盖** | 环境 | 打开或关闭该功能。 关闭时，Marketo Engage会忽略环境默认值和人员覆盖字段，并使用正常的跟踪行为。 |
+| **默认情况下禁用电子邮件跟踪** | 环境 | 设置打开和点击跟踪的默认值。 禁用后，默认情况下会启用跟踪。 启用后，默认情况下将关闭跟踪。 |
+| **覆盖打开跟踪默认值**&#x200B;和&#x200B;**覆盖点击跟踪默认值** | 人员 | 布尔人员字段。 `true`的值与该跟踪类型的环境默认值相反。 `false`值或空值遵循环境默认值。 |
+
+覆盖字段本身不表示“选择启用”或“选择禁用”。 **`true`始终表示“环境默认值相反”。**
+
+### 跟踪决策表 {#tracking-decision-table}
+
+Marketo Engage将此决策单独应用于电子邮件打开和电子邮件点击。
+
+| 功能 | 环境默认值 | 人员覆盖为`false`或为空 | 人员覆盖为`true` |
+|---|---|---|---|
+| 开启 | 默认跟踪 | 已跟踪 | 未跟踪 |
+| 开启 | 默认跟踪 | 未跟踪 | 已跟踪 |
+| 关闭 | 不适用 | 常规跟踪；忽略覆盖和默认值 | 常规跟踪；忽略覆盖和默认值 |
+
+### 示例 {#example}
+
+假定功能为on ，环境默认为tracking on。 人员的&#x200B;**覆盖打开跟踪默认值**&#x200B;设置为`true`，而&#x200B;**覆盖点击跟踪默认值**&#x200B;为空。 Marketo Engage不会跟踪该人员的电子邮件打开次数，但会继续跟踪其电子邮件点击次数。
+
+## 选择跟踪模型 {#choose-a-tracking-model}
+
+在启用该功能或填充人员字段之前，请选择符合您的同意和隐私要求的模型。
+
+| 模型 | 环境默认值 | 在以下情况下将覆盖设置为`true`： | 典型使用 |
+|---|---|---|---|
+| 选择退订 | 默认跟踪 | 要跟踪的人员对象 | 跟踪大多数人，但停止跟踪提出异议的人。 |
+| 选择加入（同意） | 默认跟踪 | 同意跟踪的人员 | 跟踪之前需要征得同意，包括适用的CNIL或Garante指南所涵盖的收件人。 |
+
+>[!CAUTION]
+>
+>在填充覆盖字段之前选择您的模型，并避免以后更改环境默认值。 由于`true`表示“与默认值相反”，因此更改默认值将反转每个现有覆盖值的影响。 例如，在默认情况下从打开跟踪切换到关闭跟踪，可能会导致以前反对跟踪的人被跟踪。 如果必须更改默认值，请在更改生效之前更新所有受影响人员的覆盖值。
+
+## 启用该功能 {#enable-the-feature}
+
+默认情况下，人员级别的电子邮件跟踪覆盖处于关闭状态。 要启用此功能，请联系Adobe客户支持。 您还可以指定您希望该功能的默认状态是&#x200B;**已启用**&#x200B;还是&#x200B;**已禁用**（对于您的Marketo环境）。
+
+>[!NOTE]
+>
+>您必须是Marketo管理员才能提交此请求。
+
+>[!TIP]
+>
+>在请求Adobe启用该功能之前，请填充现有人员的覆盖字段。 这有助于确保在启用后准备的第一封电子邮件中应用预期的跟踪行为。
+
+## 设置人员的覆盖值 {#set-override-values-for-people}
+
+覆盖字段是布尔人员字段。 使用适合您的工作流程的方法设置它们：
+
+| 方法 | 注释 |
+|---|---|
+| [更改数据值流程步骤](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | 当人员符合您的条件时（例如，在表单上提交同意复选框），可使用Smart Campaign设置字段。 |
+| 表单 | 将Marketo Engage表单上的复选框或隐藏字段映射到人员字段。 |
+| 列表导入 | 将字段作为列包含在导入文件中。 |
+| REST API | 使用API字段名称`overrideOpenTrackingDefault`和`overrideClickTrackingDefault`。 |
+
+根据人员同意设置每个字段。 如果您的同意语言将打开和点击分开处理，请单独配置每个字段。
+
+## 电子邮件中的更改内容 {#what-changes-in-the-email}
+
+当Marketo Engage不跟踪人员时，它会更改发送给该人员的电子邮件内容。
+
+| 跟踪已关闭 | 更改内容 | 仍然有效的功能 |
+|---|---|---|
+| 打开 | 电子邮件不包含开放跟踪像素。 未记录任何&#x200B;**打开电子邮件**&#x200B;活动。 | 其他电子邮件功能，包括点击跟踪（如果保持启用状态）。 |
+| 点击次数 | 链接可直接转到其目标，而无需通过Marketo Engage跟踪域。 未添加隐藏的跟踪链接。 未录制&#x200B;**点击电子邮件**&#x200B;活动。 | 取消订阅链接、电子邮件页脚选择退出链接、`list-unsubscribe`以及&#x200B;**以网页形式查看**&#x200B;链接继续有效。 使用这些链接不会录制&#x200B;**单击电子邮件**&#x200B;活动。 |
+
+## 哪些电子邮件受影响 {#which-emails-are-affected}
+
+| 电子邮件类型 | 是否应用了覆盖？ |
+|---|---|
+| 批量电子邮件，例如从批量Smart Campaign或电子邮件程序发送的电子邮件 | 是 |
+| 触发电子邮件，例如从触发智能营销活动发送的电子邮件 | 是 |
+| 包含A/B测试或冠军/挑战者变体的电子邮件 | 可以。 系统会为每个人单独决定跟踪，而不管他们收到的变体是什么。 |
+| 以网页形式查看 | 可以。 Web版本遵循人员的当前设置。 显示更改最多可能需要一小时。 |
+| [操作电子邮件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | 不会。 它们遵循正常的跟踪行为。 |
+| 示例（测试）电子邮件 | 不会。 它们遵循正常的跟踪行为。 |
+| 电子邮件预览 | 没有变化。 不跟踪预览。 |
+| 警报电子邮件 | 没有变化。 不会跟踪警报。 |
+| 短信消息 | 不会。 此功能仅适用于电子邮件。 |
+
+## Marketo Engage做出跟踪决策时 {#when-marketo-engage-makes-the-tracking-decision}
+
+Marketo Engage在准备发送电子邮件时读取人员的覆盖值。
+
+- **计划或延迟的投放：**&#x200B;如果现在准备电子邮件并于稍后投放（例如，使用[开始时间](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}或[收件人时区](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}），则准备时的值适用。 准备后所做的更改不会更改该电子邮件。
+- **已送达的电子邮件：**&#x200B;更改人员的覆盖不会更改他们已收到的电子邮件。 如果之前发送的电子邮件中的链接是经过准备并启用了跟踪，则仍可以跟踪这些链接的点击量。
+- **未来电子邮件：**&#x200B;更改适用于Marketo Engage在更改后准备的电子邮件。
+
+如果人员撤回同意，请尽快更新其覆盖值，以便更改适用于为他们准备的下一封电子邮件。
+
+## 对报表、智能列表和评分的影响 {#impact-on-reporting-smart-lists-and-scoring}
+
+当Marketo Engage不跟踪人员时，它不会记录&#x200B;**打开电子邮件**&#x200B;或&#x200B;**单击电子邮件**&#x200B;活动。 因此：
+
+- **智能列表/营销活动：**&#x200B;过滤器和触发器（如&#x200B;**打开的电子邮件**&#x200B;和电子邮件中的&#x200B;**点击链接**）与相应的活动不匹配或未跟踪该活动时触发该用户。
+- **报告和仪表板：**&#x200B;电子邮件打开率、点击率和链接性能仅反映跟踪的人员。 参与量度可能会随着未跟踪的人数增加而减少。
+- **评分和项目群成功：**&#x200B;基于打开数或点击数的规则和项目群成功步骤不适用于其活动未被跟踪的人员。 查看这些规则，以免不公平地给用户评分或晋升。
+- **Web活动关联：**&#x200B;点击跟踪关闭时，电子邮件链接不包含Marketo Engage跟踪令牌。 如果Munchkin不知道该人员，则不会通过该链接将该电子邮件的网站访问与该人员相关联。
+
+>[!NOTE]
+>
+>已发送、已投放、已退回和已取消订阅的活动不受影响。
+
+## 如何与其他跟踪设置一起使用 {#how-this-works-with-other-tracking-settings}
+
+人员级别的电子邮件跟踪覆盖可以关闭人员的跟踪。 当其他设置已禁用跟踪时，它不会打开跟踪。 例如，使用`mktNoTrack`类标记的链接将保持取消跟踪状态，即使此人的设置允许点击跟踪也是如此。
+
+## 禁用该功能 {#disable-the-feature}
+
+要禁用人员级别电子邮件跟踪覆盖，请联系Adobe客户支持。
+
+>[!NOTE]
+>
+>您必须是Marketo管理员才能提交此请求。
+
+禁用后，在更改后准备的电子邮件将恢复正常跟踪行为。 覆盖值仍保留在人员记录上，但将被忽略。 如果稍后再次启用该功能，则存储的值将再次应用。
+
+## 常见问题 {#frequently-asked-questions}
+
+### 我是否可以跟踪打开次数，但不跟踪人员的点击次数，或反之？ {#can-i-track-opens-but-not-clicks-for-a-person-or-the-reverse}
+
+可以。 打开和点击跟踪是独立决定的。 仅设置要更改的跟踪类型的覆盖字段。
+
+### 此功能是否阻止我向某人发送电子邮件？ {#does-this-feature-stop-me-from-sending-emails-to-a-person}
+
+不会。 它仅控制跟踪。 要停止向个人发送营销电子邮件，请使用现有的取消订阅和同意功能。
+
+### 未跟踪的用户是否仍会看到有效的取消订阅链接？ {#do-people-who-are-not-tracked-still-see-working-unsubscribe-links}
+
+可以。 取消订阅链接和&#x200B;**以网页形式查看**&#x200B;链接继续适用于所有人员。
+
+### 为什么选择退出的人员仍具有点击电子邮件活动？ {#why-does-a-person-who-opted-out-still-have-a-click-email-activity}
+
+他们可能单击了在覆盖值更改之前准备的电子邮件中的链接。 更改适用于更改后准备的电子邮件。
+
+### 是否需要更改我的电子邮件模板？ {#do-i-need-to-change-my-email-templates}
+
+不会。 Marketo Engage在构建每个电子邮件时会应用跟踪决策。 您无需更改模板或电子邮件。
