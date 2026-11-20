@@ -4,9 +4,9 @@ title: 可调用代理
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1950'
+source-wordcount: '1930'
 ht-degree: 1%
 ---
 # 可调用代理 {#callable-agents}
@@ -26,17 +26,35 @@ ht-degree: 1%
 
 1. 在“我的Marketo”中，单击&#x200B;**[!UICONTROL CX Enterprise Coworker for Marketo Engage]**&#x200B;磁贴。
 
-1. 在左侧导航中选择&#x200B;**[!UICONTROL Callable agents]**。 该列表显示每个座席的名称、创建日期、创建者和状态。 按名称搜索或按名称或创建日期排序。
+   ![](assets/callable-agents-1.png)
 
-1. 选择 **[!UICONTROL Create callable agent]**。 选择一个模板，或将模板选择器保留为空将从头开始。
+1. 在右上角，选择&#x200B;**[!UICONTROL Agents]**。
 
-1. 输入&#x200B;**[!UICONTROL Agent name]**&#x200B;并写入&#x200B;**[!UICONTROL Agent instructions]**，说明如何处理每个潜在客户。
+   ![](assets/callable-agents-2.png)
 
-1. 在&#x200B;**[!UICONTROL Lead fields to send]**&#x200B;下，添加代理所需的潜在客户字段作为输入。 在&#x200B;**[!UICONTROL Lead fields to update]**&#x200B;下，添加代理应返回的每个值，并将其映射到可更新的潜在客户字段。
+1. 选择 **[!UICONTROL Create callable agent]**。
 
-1. 选择&#x200B;**[!UICONTROL Save]**&#x200B;以保存草稿，或选择&#x200B;**[!UICONTROL Save and publish]**&#x200B;以使代理在Marketo Engage中可用。
+   ![](assets/callable-agents-3.png)
 
-1. 打开Smart Campaign并选择&#x200B;**[!UICONTROL Flow]**&#x200B;选项卡。 在流程步骤列表的“营销”部分中，找到&#x200B;**呼叫代理： _[代理名称]_**，并将其拖动到流程中。
+1. 若要使用模板，请单击&#x200B;**从模板开始**&#x200B;并选择一个。
+
+   >[!NOTE]
+   >
+   >有关可调用代理模板的更多详细信息，请参阅[从模板开始](#start-from-a-template)。
+
+1. 要构建您自己的潜在客户，请输入&#x200B;**[!UICONTROL Agent name]**&#x200B;并写入&#x200B;**[!UICONTROL Agent instructions]**&#x200B;以描述如何处理每个潜在客户。
+
+1. 在&#x200B;**[!UICONTROL Lead fields to send]**&#x200B;下，添加代理所需的潜在客户字段作为输入。 在&#x200B;**[!UICONTROL Lead fields to update]**&#x200B;下，添加代理应返回的每个值，并将其映射到可更新的潜在客户字段。 完成后，单击 **[!UICONTROL Create]**。
+
+   ![](assets/callable-agents-4.png)
+
+1. 打开Smart Campaign并选择&#x200B;**[!UICONTROL Flow]**&#x200B;选项卡。
+
+   ![](assets/callable-agents-5.png)
+
+1. 在流操作搜索中输入“可调用”。 找到所需的代理，并将其拖动到画布上。
+
+   ![](assets/callable-agents-6.png)
 
 1. 使用一小部分潜在客户测试营销活动。 查看活动日志，确认输出字段会按预期更新，然后再为所有潜在客户激活营销活动。
 
