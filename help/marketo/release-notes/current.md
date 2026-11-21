@@ -26,9 +26,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '542'
 ht-degree: 11%
 ---
 # 发行说明： 2026年11月 {#release-notes-nov-26}
@@ -60,8 +60,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>可调用代理</strong>：创建作为智能营销活动中的流程步骤运行的AI代理，并根据您以纯语言编写的说明对潜在客户记录执行操作。 例如，代理可以标准化潜在客户的数据或标记可能的机器人，然后将结果写回潜在客户上的字段。 这可以在无需自定义代码的情况下将基于判断的销售线索处理纳入营销活动。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">可调用代理</a></td>
   </tr>
   <tr>
    <td> </td>
