@@ -26,9 +26,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '542'
 ht-degree: 11%
 ---
 # 发行说明： 2026年11月 {#release-notes-nov-26}
@@ -60,8 +60,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
   </tr>
   <tr>
    <td><strong>可调用代理</strong>：创建作为智能营销活动中的流程步骤运行的AI代理，并根据您以纯语言编写的说明对潜在客户记录执行操作。 例如，代理可以标准化潜在客户的数据或标记可能的机器人，然后将结果写回潜在客户上的字段。 这可以在无需自定义代码的情况下将基于判断的销售线索处理纳入营销活动。</td>
-   <td><i>即将推出</i></td>
-   <td><i>即将推出</i></td>
+   <td>已发布</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">可调用代理</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -93,8 +93,8 @@ Adobe Dynamic Chat 的专用发行说明[可在此处查看](/help/marketo/relea
 
 * **弃用经典UI**： Marketo Engage界面现在具有更新的外观，包括更新的菜单、图标和布局，以实现更清晰、更现代的体验。 它仅是可视化更新；不会更改现有功能或工作流。 目前，您可以使用下拉菜单在Classic界面和刷新界面之间切换，但Classic界面将在2027年1月底发布前停用（确切日期待定）。
 
-* **弃用从Web获取图像**：为了符合现代安全和隐私最佳实践，从11月版本起，[从Web获取图像](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能将被弃用。
+* **弃用从Web获取图像**：为了符合现代安全和隐私最佳实践，从11月版本起，[从Web获取图像](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能将被弃用。
 
 * **自定义活动属性的API名称限制**：通过API或UI创建的自定义活动属性的API名称现在只能包含字母数字字符和下划线，并且必须以字母数字字符开头。
 
-* **Get Lead Activities和Get Lead Changes的静态列表大小限制**：从2026年9月30日起，如果目标列表包含10,000个或更多潜在客户，对包含`listId`参数的Get Lead Activities或Get Lead Changes端点的调用开始失败，并显示1003错误代码（指示目标静态列表包含太多记录）。 请参阅[迁移指南](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
+* **Get Lead Activities和Get Lead Changes的静态列表大小限制**：从2026年9月30日起，如果目标列表包含10,000个或更多潜在客户，对包含`listId`参数的Get Lead Activities或Get Lead Changes端点的调用开始失败，并显示1003错误代码（指示目标静态列表包含太多记录）。 请参阅[迁移指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}以获取更多信息。
