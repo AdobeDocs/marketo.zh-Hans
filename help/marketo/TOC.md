@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
+source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8953'
 ht-degree: 96%
 ---
 
@@ -83,7 +83,6 @@ ht-degree: 96%
       + [为门户添加单点登录](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [将 Webex 添加为 LaunchPoint 服务](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [将 Zoom 添加为 LaunchPoint 服务](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-      + {hide-from-toc}[配置您的SOAP API设置](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
       + [将 BrightTALK 连接到 Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
       + [创建用于 ReST API 的自定义服务](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
       + [创建 Webhook](product-docs/administration/additional-integrations/create-a-webhook.md)
@@ -500,7 +499,7 @@ ht-degree: 96%
       + [调查潜在客户](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [导入潜在客户](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [验证程序](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CX Enterprise Coworker面板 {#coworker-panel}
     + {hide-from-toc}[概述](product-docs/coworker-panel/overview.md)
   + CRM 同步 {#crm-sync}
