@@ -4,7 +4,7 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 产品文档
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
 source-wordcount: '8953'
 ht-degree: 96%
@@ -111,7 +111,7 @@ ht-degree: 96%
       + [启用通信限制](product-docs/administration/email-setup/enable-communication-limits.md)
       + [为智能营销活动启用人员限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [营销活动级别的电子邮件打开跟踪](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
-      + {hide-from-toc}[个人级别的电子邮件跟踪](product-docs/administration/email-setup/email-tracking-at-person-level.md)
+      + [人员级别的电子邮件跟踪](product-docs/administration/email-setup/email-tracking-at-person-level.md)
       + [过滤电子邮件机器人活动](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [移除取消订阅文本](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + 字段管理 {#field-management}
@@ -499,7 +499,7 @@ ht-degree: 96%
       + [调查潜在客户](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [导入潜在客户](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [验证程序](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CX Enterprise Coworker面板 {#coworker-panel}
     + {hide-from-toc}[概述](product-docs/coworker-panel/overview.md)
   + CRM 同步 {#crm-sync}
@@ -1408,7 +1408,7 @@ ht-degree: 96%
         + 使用撰写窗口 {#using-the-compose-window}
           + [向电子邮件添加附件或可跟踪内容](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
           + [批量发送电子邮件选项](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
-          + {hide-from-toc}[使用Select和Send编写批量电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+          + {hide-from-toc}[使用Select撰写批量电子邮件并发送](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
           + [通过群组电子邮件发送电子邮件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
           + [在撰写窗口中使用模板](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + 电子邮件集成 {#email-integrations}
